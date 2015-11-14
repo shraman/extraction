@@ -1,0 +1,806 @@
+RESEARCH
+A randomized controlled
+b
+s1
+ica
+rt
+ed
+se
+s d
+ts
+tly
+mon immunosuppression protocol for cardiac transplant- greatly. At present, there is no general consensus on
+TRANSPLANTATION 
+RESEARCH
+Mullen et al. Transplantation Research 2014, 3:14
+http://www.transplantationresearch.com/content/3/1/14sequences through genetic engineering. It therefore does
+not induce a clinically relevant response by the host
+2Division of Cardiac Surgery, University of Alberta Hospital, 2D2.18 WMC,
+8440 112 Street, Edmonton, AB T6G 2B7, Canadaation includes cyclosporine, mycophenolate mofetil, and
+corticosteroids (triple therapy). An alternative to standard
+triple therapy at the time of cardiac transplantation has
+been the use of augmented immunosuppression, com-
+monly termed ‘induction therapy’. Induction agents
+consist of antibodies that exhibit protective effects
+the best method of induction. This fact has prompted
+the development of new immunosuppressive agents
+designed to reduce the incidence of acute rejection.
+Daclizumab (DZM) is a novel compound for use as a
+component of induction therapy. This agent is a murine
+monoclonal antibody, directed at the alpha subunit of
+the interleukin-2 receptor (IL-2R) expressed on activated
+T-lymphocytes [4]. Ninety percent of the murine protein
+structures have been replaced with human amino acid
+* Correspondence: jmullen@ualberta.ca
+1Division of Cardiac Surgery, University of Alberta Hospital, Edmonton, AB,
+Canadain the first year after cardiac transplantation [1,2]. A com-differences in the incidence of rejection, infection, malignancy, or steroid-induced diabetes. One year survival was
+excellent in both groups (87%, P = 0.1). Daclizumab is a safe component of induction therapy in heart transplantation.
+Keywords: Heart transplantation, Induction therapy, Immunosuppression, Daclizumab, Anti-thymocyte globulin
+Background
+Cardiac transplantation remains a definitive treatment
+option for patients with end-stage heart disease. Survival
+rates have improved dramatically. Nonetheless, progress
+in immunosuppression has been slower, partly because
+the heart is a fundamental organ and acute allograft rejec-
+tion can include hemodynamic compromise, irreversible
+graft injury, and death. Furthermore, the immunosuppres-
+sive therapy used to prevent rejection increases the risk of
+infection, which continues to be a leading cause of death
+from allograft rejection; they are administered during
+the immediate postoperative period when the risk of
+rejection is highest due to a high donor leukocyte load
+[3]. Data from the International Society of Heart and
+Lung Transplant (ISHLT) show that 47% of adult heart
+transplant patients in the first 6 months of 2012
+received some type of induction therapy [1]. Either a
+polyclonal anti-lymphocyte/anti-thymocyte globulin or
+an interleukin-2 (IL-2) receptor antagonist was utilized
+in most protocols; however, the type of product used,
+its dosage, and the duration of administration variedversus anti-thymocyte glo
+transplantation
+John C Mullen1,2*, Emily J Kuurstra1, Antigone Oreopoulo
+Abstract
+Background: The purpose of this study was to test the eff
+globulin (ATG) as a component of induction therapy in hea
+Methods: Thirty heart transplant patients were randomiz
+therapy. Patients in the DZM group received an initial do
+and 1 mg/kg IV on postoperative day 4.
+Discussion: Recipient, donor, and intraoperative variable
+induction therapy, total drug cost, and hospital ward cos
+absolute lymphocyte and platelet counts were significan© 2014 Mullen et al.; licensee BioMed Central
+Commons Attribution License (http://creativec
+reproduction in any medium, provided the or
+Dedication waiver (http://creativecommons.or
+unless otherwise stated.Open Access
+trial of daclizumab
+ulin induction for heart
+, Michael J Bentley1 and Shaohua Wang1
+cy and safety of daclizumab (DZM) versus anti-thymocyte
+transplant recipients.
+to receive either ATG or DZM during induction
+of 2 mg/kg intravenous (IV) at the time of transplant
+id not differ significantly between groups. The cost of
+were significantly less for the DZM group. Average
+higher in the DZM group. There were no significantLtd. This is an Open Access article distributed under the terms of the Creative
+ommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+iginal work is properly credited. The Creative Commons Public Domain
+g/publicdomain/zero/1.0/) applies to the data made available in this article,
+Mullen et al. Transplantation Research 2014, 3:14 Page 2 of 9
+http://www.transplantationresearch.com/content/3/1/14immune system. DZM was approved by Health Canada
+and the Federal Drug Administration (FDA) for prophy-
+lactic use of acute organ rejection in patients receiving
+renal transplants. Our induction therapy included T-
+lymphocyte inactivation through the administration of
+polyclonal anti-thymocyte globulin (ATG). There have
+been no reported randomized controlled trials comparing
+DZM to ATG induction in heart transplantation. The pur-
+pose of this study was to compare these therapies in heart
+transplant recipients.
+Methods
+All adults listed for heart transplantation between June
+2001 and April 2005 were considered for the study.
+Exclusion criteria included emergent surgery, previous
+transplant, multiple-organ transplant including heart-
+lung transplant, active infection, hepatitis C, high posi-
+tive panel reactive antibodies (>15%), known sensitivity
+to DZM, ATG, or mouse antigens, expected inability to
+be followed at the study center for a full year, and in-
+ability to give informed consent. Ethical approval was
+obtained from the University of Alberta Health Research
+Ethics Board.
+A total of 30 adult heart transplant recipients were
+randomized to receive either DZM (Hoffman-La Roche
+Ltd., ON, Canada) or ATG (Pharmacia & Upjohn Inc.,
+ON, Canada) as part of induction therapy. Randomization
+was generated by computer. Enrolment and assessment
+of outcomes were performed by two research assistants.
+Only patients were blinded to the treatment. The primary
+endpoints of this study were the number and severity of
+infection episodes post-transplant. Secondary endpoints
+included incidence of rejection, survival, and cost.
+Immunosuppressive regimen
+Patients in the control group received 10 mg/kg intra-
+venous (IV) ATG beginning postoperatively and infused
+continuously for 5 to 7 days until cyclosporine or tacro-
+limus reached therapeutic levels. Patients in the treat-
+ment group received DZM IV at 2 mg/kg within 4 h
+postoperatively followed by a single 1 mg/kg dose on
+postoperative day 4. Patients in both groups received
+methylprednisolone (Solu-Medrol®, Novopharm, ON,
+Canada) 1 g IV intraoperatively, followed postoperatively
+by 2 mg/kg IV every 12 h for three doses. This was
+followed by prednisone or methylprednisolone (depending
+on whether the patient could tolerate oral medication)
+1 mg/kg daily. This was tapered by 2 mg/day to 0.3
+mg/kg/day. Mycophenolate mofetil (CellCept®, Hoffman
+La-Roche, ON, Canada) was given preoperatively 1,000
+mg per oral or IV followed by 1,000 mg IV twice daily
+postoperatively until the patient could tolerate oral medi-
+cation. At this time the patient was switched to mycophe-
+nolate mofetil 1,000 mg per oral twice daily, with a targetdose of 3 g daily. Patients treated with cyclosporine re-
+ceived cyclosporin A (Neoral®, Novartis Pharmaceuticals
+Canada Inc., QB, Canada) 150 mg to 300 mg per oral
+twice daily until therapeutic levels were reached (250 μg/L
+to 400 μg/L). Patients treated with tacrolimus (Prograf®,
+Astellas Pharma Canada, Inc., ON, Canada) received ta-
+crolimus 2 mg to 5 mg per oral twice daily until thera-
+peutic levels were reached (10 mg/mL to 15 mg/mL).
+Patients in the ATG group received a pulse of methylpred-
+nisolone 2 mg/kg IV every 12 h for three doses starting at
+the point of ATG discontinuation.
+Infection prophylaxis
+Patients with Epstein-Barr virus (EBV) or cytomegalovirus
+(CMV) donor-seropositive/recipient-seronegative received
+900 mg each day for 14 weeks of oral ganciclovir
+(Cytovene®, Hoffman-La Roche Ltd., ON, Canada) or
+valgancyclovir (Valcyte®, Hoffman-La Roche Ltd, ON,
+Canada) therapy. Patients who were CMV donor sero-
+positive/recipient seropositive or donor seronegative/
+recipient seropositive received 2 weeks of 900 mg twice
+per day of oral ganciclovir or valganciclovir therapy.
+Diagnosis and treatment of acute and chronic rejection
+Acute rejection was defined as either biopsy-proven as
+defined by ISHLT grade 3R (3A or 3B) or higher hist-
+ology [5], suspected and subsequently treated rejection
+in the presence of hemodynamic compromise, or grade
+1A or 1B with symptoms (reduced ejection fraction,
+shortness of breath, decreased voltages or a gallop rhythm).
+Treatment of acute rejection typically consisted of intraven-
+ous methylprednisolone 500 g to 1,000 g for 3 days. Severe
+high grade or humoral rejection was treated with plasma-
+phoresis, intravenous immune globulin, ATG, or RAT-
+GAM (ATG made from rabbits). Grade 2 rejection or
+symptomatic low grade (1A or 1B) rejection was treated
+with a 50 mg to 80 mg prednisone tapering dose. Heart
+transplant patients at our centre receive 13 biopsies during
+the first year post transplant.
+Diagnosis of infection
+Infection was considered significant if it resulted in
+symptoms and/or a change in medical management. An
+infection was also considered to be severe if it appeared
+to prolong hospitalization, required re-admission to hos-
+pital, or was treated with intravenous antibiotics after
+initial hospitalization.
+Cost analysis
+Cost data were determined by calculating total drug
+cost, ICU cost, and ward cost. Drug costs were obtained
+directly from the pharmacy department. ICU and ward
+costs were based on a study by Hamilton et al. [6],
+in which hospital costs were acquired from patient
+resource consumption profiles. This accounting method
+was developed at our center. It included nursing costs,
+the direct and indirect labor and supply costs related to
+nursing, laboratory, radiological, and rehabilitative medi-
+cine costs, and all direct and indirect labor and supply
+costs required to perform tests or procedures. Physician
+fees were not included.
+Statistics
+Statistical analysis was performed using SPSS software
+(SPSS Inc., Chicago, IL, USA). All analysis was based
+upon an intention to treat principle. Continuous vari-
+ables were compared between groups by an independent
+t-test or Mann-Whitney U where non-parametric ana-
+lysis was appropriate. Discrete variables were compared
+between groups using chi-squared and Fisher’s exact
+tests where appropriate. Survival curves were created
+with the Kaplan-Meier method with log-rank compari-
+sons between groups. Results of continuous variables are
+presented as mean ± standard error. The alpha level was
+set at P ≤0.05. A study by Sarris et al. [7] revealed a 73%
+1-year infection rate in heart transplant recipients. A
+sample size of 14 patients per group was determined to
+detect a 43% reduction in infection rate with an alpha
+error of 5% and a power of 80%.
+Results
+The flow of participants through the study is presented
+in Figure 1. One hundred and ninety-nine patients were
+assessed for eligibility: 130 were deemed ineligible due
+to exclusion criteria, seven declined, 32 did not partici-
+pate because they did not receive a transplant during the
+study period, and the remaining 30 were randomized.
+There were no drop-outs.
+A summary of recipient demographics and periopera-
+tive outcomes are presented in Table 1. There were no
+significant differences in preoperative recipient demo-
+graphics. The incidence of cytomegalovirus (CMV) and
+Epstein-Barr virus (EBV) mismatch was similar between
+groups. Patients in the DZM group tended to require
+more inotropic support postoperatively (higher inotropic
+severity score: DZM 65 ± 5, ATG 49 ± 6, P = 0.07). No
+other statistically significant differences were observed in
+intraoperative and immediate postoperative outcomes.
+30
+Assessed for eligibility
+(N = 199)
+Mullen et al. Transplantation Research 2014, 3:14 Page 3 of 9
+http://www.transplantationresearch.com/content/3/1/14Randomized (n = 
+Allocated to ATG (n = 15)
+Received ATG (n = 15)
+Lost to follow-up (n = 0)
+Discontinued Intervention (n = 0)
+Analyzed (n = 15)Figure 1 CONSORT diagram.Excluded (n = 169)
+Did not meet inclusion criteria (n = 130)
+Refused to participate (n = 7)
+Other reasons (n = 32)
+)
+Allocated to DZM (n = 15)
+Received DZM (n = 15)
+Lost to follow-up (n = 0)
+Discontinued Intervention (n = 0)
+Analyzed (n = 15)
+Table 1 Recipient demographics and perioperative
+outcomes
+ATG
+(n = 15)
+DZM
+(n = 15)
+P value
+Age (years) 58 ± 3 57 ± 3 0.9
+Sex (male/female) 11/4 12/3 1.0
+Diagnosis
+Idiopathic cardiomyopathy 11 (73%) 10 (67%) 1.0
+Other 4 (27%) 5 (33%) 1.0
+Mullen et al. Transplantation Research 2014, 3:14 Page 4 of 9
+http://www.transplantationresearch.com/content/3/1/14Height (cm) 172 ± 2 172 ± 3 0.9
+Weight (kg) 78 ± 3 83 ± 5 0.4
+Body mass index (kg/m2) 26 ± 1 28 ± 2 0.4
+Status
+1: Stable and waiting out of hospital 8 (53%) 9 (60%) 1.0There were also no significant differences in donor
+demographics between groups (Table 2).
+Postoperative laboratory and drug administration values
+averaged over a 10-day post-transplant period are pre-
+sented in Table 3. Average absolute lymphocyte counts
+were significantly higher in the DZM group (0.89 × 109/L
+2: Stable and waiting in hospital 3 (20%) 2 (13%) 1.0
+3: In hospital on Inotropic support 4 (27%) 3 (20%) 1.0
+4: Intubated 0 (0%) 1 (7%) 1.0
+Diabetes mellitus 0 (0%) 2 (13%) 0.5
+Lymphocytotoxic crossmatch
+Negative 15 (100%) 15 (100%) 1.0
+CMV mismatch
+Negative recipient/Positive donor 1 (7%) 1 (7%) 1.0
+EBV mismatch
+Negative recipient/Positive donor 0 (0%) 0 (0%) -
+Operative time (min) 333 ± 18 351 ± 20 0.5
+Cardiopulmonary bypass time (min) 187 ± 10 194 ± 16 0.7
+Intubation time (h) 96 ± 47 130 ± 55 0.7
+Intensive care unit time (h) 264 ± 102 289 ± 96 0.9
+Inotropic severity score 49 ± 6 65 ± 5 0.07
+Total hospital length of stay (days) 29 ± 8 26 ± 6 0.8
+CMV: cytomegalovirus; EBV: Epstein-Barr virus.
+Table 2 Donor characteristics
+ATG (n = 15) DZM (n = 15) P value
+Age (years) 35 ± 5 35 ± 4 0.9
+Sex (male/female) 11/4 10/5 1.0
+Height (cm) 172 ± 3 172 ± 3 0.9
+Weight (kg) 78 ± 5 86 ± 4 0.2
+Body mass index (kg/m2) 26 ± 1 29 ± 1 0.1
+Donor/recipient weight ratio 1.01 ± 0.05 1.08 ± 0.09 0.5
+Donor ischemic time (min) 254 ± 22 249 ± 24 0.9vs. 0.45 × 109/L, P <0.0001), as well as average platelet
+count (153 per mm3 vs. 114 per mm3, P = 0.004). In
+addition, average chloride was higher in the DZM
+group (103 ± 1 mmol/L vs. 101 ± 1 mmol/L, P = 0.05). In
+the control group, ATG was infused for 7 ± 2 days. As
+expected, volume of ATG given intravenously was signifi-
+cantly higher than DZM (5,934 ± 669 mL vs. 942 ± 152
+mL, P <0.0001), and methylprednisolone dose was signifi-
+cantly less in the DZM group (495 ± 38 mg vs. 1,242 ±
+278 mg, P <0.0001). Other drug dosages and volumes
+were similar between groups.
+The cost analysis is illustrated in Figure 2. Induction
+cost (cost of DZM vs. cost of ATG) was significantly
+lower in the DZM group (Figure 2, $5,337 ± 308, CI ±
+604.17 vs. $7,384 ± 799, CI ± 1,565.84, P = 0.03). Total
+drug cost (induction cost plus methylprednisolone, myco-
+phenalate mofetil, cyclosporine A and/or tacrolimus, and
+prednisone) was also significantly lower in the DZM
+group (Figure 2, $6,044 ± 328, CI ± 642.28 vs. $8,133 ±
+828, CI ± 1,622.97, P = 0.03). In addition, hospital ward
+(step-down unit) cost was lower in the DZM group
+(Figure 2, $11,353 ± 3,320, CI ± 6,507.38 vs. $14,376 ±
+3,526, CI ± 6,911.53, P <0.05). Intensive care unit stay
+and total hospital costs were not significantly different
+between groups (Figure 2).
+The incidence of rejection is presented in Table 4.
+Mean biopsy grade was lower in the DZM group, but
+not statistically different (0.3 vs. 0.4, P = 0.09). Allograft
+rejection occurred in two patients, both in the ATG
+group. One of these patients had confirmed humoral re-
+jection 19 days post transplant, and was treated with IV
+immune globulin. The second patient experienced an
+episode of hypotension 6 days post transplant with right
+ventricular dysfunction and right bundle branch block
+with decreased voltages. This was felt to be due to acute
+rejection, and the patient was subsequently treated with
+pentaspan, inotropes, IV cyclosporine A, and pulse steroids.
+The number of patients experiencing at least one epi-
+sode of infection was the same between groups (Table 4,
+67% in both groups). Time to first infection and other
+infectious complications were also similar between the
+two groups.
+No patient had any acute side effect or allergic reac-
+tion to either study drug. There was no significant differ-
+ence for incidence of steroid induced-diabetes. None
+of the study patients were re-transplanted. One of the
+patients in the DZM group had an incidence of malig-
+nancy: a basal cell carcinoma lesion on the ear which
+was treated successfully.
+An actuarial survival curve is presented in Figure 3.
+Survival at 1 month and 1 year was 100% and 87% in
+the DZM group, and 93% and 87% in the ATG group,
+respectively. There were two patients who died in the
+ATG group. The first patient in the ATG group died 5
+tio
+TG
+6.6
+3.9
+.45
+.3 ±
+14
+0.3
+36
+.2 ±
+01
+5 ±
+.4 ±
+Mullen et al. Transplantation Research 2014, 3:14 Page 5 of 9
+http://www.transplantationresearch.com/content/3/1/14Table 3 Postoperative laboratory data and drug administra
+A
+Average white blood cells (×109/L) 1
+Average neutrophils (×109/L) 1
+Average absolute lymphocytes (×109/L) 0
+Average red blood cells (×109/L) 3
+Average platelet count (per mm3) 1
+Average hemoglobin (g/L) 1
+Average sodium (mmol/L) 1
+Average potassium (mmol/L) 4
+Average chloride (mmol/L) 1
+Average CO2 (mmol/L) 2
+Average glucose (mmol/L) 8days post transplant due to intestinal ischemia. The
+second patient in the ATG group died 49 days post
+transplant due to fungal sepsis. Two patients also died
+in the DZM group. The first patient died 72 days post
+transplant due to sepsis. The second patient in the
+DZM group died 267 days post transplant of a stroke.
+Discussion
+Infection and rejection have been identified as risk factors
+for morbidity and mortality after heart transplantation [1].
+In order to improve patient survival and quality of life,
+strategies have been developed to minimize these risk fac-
+tors for infection and rejection, including induction agents
+as part of the immunosuppression regimen in the early
+postoperative period. This study compared the results of
+using DZM versus ATG during induction therapy after
+heart transplantation.
+Average urea (mmol/L) 16.2
+Average ionized calcium (mmol/L) 1.25
+Average creatinine (mmol/L) 143
+Platelet units given 8 ±
+Red blood cell units given 9 ±
+Study drug induction volume (mL) 5,93
+Methylprednisolone (mg) 1,24
+Prednisone (mg) 552
+IV Mycophenolate Mofetil (mg) 6,01
+p.o. Mycophenolate Mofetil (mg) 14,9
+Patients receiving cyclosporin A only 12
+Patients receiving tacrolimus only 2
+Patients converted from cyclosporin A to tacrolimus 0
+Patients converted from tacrolimus to cyclosporin A 1
+Cyclosporin A (mg) 2,53
+Tacrolimus (mg) 40 ±
+Insulin (units) 502
+Total steroids for 1 year (mg) 4,63n
+(n = 15) DZM (n = 15) p value
+± 1.3 16.4 ± 1.2 0.9
+± 1.0 13.8 ± 0.9 0.9
+± 0.04 0.89 ± 0.09 <0.0001
+0.1 3.2 ± 0.1 0.2
+± 9 153 ± 8 0.004
+± 0.2 9.9 ± 0.2 0.2
+± 1 137 ± 1 0.6
+0.1 4.2 ± 0.1 0.7
+± 1 103 ± 1 0.05
+1 24 ± 1 0.2
+0.4 8.7 ± 0.7 0.6The use of DZM in addition to a triple immunosup-
+pressive regimen was well tolerated in heart transplant
+recipients, with one adverse reaction to the drug. There
+were no differences in the incidence of rejection, steroid-
+induced diabetes or malignancy compared to patients who
+received ATG. In addition, average absolute lymphocytes
+and average platelet count were significantly higher in the
+DZM group. One-year survival was excellent in both
+groups (87%) and was similar to the experience from the
+ISHLT Data Registry (1-year survival 81% based on
+survival rates for heart transplants performed between
+1982 and 2011 [1].
+The efficacy and safety of DZM has been demon-
+strated in a large number of kidney [8-28], kidney-
+pancreas [29,30], liver [31-36], and lung clinical trials
+[37,38]. There have been few studies involving DZM in
+cardiac transplantation [39-45], despite the observation
+± 1.3 16.8 ± 1.2 0.7
+± 0.21 1.16 ± 0.02 0.09
+± 10 178 ± 21 0.1
+2 7 ± 4 0.9
+2 8 ± 3 0.8
+4 ± 669 942 ± 152 <0.0001
+2 ± 278 495 ± 38 <0.0001
+± 38 626 ± 53 0.2
+7 ± 788 6,000 ± 1005 1.0
+83 ± 1025 16,317 ± 1145 0.4
+11 1.0
+1 1.0
+3 0.2
+0 1.0
+2 ± 348 2,621 ± 333 0.8
+14 40 ± 6 1.0
+± 80 724 ± 202 0.3
+1 ± 638 3,846 ± 434 0.2
+$12,131
+$14,376
+$7,384
+$749
+$0
+$5,000
+$10,000
+$15,000
+$20,000
+$25,000
+$30,000
+$35,000
+$40,000
+$45,000
+$50,000
+ATG
+ICU Ward Study Drug
+$34,640
+* Denotes significant difference (p < 0.05
+Mullen et al. Transplantation Research 2014, 3:14 Page 6 of 9
+http://www.transplantationresearch.com/content/3/1/14that almost 50% of patients undergoing cardiac trans-
+plantation receive anti-body-based induction therapy [1].
+In our previous study of ATG and DZM in lung trans-
+plant recipients [37], both agents were also equally ef-
+Figure 2 Cost analysis: total hospital cost (P = 0.8).fective in rejection outcomes, however, the time to first
+Table 4 Rejection, infection, and other outcomes
+ATG
+(n = 15)
+DZM
+(n = 15)
+p value
+Mean biopsy grade 0.4 0.3 0.09
+Patients experiencing rejection 2 (13%) 0 0.5
+Total number of acute rejections 2 0 0.2
+Time to first rejection episode (days) 84 - -
+Patients experiencing infection 10 (67%) 10 (67%) 1.0
+Total number of infections 25 21 0.7
+Infections/patient 1.7 1.4 0.7
+Patients experiencing severe infection 4 (27%) 5 (33%) 1.0
+Number of severe infections 7 7 1.0
+Severe infections/patient 0.5 0.5 1.0
+Number of CMV infections 1 2 1.0
+Malignancy 0 1 1.0
+Steroid-induced diabetes 2 2 1.0
+Re-transplant 0 0 -
+ICU length of stay (days) 11 ± 4 12 ± 4 09
+Total hospital length of stay (days) 29 ± 8 27 ± 6 0.8
+One-month survival 93% 100% 0.1
+One-year survival 87% 87% 0.1rejection tended to be more prolonged with DZM (ATG:
+138 days, DZM: 220 days, P = 0.06).
+The incidence of overall infection in the present study is
+similar to other reports in heart transplantation [7]. DZM
+$13,306
+$11,353
+$5,337
+$707
+DZM
+Other Immunosuppression
+p=0.1
+$30,703
+*
+) in costs between ATG and DZM groups
+*has not been found to alter infection rates in kidney
+[9,12,15,21,23,46], kidney-pancreas [28-30], heart [42,45],
+lung [37,38,47,48] or liver [31,34,35,49,50] transplant
+recipients.
+The results of this study support the efficacy of a two dose
+DZM regimen which is simpler in that patients need not
+return to hospital for treatment every 2 weeks. The ATG
+regimen is more complex than our DZM regimen, requiring
+5 to 7 days of continuous intravenous infusion and more
+steroid administration. In addition, ATG may have limited
+use due to the formation of antibodies; therefore, treatment
+of future rejection episodes may not be possible with ATG.
+In this study, both average absolute lymphocyte count
+and platelet count were significantly reduced in the ATG
+group compared to the DZM group (Table 3). This finding
+is consistent with our previous study of the two agents in
+lung transplant recipients [37]. Brock and colleagues [38]
+noted that in lung transplantation, patients receiving ATG
+induction most commonly develop thrombocytopenia,
+with 74% developing a platelet count of <100,000/mm3
+[38]. In our current study, one patient in the ATG group
+developed severe thrombocytopenia, however, not in
+response to the ATG infusion.
+The exact mechanism of effect of DZM is unknown;
+however, the efficacy of DZM is likely related to its se-
+lective targeting of active T-lymphocytes. DZM readily
+Mullen et al. Transplantation Research 2014, 3:14 Page 7 of 9
+http://www.transplantationresearch.com/content/3/1/14binds to the alpha subunit of the IL-2 receptor of circu-
+lating active T-lymphocytes, preventing activation of in-
+active T-lymphocytes by stimulation of the IL-2 receptor
+and possibly causing down regulation of IL-2 receptor
+Figure 3 Actuarial survival. Log rank comparison, P = 0.1.expression [51,52]. This allows DZM to specifically tar-
+get the active lymphocytes, leaving the immune system
+otherwise intact. This is consistent with our results of
+higher average absolute lymphocytes in the DZM group.
+DZM has also been genetically engineered to contain
+90% human determinants. This reduces the immunogen-
+icity of the molecule and lengthens its circulating half-
+life (20 days). An advantage of DZM’s long half-life is
+that T-cell rebound after discontinuation of DZM does
+not occur. Patients receiving ATG at our center receive
+a pulse of methylprednisolone at the point of ATG dis-
+continuation to prevent this T-cell rebound. Patients in
+the ATG group therefore required a significantly higher
+dose of methylprednisolone compared to the DZM
+group. Furthermore, because only a fraction of the anti-
+bodies from ATG are directed against T-lymphocytes, a
+large amount of volume (10 mg/kg for 5 to 7 days) must
+be administered. This extra volume may lead to excess
+fluid balances which we normally try to avoid after heart
+transplantation.
+A cost analysis revealed that the cost of DZM induc-
+tion was significantly lower than ATG induction in heart
+transplant recipients. Total drug cost and hospital ward
+cost was also less in the DZM group. The use of DZM
+induction could thus lead to a cost savings of between
+$2,000 and $3,000 in some heart transplant recipients.Our study has demonstrated that DZM was a safe
+component of induction therapy in heart transplant-
+ation. Our study highlights the advantages of DZM,
+including ease of administration, lower cost, higher
+lymphocyte count, and freedom from excessive platelet
+destruction. Both methods of induction therapy worked
+well with excellent 1-year survival. Daclizumab was
+a useful induction agent in our immunosuppression
+protocol for heart transplant recipients.
+Competing interests
+This study was funded by an unrestricted research grant from Hoffmann-La
+Roche. Data collection, analysis, and manuscript preparation was conducted
+by the investigators in compliance with the protocol and was independent
+of the sponsor. The authors declare that they have no competing interests.
+Authors’ contributions
+JCM, AO, and MJB participated in research design. JCM, AO, MJB, and SW
+participated in acquisition of data. EJK, AO, and MJB, participated in data
+analysis. JCM, EJK, AO, and MJB participated in writing of the manuscript. All
+authors read and approved the final manuscript.
+Acknowledgements
+The authors wish to thank Dennis L. Modry, MD, Arvind Koshal, MD, Jeffery R.
+Burton, MD, Ilene Burton, RN, Wayne J. Tymchak, MD, Karen Doucette, MD,
+Jutta Preiksaitis, MD, and Phil F. Halloran, MD for their support and assistance
+with this research.
+Presented in part at the 25th Annual Meeting of the International Society of
+Heart and Lung Transplantation, April 2005, Philadelphia, PA, USA.
+Received: 12 March 2014 Accepted: 18 July 2014
+Published: 30 July 2014
+References
+1. Lund LH, Edwards LB, Kucheryavaya AY, Dipchand AI, Benden C, Christie JD,
+Dobbels F, Kirk R, Rahmel AO, Yusen RD, Stehlik J, International Society for
+Heart and Lung Transplantation: The Registry of the International Society
+Mullen et al. Transplantation Research 2014, 3:14 Page 8 of 9
+http://www.transplantationresearch.com/content/3/1/14for Heart and Lung Transplantation: thirtieth official adult heart
+transplant report–2013; focus theme: age. J Heart Lung Transplant 2013,
+32:951–964.
+2. Miller LW, Naftel DC, Bourge RC, Kirklin JK, Brozenca SC, Jarcho J, Hobbs RE,
+Mills RM: Infection after heart transplantation: a multi-institutional study.
+J Heart Lung Transplant 1994, 13:381–393.
+3. Abramowicz D, Wissing KM, Broeders N: Induction with anti-CD3 antibodies.
+Curr Opin Organ Transplant 1999, 4:312–317.
+4. Zenapax product monograph. In Roche Pharmaceuticals. 1st edition. Basel,
+Switzerland: F. Hoffmann - La Roche Ltd.; 1998.
+5. Billingham M, Cary NRB, Hammond ME, Kemnitz J, Marboe C, McHallister HA,
+Snovar DC, Winters GL, Zerbe A: A working formulation for the standardization
+of nomenclature in the diagnosis of heart and lung rejection: heart rejection
+study group. J Heart Lung Transplant 1990, 9:587–593.
+6. Hamilton A, Norris C, Wensel R, Koshal A: Cost reduction in cardiac
+surgery. Can J Cardiol 1994, 10:721–727.
+7. Sarris GE, Moore KA, Schroeder JS, Hunt SA, Fowler MB, Valantine HB,
+Vagelos RH, Billingham ME, Oyer PE, Stinson EB: Cardiac transplantation:
+the Stanford experience in the cyclosporine era. J Thorac Cardiovasc Surg
+1994, 108:240–252.
+8. Asher JF, Wilson CH, Gupta A, Gok MA, Talbot D: Use of daclizumab in
+preventing delayed graft function in non-heart beating donor kidney
+transplantation in Newcastle upon Tyne. Transplantationsmedizin: Organ
+Der Deutschen Transplantationsgesellschaft 2004, 16:96–100.
+9. Abou-Jaoude MM, Ghantous I, Almawi WY: Comparison of daclizumab,
+an interleukin 2 receptor antibody, to anti-thymocyte globulin-Fresenius
+induction therapy in kidney transplantation. Mol Immunol 2003,
+39:1083–1088.
+10. Ekberg H, Bäckman L, Tufveson G, Tydén G: Zenapax (daclizumab) reduces
+the incidence of acute rejection episodes and improves patient survival
+following renal transplantation. Transplant Proc 1999, 31:267–268.
+11. Wilson CH, Brook NR, Gok MA, Asher JF, Nicholson ML, Talbot D:
+Randomized clinical trial of daclizumab induction and delayed
+introduction of tacrolimus for recipients of non-heart-beating kidney
+transplants. Br J Surg 2005, 92:681–687.
+12. Nashan B, Light S, Hardie IR, Lin A, Johnson JR: Reduction of acute
+allograft rejection by daclizumab. Transplantation 1999, 67:110–115.
+13. Hengster P, Pescovitz MD, Hyatt D, Margreiter R: Cytomegalovirus infections
+after treatment with daclizumab, an anti IL-2 receptor antibody, for
+prevention of renal allograft rejection. Transplantation 1999, 68:310–313.
+14. Kandus A, Grego K, Bren AF: Prevention of early acute rejection with
+daclizumab and triple immunosuppression in cadaveric renal allograft
+recipients. Ther Apyher Dial 2005, 9:262–264.
+15. Osuna A, Gentil MA, Capdevila L, Cantarell C, Mazuecos A, Pereira P,
+Rodriguez-Alarra G, Gonzalez-Molina M, Spanish Kidney Transplant of Elderly
+Donor Study Group: Two doses of daclizumab with delayed introduction
+of low-dose tacrolimus in elderly recipients of cadaveric renal transplants
+from donors >55 years of age. Transplant Proc 2005, 37:1438–1440.
+16. Rostaing L, Cantarovich D, Mourad G, Budde K, Rigotti P, Mariat C, Margreiter R,
+Capdevilla L, Lang P, Vialtel P, Ortuno-Mirete J, Charpentier B, Legendre C,
+Sanchez-Plumed J, Oppenheimer F, Kessler M, CARMEN Study Group:
+Corticosteroid-free immunosuppression with tacrolimus, mycophenolate
+mofetil, and daclizumab induction in renal transplantation. Transplantation
+2005, 79:807–814.
+17. Soltero L, Carbajal H, Sarkissian N, Khan AJ, Brennan S, Gonzalez JM, Truong
+LD, Suki WN: A truncated-dose regimen of daclizumab for prevention of
+acute rejection in kidney transplant recipients: a single-center experience.
+Transplantation 2004, 78:1560–1563.
+18. Poorrezagholi F, Einollahi B, Firoozan A, Nafar M, Yadegari H, Moghaddam
+SM, Simforoosh N, Basiri A, Farhangi S: Effect of daclizumab (zenapax) on
+prevention of acute rejection of renal transplantation. Transplant Proc
+2003, 35:3735–3736.
+19. Bumgardner GL, Hardie I, Johnson RW, Lin A, Nashan B, Pescovitz MD,
+Ramos E, Vincenti F, Phase III Daclizumab Study Group: Results of 3-year
+phase III clinical trials with daclizumab prophylaxis for prevention of acute
+rejection after renal transplantation. Transplantation 2001, 72:839–845.
+20. Nair MP, Nampoory MRN, Johny KV, Costandi JN, Abdulhalim M, El-
+Reshaid W, Al-Muzairai I, Ninan VT, Samhan M, Al-Mousawi M: Induction
+immunosuppression with interleukin-2 receptor antibodies (basiliximab
+and daclizumab) in renal transplant recipients. Transplant Proc 2001,
+33:2767–2769.21. Ekberg H, Bäckman L, Tufveson G, Tydén G, Nashan B, Vincenti F:
+Daclizumab prevents acute rejection and improves patient survival post
+transplantation: 1 year pooled analysis. Transpl Int 2000, 13:151–159.
+22. Vincenti F: Daclizumab: novel biologic immunoprophylaxis for
+prevention of acute rejection in renal transplantation. Transplant Proc
+1999, 31:2206–2207.
+23. Vincenti F, Kirkman R, Light S, Bumgardner G, Pescovitz M, Halloran P,
+Neylan J, Wilkinson A, Ekberg H, Gaston R, Backman L, Burdick J:
+Interleukin-2-receptor blockade with daclizumab to prevent acute
+rejection in renal transplantation. N Engl J Med 1998, 338:161–165.
+24. Abou-Jaoude MM, Ghantous I, Najm R, Afif C, Almawi WY: Daclizumab
+versus anti-thymocyte globulin-fresenius as induction therapy for low-risk
+kidney transplant recipients. Transplant Proc 2003, 35:2731–2732.
+25. Abramowicz D, Vanrenterghem Y, Squifflet JP, Kuypers D, Mourad M,
+Meurisse M, Wissing M: Efficacy and cardiovascular safety of daclizumab,
+mycophenolate mofetil, tacrolimus, and early steroid withdrawal in renal
+transplant recipients: a multicenter, prospective, pilot trial. Clin Transplant
+2005, 19:475–482.
+26. Meier-Kriesche H-U, Kaza H, Palekar SS, Friedman GS, Mulgaonkar SP, Ojo
+AO, Kaplan B: The effect of Daclizumab in a high-risk renal transplant
+population. Clin Transplant 2000, 14:509–513.
+27. Ekberg H, Persson NH, Källen R, Gül-Baykurt N: Two doses of daclizumab in
+conjunction with low-dose cyclosporine, mycophenolate mofetil and
+Steroids resulted in a low incidence of acute rejection after renal
+transplantation. Scand J Immunol 2003, 58:670–677.
+28. Ciancio G, Burke GW, Suzart K, Roth D, Kupin W, Rosen A, Olson L,
+Esquenazi V, Miller J: Daclizumab induction, tacrolimus, mycophenolate
+mofetil and steroids as an immunosuppression regimen for primary
+kidney transplant recipients. Transplantation 2002, 73:1100–1106.
+29. Stratta RJ, Alloway RR, Lo A, Hodge EE, PIVOT Study Group: One-year outcomes
+in simultaneous kidney-pancreas transplant recipients receiving an alternative
+dosing regimen of daclizumab. Transplant Proc 2004, 36:1080–1081.
+30. Rasaiah SB, Light JA, Sasaki TM, Currier CB: A comparison of daclizumab to
+ATGAM induction in simultaneous pancreas-kidney transplant recipients on
+triple maintenance immunosuppression. Clin Transplant 2000, 14:409–412.
+31. Boillot O, Mayer DA, Boudjema K, Salizzoni M, Gridelli B, Filipponi F,
+Trunecka P, Krawczyk M, Clavien PA, Ducerf C, Margarit C, Margreiter R,
+Pallardo JM: Corticosteroid-free immunosuppression with tacrolimus
+following induction with daclizumab: a large randomized clinical study.
+Liver Transpl 2005, 11:61–67.
+32. Innocenti F, Humeres R, Zamboni M, Sanhueza E, Zapata R, Hepp J, Rius M:
+IL-2 receptor blockers in liver transplantation: initial experience with
+daclizumab in Chile. Transplant Proc 2003, 35:2520–2521.
+33. Fahlke J, Wolff S, Mantke R, Pross M, Weiss G, Buerger T, Lippert H:
+Staggered immunosuppression with the interleukin-2 receptor antagonist
+daclizumab combined with tacrolimus, prednisolone, and mycophenolate
+mofetil after orthotopic liver transplantation: a pilot efficacy and safety
+study. Transplant Proc 2002, 34:1242–1244.
+34. Niemeyer G, Koch M, Light S, Kuse ER, Nashan B: Long-term safety,
+tolerability and efficacy of daclizumab (zenapax) in a two-dose regimen
+in liver transplant recipients. Am J Transplant 2002, 2:454–460.
+35. Emre S, Gondolesi G, Polat K, Ben-Haim M, Artis T, Fishbein TM, Sheiner PA,
+Kim-Schluger L, Schwartz ME, Miller CM: Use of daclizumab as initial im-
+munosuppression in liver transplant recipients with impaired renal func-
+tion. Liver Transpl 2001, 7:220–225.
+36. Figueras J, Bernardos A, Prieto M, Gomez M, Rimola A, Ortiz de Urbina J,
+Cuervas-Mons V, de la Mata M, Dominguez-Granados R: Steroid-free regi-
+men with daclizumab, mycophenolate mofetil, and tacrolimus in liver
+transplant recipients. Transplant Proc 2002, 34:1511–1513.
+37. Mullen J, Oreopoulos A, Lien D, Bentley MJ, Modry DL, Stewart K, Winton TL,
+Jackson K, Doucette K, Preiksaitis J, Halloran PF: A randomized controlled
+trial of daclizumab versus anti-thymocyte globulin induction for lung
+transplantation. J Heart Lung Transplant 2007, 26:504–510.
+38. Brock MV, Borja MC, Ferber L, Orens JB, Anzcek RA, Krishnan J, Yang SC,
+Conte JV: Induction therapy in lung transplantation: a prospective,
+controlled clinical trial comparing OKT3, anti-thymocyte globulin, and
+daclizumab. J Heart Lung Transplant 2001, 20:1282–1289.
+39. Beniaminovitz A, Itescu S, Lietz K, Donovan M, Burke EM, Groff BD, Edwards
+N, Mancini DM: Prevention of rejection in cardiac transplantation by
+blockade of the interleukin-2 receptor with a monoclonal antibody.
+N Eng J Med 2000, 342:613–619.
+40. Hershberger RE, Starling RC, Eisen HJ, Bergh CH, Kormos RL, Love RB, Van
+Bakel A, Gordon RD, Popat R, Cockey L, Mamelok RD: Daclizumab to
+prevent rejection after cardiac transplantation. N Eng J Med 2005,
+352:2705–2713.
+41. Lietz K, John R, Beniaminovitz A, Burke EM, Suciu-Foca N, Mancini DM,
+Edwards NM, Itescu S: Interleukin-2 receptor blockade in cardiac
+transplantation: influence of HLA-DR locus incompatibility on treatment
+efficacy. Transplantation 2003, 75:781–787.
+42. Kobashigawa J, David K, Morris J, Chu AH, Steffen BJ, Gotz VP, Gordon RD:
+Daclizumab is associated with decreased rejection and no increased
+mortality in cardiac transplant patients receiving MMF, cyclosporine, and
+corticosteroids. Transplant Proc 2005, 37:1333–1339.
+43. Joyal D, Cantarovich M, Cecere R, Giannetti N: Early experience with two-dose
+daclizumab in the prevention of acute rejection in cardiac transplantation.
+Clin Transplant 2004, 18:493–496.
+44. Chin C, Pittson S, Luikart H, Bernstein D, Robbins R, Reitz B, Oyer P, Valantine H:
+Induction therapy for pediatric and adult heart transplantation: comparison
+between OKT3 and daclizumab. Transplantation 2005, 80:477–481.
+45. Carlsen J, Johansen M, Boesgaard S, Andersen CB, Arendrup H, Aldershvilet
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Mullen et al. Transplantation Research 2014, 3:14 Page 9 of 9
+http://www.transplantationresearch.com/content/3/1/14J, Mortensen SA: Induction therapy after cardiac transplantation: a
+comparison of anti-thymocyte globulin and daclizumab in the prevention
+of acute rejection. J Heart Lung Transplant 2005, 24:296–302.
+46. Morris JA, Hanson JE, Steffen BJ, Chu AH, Chi-Burris KS, Gotz P, Gordon RD:
+Daclizumab is associated with decreased rejection and improved patient
+survival in renal transplant recipients. Clin Transplant 2005, 19:340–345.
+47. Bhorade SM, Jordan A, Villanueva J, Yu A, Kramer H, Vigneswaran WT,
+Garrity ER: Comparison of three tacrolimus-based immunosuppressive
+regimens in lung transplantation. Am J Transplant 2003, 3:1570–1575.
+48. Garrity ER, Villanueva J, Bhorade SM, Husain AN, Vigneswaran WT: Low rate
+of acute lung allograft rejection after the use of daclizumab, an
+interleukin 2 receptor antibody. Transplantation 2001, 71:773–777.
+49. Sellers MT, McGuire BM, Haustein SV, Bynon JS, Hunt SL, Eckhoff DE: Two-dose
+daclizumab induction therapy in 209 liver transplants: a single-center
+analysis. Transplantation 2004, 78:1212–1217.
+50. Yan LN, Wang W, Li B, Lu SC, Wen TF, Lin QY, Zeng Y, Cheng NS, Zhao JC,
+Dai YM: Single-dose daclizumab induction therapy in patients with liver
+transplantation. World J Gastroenterol 2003, 9:1881–1883.
+51. Savo AM, Book BK, Henson S, Hakimi J, Pescovitz MD: Daclizumab rapidly
+saturates interleukin-2 receptor-alpha (CD25) on lymph node lymphocytes
+in children. Transplant Proc 1999, 31:1182–1183.
+52. Vincenti F, Nashan B, Light S: Daclizumab: outcome of phase III trials and
+mechanism of action. Transplant Proc 1998, 30:2155–2158.
+doi:10.1186/2047-1440-3-14
+Cite this article as: Mullen et al.: A randomized controlled trial of
+daclizumab versus anti-thymocyte globulin induction for heart
+transplantation. Transplantation Research 2014 3:14.Submit your manuscript at 
+www.biomedcentral.com/submit

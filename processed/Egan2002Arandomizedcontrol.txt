@@ -1,0 +1,328 @@
+170 Lippincott’s Case Management September/October 2002 Case management offers an appropriate alter- native approach to the management of COPD.1 As a formal disease management program, it addresses the need for individualized care associated with the experience of COPD.
+The case manager’s (CM) ideal role is to plan and coordinate the delivery of quality services to meet individual patients’ needs, reducing the fragmentation of care delivery and im- proving the quality of life of patients with complex needs.12 Because case management and nursing practice focus on individual patients’ needs and quality of life, specialist nursing staff are well situ- ated to act as CMs.13 However, in practice, case management has evolved into a focus that is both Lippincott’s Case Management Vol.
+7, No.
+5, 170-179 © 2002, Lippincott Williams & Wilkins, Inc. C hronic Obstructive Pulmonary Disease (COPD) is a prevalent, complex, and costly condition to manage.1,2 It is a progressive and rarely re- versible disease3 in which dyspnea, chronic fatigue, anxiety, and depression are common features.4,5,6 The physical and social restrictions associated with the condition can have a strong combined influence on patients’ functional status and quality of life.7,8,4 Achieving quality of life for patients with COPD en- tails collaboration among multiple healthcare providers9,10 and both patient and caregiver.
+Because no single healthcare provider assumes overall respon- sibility for the patient,11 patients or family members are often left to coordinate their care with limited re- sources and little knowledge of how to access the necessary services within the complexities of the cur- rent healthcare system.
+As a result, service delivery is often fragmented.
+This can confuse the patient and caregiver and may compromise the achievement of desired healthcare outcomes.
+A Randomized Control Trial of Nursing-based Case Management for Patients With Chronic Obstructive Pulmonary Disease Elizabeth Egan, RN, MHSc; Alexandra Clavarino, PhD, BA; Letitia Burridge, RN, MPH;  Margaret Teuwen, RN, BScN; Elizabeth White, RN, MSc This study assessed the impact of a randomized trial of nursing-based case management for patients with chronic obstructive pulmonary disease, their caregivers, and nursing and medical staff.
+Sixty-six patients were matched by FEV1 on admission to hospital, and randomized into an intervention or control group.
+Intervention group patients reported significantly less anxiety at 1 month postdischarge; however, this effect was not sustained.
+There was little difference between groups in terms of unplanned readmissions, depression, symptoms, support, and subjective well being.
+Interviews with patients and caregivers found that the case management improved access to resources and staff-patient communication.
+Interviews with nursing and medical staff found that case management improved communication between staff and enhanced patient care.
+Key Words: Case management;  Pulmonary Disease, Chronic Obstructive; Quality of life.
+Address correspondence and reprint requests to: Elizabeth Egan, Clinical Nurse Consultant, Continuing Care, The Wesley Hospital, PO Box 499, Toowong.
+Qld.
+4066, Australia (e-mail: eegan@wesley.com.au).
+Vol.
+7/No.
+5 Lippincott’s Case Management 171 The Case Management Intervention The CM’s position was implemented on a trial basis for this project.
+The RN in this position held post- graduate qualifications in asthma education, as well as extensive experience in respiratory and thoracic nursing.
+Following the patient’s admission, the CM conducted a comprehensive nursing assessment for patients assigned to the intervention group to iden- tify physical, psychological, social, spiritual, and re- source needs.
+The CM cocoordinated the patient’s care during hospitalization utilizing a clinical path, and facilitated ongoing communication between the patient, the caregiver (if there was one), and all healthcare professionals participating in the patient’s care.
+These included medical, nursing, and allied health personnel.
+The CM provided education for the patient and caregiver on managing the disease, medications, rehabilitation, and available community services, and arranged discharge planning.
+Following discharge the CM provided ongoing support and acted as a referral point for community services for the patient and caregiver.
+The CM ensured that planned outcomes were achieved through phone calls to the patient and caregiver on a regular basis.
+Components of the 6-week intervention are summa- rized in Table 1.
+All patients received nursing assessments and were commenced on standardized clinical paths dur- ing admission.
+However, as Table 1 demonstrates, patients in the intervention group received a compre- hensive nursing assessment by the CM who also co- ordinated their care during hospitalization, con- ducted a case conference as part of discharge planning for intervention patients, and provided fol- low-up care at 1 week and 6 weeks post-discharge.
+Patients in the control group received normal care.
+This meant that they had no contact with the CM, no case conferences, and no postdischarge follow-up by nursing staff from the respiratory unit.
+DATA COLLECTION Quantitative and qualitative data were obtained from patients, nursing staff, and allied health staff di- rectly involved with patients’ care.
+Face-to-face inter- views were conducted with the respiratory physicians managing the care of all participants (control and in- tervention).
+Outcome Measures Patients The measurements for patients were selected based on key outcomes specific to COPD, including respi- ratory distress, social support, anxiety, depression, economic and clinical.
+The literature indicates an increasing emphasis on the economic side rather than the clinical approach to individual care.14,15 The few studies that have evaluated the implemen- tation of case management for patients with COPD focus primarily on economic outcomes, rather than patient outcomes.16,17,18 The results of these studies suggest that case management can reduce the num- ber of days in hospital for patients experiencing re- current admissions.16 Less attention has been given to understanding patient-focused outcomes.
+The purpose of this study was to compare the effect of a brief nursing-based case management interven- tion with that of normal care for patients hospital- ized with COPD.
+METHOD The study design was a randomized controlled trial.
+Consecutive patients who were admitted with COPD to a major private hospital in Brisbane, Australia, be- tween July 1999 and September 2000, and who met the following eligibility criteria were invited to par- ticipate in the study: • Aged 18 years or older.
+• History of chronic bronchitis (with infection), emphysema, chronic airway obstruction, chronic asthma, or a combination of these.
+• Forced Expiratory Volume (FEV1) on admission prior to initializing intravenous medications to determine severity of disease.
+This resulted in categories of mild/moderate or severe disease, as determined by the admitting respiratory physi- cian in accordance with the American Thoracic Society guidelines: mild or moderate disease: lung functioning 35% to 50% of predicted value, based on the FEV1; severe disease: lung functioning was below 35% of predicted value, based on FEV1.
+• Cognitive function at time of entry to the study was adequate to understand and complete a questionnaire.
+• Admission to a respiratory unit bed within 72 hours of admission to hospital.
+• Informed consent was obtained in writing.
+Randomization  Patients were first stratified into two groups on the basis of their lung function: mild/moderate and se- vere.
+Random number tables were then used as a basis for allocating patients into either the interven- tion or the control groups.
+The study received ethical clearance from the participating hospital.
+172 Lippincott’s Case Management September/October 2002 and subjective well being.
+Both generic and disease specific scales were used.
+The St Georges Respiratory Questionnaire The St Georges Respiratory Questionnaire (SGRQ)19 has been widely used to measure health-related quality of life in patients with chronic respiratory disease.
+The SGRQ consists of 50 items, with 76 responses that produce three domain scores and one overall score.
+The 3 domains are: the frequency and severity of res- piratory symptoms; activities that cause or are limited by breathlessness; and impacts, which relates to social functioning and psychological disturbances resulting from airways disease.
+The symptoms are scored on a 5-point Likert scale, while activity and impacts are di- chotomous (yes/no) items.
+The ‘Total’ score summa- rizes the impact of the disease on overall health status.
+Scores are expressed as a proportion of overall impair- ment, in which “0” represents the best possible health status and “100” the worst possible health status.
+The Social Support Survey The Social Support Survey,20 a measure designed specifically for use with chronically ill populations, was used to measure availability of social support across 4 dimensions of social support: tangible, affec- tionate, positive social interaction, and emotional/in- formational support.
+A higher score for an individual scale or for the overall support index indicates more support.
+Subscale scores are calculated on the aver- age scores for all items in the subscale.
+The overall support index is calculated as an average of 2 figures: the scores for all 18 items in the 4 subscales, and the score for the additional final item in the survey.
+The Hospital Anxiety and Depression Scale The Hospital Anxiety and Depression Scale (HADS)21 was developed specifically for use with patients who are physically ill.
+The scale consists of 2 brief, 7-item subscales of anxiety and depression.
+Items are summed on each of the 2 subscales.
+High scores on each scale indicate the presence of problems (non- cases = a score of 7; doubtful cases = 8-10; definite cases = 11+).
+The Subjective Well-Being Scale The measure of subjective well being comprises 6 items derived from the literature and incorporates TABLE 1  Comparison of Care Provided to Control and Intervention Groups T2 T3  1 Week 1 Month 6 Weeks 3 Months  T1 During Post- Post- Post- Post- GROUP Admission Hospitalization discharge discharge discharge discharge INTERVENTION Nursing Assessment and ● ● Review—Case Manager St George Respiratory Questionnaire ● ● ● Social Support Survey ● ● ● Hospital Anxiety & Depression Scale ● ● ● Subjective Well-Being Scale ● ● ● COPD Clinical Path ● ● Discharge Planning ● ● Coordinated Care—Case Manager ● ● ● ● CONTROL Nursing Assessment and  Review—Case Manager St George Respiratory Questionnaire ● ● ● Social Support Survey ● ● ● Hospital Anxiety & Depression Scale ● ● ● Subjective Well-Being Scale ● ● ● COPD Clinical Path ● ● Discharge Planning ● ● Coordinated Care—Case Manager COPD, chronic obstructive pulmonary disease.
+Vol.
+7/No.
+5 Lippincott’s Case Management 173 groups were summarized to determine the compara- bility of the two groups.
+Descriptive statistics were calculated for the two patient groups separately for each of the data collection points, to observe trends over time in the main outcome measures.
+As the data were not normally distributed, the non-parametric Wilcoxon matched pairs signed ranks test was used for within group comparisons and the Mann-Whitney test was used to compare groups at each time point.
+Qualitative Analysis: Patients A sub-group of eighteen patients and their caregivers, comprising eight couples and two patients without caregivers, were interviewed in depth regarding their experiences during the study period.
+These interviews were semi-structured and focused on issues associ- ated with patient and caregiver satisfaction with care.
+Participants were selected to maximize variabil- ity and to represent both intervention and control groups.
+Patients and caregivers were interviewed at home.
+All interviews, including those with the respi- ratory physicians were audiotaped then transcribed and coded to identify recurring themes and patterns.
+RESULTS Sixty-six participants were recruited into the study, and were allocated to either the intervention or con- trol group as shown in Table 2.
+Because of the small sample size, it was decided to aggregate stratified data, and to simply compare outcomes for the inter- vention and control groups.
+Only two patients (3%) refused to participate.
+A further 61 potentially eligible patients were excluded from the study.
+Of these 57% were excluded because no FEV1 was performed or they were unable to be transferred to a respiratory unit bed within 72 hours of admission.
+A further 25% were excluded as they had been previously case-managed, and the remain- der were excluded for reasons including frail condi- tion and cognitive impairment.
+Demographic Characteristics of the Patients Almost two-thirds of the control group were males, and females were similarly represented in the inter- vention group.
+This is the only variable with a statis- tically significant difference between intervention and control groups.
+As Table 3 demonstrates, no other significant differences were identified between groups regarding demographic characteristics, suggesting that randomization was effective.
+Most respondents had completed at least grade 10 level of education, were outside the workforce, both satisfaction22 and happiness.23 It has been devel- oped in 2 previous studies24,25 All responses were scored on a 4-point Likert scale with higher scores indicating increased well being.
+Demographic information was obtained in the first interview with patients and caregivers.
+Patients’ comorbidities and unscheduled hospital readmissions during the study period were documented.
+Staff Nursing and Allied Health Personnel Thirty-four nursing and allied health staff, who were directly involved in patient care, were identified as po- tentially eligible to participate in the study.
+These com- prised all permanent respiratory unit nursing staff, both full-time and part-time, as well as allied health staff, that is, specialist respiratory physiotherapists and nutritionists.
+In addition, 3 clinical nurse consultants (CNCs) directly involved in the care of respiratory pa- tients were surveyed.
+The CNCs were from community liaison, diabetes education, and gerontology.
+Respiratory Physicians Two respiratory physicians were interviewed at the conclusion of the study using a semistructured inter- view guide.
+The purpose of these interviews was to obtain physicians’ perceptions of the impact of the case management intervention on their patients, as well as any impact this may have had on their com- munication with the respiratory unit staff.
+The physi- cians were also invited to express their views regard- ing potential future developments in respiratory care arising out of the study.
+Procedure Nursing and Allied Health Staff Based on interviews with key informants, a question- naire was developed to obtain information from staff members regarding the impact of case management upon their working lives and upon patient care and outcomes in general.
+The questionnaire comprised 16 structured questions measured on a 4-point Likert scale with higher scores indicating greater impact.
+The self- completed questionnaire was mailed to all eligible staff.
+Non-responders were followed up after 2 weeks.
+Data collection was carried out by a Research Assistant with postgraduate qualifications in psychology.
+DATA ANALYSIS Statistical Methods Quantitative data were analyzed using SPSS.
+First, de- mographic and baseline data from the two patient 174 Lippincott’s Case Management September/October 2002 married or living with a partner and were Australian born.
+Most reported medium to high levels of in- come and were primarily Anglican or Catholic.
+Patient numbers declined slightly at each time inter- val, with a total of 24% lost from the control group, compared with 15% from the intervention group.
+These losses were due to patient deaths (n = 5) and withdrawals (n = 8).
+Change Over Time Tables 4 and 5 show the changes that occurred in key outcome variables between admission (T1) and one month post-discharge (T2), and between one (T2) and three months post-discharge (T3).
+All me- dian changes refer to the intervals between T1 and T2 or T2 and T3.
+The final column contains the p- value for the unpaired Mann-Whitney test with a null hypothesis that the change in the control group equals the change in the intervention group.
+Both groups reported an improvement in symp- toms between admission and one month post dis- TABLE 2  Participants by Group and Severity of Disease Control Intervention Total Severe 19 19 38 Mild/Moderate 14 14 28 Total 33 33 66 TABLE 3 Demographic Characteristics of Participants Characteristics Control (n = 33) Intervention (n = 33) Mean Age 67.8 67.2 P = 0.789 Gender Male 20 60% 12 36% Female 13 40% 21 64% P = 0.049 Level of Education Completed primary 7 21% 5 15% Completed year 10 12 36% 12 36% Completed year 12 5 15% 6 18% Trade/apprenticeship/certificate/diploma 5 15% 6 18% Bachelor degree/higher 4 13% 4 13% P = 0.989 Employment In workforce 3 9% 5 15% Status Outside workforce 30 91% 28 85% P = 0.621 Marital Status Married/living with partner 24 73% 21 64% Not married or living with partner 9 27% 12 36% P = 0.158 Level of Income Up to $20,000 8 26% 10 31% $20,001 to 40,000 11 35% 14 44% $40,000 12 39% 8 25% P = 0.077 Country of Birth Australia 26 87% 31 94% Other 4 13% 2 6% P = 0.366 Religion Anglican 7 23% 11 38% Catholic 8 28% 9 31% Other 6 21% 4 14% None 8 28% 5 17% P = 0.426 Patient has a Caregiver Yes 26 78.8% 24 72.7% P = 0.567 Vol.
+7/No.
+5 Lippincott’s Case Management 175 is absolutely hopeless.’ However, for patients in the intervention group, ongoing contact with the CM proved to be very beneficial, particularly in terms of improving communication between health care per- sonnel and patients.
+As one patient commented, “On the last visit I became more involved with (the CM) and it was good to know that she cared, but perhaps before that...sometimes when you came home you were just as bad as when you went in, but you weren’t — you just felt it.
+But (the CM) kept on your hammer all the time...
+So I think that...it will give some peace of mind to the patients, you know.
+The big thing is to know what is happening.” A number of intervention group patients and caregivers also made the point that case management facilitated access to resources and equipment which they would never otherwise have accessed.
+(The CM) made me aware of things that were available that I didn’t bother to want to know about before.
+[Patient] (The CM) helped me organize (a nebuliser); she pointed out a lot of things to me, different things that should be done (for the patient).
+[Caregiver].
+Nursing and Allied Health Personnel Questionnaires were distributed to 30 of the 34 per- sonnel directly involved in patient care.
+(Four were on leave during the survey).
+A total of 22 (65%) questionnaires were returned.
+16 (73%) respondents were Respiratory Unit nurses; 3 (13.5%) were allied health (physiotherapists) and 3 (13.5%) were clinical nurse consultants in the following specialties: com- munity liaison, gerontology and diabetes education.
+charge (see Table 4).
+This change was considered predictable, in view of the treatment provided during hospitalization.
+The intervention group reported lower levels of affectionate support, which was sig- nificantly different to the control group.
+The inter- vention group experienced a significant improvement in the level of anxiety between hospitalization and one-month post discharge, but this was not signifi- cantly different from the control group.
+The im- provement in symptoms, which occurred between T1 and T2, was not sustained to T3 for either group.
+The control group reported lower levels of activity between T2 and T3.
+No other significant differences were identified either within or between groups.
+Unscheduled Hospital Readmissions There were no significant differences between groups regarding unscheduled hospital readmissions.
+The mean number of unscheduled readmits for the intervention group patients was 2.1 (range 10 (n = 1) to 5 (n = 2) and for control group patients was 2.6 (range 1 (n = 11) to 6 (n = 3)).
+Qualitative Analysis: Patients Based on the qualitative interviews, all patients were very satisfied with their care in hospital.
+Participants in the control group who had extensive family and medical support, particularly from a general practi- tioner, appeared to be quite satisfied with their ac- cess to community services.
+For patients in the con- trol group without these supports, the situation was much more difficult.
+As one caregiver explained, ‘It TABLE 4 Differences in Patients’ Experiences, Between T1 (Baseline) and T2 (1 Month Postdischarge) Intervention (I) Control (C) I vs C n Median change p n Median change p P St G—Symptoms 27 -17.5 0.01 25 -9.3 0.001 0.384 St G—Activities 25 0 0.895 26 0.4 0.746 0.727 St G—Impacts 26 -0.2 0.647 23 -0.9 0.515 0.849 St G—Total 22 -1.6 0.420 24 -1.5 0.149 0.621 Tangible Support 25 0 0.422 26 0 0.460 0.523 Affectionate Support 23 -6.7 0.004 26 0 0.660 0.034 Positive Social Intervention 23 0 0.174 25 0 0.814 0.595 Emotional Support 24 0 0.746 26 0 0.735 0.907 HADS Anxiety 25 -1.0 0.017 26 -2.5 0.059 0.437 HADS Depression 26 0.5 0.892 27 -1 0.402 0.383 Total SWB 27 2.8 0.744 27 -2.8 0.450 0.416 St G, St. George; SWB, Subjective Well Being; HADS, Hospital Anxiety and Depression Scale.
+176 Lippincott’s Case Management September/October 2002 All but 2 respondents (9.1%) were female.
+Of the 16 who reported their age, 4 were under 30 years; 2 were aged between 30 and 39 years; 6 were between 40 and 49 years and the remainder were aged 50 years or older.
+Personnel were asked to rank the impact of case management on a number of items, and their re- sponses are presented in Table 6.
+Respondents reported at least some improve- ment in discharge planning, coordination of re- sources outside the hospital and coordination of care within the hospital.
+Approximately two-thirds of re- spondents reported a positive impact on human re- sources by improving working relationships, ward efficiency, and patient care.
+More than half of those surveyed felt that case management decreased their workload and stress level, while increasing both their involvement and time spent in patient care.
+Approximately two-thirds of respondents reported at least some improvement in patient-focused issues such as patients’ knowledge of their disease, compli- ance with their prescribed regimes, and disease self- management.
+Most were confident that patient out- comes would be improved.
+Nursing and allied health staff found the imple- mentation of case management beneficial, not only to patients but also to ward operation.
+Most re- ported improvements in patient care, and also in pa- tients’ compliance, knowledge and management of their disease.
+The CM facilitated communication within the ward, improved the coordination of care, and acted as a resource person for ward personnel.
+Personnel were also invited to supplement their questionnaire responses with other comments.
+Without exception, the comments highlighted the positive impact of case management on patient care, personnel and on the hospital.
+A number of respon- dents commented on the ‘improved quality of patient care’ since the introduction of a CM.
+Personnel also reported that feedback from patients had been posi- tive, because ...patients are pleased, and find it a great help...to be able to contact and speak with the person they have come to know and rely on with fol- low-up care, with just a phone call.
+Staff believed that CMs/specialist nurses were needed for the ‘whole hospital,’ not simply one unit.
+One respondent said that this professional approach to discharge care should be implemented on every ward, to lessen the anxiety of a patient and family on his/her discharge from the ward.
+One Clinical Nurse Consultant (CNC) responsi- ble for discharge planning reported far fewer refer- rals from the respiratory unit, suggesting that ‘plan- ning must be happening.’ Another CNC reported receiving more referrals about self-care education, which she believed ‘is excellent care for the patient.’ Comments From Physicians Although the physicians noticed no differences be- tween patients receiving case management and those who did not, they valued having a CM to contact.
+One commented, I have found it really helpful having (the CM) who has been very interested in particular patients and who we have been able to call (on)...
+The physicians believed that the CM enhanced ward communication, specifically ‘with [admitting respira- TABLE 5 Differences in Patients’ Experiences, Between T2 (1 Month Postdischarge) and T3 (3 Months Postdischarge) Intervention (I) Control (C) I vs C n Median change p n Median change p P St G-Symptoms 26 2.0 0.824 22 0.5 0.987 0.959 St G-Activities 24 0 1.0 20 -6.4 0.0003 0.01 St G-Impacts 26 2.5 0.777 20 -1.5 0.245 0.432 St G-Total 22 0.6 0.766 19 -3.2 0.123 0.367 Tangible Support 26 -2.5 0.864 22 -5.0 0.714 0.723 Affectionate Support 24 10.0 0.228 22 0 0.796 0.323 Positive Social Intervention 24 0.0 0.602 22 -2.5 0.434 0.756 Emotional Support 24 -3.6 0.315 23 2.5 0.199 0.157 HADS Anxiety 24 0 0.986 24 -1.5 0.529 0.764 HADS Depression 24 -0.5 0.930 24 0.5 0.165 0.325 Total SWB 25 -2.8 0.829 24 0 0.189 0.268 St G, St. George; SWB, Subjective Well Being; HADS, Hospital Anxiety and Depression Scale.
+Vol.
+7/No.
+5 Lippincott’s Case Management 177 patients a minimum follow-up time of twelve months has been recommended with few effects discernible before one year.25 Similarly, intervention group pa- tients reported a decline in levels of affectionate sup- port post-discharge, possibly reflecting the loss of close contact with the CM.
+This may also reflect the fact that more intervention patients than controls were without a caregiver.
+Although this difference was not statistically significant, it is evident from the qualitative data that the CM was seen by a number of patients as having a caring role.
+In-depth interviews revealed considerable differ- ences between groups particularly in relation to the high value placed on case management by interven- tion group participants.
+Quantitative and qualitative data indicated that the majority of nursing and med- ical staff found case management beneficial to pa- tients, the ward and the hospital particularly in rela- tion to facilitating staff-patient communication and the implementation of planned care.
+This study has some limitations.
+A number of potentially eligible patients were not invited into the study or were excluded because they were admitted to other wards before being transferred to the respi- ratory unit, and because spirometry was not com- pleted upon admission.
+However, there is no reason to believe that these patients would differ from pa- tients who were enrolled, in ways relevant to this tory physician]s and nursing staff,’ and fulfilled the role of clinical resource person for personnel.
+As one respondent commented, the CM ‘improved nursing staff’s knowledge of [the] disease process, manage- ment of acute episodes and treatment regimes.’ DISCUSSION This is one of the first studies that set out to evaluate a nurse based case management intervention to help COPD patients manage their disease and access to services.
+Little difference was found between the con- trol and intervention groups in terms of the key out- come variables: anxiety, depression, symptoms, sup- port and subjective well-being.
+While some improvement was noted in levels of intervention group anxiety at one month, the effect was not sus- tained.
+This was possibly due to the brief nature of the intervention.
+A more intensive follow-up may overcome this problem as intensive case management has been found to enhance patient outcomes in stud- ies of mental health,26 particularly for patients who are frequently hospitalized.27 A longer time-frame for the follow-up may also have shown significant differ- ences.
+The intervention had a positive impact on the psychological well-being of patients, but the effect di- minished over time, suggesting that patients need on- going support.
+Based on studies with mental health TABLE 6 Nursing and Allied Health Staff: Satisfaction With the Impact of Case Management Not at all/ Somewhat/ A Little Quite a Lot Unsure Item N (%) N (%) N (%) 1 Reduction in unplanned admissions 6 (27.2) 8 (36.4) 8 (36.4) 2 Improved discharge planning 1 (4.5) 20 (91.0) 1 (4.5) 3 Reduction in average length of patient stay 4 (18.1) 12 (54.6) 6 (27.3) 4 Improved coordination of resources outside hospital — 22 (100) — 5 Improved patient compliance with prescribed regimes 1 (4.5) 18 (81.8) 3 (13.6) 6 Improved coordination of care within hospital 1 (4.5) 21 (95.4) — 7 Improved cohesiveness of staff relationships 3 (13.6) 16 (72.7) 3 (13.6) 8 Reduction in personal workload 7 (33.3) 12 (57.2) 2 (9.5) 9 Reduction in the level of stress felt 6 (27.2) 14 (63.6) 2 (9.1) 10 Increased time available for patient care 6 (27.3) 13 (59.1) 3 (13.6) 11 Increased sense of involvement in patient care 7 (31.8) 12 (54.5) 3 (13.6) 12 Improved patient care 2 (9.1) 19 (86.3) 1 (4.5) 13 Improved patient outcomes 2 (9.1) 17 (77.3) 3 (13.6) 14 Improved efficiency of the ward 2 (9.1) 18 (81.8) 2 (9.1) 15 Improved patients’ knowledge of their disease — 20 (90.9) 2 (9.1) 16 Improved patients’ management of their disease 2 (9.1) 17 (77.2) 3 (13.6) Not all percentages total 100% due to rounding.
+178 Lippincott’s Case Management September/October 2002 study.
+Given the small sample size, it was not possi- ble to identify significant differences between the two strata comprising each group.
+Differences in severity of disease need to be explored in further studies.
+CONCLUSION The study set out to evaluate a brief case manage- ment intervention for patients with COPD.
+Further research is recommended to investigate the impact on key outcomes of a rehabilitation and education pro- gram for COPD patients.
+The study provided evidence to suggest that Case Management is an effective model of care for COPD patients.
+The recommendation has been made that a permanent CM be appointed to the respiratory unit to facilitate patient care during hospitalization and following discharge.
+Based on this study, the specific qualifications for this person would include: • advanced clinical knowledge in the specialty area • well-developed communication and negotiation skills  • the ability to work as a member of a multidisci- plinary team  • the ability to advocate on behalf of the patient/ family • education expertise—patient/family and staff • a knowledge of outcomes management.
+The hospital involved in this study is currently developing a similar approach to the care of oncol- ogy and stroke patients.
+To successfully introduce such a program it is es- sential to have the support of all levels of hospital administration.
+It is also necessary to involve medical staff who are willing to contribute to planning and development.
+The study highlighted the necessity for improved communication between the hospital and existing community service providers.
+As the majority of care delivery for this group of patients occurs within the community setting, a successful program must incor- porate an education component which includes the community aspects of care.
+The CM must develop channels of communication, both formal and infor- mal, between patient/family, the hospital and com- munity service providers.
+Acknowledgments This study was funded by a grant from The Wesley Research Institute.
+The authors would also like to thank the following for their assistance with this study: Mrs Lyn Dasey RN, Dr Adrian Barnett, Ms Sue-Ann Carmont.
+REFERENCES 1.
+Alternative approaches to COPD management address needs for individualized care.
+Clin Resour Manag.
+2001; 2(4):61-63, 49.
+2.
+Australian Institute of Health and Welfare (AIHW).
+Australia’s Health 2000.
+Canberra: AIHW; 2000.
+3.
+Action on Smoking and Health (ASH).
+Smoking and Respiratory Disease.
+2001 Available from URL: http://www.ash.org.uk/index.php?
+4.
+Janson C, Bjornsson E, Hetta, J, Boman G. Anxiety and depression in relation to respiratory symptoms and asthma.
+Am J Respir Crit Care Med.
+1994;149(4 Pt 1):930-4.
+5.
+Moody L, McCormick K, Williams A.. Disease and symptom severity, functional status and quality of life in chronic bronchitis and emphysema (CBE).
+J Behav Med.
+1990;13(3):297-306.
+6.
+Light RW, Merrill EJ, Despars JA, Gordon GH, Mutalipassi LR.
+Prevalence of depression and anxiety in patients with COPD: relationship to functional ca- pacity.
+Chest.
+1985;87(1):35-8.
+7.
+Czjkowski SM, McSweeney AJ.
+The role of psychoso- cial factors in chronic obstructive pulmonary disease.
+Phys Med Rehabil Clin N Am.
+1996;7(2):341-52.
+8.
+Guyatt GH, Bombardier C, Tugwell P. Measuring dis- ease-specific quality of life in clinical trials.
+CMAJ.
+1986;134(8):889-95.
+9.
+Sabo D. Clinical information system: a “gateway” to the 21st century.
+Nurs Adm Q.
+1997;21(3):68-75.
+10.
+Rabinowitz B, Florian V. Chronic Obstructive Pulmonary Disease - psycho-social issues and treat- ment goals.
+Soc Work Health Care.
+1992;16(4):69-86.
+11.
+Faherty B.
+Case Management: The latest buzzword: What it is and what it isn’t.
+Caring.
+1990;9(7):20-2.
+12.
+Mayer GG.
+Case management as a mindset.
+Qual Manag Health Care.
+1996;5(1):7-16.
+13.
+Newman MA.
+Toward an integrative model of profes- sional practice.
+J Prof Nurs.
+1990;6(3):167-73.
+14.
+Yarmo D, McDonald M. Wenborn J.
+Case manage- ment at Warringal Private Hospital: challenges of de- velopment, implementation and evaluation.
+Aust Health Rev.
+1998;21(4):221-37.
+15.
+Smith, MC.
+Case management and nursing theory- based practice.
+Nurs Sci Q.
+1993;6(1):8-9.
+16.
+Poole PJ, Chase B, Frankel A.
+Black PN.
+Case man- agement may reduce length of hospital stay in patients with recurrent admissions for chronic obstructive pul- monary disease.
+Respirology.
+2001;6(1):37-42.
+17.
+Lagoe RJ, Noetscher CM, Murphy ME.
+Combined benchmarking of hospital outcomes and utilization.
+Nurs Econ.
+2000;18(2):63-70.
+18.
+COPD pathway cuts costs per case by $900.
+Hosp Case Manag.
+1997; 5(9):156-158.
+19.
+Jones PW, Quirk FH, Baveystock CM.
+The St George’s Respiratory Questionnaire.
+Respir Med.
+1991;85 Suppl B:25-31, Discussion :33-7.
+20.
+Sherbourne CD, Stewart AL.
+The MOS Social Support Survey.
+Soc Sci Med.
+1991;32(6):705-14.
+21.
+Zigmond AS, Snaith RP.
+The Hospital Anxiety and Vol.
+7/No.
+5 Lippincott’s Case Management 179 With over ten years’ experience in the quality of life of cancer patients, her research interests include cancer and quality of life issues, women’s and rural health, and patient services.
+He currently works at the Centre for Health Promotion and Cancer Prevention Research, University of Queensland, Brisbane, Australia.
+Letitia Burridge has extensive experience in clinical nursing.
+She is interested in bridging the gap between health care in hospitals and health maintenance in the community.
+With postgraduate experience in women’s health and coping with cancer, her research interests include quality of life in cancer and other chronic illnesses.
+She currently works at the Centre for Health Promotion and Cancer Prevention Research, University of Queensland, Brisbane, Australia.
+Margaret Teuwen has extensive experience in respiratory nursing with an interest in self management of chronic disease.
+The focus of her current role is the enhancement of patient and caregiver participation in the management of chronic lung disease across the hospital/community continuum.
+She has post graduate qualification in asthma education and currently works at the Wesley Hospital, Brisbane, Australia.
+Elizabeth White has extensive experience in both clinical and management aspects of nursing.
+She has an MSc (Nursing) from the University of Surrey, UK.
+Her main research interests include quality of life issues for persons with chronic illness and the impact of caregiving on the primary family caregiver.
+She is currently Nursing Director, Medical and Oncology Services The Wesley Hospital, Brisbane.
+Depression Scale.
+Acta Psychiatr Scand.
+1983;67(6): 361-70.
+22.
+Campbell A, Converse PE, Rodgers WL.
+The Quality of American Life: Perceptions, Evaluations and Satisfactions.
+New York: Russell Sage; 1976.
+23.
+Bradburn N. The Structure of Psychological Well- Being.
+Chicago: Aldine; 1969.
+24.
+Clavarino AM.
+Dying-From Experience.
+[PhD thesis].
+Queensland, Australia: University of Queensland; 1997.
+25.
+Yates P. The Use of Alternative Therapies by People With Metastatic Cancer: A Multivariate Analysis.
+[Masters thesis].
+Department of Anthropology and Sociology.
+Queensland, Australia: University of Queensland; 1991.
+26.
+Preston NJ, Fazio S. Establishing the efficacy and cost effectiveness of community intensive case management of long-term mentally ill: a matched control group study.
+Aust N Z J Psychiatry.
+2000;34(1):114-21.
+27.
+Chamberlain R. Rapp, CA.
+(1991) A decade of case management: a methodological review of outcome re- search.
+Community Ment Health J.
+1991;27(3):171-88.
+Elizabeth Egan has extensive experience in oncology nursing and an interest in improving the management and treatment for people with chronic disease.
+She has gained post graduate qualification in the field of health education and currently is working in the area of hospital /community interface, The Wesley Hospital, Brisbane, Australia.
+Dr Alexandra Clavarino has a PhD in Sociology from The University of Queensland and has extensive experience teaching qualitative and quantitative research methods. 

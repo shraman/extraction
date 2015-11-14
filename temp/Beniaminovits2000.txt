@@ -1,0 +1,334 @@
+ Volume 342 Number 9   ·   613   PREVENTION OF REJECTION IN CARDIAC TRANSPLANTATION BY BLOCKADE OF THE INTERLEUKIN-2 RECEPTOR   PREVENTION OF REJECTION IN CARDIAC TRANSPLANTATION BY BLOCKADE  OF THE INTERLEUKIN-2 RECEPTOR WITH A MONOCLONAL ANTIBODY   A   INAT    B   ENIAMINOVITZ   , M.D., S   ILVIU    I   TESCU   , M.D., K   ATHERINE    L   IETZ   , M.D., M   ARY    D   ONOVAN   , N.P.,  E   LIZABETH    M. B   URKE   , R.N., B   ARBARA    D. G   ROFF   , R.N., N   ILOO    E   DWARDS   , M.D.,    AND    D   ONNA    M. M   ANCINI   , M.D.
+A   BSTRACT   Background   Alloantigen-activated T cells express the high-affinity interleukin-2 receptor.
+Specific block- ade of this receptor with the human IgG1 monoclonal antibody daclizumab may prevent rejection of allo- grafts after cardiac transplantation without inducing global immunosuppression.
+Methods   We randomly assigned 55 nonsensitized patients undergoing a first cardiac transplantation to receive either induction therapy with daclizumab (1.0 mg per kilogram of body weight), given intravenously within 24 hours after cardiac transplantation and ev- ery two weeks thereafter, for a total of five doses, or generalized immunosuppressive therapy.
+Concomi- tant immunosuppression was achieved in both groups with cyclosporine, mycophenolate mofetil, and pred- nisone.
+The primary end points were the incidence and severity of acute rejection, and the length of time to a first episode of biopsy-confirmed rejection.
+Results   Of the 55 patients in the study, 28 were randomly assigned to receive daclizumab and 27 served as the control group.
+During induction thera- py, the mean frequency of acute rejection episodes (defined as a histologic grade of 2 or higher accord- ing to the classification of the International Society of Heart and Lung Transplants) was 0.64 per patient in the control group and 0.19 per patient in the dacli- zumab group (P=0.02).
+Acute rejection developed in 17 of 27 patients in the control group (63 percent), as compared with 5 of 28 patients in the daclizumab group (18 percent; relative risk, 2.8; 95 percent confi- dence interval, 1.1 to 7.4; P=0.04).
+Throughout follow- up, there were nine patients with episodes of acute rejection of histologic grade 3 in the control group, as compared with two in the daclizumab group (P= 0.03), and the time to a first episode of rejection was significantly longer in the daclizumab group (P=0.04).
+There were no adverse reactions to daclizumab and no significant differences between the groups in the incidence of infection or cancer during follow-up.
+Conclusions   Induction therapy with daclizumab safely reduces the frequency and severity of cardiac- allograft rejection during the induction period.
+(N Engl J Med 2000;342:613-9.)
+©2000, Massachusetts Medical Society.
+From the Divisions of Cardiology (A.B., B.D.G., D.M.M.)
+and Circula- tory Physiology (A.B., D.M.M.)
+and the Department of Surgery (S.I., K.L., M.D., E.M.B., N.E.
+), Columbia–Presbyterian Medical Center, New York.
+Address reprint requests to Dr. Beniaminovitz at 177 Fort Washing- ton Ave., MHB 5-435, New York, NY 10032, or at ab49@columbia.edu.
+CUTE rejection episodes adversely affect short-term survival in recipients of cardi- ac transplants.
+1    Rejection occurs most fre- quently during the first three months after transplantation, with the incidence decreasing expo- nentially thereafter.
+2    Repeated or severe episodes of allograft rejection may lead to the development of A   cardiac-allograft vasculopathy, the main cause of death after the first year in transplant recipients.
+3-6    Accord- ingly, therapeutic strategies, such as the use of induc- tion therapy with monoclonal or polyclonal antibod- ies in the perioperative period, have been advocated to decrease the frequency and severity of early allograft rejection.
+7    The success of these nonselective agents has varied.
+7    Allograft rejection is only delayed by their use, and the generalized immunosuppression they in- duce frequently increases the risk of opportunistic infection and cancer.
+More selective agents that target key receptors, such as the interleukin-2 receptor on activated T cells, may be more effective than nonselective agents.
+8    In vivo activation of the high-affinity interleukin-2 receptor by interleukin-2 promotes the clonal expansion of the activated T-cell population.
+9    Daclizumab (Zenapax, Hoffmann–LaRoche, Nutley, N.J.) is a molecularly engineered human IgG1 monoclonal antibody that binds but does not activate the high-affinity inter- leukin-2 receptor.
+Because it consists of 90 percent human immunoglobulin sequences, daclizumab has low immunogenicity; its serum half-life is 21 days.
+A previous study examined the administration of daclizumab to recipients of cadaveric renal trans- plants   10    and found decreases in the number of epi- sodes of allograft rejection and an increase in the time to a first rejection episode without a concomitant in- crease in the incidence of infection or cancer.
+The pur- pose of the current study was to investigate the safety and efficacy of daclizumab with respect to the fre- quency and severity of acute rejection in nonsensi- tized recipients of first cardiac transplants.
+METHODS   Patients   We recruited a total of 55 consecutive adult patients between January 1, 1998, and December 31, 1998.
+Patients were excluded if they were recipients of previous allografts or had a positive cross- match for T-cell lymphocytes.
+Patients were randomly assigned to receive standard triple immunosuppressive therapy either with or without daclizumab.
+Randomization was performed at the time of transplantation with the use of sealed envelopes.
+The protocol was approved by the institutional review board of Columbia–Presbyte- rian Medical Center, and all patients gave written informed consent.
+The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.
+614   ·   March 2,  2000   The New England Journal  of  Medicine   Immunosuppressive Therapy   Triple-drug immunosuppressive therapy with cyclosporine, my- cophenolate mofetil, and prednisone was administered to all the patients.
+Oral cyclosporine was given preoperatively at a dose of 1 to 2 mg per kilogram of body weight, according to the patient’s creatinine clearance rate.
+Intravenous cyclosporine was adminis- tered as a continuous infusion at a dose of 1 to 2 mg per kilogram per 24 hours until the patient could receive oral medications.
+The doses of cyclosporine were adjusted to obtain a whole-blood trough level of 300 to 350 ng per milliliter, as measured with the use of a monoclonal assay (TDX, Abbott Laboratories, Abbot Park, Ill.), for the first six weeks after transplantation.
+Target trough levels decreased as the time after transplantation increased.
+After trans- plantation, muromonab-CD3 (OKT3) or antithymocyte globulin induction therapy was used instead of cyclosporine in patients with prolonged renal dysfunction (defined by a creatinine concentra- tion >2.5 mg per deciliter [221    m   mol per liter]).
+All the patients received 4 mg of azathioprine per kilogram oral- ly before transplantation and then 2 mg per kilogram intravenous- ly afterward until they were able to receive oral medications.
+The dose of mycophenolate mofetil was then increased to a maximum of 1500 mg twice daily over a period of three days.
+Intravenous methylprednisolone was administered at a dose of 1 g intraoperatively and then 125 mg every eight hours for three doses.
+Prednisone or an equivalent dose of methylprednisolone was begun at 50 mg orally twice daily and tapered over the course of seven days to 15 mg orally twice daily.
+After each negative biopsy, the dose of prednisone was further tapered according to a stand- ard schedule.
+Daclizumab was given intravenously at a dose of 1 mg per kil- ogram within 24 hours after transplantation and every two weeks thereafter for a total of five doses.
+Biopsy Schedule, Histologic Grading of Rejection,  and Treatment of Rejection   Endomyocardial biopsies were performed weekly for the first month after transplantation, every two weeks for the second month, monthly through month 6, and then every two months through month 12.
+Biopsy specimens were graded according to the stand- ardized criteria of the International Society of Heart and Lung Transplants (ISHLT).
+11    Acute allograft rejection was defined as a histologic grade of 2 or higher according to the ISHLT criteria.
+Patients with symptoms of heart failure or hemodynamic com- promise were considered to have rejection even if the histologic grade was lower than 2.
+Hemodynamic compromise was defined as a pulmonary-capillary wedge pressure of more than 20 mm Hg, a cardiac index of less than 2 liters per minute per square meter of body-surface area, or a pulmonary arterial oxygen saturation of less than 50 percent.
+Both the ISHLT grade and the degree of hemodynamic compromise determined the type of treatment for a particular episode of rejection.
+All the patients underwent an- other biopsy 7 to 10 days after the treatment of an acute rejection episode.
+Immunologic Assays   HLA Typing   Serologic typing of HLA-A and HLA-B loci was performed by standard microcytotoxicity techniques.
+HLA-DR typing was per- formed by serologic analysis and DNA techniques with sequence- specific oligonucleotide primers and the polymerase chain reaction.
+Lymphocyte-Growth Assay   A fragment of a biopsy specimen was placed in medium sup- plemented with recombinant interleukin-2 (5 U per milliliter) and examined at 48 hours with a phase-inverted microscope.
+A semi- quantitative scale (0 to 3) was used to score growth on the basis of circumferential T-cell aggregation.
+12    A score of 1 or more was considered positive.
+Anti-HLA Antibodies   At the time of each endomyocardial biopsy, serum was screened for complement-mediated lytic activity, in the presence or absence of dithiothreitol, against T and B lymphocytes included in a panel of 70 of the most common HLA class I and class II antigens.
+Serum reactivity that persisted after treatment with dithiothreitol was considered to indicate the presence of IgG alloantibodies, where- as loss of reactivity indicated the presence of IgM alloantibodies.
+Serum reactivity with both T-cell and B-cell panels indicated the presence of anti-HLA class I antibodies.
+Serum reactivity with B-cell panels, but not with T-cell panels, indicated the presence of anti-HLA class II antibodies.
+Antibodies against both HLA class I and HLA class II antigens were considered present in cases in which serum reacted with both panels and B-cell reactivity exceed- ed T-cell reactivity by a factor of more than two.
+The presence of autoantibodies was considered to be ruled out by autologous se- rum crossmatching with recipient T cells and B cells.
+These com- bined methods have a high degree of sensitivity and specificity for anti–HLA class I and class II antibodies.
+13   End Points   The primary end points of the study were the incidence of bi- opsy-confirmed rejection, the severity of rejection, and the length of time to a first treated episode of rejection.
+Secondary end points included the need for antilymphocytic therapy with muromonab- CD3 or antithymocyte globulin, the presence of immunologic indicators of alloreactivity, the duration of hospitalization after trans- plantation, the frequency of readmissions, and the incidence of in- fections and cancer.
+One-year survival and the mean daily doses of prednisone at each month after transplantation were also compared.
+Statistical Analysis   Differences in categorical variables between the two groups were evaluated by chi-square analysis.
+Continuous variables were compared between the groups with an unpaired Student’s t-test.
+Kaplan–Meier plots with log-rank analysis were used to compare the time to a first rejection episode and survival in the two groups.
+RESULTS   A total of 55 patients were enrolled.
+Of these, 28 were randomly assigned to the daclizumab group and 27 to the control group by means of sealed enve- lopes.
+The base-line characteristics of the two groups were similar with respect to age, sex, donor’s age, the need for prophylaxis against cytomegalovirus (given if either the donor or the recipient was seropositive), the presence of an HLA-DR match, and the duration of follow-up (Table 1).
+The duration of cold ische- mia was slightly but significantly shorter in the con- trol group than in the daclizumab group (P=0.05).
+All the patients in the daclizumab group received all five doses of the drug.
+The trough levels of cyclospor- ine were similar in the two groups throughout the fol- low-up period (Fig.
+1A).
+The number of patients who were switched from cyclosporine to tacrolimus was the same in both groups.
+In the control group, one patient was switched because of neurotoxic effects, one because of frequent episodes of allograft rejection, one because of hirsutism, and one because of excessive gingival hyperplasia.
+In the daclizumab group, one patient was switched because of cyclosporine-induced hemolytic–uremic syndrome, two because of hirsut- ism, and one because of excessive gingival hyperplasia.
+The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.
+PREVENTION OF REJECTION IN CARDIAC TRANSPLANTATION BY BLOCKADE OF THE INTERLEUKIN-2 RECEPTOR   Volume 342 Number 9   ·   615   Efficacy   The period of induction therapy (based on the dos- ing regimen and the half-life of daclizumab) was three months.
+During this period, acute rejection (defined as a grade of 2 or higher according to the criteria of the ISHLT) developed in 17 of the 27 patients in the control group (63 percent), as compared with 5 of the 28 in the daclizumab group (18 percent; relative risk, 2.8; 95 percent confidence interval, 1.1 to 7.4; P=0.04).
+The time to a first rejection episode was significantly longer in the daclizumab group than in the control group (Fig.
+2) (P=0.04).
+The effect on rejection was most evident in the first three months (Table 2), with a frequency of rejection episodes of 0.64 per patient in the control group as compared with 0.19 per patient in the daclizumab group (P= 0.02).
+The frequency of rejection episodes after three months was similar in the two groups (0.54 in the control group vs. 0.50 in the daclizumab group, P= 0.85).
+All rejection episodes after three months in the daclizumab group were managed with additional corticosteroids administered orally, except in the case of one patient whose first episode occurred at month 4 and who presented with cardiogenic shock, which led to death within 24 hours.
+Overall, the severity of rejection episodes was also significantly lower in the daclizumab group than in the control group (Table 2), with only two episodes of grade 3 rejection in the daclizumab group, as com- pared with nine episodes in the control group (P= 0.03), throughout the follow-up period.
+Moreover, none of the patients in the daclizumab group required rescue therapy with muromonab-CD3 or antithymo- cyte globulin for the treatment of rejection, whereas five patients in the control group did require such therapy (P=0.02).
+Similarly, fewer of the patients in the daclizumab group had multiple episodes of rejec- tion (Table 2).
+This effect was most pronounced dur- ing the three-month induction period, when three patients in the control group and no patients in the daclizumab group had more than one episode of re- jection (P=0.07).
+Secondary End Points   The rate of use of antilymphocyte therapy was sig- nificantly lower in the daclizumab group than in the control group (six patients in the control group vs. one patient in the daclizumab group, P=0.04).
+One patient in the daclizumab group received muromo- nab-CD3 because of cyclosporine-induced nephrotox- ic effects, whereas in the control group, five of the six patients who received antilymphocyte therapy were treated for hemodynamically significant rejection.
+The daily maintenance dose of corticosteroids was also sig- nificantly lower in the daclizumab group than in the control group by month 5, as shown in Figure 1B (P=0.02 at months 5 and 6).
+The median duration of hospitalization after trans- plantation tended to be lower in the daclizumab group than in the control group (13 vs. 16 days), with more patients discharged within the first 14 days after trans- plantation (17 vs. 12 patients).
+100 400 1 6 200 300 2 3 4 5 Month CYCLOSPORINE LEVEL (ng/ml) Control groupH Daclizumab group 340H 304 309H 323 327H 322 342H 313 302H 276 285H 262 Control group Daclizumab group C yc lo sp o ri n eH (n g /m l)   B   *Plus–minus values are means ±SD.
+†P=0.05.
+T   ABLE    1.
+C   LINICAL    C   HARACTERISTICS       OF       THE     S   TUDY    P   ATIENTS   .
+*   C   HARACTERISTIC   C   ONTROL     G   ROUP     (N=27) D   ACLIZUMAB     G   ROUP     (N=28)   Age (yr) 50±13 53±14 Sex (no.)
+Male Female 21 6 22 6 Age of donor (yr) 34±10 29±12 Cold-ischemia time (min) 173±60 209±69† Cytomegalovirus prophy- laxis (no.)
+16 15 HLA match (no.)
+HLA-A HLA-B HLA-DR 9 3 9 13 7 13 Follow-up (days) 502±117 454±76   Figure 1.
+Cyclosporine Levels (Panel A) and Doses of Predni- sone (Panel B) in the Control and Daclizumab Groups.
+Values for cyclosporine and prednisone are means.
+Asterisks denote P=0.02.
+0 30 1 6 5 10 15 20 25 2 3 4 5 ** Month DOSE OF PREDNISONE (mg/day) Control groupH Daclizumab group 24H 24 18H 15 21H 13 13H 10 12H 8 11H 6 Control group Daclizumab group P re d n is o n eH (m g /d ay ) B   A The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.
+616   ·   March 2,  2000   The New England Journal  of  Medicine   Overall survival at one year was similar in the two groups.
+There were four deaths in the control group, three of which occurred during the index hospitaliza- tion (two were due to rejection and one to infection).
+The death that occurred after the index hospitaliza- tion was due to overwhelming cytomegalovirus in- fection.
+There were two deaths in the daclizumab group, both after the index hospitalization.
+One was due to acute rejection, which occurred in the month after the completion of daclizumab therapy.
+The oth- er death was due to pneumonia caused by influenza A virus or aspergillosis.
+The incidence of production of anti-HLA antibod- ies was significantly lower among patients assigned to daclizumab.
+IgG anti-HLA antibodies developed in 6 of the 28 patients in the daclizumab group (21 percent), as compared with 19 of the 27 controls (70 percent, P<0.001).
+The lower rate in the daclizumab group was accounted for by parallel reductions in ti- ters of IgG antibodies with specificity against either HLA class I or HLA class II antigens.
+Findings were similar with respect to the production of IgM anti- HLA antibodies (10 percent in the daclizumab group vs. 45 percent in the control group, P=0.01).
+In addition to the longer time to a first rejection episode in the daclizumab group, there was also a nonsignificant trend toward a longer time to a pos- itive result on the lymphocyte-growth assay in the bi- opsy specimens from the patients in this group, as shown in Figure 3 (P=0.27).
+The one episode of re- jection resulting in death that occurred after the three- month period of induction therapy was preceded by a positive finding on the lymphocyte-growth assay and the new onset of circulating anti-HLA antibodies.
+Of the other 12 episodes of rejection that occurred after induction therapy, 2 (17 percent) were preceded by positive lymphocyte-growth assays and 7 (58 per- cent) were preceded by the production of anti-HLA IgG antibodies.
+Adverse Events   The administration of daclizumab was not associ- ated with any short-term adverse reactions.
+There was no evidence of allergic reaction, the cytokine release   Figure 2.
+Kaplan–Meier Analysis of the Length of Time to a First Episode of Rejection in the Control and Daclizumab Groups.
+The dashed portion of the curves represents the anticipated values for the completion of the study on the basis of the currently available data.
+0 100 0 12 10 20 30 40 50 60 70 80 90 3 P=0.04H Induction period P=0.44H Postinduction period Daclizumab groupH (n=28) Control groupH (n=27) 6 9 Months after Transplantation P at ie n ts  w it h o u t  R ej ec ti o n  ( % ) The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.
+PREVENTION OF REJECTION IN CARDIAC TRANSPLANTATION BY BLOCKADE OF THE INTERLEUKIN-2 RECEPTOR   Volume 342 Number 9   ·   617   syndrome, fever, or myalgias.
+Similarly, there were no long-term adverse effects.
+Specifically, there were no cases of cancer in the daclizumab group, as com- pared with one case of polyclonal lymphoma in the control group.
+The frequency of readmission to the hospital for any reason was similar in the two groups (17 readmis- sions in the daclizumab group vs. 21 in the control group).
+Infections accounted for the largest number of readmissions, and the incidence of readmission due to infection was the same in the two groups (11 re- admissions in each group).
+The incidence of the most common cause of infection, cytomegalovirus, which was diagnosed on the basis of symptoms and sero- logic testing, was similar in the two groups (seven cas- es in the daclizumab group and five in the control group).
+The incidence of tissue-invasive cytomegalo- virus infection requiring hospitalization and intrave- nous therapy with ganciclovir was also similar (six cases in the daclizumab group vs. four in the control group).
+The other infectious complications in the da- clizumab group were one case each of pneumonia, bronchitis, gastroenteritis, and pyelonephritis.
+In the control group, such complications were one case each of bronchitis, abscess of the frontal lobe, cellulitis, ap- pendicitis, hepatitis, and pyelonephritis.
+The frequency of readmission because of rejection was the same in the two groups (two in each group), and the frequency of readmission for any cause other than infection or rejection was similar (four readmis- sions in the daclizumab group and eight in the control group).
+Reasons for readmission included steroid- related psychosis (one in each group), generalized sei- zures (two in the control group), cholecystectomy (one in each group), duodenal ulcer (one in the con- trol group), pain due to osteoporosis of the hip (one in the daclizumab group), hip replacement (one in the daclizumab group), optic neuritis (one in the con- trol group), recurrent tamponade (one in the control group), and supraventricular tachycardia (one in the control group).
+DISCUSSION   As compared with generalized immunosuppressive therapy, induction therapy with daclizumab decreased the frequency of rejection, prolonged the time to a first rejection episode in the first three months after cardiac transplantation, and decreased the overall se- verity of rejection.
+In addition, as compared with the patients in the control group, those in the daclizumab group were less likely to need rescue therapy with an- tilymphocytic agents, needed less prednisone by the fifth month after transplantation, and were less likely to have immunologic reactivity against the allograft.
+Daclizumab was more effective at reducing the fre- quency of rejection episodes in our patients than in a previously described series of renal-allograft recip- ients treated with daclizumab.
+10    This may reflect the fact that we used mycophenolate mofetil instead of azathioprine, since it is superior to azathioprine in preventing allograft rejection when it is part of a tri- ple-drug immunosuppressive regimen.
+14,15   There has been considerable debate about the value of induction therapy with monoclonal or polyclonal antibodies after cardiac transplantation.
+Monoclonal- antibody–based approaches, aimed at interrupting the activation of CD3 cells,   7,16    are extremely effective in terminating acute episodes of allograft rejection and in treating refractory rejection.
+However, the results of comparative studies of outcomes with and without monoclonal induction therapy have varied, with most studies demonstrating an effect on rejection that is maintained only while antibody therapy is ongoing.
+16   Without repeated administration, these agents only delay the time to a first rejection episode without de- creasing the overall frequency or severity of rejection.
+16   At a mechanistic level, therefore, these agents appear to induce T-cell anergy and not clonal deletion.
+17,18   Moreover, since neutralizing antimouse antibodies against the monoclonal agent inevitably develop after   *The duration of the induction period was three months; the period af- ter induction was nine months.
+T   ABLE    2.
+S   EVERITY       AND    F   REQUENCY       OF    R   EJECTION    E   PISODES   ,  IgG A   NTIBODY    P   RODUCTION   ,    AND    P   OSITIVE    R   ESULTS       ON       THE    L   YMPHOCYTE   -G   ROWTH    A   SSAY       DURING       AND       AFTER       THE    I   NDUCTION    P   ERIOD   .
+*   V   ARIABLE   C   ONTROL     G   ROUP     (N=27) D   ACLIZUMAB     G   ROUP     (N=28) P V   ALUE   No.
+of grade »2 rejection episodes Total During induction After induction 27 17 10 17 5 12 0.09 0.007 0.72 No.
+of grade 2 rejection episodes Total During induction After induction 18 10 8 15 4 11 0.52 0.09 0.53 No.
+of grade 3 rejection episodes Total During induction After induction 9 7 2 2 1 1 0.03 0.03 0.54 No.
+of patients with »2 rejection episodes Total During induction After induction 7 3 4 5 0 5 0.47 0.07 0.76 Frequency of rejections (episodes/ patient) Total During induction After induction 1.12 0.64 0.54 0.67 0.19 0.50 0.09 0.02 0.85 No.
+of patients with IgG antibodies Total During induction After induction 19 14 5 6 4 2 <0.001 0.004 0.04 No.
+of patients with positive lympho- cyte-growth assay Total During induction After induction 13 10 3 10 7 3 0.26 0.27 0.26 The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.
+618   ·   March 2,  2000   The New England Journal  of  Medicine   10 to 14 days of treatment, prolonged or repeated courses are generally not possible.
+Therapy with mon- oclonal or polyclonal antibodies has also been asso- ciated with a greater incidence of opportunistic infec- tion and cancer, probably because of the nonspecific T-cell suppression that results from such treatment.
+Frequent side effects, such as the cytokine release syn- drome, allergic reactions, fever, and thrombocytope- nia, also occur with these drugs.
+Treatment with daclizumab resulted in a significant reduction in the frequency and severity of rejection during the treatment period, but after the cessation of therapy, the frequency of rejection increased to a level similar to that in the control group.
+This finding sug- gests that daclizumab has an immunomodulatory ef- fect that is similar to that of other monoclonal anti- body–based therapies (i.e., it induces clonal anergy rather than clonal deletion).
+However, daclizumab, a human monoclonal antibody directed against the in- terleukin-2 receptor, has several advantages over other induction agents.
+Given its unique composition, its use is not functionally immunogenic.
+19-21    Its effective se- rum half-life is 21 days   22   ; five doses thus provide sat- uration for at least 3 months (as determined by recep- tor-saturation studies   23   ), which covers the period of the highest incidence of cardiac-allograft rejection.
+2   Moreover, this lack of immunogenicity makes possible prolonged courses and may permit repeated use of this agent for more than three months.
+Furthermore, rejection that occurred after the cessation of daclizu- mab therapy was generally preceded by the develop- ment of circulating IgG anti-HLA antibodies.
+Indeed, the one death due to acute rejection in the daclizumab group was preceded by both the formation of circulat- ing IgG antibodies and a positive result on the lym- phocyte-growth assay.
+Therefore, careful immunologic screening may identify patients who require pro- longed, higher-dose, or repeated daclizumab therapy.
+Interestingly, although the frequency of acute re- jection episodes was significantly reduced during da- clizumab therapy, the number of interleukin-2–acti- vated T cells present in the allograft, as measured by the lymphocyte-growth assay, did not differ signifi- cantly between the groups.
+Doses of daclizumab that were suboptimal because of the biodistribution or because some patients had a more vigorous interleu-   Figure 3.
+Kaplan–Meier Analysis of the Length of Time to a Positive Lymphocyte-Growth Assay in the Control and Daclizumab Groups.
+The dashed portion of the curves represents the anticipated values for the completion of the study on the basis of the currently available data.
+0 100 0 12 10 20 30 40 50 60 70 80 90 3 P=0.27H Induction period P=0.72H Postinduction period Daclizumab groupH (n=28) Control groupH (n=27) 6 9 Months after Transplantation P at ie n ts  w it h o u t  P o si ti ve  L ym p h o cy te -G ro w th  A ss ay  ( % ) The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.
+PREVENTION OF REJECTION IN CARDIAC TRANSPLANTATION BY BLOCKADE OF THE INTERLEUKIN-2 RECEPTOR   Volume 342 Number 9   ·   619   kin-2 response than others, reflecting such fixed im- munologic variables as HLA-DR mismatching, may account for this finding.
+Daclizumab therapy also produced a marked re- duction in the formation of anti-HLA antibodies that was sustained, even after induction therapy was stopped.
+The development of anti-HLA IgG anti- bodies after the cessation of daclizumab therapy gen- erally preceded the onset of late rejection, suggesting that the lymphocyte-growth assay may be helpful in determining the optimal dose of daclizumab for re- cipients of heart transplants in the future.
+The fact that daclizumab affects the production of anti-HLA antibodies suggests that the drug has a prominent ef- fect on the indirect pathway of recognition.
+The in- direct pathway of CD4 T-cell activation plays an im- portant part in the development of acute and chronic allograft rejection.
+24    Whereas primary rejection ap- pears always to be accompanied by recognition by the recipient’s T cells of a dominant HLA-DR allopep- tide presented by self-antigen–presenting cells,   25,26    re- current episodes of rejection and the development of transplant-related coronary disease appear to re- sult from the activation of antigen-specific B cells by soluble HLA-DR molecules.27-29 Since the develop- ment of anti-HLA IgG antibodies to the graft has been associated with the development of cellular rejection13 and graft atherosclerosis,30 effective inhibi- tion by interleukin-2–receptor blockade may thus fa- vorably influence both the development of transplant- related coronary artery disease and long-term survival.
+The short-term safety profile of daclizumab ap- pears to be superior to that of other therapies based on monoclonal or polyclonal antibodies.
+The admin- istration of daclizumab was not associated with any detectable signs of the cytokine release syndrome or allergic responses.
+The incidence of infection or cancer was not higher in the daclizumab group than in the control group.
+This finding may reflect the fact that more selective immunosuppression can be achieved or that the dose of prednisone can be tapered more rapidly with daclizumab therapy than with conven- tional immunosuppressive therapy.
+In conclusion, daclizumab is an effective adjuvant immunomodulating agent in nonsensitized recipients of cardiac transplants.
+It has advantages over conven- tional induction therapy with muromonab-CD3 or antithymocyte globulin because it is more selective and because it can be used for prolonged and poten- tially repeated periods.
+Studies with larger cohorts are needed to address the short-term and long-term sur- vival benefits for patients and should determine the optimal dosing schedules with the possible repeated use of daclizumab.
+REFERENCES 1.
+Bourge RC, Naftel DC, Costanzo-Nordin MR, et al.
+Pretransplantation  risk factors for death after heart transplantation: a multiinstitutional study.
+J Heart Lung Transplant 1993;12:549-62.
+2.
+Kubo SH, Naftel DC, Mills RM Jr, et al.
+Risk factors for late recurrent  rejection after heart transplantation: a multiinstitutional, multivariable  analysis.
+J Heart Lung Transplant 1995;14:409-18.
+3.
+Ventura HO, Mehra MR, Smart FW, Stapleton DD.
+Cardiac allograft  vasculopathy: current concepts.
+Am Heart J 1995;129:791-9.
+4.
+Costanzo-Nordin MR. Cardiac allograft vasculopathy: relationship with  acute cellular rejection and histocompatibility.
+J Heart Lung Transplant  1992;11:S90-S103.
+5.
+Uretsky BF, Murali S, Reddy PS, et al.
+Development of coronary artery  disease in cardiac transplant patients receiving immunosuppressive therapy  with cyclosporine and prednisone.
+Circulation 1987;76:827-34.
+6.
+Hammond EH, Yowell RL, Price GD, et al.
+Vascular rejection and its  relationship to allograft coronary artery disease.
+J Heart Lung Transplant  1992;11:S111-S119.
+7.
+Norman DJ, Kahana L, Stuart FP Jr, et al.
+A randomized clinical trial  of induction therapy with OKT3 in kidney transplantation.
+Transplantation  1993;55:44-50.
+8.
+Morris RE.
+Mechanisms of action of new immunosuppressive drugs.
+Kidney Int Suppl 1996;53:S26-S38.
+9.
+Taniguchi T, Minami Y.
+The IL-2/IL-2 receptor system: a current over- view.
+Cell 1993;73:5-8.
+10.
+Vincenti F, Kirkman R, Light S, et al.
+Interleukin-2–receptor block- ade with daclizumab to prevent acute rejection in renal transplantation.
+N Engl J Med 1998;338:161-5.
+11.
+Billingham ME, Cary NRB, Hammond ME, et al.
+A working formu- lation for the standardization of nomenclature in the diagnosis of heart and  lung rejection.
+J Heart Transplant 1990;9:587-93.
+12.
+Fisher PE, Suciu-Foca N, Ho E, Michler RE, Rose EA, Mancini D.  Additive value of immunologic monitoring to histologic grading of heart  allograft biopsy specimens: implications for therapy.
+J Heart Lung Trans- plant 1995;14:1156-61.
+13.
+Itescu S, Tung TCM, Burke EM, et al.
+An immunological algorithm  to predict risk of high-grade rejection in cardiac transplant recipients.
+Lan- cet 1998;352:263-70.
+14.
+Kobashigawa J, Miller L, Renlund D, et al.
+A randomized active-con- trolled trial of mycophenolate mofetil in heart transplant recipients.
+Trans- plantation 1998;66:507-15.
+15.
+Sollinger HW.
+Mycophenolate mofetil for the prevention of acute re- jection in primary cadaveric renal allograft recipients.
+Transplantation  1995;60:225-32.
+16.
+Johnson MR, Mullen GM, O’Sullivan EJ, et al.
+Risk/benefit ratio of  perioperative OKT3 in cardiac transplantation.
+Am J Cardiol 1994;74:261-6.
+17.
+Arnold B, Schonrich G, Hammerling GJ.
+Multiple levels of peripheral  tolerance.
+Immunol Today 1993;14:12-4.
+18.
+Kabelitz D. Apoptosis, graft rejection, and transplantation tolerance.
+Transplantation 1998;65:869-75.
+19.
+Hakimi J, Mould D, Waldmann TA, Queen C, Anasetti C, Light S.  Development of Zenapax: a humanized anti-Tac antibody.
+In: Harris WJ,  Adair JR, eds.
+Antibody therapeutics.
+Boca Raton, Fla.: CRC Press, 1997: 277-300.
+20.
+Hakimi J, Chizzonite R, Luke DR, et al.
+Reduced immunogenicity  and improved pharmacokinetics of humanized anti-Tac in cynomolgus  monkeys.
+J Immunol 1991;147:1352-9.
+21.
+Brown PS Jr, Parenteau GL, Dirbas FM, et al.
+Anti-Tac-H, a human- ized antibody to the interleukin 2 receptor, prolongs primate cardiac allo- graft survival.
+Proc Natl Acad Sci U S A 1991;88:2663-7.
+22.
+Anasetti C, Hansen JA, Waldmann TA, et al.
+Treatment of acute graft- versus-host disease with humanized anti-Tac: an antibody that binds to the  interleukin-2 receptor.
+Blood 1994;84:1320-7.
+23.
+Stock PG, Lantz M, Light S, Vincenti F. In vivo (phase I) trial and in  vitro efficacy of humanized anti-Tac for the prevention of rejection in renal  transplant recipients.
+Transplant Proc 1996;28:915-6.
+24.
+Liu Z, Sun YK, Xi YP, et al.
+Contribution of direct and indirect rec- ognition pathways to T cell alloreactivity.
+J Exp Med 1993;177:1643-50.
+25.
+Liu Z, Colovai AI, Tugulea S, et al.
+Indirect recognition of donor  HLA-DR peptides in organ allograft rejection.
+J Clin Invest 1996;98: 1150-7.
+26.
+Tugulea S, Ciubotariu R, Colovai AI, et al.
+New strategies for early  diagnosis of heart allograft rejection.
+Transplantation 1997;64:842-7.
+27.
+Vanderlugt CJ, Miller SD.
+Epitope spreading.
+Curr Opin Immunol  1996;8:831-6.
+28.
+Mamula MJ, Janeway CA Jr. Do B cells drive the diversification of im- mune responses?
+Immunol Today 1993;14:151-4.
+29.
+Reed EF, Hong B, Ho E, Harris PE, Weinberger J, Suciu-Foca N.  Monitoring of soluble HLA alloantigens and anti-HLA antibodies identi- fies heart allograft recipients at risk of transplant-associated coronary artery  disease.
+Transplantation 1996;61:566-72.
+30.
+Rose EA, Pepino P, Barr ML, et al.
+Relation of HLA antibodies and  graft atherosclerosis in human cardiac allograft recipients.
+J Heart Lung  Transplant 1992;3:S120-S123.
+The New England Journal of Medicine  Downloaded from nejm.org on October 14, 2015.
+For personal use only.
+No other uses without permission.
+Copyright © 2000 Massachusetts Medical Society.
+All rights reserved.  

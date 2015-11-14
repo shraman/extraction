@@ -1,0 +1,429 @@
+receipt of a graft from a donor > 60 years of age, or with documented coronary disease or other heart disease; a previous or multiple-organ transplant; unstable haemodynamic status at the time of randomisation; creatinine level more than 250 mol/ L
+Key exclusion teria were: receipt of a graft from a donor aged 60 ars or with documented coronary disease or other art disease; a previous or multiple-organ transplant; stable hemodynamic status at the time of randomiza- n; or creatinine level 250 mol/liter.
+score --> 15
+Baseline Recipient and Donor Character Ba Recipient characteristics Mean age  SD (years) Male gender (%) Mean cold ischemia time  SD (minutes) Indication for transplantation (%) Idiopathic cardiomyopathy Coronary artery disease Congenital heart disease Valvular heart disease Others Donor characteristics Mean age  SD (years) Male gender (%) CMV status D/R (%) aWilcoxon rank sum test.
+score --> 12
+This 6-month, prospective, rando basiliximab offers a tolerability benefit c maintaining similar efficacy in de novo hea thods: Adult heart transplant recipients were rando 4) or ATG (2.5 mg/kg/day for 3 to 5 days) w The primary safety end-point was a composi infection, thrombocytopenia, leukopenia a assessed by a composite end-point of deathne et René Laënnec, Nantes, France; Department of Cardiology j.heCardiac Transplant Patients hymocyte Globulin as andjbakhch, MD,c Annick Mouly Bandini, MD,d ,g Bernard Lelong, MD,h Annie Pol, MD,i Dorent, MD,l Djamila Lemay, MD,m urrently used in heart transplantation despite safety zed, multicenter, open-label study examined whether pared with anti-thymocyte globulin (ATG) while transplant recipients.
+score --> 5
+dy Population tients between the ages of 18 and 65 years undergo- a primary heart transplant with a cold ischemia time 6 hours were eligible for inclusion.
+score --> 5
+rtality in the basiliximab group was broadly in line th other recent studies in de novo heart transplant ipients.16,17 Much concern has been raised by a placebo-con- lled study reporting an increased risk of death in art transplant recipients treated with the anti-CD25 noclonal antibody daclizumab.18 In that study, nducted in 434 heart transplant recipients, 21 tients (9.7%) in the daclizumab group and 11 tients (5.3%) in the placebo group died by Month .
+score --> 5
+nventional induction therapy, including anti-thy- cyte globulin (ATG) and OKT3, has been used for 0 years in heart transplantation as prophylaxis ainst early rejection.1 Although polyclonal anti- phocyte induction has proven effective in de- asing the incidence of cardiac allograft rejection, it has the disadvantage of being associated with a high risk of infection, especially viral infections such as cytomegalovirus (CMV),2– 4 and lymphoprolifera- tive disorders.5,6 Moreover, ATG use is associated with a significant level of adverse events due to T-lymphocyte depletion.
+score --> 4
+Two such studies have demonstrated an efficacy vantage for ATG after heart11 and lung12 transplanta- n. In renal transplantation, in contrast, three prospec- e trials of basiliximab vs ATG have shown compara- rejection rates, but better tolerability, as well as er levels of CMV infection with basiliximab.13–15 The current open, multicenter, comparative, random- d study was designed to assess the safety of basilix- ab and ATG in de novo heart transplant recipients eiving cyclosporine, mycophenolate mofetil (MMF) d steroids.
+score --> 4
+THODS is was a 6-month, open-label, multicenter, compara- e, randomized study conducted at transplant centers France among primary heart transplant recipients th no severe concomitant conditions known to im- ct transplantation outcome.
+score --> 4
+ere were no significant differences between the atment groups with respect to recipient gender, age, nor age, CMV status or cold ischemia time (Table 1).
+score --> 4
+However, the use of anti-CD25 therapy has ly recently been assessed in heart transplantation in domized, multicenter studies.8–10 Results from a ot study have suggested that addition of the chimeric 2 receptor antibody basiliximab to a conventional ple-therapy regimen is safe and well-tolerated,9 and n delay initiation of cyclosporine without increased k of rejection in patients at risk of renal dysfunc- n.8,10 Comparative studies of IL-2 receptor antibody uction vs ATG in thoracic transplantation to date, wever, have been single-center retrospective analy- .
+score --> 3
+SULTS dy Population hty heart transplant recipients were randomized at transplant centers (38 basiliximab, 42 ATG).
+score --> 3
+nclusions: These results suggest that basiliximab offers improved tolerability with similar efficacy compared with current polyclonal antibody induction therapy in de novo heart transplant patients.
+score --> 2
+There were six major protocol deviations: 3 siliximab-treated patients were CMV D/R and 1 d CMV infection at study entry, but none received ophylaxis for CMV infection, whereas in the ATG up 1 patient was not treated as randomized and 1 d unstable hemodynamic status at study entry.
+score --> 2
+ronary artery disease (32 patients, 40.0%) and idio- thic cardiomyopathy (31 patients, 38.8%) were the st frequent primary indications for heart transplan- ion.
+score --> 2
+CUSSION r results show that basiliximab induction is better erated than ATG in de novo heart transplant recipi- ts, with no apparent compromise in efficacy when ministered in combination with cyclosporine, corti- steroids and MMF.
+score --> 2
+Risk factors for early, cumulative, and fatal infections after heart transplantation: a multiinstitutional study.
+score --> 2
+Our results suggest that basiliximab induction pro- es improved tolerability in de novo heart transplant ipients when compared with current polyclonal tibody induction therapy, with no apparent loss of cacy.
+score --> 2
+Infectious complications among 620 consecutive heart transplant patients at Stanford University Medical Center.
+score --> 2
+Use of basiliximab and cyclosporine in heart transplant patients with pre-operative renal dysfunction.
+score --> 2
+Basiliximab versus rabbit anti-thymocyte globulin for induction therapy in patients after heart transplantation.
+score --> 2
+Similar efficacy and safety of enteric-coated mycophenolate sodium (EC-MPS, myfortic) compared with mycophenolate mofetil (MMF) in de novo heart transplant recipients: results of a 12-month, single- blind, randomized, parallel-group, multicenter study.
+score --> 2
+of serum sickness, fever, cutaneous rash, anaphylaxis, post-transplant proliferative disease.
+score --> 1
+In contrast to renal transplantation, cyclo- orine initiation is not generally delayed in ATG- ated patients in France, and thus concomitant immu- suppression was identical in both treatment arms.
+score --> 1
+Cyclosporine was adminis- ed either as a continuous infusion of 1 to 3 mg/kg/ y or orally 4 to 6 mg/kg/day (Neoral, Novartis, Basel, itzerland) to maintain trough levels of 150 to 350 /ml during Weeks 1 to 6 and 150 to 300 ng/ml during eek 6 to Month 6.
+score --> 1
+MMF was initiated ravenously and then orally (2 to 3 g/day), before nsplantation or on the day of transplantation and ntinued throughout the study period as per local actice.
+score --> 1
+In all cases in which the donor was positive and the ipient negative for CMV (D/R), patients received onth prophylactic treatment with ganciclovir or laciclovir.
+score --> 1
+In all other cases, pre-emptive or therapeu- treatment of CMV disease was applied as per local actice.
+score --> 1
+Patients received statin therapy irrespective of ir initial cholesterol levels.
+score --> 1
+A non-inferiority analysis compared efficacy tween treatment groups at Month 6, using a compos- failure criterion (death, graft loss, acute rejection of ade 1B [as per International Society for Heart and ng Transplantation guidelines], acute rejection asso- ted with hemodynamic compromise, acute rejection ated with antibody therapy, or loss to follow-up, ichever occurred first).
+score --> 1
+695 Volume 26, Number 7rdial biopsies were performed on Days 7, 14 and 21 d at Months 1, 2, 3, 4, 5 and 6, and the same time edule was applied for detection of CMV infection ough antigenemia or polymerase chain reaction R) assay.
+score --> 1
+At each study e-point, similar cyclosporine trough levels (C0) were nd in both groups: in the basiliximab group, median values were 73 ng/ml at Day 2, 272 ng/ml at Day 21 d 179 ng/ml at Month 6; in the ATG group, the rresponding values were 108 ng/ml, 281 ng/ml and 2 ng/ml, respectively.
+score --> 1
+Causes of Death Within 12 Months of Transplantation fety Population) Basiliximab (n  38) ATG (n  42) p-value (Fisher’s test) th rate 5 (13.2%) 9 (21.4%) 0.388 on-infectious deaths 5 (13.2%) 3 (7.1%) Respiratory failure 1 0 Right ventricular failure 0 1 Cardiac arrest 1 0 Tamponade 0 1 Cerebral hemorrhage 1 1 Primary graft dysfunction 1 0 Pericardial effusion 1 0 nfectious deaths 0 6 (14.3%) Septic shock 0 4 Septicemia 0 1 Aspergillosis 0 1Tab (Sa Dea N Inction and presence of CMV in the organ involved.
+score --> 1
+No grafts were lost, no tients were lost to follow-up, and none of the com- nents of the composite efficacy end-point differed nificantly between the two groups.
+score --> 1
+an time to first BPAR of Grade 1B was 47.9  43.8 ys in the basiliximab group and 66.5  37.2 days in ATG group.
+score --> 1
+Efficacy Failure Within 6 Months Post-transplant Basiliximab group (n  38) ATG (n  42) cacy failurea 24 (63.2%) 28 (66.7%) cute rejection of Grade 1B 19 (50.0%) 19 (45.2%) cute rejection associated with HDCb 1 (2.6%) 2 (4.8%) cute rejection treated with antibody therapy 5 (13.2%) 3 (7.1%) raft loss 0 (0.0%) 0 (0.0%) eath 5 (13.2%) 9 (21.4%) ost to follow-up 0 (0.0%) 0 (0.0%) cacy failure defined as death, graft loss, acute rejection of Grade1B, acute ction associated with HDC, acute rejection treated with antibody therapy or to follow-up, whichever occurred first.
+score --> 1
+Although not statistically nificant, this difference is consistent with previous ta showing no increase in infections with basilix- ab induction9 and an increased risk of infection, pecially CMV, with ATG.2,3 The difference in infec- n rates is in line with the impact of the two agents white blood cells: the incidence of leukopenia s markedly lower in the basiliximab group com- red with ATG.
+score --> 1
+With infection being one of the st common causes of early and late death in heart nsplant recipients, the rate of septic death in our pulation is of particular interest.
+score --> 1
+dent risk factor for infection after transplantation.
+score --> 1
+Lymphoproliferative disease 6.
+score --> 1
+This ult, in apparent contrast to the high rate of septic ath reported in the daclizumab group from the uble-blind study, supports the hypothesis of an intended level of immunosuppression in this treat- nt arm.
+score --> 1
+e combined incidence of death, graft loss and acute ection was similar in both groups and the incidence BPAR Grade 1B and of acute rejection with modynamic compromise was also similar, although merically more patients had BPAR Grade 3A with siliximab.
+score --> 1
+CD25 inhibition is max- al with basiliximab induction for between 30 and days,19 which underscores the need to ensure equate maintenance immunosuppression during e time when the effect of IL-2RA induction is clining.
+score --> 1
+The registry of the International Society for Heart and Lung Transplantation: twenti- eth official adult transplant report—2003.
+score --> 1
+J Heart Lung Trans- plant 2003;22:616–24.after renal transplantation in Australia and New Zealand.
+score --> 1
+Cancer incidence after immunosuppressive treatment following kidney transplantation.
+score --> 1
+Induction therapy with basiliximab allows delayed initiation of cyclosporine and preserves renal function after cardiac transplantation.
+score --> 1
+A multicenter, prospec- tive, randomized, double-blind trial of basiliximab in heart trans- plantation.
+score --> 1
+A comparison of basiliximab and anti-thymocyte globulin as induction agents after lung transplantation.
+score --> 1
+Immunoprophylaxis with basiliximab compared with antithymocyte globulin in renal transplant patients receiving MMF-containing triple therapy.
+score --> 1
+Tacrolimus with mycophenolate mofetil (MMF) or sirolimus vs. cyclosporine with MMF in cardiac transplant patients: 1-year report.
+score --> 1
+Daclizumab to prevent rejection after cardiac transplantation.
+score --> 1
+Population pharmacoki- netics and exposure–response relationships for basiliximab in kidney transplantation.
+score --> 1
+Lo R -t In Ma j G All MD Mi ard An Ba s c mi om rt Me m it te nd , g associated with hemodynamic compromise or treated with antibody therapy, or loss to follow-up, whichever occurred first.
+score --> 0
+Re Co Co mo 2 ag lym cre Fro Bra tion ogy dDe Ma Ce Car gDe Ge Tra Car Fra lau IMMUNOSUPPRESSIONsults: Eighty patients were randomized and analyzed.
+score --> 0
+By Month 6, the incidence of the composite safety end-point was significantly lower with basiliximab than with ATG (50.0% vs 78.6%, p  0.01), and infectious death was less frequent in the basiliximab group (0 of 38 vs 6 of 42, p  0.027).
+score --> 0
+The composite efficacy end-point occurred in 24 patients (63.2%) in the basiliximab arm vs 28 patients (66.7%, p  not significant [NS]) receiving ATG.
+score --> 0
+Acute rejection episodes of Grade 1B were reported with similar frequency (50% with basiliximab vs 45.2% with ATG, p  NS); 7 patients (18.4%) in the basiliximab group and 3 (7.1%) in the ATG group had rejection Grade 3A.
+score --> 0
+J Heart Lung Transplant 2007;26: 693–9.
+score --> 0
+Copyright © 2007 by the International Society for Heart and Lung Transplantation.
+score --> 0
+m the aDepartment of Cardiology and Transplantation, Hôpital bois, Nancy, France; bDepartment of Cardiology and Transplanta- , Hôpital Charles Nicole, Rouen, France; cDepartment of Cardiol- and Transplantation, Hôpital La Pitié Salpêtriére, Paris, France; partment of Cardiology and Transplantation, Hôpital La Timone, rseille, France; eDepartment of Cardiology and Transplantation, ntre Hospitalier du Haut Levèque, Pessac, France; fDepartment of diology and Transplantation, Hôpital Civil, Strasbourg, France; partment of Cardiology and Transplantation, Hôpital Européen orges Pompidou, Paris, France; hDepartment of Cardiology and nsplantation, Hôpital Pontchaillou, Rennes, France; iDepartment of diology and Transplantation, Hôpital Cardiologique de Lille, Lille, nce; jDepartment of Cardiology and Transplantation, Hôpital Guil- k and Transplantation, Hôpital Henri Mondor, Créteil, France; lDepart- ment of Cardiology and Transplantation, Hôpital Tenon, Paris, France; mNovartis France SAS, Rueil Malmaison, France; and nDepartment of Cardiology and Transplantation, Hôpital Cardiologique, Lyon, France.
+score --> 0
+Submitted January 25, 2007; revised May 4, 2007; accepted May 8, 2007.
+score --> 0
+Supported by a grant from Novartis Pharma AG.
+score --> 0
+Reprint requests: Françoise Marie Mattei, MD, Department of Cardiol- ogy and Transplantation, Hôpital Brabois, 54512 Nantes, France.
+score --> 0
+Tele- phone: 33-3-83-15-30-93.
+score --> 0
+Fax: 33-3-83-44-08-44.
+score --> 0
+E-mail: mf.mattei@ chu-nancy.fr Copyright © 2007 by the International Society for Heart and Lung Transplantation.
+score --> 0
+1053-2498/07/$–see front matter.
+score --> 0
+doi:10.1016/wer Risk of Infectious Deaths in eceiving Basiliximab Versus Anti duction Therapy rie Françoise Mattei, MD,a Michel Redonnet, MD,b Irad ain Billes, MD,e Eric Epailly, MD,f Romain Guillemain, chelle Treilhaud, MD,j Emmanuelle Vermes, MD,k Rich ne Sandrine Blanc, MD,m and Pascale Boissonnat, MDn ckground: Conventional antibody induction therapy i concerns.
+score --> 0
+ized to receive basiliximab (20 mg on Day 0 and Day h cyclosporine, mycophenolate mofetil and steroids.
+score --> 0
+Efficacy was raft loss, acute rejection Grade 1B, acute rejectionalun.2007.05.002 693 int su res ati de mo is on ran pil IL- tri ca ris tio ind ho ses ad tio tiv ble low ize im rec an sp tre no ME Th tiv in wi pa du an Pa wr stu Stu Pa ing of cri ye he un tio Im Du ize (Si an tra Ly 25 po co ter da Sw ng W scr wa 0.3 tha int tra co pr rec 3-m va tic pr the Stu Th de an the sic art tre dis leu be ite Gr Lu cia tre wh Ev Stu 7, rej 694 Mattei et al.
+score --> 0
+The Journal of Heart and Lung Transplantation July 2007In contrast, monoclonal antibodies specific to the erleukin-2 (IL-2) receptor result in selective immuno- ppression by targeting activated T-cell proliferation in ponse to allograft antigens, such that T-cell prolifer- on is blocked but resting T-lymphocytes are not pleted.7 Thus, the broad cross-reactivity seen with re traditional induction therapy agents such as ATG avoided.
+score --> 0
+The study was con- cted in compliance with the Declaration of Helsinki d was approved by the ethics committee of the ris–Pitié-Salpêtriére Hospital.
+score --> 0
+All subjects gave their itten informed consent prior to inclusion in the dy.
+score --> 0
+comunosuppression ring the post-operative phase, patients were random- d in a 1:1 ratio to receive either basiliximab 20 mg mulect, Novartis, Basel, Switzerland) administered as intravenous bolus injection on Days 0 and 4 post- nsplant, or ATG (Thymoglobuline, IMTIX-SangStat, on, France) administered as a continuous infusion of mg/10 kg per day from Day 0 to Days 3 to 5 st-transplant.
+score --> 0
+All patients also received cyclosporine, rticosteroids and MMF.
+score --> 0
+Intravenous steroids were pre- ibed according to local practice.
+score --> 0
+Oral prednisone s initiated at a dose of 1 mg/kg/day and tapered to to 0.5 mg/kg/day by Day 21, with the dose no less n 0.1 mg/kg/day by Month 6.
+score --> 0
+dy End-points e primary safety end-point was the 6-month inci- nce of a composite end-point consisting of the first of y one of the following adverse events suspected by investigator to be related to the study drug: serum kness (fever [temperature 38°C] for 5 days, with hralgia/myalgia); cutaneous rash; anaphylaxis; ated infection; post-transplant lymphoproliferative ease; or episodes of fever, thrombocytopenia and kopenia.
+score --> 0
+aluation dy visits were scheduled at baseline, on Days 1, 3, 5, 10, 14 and 21, and at Months 1, 2, 3, 4, 5 and 6.
+score --> 0
+Acute ections, malignancy and mortality data were re- rded at Month 12.
+score --> 0
+Cardiac echography and endomyo- ca an sch thr (PC Sta Ch thr in saf en gro dr co tie tio saf co on su wa for pr da Fis we su inv ses im po the an 2-s RE Stu Eig 12 me co saf in 34 gro ba ha pr gro istic sili 5 15 3 The Journal of Heart and Lung Transplantation Mattei et al.
+score --> 0
+tistical Methods oosing a power of 80% and a 2-sided significance eshold led to a necessary sample size of 33 patients each treatment group for detection of the primary ety end-point, based on the assumption that the d-point would occur in 50% of patients in the ATG up and 15% in the basiliximab group.
+score --> 0
+Allowing for op-outs, a sample size of 40 patients per group was nsidered necessary.
+score --> 0
+The safety population comprised all randomized pa- nts who received at least one dose of study medica- n and had at least one subsequent assessment of ety/tolerability.
+score --> 0
+The intent-to-treat (ITT) population mprised randomized patients who received at least e dose of study medication and had at least one bsequent efficacy assessment.
+score --> 0
+A per-protocol analysis s conducted in the population of patients available the ITT analysis who had no major deviations to the otocol.
+score --> 0
+Baseline patient characteristics and demographic ta were compared using Wilcoxon’s rank tests or her’s exact tests, as appropriate.
+score --> 0
+Fisher’s exact tests re used to compare the incidence of adverse events spected to be related to the study drug by the estigator (primary safety end-point).
+score --> 0
+Efficacy analy- were designed to show non-inferiority of basilix- ab vs ATG.
+score --> 0
+Survival distributions for efficacy end- int were estimated using Kaplan–Meier curves and Table 1.
+score --> 0
+bFisher’s exact test.difference between the two treatment groups was paalyzed using a log-rank test.
+score --> 0
+All statistical tests were ided with a significance threshold of p  0.05.
+score --> 0
+Enroll- nt started in January 2002, and the last patient mpleted the final study visit in May 2004.
+score --> 0
+The ITT and ety populations comprised the 80 patients enrolled the study.
+score --> 0
+The per-protocol population consisted of patients in the basiliximab group and 40 in the ATG up.
+score --> 0
+Sixty- patients (82.5%) completed the 12-month visit.
+score --> 0
+dy Drug Administration and Concomitant Medication the 38 patients randomized to basiliximab, 37 re- ived a total dose of 40 mg.
+score --> 0
+The remaining patient died Day 3 and therefore did not receive the Day 4 dose.
+score --> 0
+the ATG group, the mean daily dose was 22.4  3.8 per 10 kg/day and the mean total dose was 643.8  5.5 mg. One patient (2.4%), 16 patients (38.1%), 9 s (Safety Population) ximab (n  38) ATG (n  42) p-value 2.7  8.1 49.6  11.6 0.311a 36 (95%) 37 (88%) 0.436b 1.4  59.4 167.3  64.6 0.298a 0.2943 15 (39%) 16 (38%) 13 (34%) 19 (45%) 1 (3%) 2 (5%) 6 (16%) 1 (2%) 3 (8%) 4 (10%) 5.2  13.0 36.8  12.5 0.551a 33 (87%) 29 (69%) 0.104b 11 (28.9) 6 (14.3) 0.238bha six Th tre do Co pa mo tat Stu Of ce on In mg 24tients (21.4%), 15 patients (35.7%) and 1 patient (2. da gro the tim fou C0 an co 20 rec giv Sa By gr rea (T ac (Fi ac we ran inf ble be fir im thr ser pa leu ser in no ( wi tie or stu gro p  ba of gro (45 dr Tab Tre Cyc B A Cor B A My B A aVa afe 696 Mattei et al.
+score --> 0
+The Journal of Heart and Lung Transplantation July 20074%), respectively, received ATG for 2, 3, 4, 5 and 7 ys.
+score --> 0
+There were no significant differences between the ups in terms of concomitant immunosuppressive rapy during the study (Table 2).
+score --> 0
+Seventy-six patients (95%) eived statins, with 2 patients in each group not being en statin therapy.
+score --> 0
+fety Month 6, 19 (50.0%) patients in the basiliximab oup and 33 (78.6%) patients in the ATG group had ched the primary safety end-point (p  0.01) able 3).
+score --> 0
+This difference was more pronounced cording to the Kaplan–Meier estimates (p  0.001) gure 1).
+score --> 0
+No cases of serum sickness, anaphylaxis or ute hypersensitivity, cutaneous rash or malignancy re reported in either group, but fewer patients domized to basiliximab had at least one episode of ection, fever, thrombocytopenia or leukopenia (Ta- le 2.
+score --> 0
+Daily Doses of Concomitant Treatments by Time Intervals and atment Week 1 Weeks 2 to 3 losporine (mg/kg) asiliximab 4.1 1.0 (4.3) 4.8 1.3 (4.7 TG 4.3 1.6 (4.6) 4.8 1.7 (4.7 ticosteroids (mg/kg/day) asiliximab 3.2 1.5 (3.2) 1.2 1.0 (0.8 TG 3.1 1.2 (3.1) 0.9 0.8 (0.7 cophenolate mofetil (g/day) asiliximab 2.1 0.6 (2.0) 2.2 0.6 (2.0 TG 1.9 0.6 (2.0) 2.1 0.7 (2.0 lues are shown as mean  SD (median).
+score --> 0
+Table 3.
+score --> 0
+Primary Safety End-point at 6 Months (S Ba (n Safety failurea 19 Serum sickness Anaphylaxis or acute hypersensitivity Cutaneous rash Treated infections 19 Fever 4 Thrombocytopenia Leukopenia 1 Lymphoproliferative disorder aSafety failure defined as serum sickness; anaphylaxis o cytopenia; leukopenia; post-transplant lymphoma or rash, w3).
+score --> 0
+No cases of lymphoproliferative disorder have en reported in subsequent follow-up.
+score --> 0
+With regard to short-term tolerability (i.e., within the st 15 days post-transplant), no patients in the basilix- ab group had thrombocytopenia, whereas severe ombocytopenia (platelets 50,000/mm3) was ob- ved in 5 ATG group patients (11.9%, p  0.056).
+score --> 0
+No tients had platelet counts of 20,000/mm3.
+score --> 0
+Severe kopenia (white blood cells 3,000/mm3) was ob- ved in 8 patients in the ATG group (19.0%) and none the basiliximab group (p  0.006).
+score --> 0
+There was a n-significant trend toward a higher incidence of fever 38.5°C) in the ATG group (5 cases, 11.9%) compared th the basiliximab group (1 case, 2.6%, p  0.09).
+score --> 0
+By the 6-month post-transplant assessment, all pa- nts had experienced at least one adverse event.
+score --> 0
+One more adverse event suspected to be related to the dy drug was noted in 9 patients in the basiliximab up (23.7%) and 26 patients in the ATG group (61.9%, 0.001); the majority of these were hematologic (6 siliximab patients, 23 ATG patients).
+score --> 0
+The proportion serious adverse events (SAEs) was identical in both ups: basiliximab, n  17 (44.7%); ATG, n  19 .2%).
+score --> 0
+SAEs with a suspected relation to the study ug were mostly hematologic events (1 basiliximab atment Groups (Safety Population)a Weeks 4 to 6 Week 7 to Month 3 Months 4 to 6 3.9 1.4 (3.7) 3.7 1.1 (3.4) 3.9 1.0 (3.7) 4.5 1.9 (4.1) 4.4 1.6 (4.1) 4.2 1.2 (4.2) 0.6 0.5 (0.5) 0.7 1.2 (0.3) 0.2 0.1 (0.2) 0.5 0.5 (0.4) 0.4 0.4 (0.3) 0.3 0.3 (0.2) 2.2 0.7 (2.0) 2.1 0.7 (2.0) 2.0 0.8 (2.0) 2.0 0.7 (2.0) 2.0 0.7 (2.0) 1.9 0.7 (2.0) ty Population) imab 38) ATG (n  42) p-value Fisher’s test .0%) 33 (78.6%) 0.01 0 — 0 — 0 — .0%) 26 (61.9%) 0.37 .5%) 11 (26.2%) 0.09 6 (14.3%) 0.03 6%) 13 (31.0%) 0.001 0 ypersensitivity reaction, infection, fever, thrombo-silix  (50 0 0 0 (50 (10 0 (2.
+score --> 0
+0 r hTre ) ) ) ) ) )hichever occurred first.
+score --> 0
+pa im gro inf hig hig the wh an inf (8.
+score --> 0
+(22 vis in oc pla no de co 0.0 Effi At en ba Fig ite In ima 38 .2% .8% .5% %) %) %) .5% .8% %) n o yrex ,00 of t The Journal of Heart and Lung Transplantation Mattei et al.
+score --> 0
+697 Volume 26, Number 7tient and 3 ATG patients) and renal events (3 basilix- ab patients).
+score --> 0
+Twenty-seven patients (71.1%) in the basiliximab up and 35 patients (83.3%) in the ATG group had an ection.
+score --> 0
+The incidence of opportunistic infection was her in the ATG group (Table 4), with a particularly her frequency of asymptomatic CMV infection.
+score --> 0
+In per-protocol population (i.e., excluding patients in om CMV prophylaxis was omitted against protocol, d other major deviations), the difference in CMV ection rate was even more marked: 3 of 34 patients 8%) in the basiliximab group and 9 of 40 patients .5%) in the ATG group (p  0.13).
+score --> 0
+Fourteen patients died by the 12-month follow-up it: 5 (13.2%) in the basiliximab group and 9 (21.4%) ure 1.
+score --> 0
+Proportion of patients remaining free from primary compos- safety end-point at Month 6 (Kaplan–Meier test).
+score --> 0
+Table 4.
+score --> 0
+Patients With at Least One Opportunistic (Safety Population) Basilix (n  Overall opportunistic infection 13 (34 CMV 6 (15 Asymptomatic CMV infectiona 4 (10 CMV syndromeb 1 (2.6 CMV diseasec 1 (2.6 Herpes simplex 3 (7.9 Herpes zoster 0 Pneumocystis 0 Aspergillosis 4 (10 Candidosis 6 (15 Nocardiosis 1 (2.6 aAsymptomatic CMV infection was diagnosed by detectio reaction.
+score --> 0
+bCMV syndrome was defined as CMV infection plus p least one of the following: malaise and/or leukopenia 3 days, and/or transaminases at least twice the upper limit lymphocytes.
+score --> 0
+cTissue-invasive CMV was defined as signs of organ dysfuthe ATG group.
+score --> 0
+In the majority of cases, deaths curred during Month 1 (median 15 days after trans- ntation, range 3 to 74 days), and were due to n-immunologic causes (Table 5).
+score --> 0
+Six (14.3%) cases of ath from infection were reported in the ATG group mpared with no cases in the basiliximab group (p  27).
+score --> 0
+cacy the 6-month assessment, the composite efficacy d-point had occurred in 24 patients (63.2%) in the siliximab group and 28 patients (66.7%) in the ATG fection Within 6 Months of Transplantation b ) ATG (n  42) p-value (Fisher’s test) ) 19 (45.2%) 0.366 ) 10 (23.8%) ) 8 (19.0%) 1 (2.4%) 1 (2.4%) 4 (9.5%) 0 0 ) 1 (2.4%) ) 6 (14.3%) 0 f antibodies to the virus and/or polymerase chain ia 38°C for at least 2 consecutive days and at 0/mm3 and/or platelets for at least 2 consecutive he normal range and/or presence of5% atypical le 5.
+score --> 0
+gro pa po sig pa in ren the 1 p gro in AT (G gro ep Me da the ac gro in pa 0.9 we co DIS Ou tol en ad co co a d de ev red rat se in th ob sig da im es tio on wa pa mo tra po fou wi a l inf th Mo wi rec tro he mo co pa pa 12 da (m cy tio Fig Tab Effi A A A G D L aEffi reje lost b Day 698 Mattei et al.
+score --> 0
+The Journal of Heart and Lung Transplantation July 2007up (p  0.917) (Table 6).
+score --> 0
+By Month 6, 19 tients in each group had undergone BPAR Grade1B each group (50.0% and 45.2%, respectively).
+score --> 0
+Recur- t BPAR (Grade 1B) was reported in 6 patients in basiliximab group (5 patients had two episodes and atient had three episodes) and 3 patients in the ATG up had two episodes each.
+score --> 0
+Sixteen patients (42.1%) the basiliximab group and 15 patients (35.7%) in the G group had a treated acute rejection episode rade 1B).
+score --> 0
+Seven patients (18.4%) in the basiliximab up and 3 patients (7.1%) in the ATG group had an isode of BPAR Grade 3A (p  0.088, Fisher’s test).
+score --> 0
+During Months 6 to 12, one further ute rejection of Grade 1B was reported in each up; thus, the composite efficacy end-point occurred 25 patients (65.8%) in the basiliximab group and 28 tients (66.7%) in the ATG group by Month 12 (p  14).
+score --> 0
+Kaplan–Meier estimates confirmed that there re no significant between-group differences in risk of mposite efficacy end-point (Figure 2).
+score --> 0
+The incidence of the primary mposite safety end-point was lower with basiliximab, ifference largely accounted for by a reduced inci- nce of hematologic events.
+score --> 0
+The incidence of adverse le 6.
+score --> 0
+HDC (hemodynamic compromise): ejection fraction 30% decrease from 7 or fractional shortening 30% decrease from Day 7 or inotrope therapy.ents considered to be study drug-related was also effiuced in the basiliximab group, whereas the overall e of serious adverse events was similar.
+score --> 0
+The number of patients in our study who pre- nted with at least one infection tended to be lower the basiliximab group than in the ATG group, and e rate of CMV infection was almost half that served in the ATG group.
+score --> 0
+Infection was nd to be significantly lower with basiliximab than th ATG, a finding that merits further evaluation in arger population of patients.
+score --> 0
+The 6 deaths due to ection in the ATG cohort accounted for the higher- an-expected mortality rate at 12 months (21%).
+score --> 0
+Eight (38%) of the 21 patients who died in the clizumab group had also received cytolytic therapy uromonab-CD3 and anti-thymocyte or anti-lympho- te agents).
+score --> 0
+Among them, 6 (75%) died from infec- n. Cytolytic therapy is known to be an indepen- ure 2.
+score --> 0
+Proportion of patients remaining free of primary composite cacy end-point at Month 12 (Kaplan–Meier test).
+score --> 0
+Thus, in the daclizumab group, because of the dou- ble-blind design, an unintended intensity of immuno- suppression may have been reached in some patients (tr tri th of wi tie tre op in pe res de do un me Th rej of he nu ba tio to im 45 ad th de vid rec an effi RE 1.
+score --> 0
+2.
+score --> 0
+3.
+score --> 0
+4.
+score --> 0
+Smart FW, Naftel DC, Costanzo MR, et al.
+score --> 0
+J Heart Lung Transplant 1996;15: 329 – 41.
+score --> 0
+5.
+score --> 0
+Faull RJ, Hollett P, McDonald SP.
+score --> 0
+7.
+score --> 0
+8.
+score --> 0
+9.
+score --> 0
+10.
+score --> 0
+11.
+score --> 0
+12.
+score --> 0
+13.
+score --> 0
+14.
+score --> 0
+15.
+score --> 0
+16.
+score --> 0
+17.
+score --> 0
+18.
+score --> 0
+19.
+score --> 0
+The Journal of Heart and Lung Transplantation Mattei et al.
+score --> 0
+699 Volume 26, Number 7eated with up to five different drugs—standard ple-drug therapy, daclizumab and cytolytic drug erapy), which may have resulted in the higher rate septic death than in the placebo group.18 In line th this hypothesis, the number of deaths in pa- nts without cytolytic therapy was identical in both atment groups (8 patients in each group).
+score --> 0
+In our en-label study, there were no deaths by infection the basiliximab group during a 12-month follow-up riod, and no cytolytic therapy was prescribed.
+score --> 0
+Basiliximab demonstrated an efficacy similar to ATG.
+score --> 0
+Approximately one third of first rejec- n episodes in the basiliximab cohort occurred at 2 3 months post-transplant.
+score --> 0
+FERENCES Koch A, Volker D, Dengler TJ, Schnabel PA, Hagl S, Sack FU.
+score --> 0
+Effectivity of a T-cell–adapted induction therapy with anti- thymocyte globulin (Sangstat).
+score --> 0
+J Heart Lung Transplant 2005; 24:708 –13.
+score --> 0
+Montoya JG, Giraldo LF, Efron B, et al.
+score --> 0
+Clin Infect Dis 2001;33:629–40.
+score --> 0
+Taylor DO, Edwards LB, Mohacsi PJ, et al.
+score --> 0
+Trans- plantation 2005;80:193–7.
+score --> 0
+Andres A.
+score --> 0
+Crit Rev Oncol Hematol 2005; 56:71–85.
+score --> 0
+Kahan BD, Rajagopalan PR, Hall M. Reduction of the occurrence of acute cellular rejection among renal allograft recipients treated with basiliximab, a chimeric anti-interleukin-2-receptor monoclo- nal antibody.
+score --> 0
+United States Simulect Renal Study Group.
+score --> 0
+Trans- plantation 1999;67:276–84.
+score --> 0
+Rosenberg PB, Vriesendorp AE, Drazner MH, et al.
+score --> 0
+J Heart Lung Transplant 2005;24:1327–31.
+score --> 0
+Mehra MR, Zucker MJ, Wagoner L, et al.
+score --> 0
+J Heart Lung Transplant 2005;24:1297–304.
+score --> 0
+Delgado DH, Miriuka SG, Cusimano RJ, Feindel C, Rao V, Ross HJ.
+score --> 0
+J Heart Lung Transplant 2005;24:166–9.
+score --> 0
+Hachem RR, Chakinala MM, Yusen RD, et al.
+score --> 0
+J Heart Lung Transplant 2005;24:1320–6.
+score --> 0
+Flaman F, Zieroth S, Rao V, Ross H, Delgado DH.
+score --> 0
+J Heart Lung Transplant 2006;25:1358–62.
+score --> 0
+Sollinger H, Kaplan B, Pescovitz MD, et al.
+score --> 0
+Basiliximab versus antithymocyte globulin for prevention of acute renal allograft rejection.
+score --> 0
+Transplantation 2001;72:1915–9.
+score --> 0
+Lebranchu Y, Bridoux F, Buchler M, et al.
+score --> 0
+Am J Transplant 2002;2:48–56.
+score --> 0
+Mourad G, Rostaing L, Legendre C, Garrigue V, Thervet E, Durand D. Sequential protocols using basiliximab versus antithymocyte globulins in renal-transplant patients receiving mycophenolate mofetil and steroids.
+score --> 0
+Transplantation 2004;78:584–90.
+score --> 0
+Kobashigawa JA, Miller LW, Russell SD, et al.
+score --> 0
+Am J Transplant 2006;6:1377–86.
+score --> 0
+Kobashigawa JA, Renlund DG, Gerosa G, et al.
+score --> 0
+J Heart Lung Transplant 2006;25:935–41.
+score --> 0
+Hershberger RE, Starling RC, Eisen HJ, et al.
+score --> 0
+N Engl J Med 2005;325:2705–13.
+score --> 0
+Kovarik JM, Kahan BD, Rajagopalan PR.
+score --> 0
+The U.S. Simulect Renal Transplant Study Group.
+score --> 0
+Transplantation 1999;68:1288–94. 
+score --> 0

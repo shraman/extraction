@@ -1,0 +1,769 @@
+active cancer . pathological fractures . inability to understand or speak Danish without an interpreter . red blood cell transfusion refusal . fluid overload . irregular erthrocyte antibodies . previous participation in a trial Mean (SD) age in the liberal transfusion threshold: 88 (6.9) years Mean (SD) age in the restrictive transfusion threshold: 86 (6.8) years Number of men per intervention: 34/36
+CONSORT flow diagram for enrollment, allocation, follow-up,  and analysis  89 excluded:  55 Hb concentration > 7 mmol/L  15 active cancer    3 fluid overload    1 irregular erythrocyte antibodies    2 no surgery  10 died before or during surgery    1 Jehovah’s Witness   2 no Danish language    Dropouts:       4 refused RBC transfusion            132 included in per-protocol           analysis 20 excluded      (did not consent) 393 patients assessed for                eligibility  304 screened for consent  284 randomized  144 randomized to restrictive          transfusion strategy  140 randomized to liberal          transfusion strategy    Deviated from protocol:       8 missed 1–2 RBC units        outside protocol threshold  - in 4 cases: inattention to  Hb measures  - in 4 cases: physicians  prescribed more  blood   Dropouts:        3 refused RBC transfusion      1 acute bleeding ulcer Deviated from protocol:       8 received 1–3 RBC units        outside protocol threshold  -  in 6 cases: inattention to  Hb measures  -  in 2 cases: physicians  refused to prescribe   RBC transfusion 128 included in per-protocol         analysis  Table 1.
+score --> 20
+Exclusion criteria were: active cancer, pathological  fractures, inability to understand or speak Danish without an  interpreter, refusal of RBC transfusion (e.g.
+score --> 12
+Baseline characteristics of 284 frail elderly hip fracture  patients Characteristics  Restrictive strategy Liberal strategy   (n = 144) (n = 140) Socio-demographics   Female (%) 108 (75) 106 (76)  Mean age, years (SD)    86 (6.8)   88 (6.9)  Residence (%)     Nursing home   89 (61)   90 (64)     Sheltered housing    55 (39)   50 (36) Physical ability before fracture  Activities of daily living a (%)         Independent or          moderately dependent   59 (41)   63 (45)        Substantially dependent   66 (46)   59 (42)        Completely dependent   19 (13)    18 (12)  Transfer from bed to chair     Independent 123 (85) 127 (91)     Dependent    21 (15)   13 (9)  Walking ability (%)     Independent   44 (30)   39 (28)     Walking aids   88 (61)   90 (64)     Person support      8 (5)     7 (5)       None     4 (3)      4 (3) Comorbid conditions  Comorbidity a (%)     Low   33 (23)   39 (28)     Moderate   78 (54)   75 (54)     Severe   33 (23)   26 (18) Cardiovascular disease (%)   34 (24)   25 (18) Dementia a (%)   46 (32)   56 (40) Underweight a (%)    22 (15)   23 (16) Anemia b (%)   70 (49)   68 (49) Prescribed medicine a (IQR)     6 (4–9)     6 (4–9) Previous hip fracture (%)   24 (17)   33 (24) Surgical treatment (%)     Internal fixation 109 (76) 112 (80)     Arthroplasty   31 (21)   26 (18)     Other     4 (3)     2 (2) Waiting time for surgery, h (IQR)   16 (10–24)   19 (12–25) a Variable used in the “comprehensive geriatric assessment frailty    index”.
+score --> 9
+We found that  stroke was a more frequent cause of death in the liberal trans- fusion group, whereas heart failure was more frequent (with  Postoperative days Mean Hb (g/dL) 10.0 10.5 11.0 11.5 12.0 12.5 13.0        3                10                17               24               30 Liberal strategy Restrictive strategy Figure 4  Mean hemoglobin concentrations (in g/dL) measured on days  3, 10, 17, 24, and 30 after hip fracture surgery (with 95% confidence  intervals) according to blood transfusion strategy (liberal or restrictive).
+score --> 8
+There is often postoperative blood loss and the hemoglobin (Hb)  threshold for red blood cell (RBC) transfusions in these patients  is unknown.
+score --> 6
+Jehovah’s Wit- ness), fluid overload, irregular erythrocyte antibodies, or pre- vious participation in the trial.
+score --> 6
+Randomization and blinding After giving their informed consent, the patients were ran- domly assigned to either the restrictive RBC transfusion  strategy (Hb < 9.7 g/dL; 6 mmol/L) according to the national  guidelines, or the liberal strategy (Hb < 11.3 g/dL; 7 mmol/L)  according to results of a previous observational study on tai- lored interventions that used the same liberal Hb criterion  (Gregersen et al.
+score --> 6
+Causes of death over 90 postoperative days in frail, elderly  hip fracture patients    Restrictive Liberal  strategy strategy Cause of deaths (n = 40) (n = 30) p-value Pneumonia (%) 18 (44) 8 (27) 0.1 Stroke (%)   2 (7) 8 (27)  0.02 Heart failure (%) 11 (28) 3 (9) 0.07 Sepsis (%)   5 (11) 3 (9)  0.7 Dementia (%)   4 (10) 3 (9) 1.0 Liver failure (%)   0 (0) 5 (19) - Acta Orthopaedica 2015; 86 (3): 363–372 369 Discussion Our RCT data show that a liberal RBC transfusion strategy  (Hb target < 11.3 g/dL; 7 mmol/L) pursued for 30 days after  intervention was more beneficial than a restrictive strategy  with a lower target (Hb < 9.7 g/dL; 6 mmol/L) for elderly hip- fractured patients admitted from nursing homes.
+score --> 6
+RBC transfusion targets Previous randomized controlled trials have set Hb targets in  the 7- to 9-g/dL range for restrictive transfusion strategies,  and in the 9- to 10-g/dL range for liberal transfusion strategies  (Carson et al.
+score --> 6
+Interpretation — According to our Hb thresholds, recovery  from physical disabilities in frail elderly hip fracture patients  was similar after a restrictive RBC transfusion strategy and after  a liberal strategy.
+score --> 5
+Intention to treat: physical ability scores 10 days after hip fracture surgery compared in a restrictive transfusion group with a liberal  group stratified in residents from nursing homes and sheltered housing and analyzed with Wilcoxon rank-sum test  All residents Nursing homes Sheltered housing  (n = 284) (n = 179) (n = 105)  Restrictive Liberal  Restrictive Liberal  Restrictive Liberal  Physical ability strategy strategy p-value strategy strategy p-value strategy strategy  p-value   10 days after surgery (n = 144) (n = 140)  (n = 89) (n = 90)  (n = 55) (n = 50)  Modified Barthel index a (%)   0.6   0.4   1.0     Independent or      moderately dependent  38 (26) 32 (23)  18 (20) 15 (17)  20 (36) 17 (34)     Substantially dependent 51 (35)  58 (41)  24 (27) 33 (37)  27 (49) 25 (50)     Completely dependent 55 (38) 50 (36)  47 (53) 42 (46)  8 (15) 8 (16)  New Mobility score b      median (IQR) 1 (0–1) 1 (0–1) 0.5 1 (0–1) 1 (0–1) 0.8 1 (1–2) 1 (1–2) 0.5 Cumulated ambulation score c (%)   0.5   0.2   0.2     Walking ability 19 (13) 16 (11)  4 (4) 8 (9)  16 (29) 7 (14)     Sit-to-stand-to-sit 65 (45) 74 (53)  37 (42) 40 (44)  30 (55) 34 (68)     Bedridden 56 (39)  50 (36)  48 (54) 42 (47)  9 (16) 9 (18)  Transfer from bed to chair (%)   0.3   1.0   0.2     Independent 25 (17) 19 (14)  10 (11) 11 (12)  15 (27) 8 (16)     Dependent  119 (83) 121 (86)  79 (89) 79 (88)  40 (73) 42 (84)  Walking ability (%)   0.9   0.7   0.7     Independent  1 (1) 1 (1)  1 (1) 1 (1)  0 (0) 0 (0)     Walking aids 25 (17) 25 (18)  7 (8) 12 (13)  18 (33) 13 (26)     Person support  59 (41) 66 (47)  33 (37) 38 (42)  26 (47) 28 (56)     None  59 (41) 48 (34)  48 (54) 39 (43)  11 (20) 9 (18)  a Modified Barthel index score categories: “Independent/moderately dependent” in activities of daily living (ADL) (summed score: 100–50);      “Substantially dependent” in ADL (summed score: 49–25); and “Completely dependent” in ADL (summed score: 24–0).
+score --> 5
+Carson J L, Carless P A, Hebert P C. Transfusion thresholds and other strate- gies for guiding allogeneic red blood cell transfusion.
+score --> 5
+Parker M. Randomised trial of blood transfusion versus a restrictive transfu- sion policy after hip fracture surgery.
+score --> 5
+Acta Orthopaedica 2015; 86 (3): 363–372 363 Postoperative blood transfusion strategy in frail, anemic  elderly patients with hip fracture  The TRIFE randomized controlled trial Merete GREGERsEn¹, Lars C BoRRIs², and Else Marie DaMsGaaRD¹ Departments of 1 Geriatrics and 2 orthopaedics, aarhus University Hospital, aarhus, Denmark.
+score --> 4
+Red blood cell (RBC) transfusions are usually given for sub- stantial perioperative blood loss or hemodynamic compromise.
+score --> 4
+Baseline patient characteristics were well balanced between  the transfusion groups, except from mean age (which was  slightly lower in the restrictive strategy group), and a some- what longer surgical waiting time in the liberal strategy group  (Table 1).
+score --> 4
+Mortality No statistically significant difference in 90-day mortality was  found between the restrictive transfusion group (27%) and the  liberal (21%) transfusion group when analyzed by intention  to treat (Table 3).
+score --> 4
+In a subgroup analysis, the 90-day mortality rate of nurs- ing home residents was statistically significantly higher after  restrictive transfusions than after liberal transfusions.
+score --> 4
+Red blood cell transfusions 712 RBC transfusions were administered during the study, with  73% during the first postoperative week.
+score --> 4
+The high-risk hip frac- ture patients who had been walking without human assistance  before the trauma showed no differences in walking ability  or short-term mortality in relation to liberal or restrictive  RBC transfusion strategies post-surgery.
+score --> 4
+In the foregoing studies, lib- eral RBC transfusion thresholds were similar to our restrictive  threshold.
+score --> 4
+Instead, our restrictive strat- egy might have followed the restrictive threshold from the  previous RCTs to make comparison between studies easier.
+score --> 4
+From the very beginning, our aim was to  examine the effect of a more liberal blood transfusion strat- egy for the nursing home residents, since high mortality after  hip fracture was almost exclusively determined by the higher  death rate in these patients, but the ethical committee required  us to include sheltered housing residents also.
+score --> 4
+Furthermore, the blood test results  were followed closely during the intervention period and RBC  transfusions were accomplished within 24 hours (except for  dying patients, for whom transfusions were considered unethi- cal).
+score --> 4
+Conclusion In frail elderly hip fracture patients, recovery was similar with  a restrictive or a liberal RBC transfusion strategy according to  our Hb tresholds.
+score --> 4
+It should be determined whether a larger dif- ference between the Hb thresholds of RBC transfusion strate- gies (a lower restrictive Hb threshold) may be associated with  physical recovery.
+score --> 4
+Also, we need  to develop some means of identifying patients who would  benefit from more liberal RBC transfusion strategies, and to  specify optimal Hb targets for the transfusions required by  frail elderly hip fracture patients.
+score --> 4
+Foss N B, Kristensen MT, Jensen PS, Palm H, Krasheninnikoff M, Kehlet H.  The effect of liberal versus restrictive transfusion tresholds on ambulation  after hip fracture surgery.
+score --> 4
+Results — No statistically significant differences were found in  repeated measures of daily living activities or in 90-day mortal- ity rate between the restrictive group (where 27% died) and the  liberal group (where 21% died).
+score --> 3
+The 90-day mortality rate was higher  for nursing home residents in the restrictive transfusion group  (36%) than for those in the liberal group (20%) (HR = 2.0, 95%  CI: 1.1–3.6; p = 0.01).
+score --> 3
+Predictors of  early death following hip fracture include: residential status,  number of comorbidities, functional impairment prior to frac- ture, cognitive decline, polypharmacy, poor nutritional status,  previous hip fracture, delay in surgery, and anemia (van Dijk  et al.
+score --> 3
+A large RCT compared transfusion  strategies after surgery in high-risk hip fracture patients, but  all the patients could walk independently before fracture.
+score --> 3
+These patients (aged ≥  65 years) had been admitted from nursing homes or sheltered  housing facilities for unilateral hip fracture surgery and had  postoperative Hb levels between 9.7 g/dL (6 mmol/L) and  11.3 g/dL (7 mmol/L) during the first 6 postoperative days.
+score --> 3
+If  the Hb value was below 9.7 g/dL on the first day after surgery,  the patient was transfused according to the recommendations  of the Danish Health and Medicine Authority for elderly hip  fracture patients.
+score --> 3
+The median number  of RBC units per patient in the restrictive transfusion group  was 1.0 (IQR 1–2) as opposed to 3.0 (IQR 2–5) in the lib- eral group.
+score --> 3
+Repeated measurements showed maintained mean  Hb levels of 11.3 g/dL (95% CI: 11.3–11.4) for the restrictive  transfusion group and 12.2 g/dL (95% CI: 12.2–12.3) for the  liberal group.
+score --> 3
+Mortality In our analyses, which took pre-surgical residential care needs  into account, 30-day mortality but not 90-day mortality after  hip fracture surgery was reduced by the liberal RBC trans- fusion strategy relative to the restrictive strategy.
+score --> 3
+(2009) found that in elderly community-dwelling patients  with independent walking function and intact cognitive status  prior to hip fracture, a liberal transfusion strategy appeared to  reduce cardiovascular events/deaths.
+score --> 3
+We have previously reported that  one-fifth of our hospital hip fracture patients, aged ≥ 65 years,  normally reside in nursing homes (Gregersen et al.
+score --> 3
+However, this would have been unethical since we had already  shown—in our previous observational study—a reduction in  mortality with a liberal transfusion strategy as low as Hb 11.3  g/dL.
+score --> 3
+Liberal versus restrictive transfusion thresholds for patients with  symptomatic coronary artery disease.
+score --> 3
+Relationship between allogeneic  blood transfusion, iron deficiency and nosocomial infection in patients with  hip fracture.
+score --> 3
+Salpeter S R, Buckley J S, Chatterjee S. Impact of more restrictive blood  transfusion strategies on clinical outcomes: A meta-analysis and systematic  review.
+score --> 3
+Patients and methods — We enrolled 284 consecutive post- surgical HF patients (aged ≥ 65 years) with Hb levels < 11.3 g/dL  (7 mmol/L) who had been admitted from nursing homes or shel- tered housing.
+score --> 2
+The patients  were randomly assigned to either restrictive (Hb < 9.7 g/dL; < 6  mmol/L) or liberal (Hb < 11.3 g/dL; < 7 mmol/L) RBC transfu- sions given within the first 30 days postoperatively.
+score --> 2
+Implementation of a liberal RBC transfusion  strategy in nursing home residents has the potential to increase  survival.
+score --> 2
+ Surgical blood loss leading to acute anemia is common in hip  fracture patients (Kumar et al.
+score --> 2
+In Denmark, RBC transfusions are recommended when Hb  levels are < 9.7 g/dL (6 mmol/L) (Danish Health and Medi- 364 Acta Orthopaedica 2015; 86 (3): 363–372 cine Authority 2008).
+score --> 2
+Previous randomized controlled trials  (RCTs) have compared RBC transfusion strategies in hip frac- ture patients with few frail elderly patients included (Foss et  al.
+score --> 2
+Also, RBC transfusion strategies have  been included in meta-analyses that combined the results of  mixed populations with regard to age and disease (Carson et al.
+score --> 2
+Currently, there are no reports in the literature suggesting an  optimal Hb target for RBC transfusions specifically for frail,  elderly hip fracture patients, regardless of their walking abil- ity.
+score --> 2
+Hip fractures were categorized as 3 subtypes (Inter- national Code of Disease 10; ICD10) according to the loca- tion of the fracture line: (1) femoral neck (ICD-10 S72.0); (2)  intertrochanteric (ICD-10 S72.1); or (3) subtrochanteric (ICD- 10 S72.2).
+score --> 2
+This central com- puter program using permuted block sizes stratified the ran- domization according to sex and type of residence, and allo- cated each participant to one of the transfusion strategies.
+score --> 2
+Measurement was repeated after the transfusion  until the Hb target was reached, with no more than 2 units per  day being administered.
+score --> 2
+Pre- fracture assessments were performed retrospectively by asking  the patient, care staff, and/or the patient’s relatives about the  level of physical performance 14 days before the hip fracture.
+score --> 2
+Overall, the data indicated that most of the elderly  patients were frail with dependency in ADL, ambulation,  and mobility before fracture: 57% had been substantially or  completely dependent on personal support, 71% had been  unable to walk independently without walking aids, and 12%  had needed assistance when transferring from bed to chair.
+score --> 2
+Physical ability Patients’ physical abilities in both transfusion groups were  impaired 10 days after hip fracture surgery, relative to prefrac- ture levels (p < 0.001).
+score --> 2
+368 Acta Orthopaedica 2015; 86 (3): 363–372 rate was higher after restrictive transfusion.
+score --> 2
+No difference was found in iron  supplementation (88% in the restrictive group and 87% in the  liberal group).
+score --> 2
+Physical ability Physical abilities after surgery were not associated with RBC  transfusion strategies during the first 10 days, when the major- ity of transfusions were completed.
+score --> 2
+Half of all patients in each  transfusion group were anemic before fracture surgery.
+score --> 2
+Fur- thermore, physical functional outcome in hip fracture patients  appeared to be negatively influenced by cognitive impairment,  comorbidity, and very old age.
+score --> 2
+Similarly,  physical rehabilitation of Danish hip fracture patients who had  lived in the community and walked independently before sur- gery was found to be unrelated to higher Hb levels (Foss et  al.
+score --> 2
+(1999) found that a restric- tive transfusion strategy was at least as effective as a liberal  strategy—except possibly for those with acute myocardial  infarction and unstable angina.
+score --> 2
+However, a recent pilot study  of patients with acute coronary syndrome or unstable angina  who were undergoing cardiac catheterization found that those  treated with a restrictive strategy (Hb target 8 g/dL; 5 mmol/L)  had more than twice the rate of major cardiac events and  deaths compared to those treated with a liberal strategy (Hb  target 10 g/dL; 6.2 mmol/L) (Carson et al.
+score --> 2
+Patient frailty was not the issue for RCTs with the  previous transfusion strategies, despite the well-known fact  that in nursing home residents, anemia is related to 90-day  mortality (Berry et al.
+score --> 2
+Nevertheless, in the future we  need to look more deeply into the question of beneficial trans- fusion thresholds to determine whether the target groups con- sist of patients with cardiovascular diseases and hip fracture  patients from nursing homes.
+score --> 2
+2011), and cognitive impairment and/or age ≥ 85 years are  associated with higher incidences of delirium and mortality  (Petersen et al.
+score --> 2
+370 Acta Orthopaedica 2015; 86 (3): 363–372 borderline significance) in the restrictive transfusion group.
+score --> 2
+This consideration should be investigated  further, because information was obtained from death cer- tificates only, and the use of death certificates based on the  Danish Death Registry requires caution when interpreting the  results.
+score --> 2
+The 90-day mortality rate in our nursing home residents who  were given restrictive transfusions was rather high (36%), and  higher than the 27% we had previously observed.
+score --> 2
+(2009) found that the overall 90-day mortality rate in nursing  home residents admitted to long-term care, in a rehabilitation  center with geriatric specialists (Boston, USA), was 21% after  hip fracture surgery—rather like the 20% in our liberal strat- egy group.
+score --> 2
+Thus, future studies should focus  on patients’ degree of frailty as a selection criterion for RBC  transfusions, instead of their home addresses, but for that pur- pose we would need a frailty index especially developed for  elderly hip fracture patients.
+score --> 2
+Implemention of a liberal RBC transfusion  strategy in nursing home residents has the potential to increase  survival.
+score --> 2
+We therefore suggest that liberal RBC strategies  should be investigated further in nursing home residents with  hip fracture, for whom it may be life-saving.
+score --> 2
+In general, the use of RBC  transfusions should be restricted.
+score --> 2
+However, we must accept  that some hip fracture patients require more blood than speci- fied by the recommendations.
+score --> 2
+Berry S D, Samelson E J, Bordes M, Broe K, Kiel D P. Survival of aged nurs- ing home residents with hip fracture.
+score --> 2
+Liberal or restrictive transfusion in high-risk patients after hip  surgery.
+score --> 2
+dk/Tilsyn/Transfusionsmedicin  Foss N B, Kehlet H. Mortality analysis in hip fracture patients: Implications  for design of future outcome trials.
+score --> 2
+Foss N B, Kehlet H. Hidden blood loss after surgery for hip fracture.
+score --> 2
+Meta-analysis: Excess mortality after hip fracture  among older women and men.
+score --> 2
+A multicenter, randomized, controlled clinical trial of transfusion  requirements in critical care.
+score --> 2
+Excess mortality  in men compared with women following a hip fracture.
+score --> 2
+The pattern of recovery of  ambulation after hip fracture differs with age in elderly patients.
+score --> 2
+Ryg J, Rejnmark L, Overgaard S, Brixen K, Vestergaard P. Hip fracture  patients at risk of second hip fracture: A nationwide population-based  cohort study of 169,145 cases during 1977–2001.
+score --> 2
+Mild  to moderate cognitive impairment is a major risk factor for mortality and  nursing home admission in the first year after hip fracture.
+score --> 2
+DOI 10.3109/17453674.2015.1006980 Background and purpose — Hip fracture (HF) in frail elderly  patients is associated with poor physical recovery and death.
+score --> 1
+We investigated whether RBC transfusion strate- gies were associated with the degree of physical recovery or with  reduced mortality after HF surgery.
+score --> 1
+Per-protocol 30-day mortality  was higher with the restrictive strategy (hazard ratio (HR) = 2.4,  95% CI: 1.1–5.2; p = 0.03).
+score --> 1
+The World Health Orga- nization defines anemia as hemoglobin (Hb) levels < 12 g/ dL in women and < 13 g/dL in men (WHO 2011).
+score --> 1
+Postopera- tive anemia in elderly hip fracture patients is associated with  reduced ambulation and functional independence (Halm et al.
+score --> 1
+Long-term  care residents with Hb levels < 10 g/dL (6.2 mmol/L) showed  worse performance of activities of daily living (ADL) than  residents with levels < 13 g/dL (8.1 mmol/L) (Bailey et al.
+score --> 1
+Physical recovery and self-scored energy levels after  hip fracture repair increase with increasing Hb levels (Law- rence et al.
+score --> 1
+In elderly hip fracture patients, 90-day mortality rates vary  between 5% and 27% (Foss and Kehlet 2005,  Petersen et al.
+score --> 1
+2011), repre- senting a 5- to 8-fold increase in mortality compared to elderly  people with no hip fracture (Haentjens et al.
+score --> 1
+The 90-day  mortality rates for nursing home residents after hip fracture are  higher in males than in females (32% vs. 18%).
+score --> 1
+Overall, the researchers found no associations  between transfusion strategies, physical recovery, or survival.
+score --> 1
+Our aim, therefore, was to examine how RBC transfusion  strategies influence physical recovery and mortality in resi- dents from nursing homes and sheltered housing facilities.
+score --> 1
+Patients and methods Study design and patients The present “Transfusion Requirements In Frail Elderly”  (TRIFE) study of hip-fractured patients was designed as a  prospective, assessor-blinded, randomized controlled trial.
+score --> 1
+The home addresses of the patients revealed  their eligibility, and provided an unambiguous tool to recruit  and allocate them to the 2 transfusion groups on admission to  hospital.
+score --> 1
+The project manager enrolled  the patients and assigned them to the interventions.
+score --> 1
+The  project manager entered the patient’s civil registration number  into the computer program, and passed on the randomization  result to the electronic patient record (which was available to  the hospital staff in the orthopedic and geriatric wards since  they were to administer the transfusions during the interven- tion period.
+score --> 1
+The participants, their relatives, and the endpoint  assessors were blind as to the result of randomization and to  information on the patients’ Hb levels.
+score --> 1
+In Denmark, 1 unit of RBCs is approx- imately 300 mL, with an erythrocyte concentration of ≥ 1.65 g/ dL per unit and a leukocyte content of < 1,200 × 106.
+score --> 1
+In acute  situations, and between transfusions, venous Hb levels were  measured with a portable HemoCue photometer (HemoCue,  Mission Viejo, CA).
+score --> 1
+As previously described, the  standard geriatric treatment program included early mobiliza- tion, iron supplementation, osteoporosis therapy, nutritional  support, fluid therapy, and evaluation of medication.
+score --> 1
+Dates of death within 90 days of surgery were obtained from  the Danish Civil Registration System.
+score --> 1
+Causes of death based  on death certificates were obtained from the Danish Health  and Medicine Authority.
+score --> 1
+Statistics Sample size calculation was based on Geriatric Department  data from an observational pilot study of nursing home patients  after hip fracture surgery.
+score --> 1
+Those with Hb levels between 9.7  g/dL (6 mmol/L) and 11.3 g/dL (7 mmol/L) during their first  2 postoperative days had shown better physical recovery  when given more RBC transfusions.
+score --> 1
+The patients’ Modified  Barthel index scores had improved by 23% during 30 days  of follow-up compared to a standard treatment applied to an  identical population, conducted 1 year earlier.
+score --> 1
+Adjusted analyses were performed  according to the slightly imbalanced baseline variable age and  randomization stratification factors (sex and residence).
+score --> 1
+Each patient was followed for the same time without  censoring, and only death terminated the follow-up period.
+score --> 1
+The trial was conducted  366 Acta Orthopaedica 2015; 86 (3): 363–372 in accordance with the ethical principles of the Declaration of  Helsinki.
+score --> 1
+The study protocol was approved by the Danish Data  Protection Agency and the Central Denmark Region Ethical  Committee.
+score --> 1
+The trial was evaluated every 6 months by an  independent safety-monitoring board.
+score --> 1
+b Anemia defined by World Health Organization as hemoglobin    < 12 g/dL in women and < 13 g/dL in men.
+score --> 1
+Acta Orthopaedica 2015; 86 (3): 363–372 367 Overall, the repeated measurements of Modified Barthel  index score, compared to prefracture levels, on days 10, 30,  and 90 after surgery, were similar within transfusion groups,  i.e.
+score --> 1
+For  nursing home residents, the curves were parallel (p = 0.4) and  the means were equal (p = 0.3) between transfusion groups.
+score --> 1
+Likewise, for sheltered housing residents, the curves were par- allel (p = 0.6) and the means were equal (p = 0.9) between  transfusion groups (Figure 2).
+score --> 1
+Intention to treat: repeated measurements on recovery from physical disabilities before fracture  until postoperative days 10, 30 and 90, presented as median score with interquartile range, in residents from  nursing homes and sheltered housing facilities.
+score --> 1
+The main cause of death for both transfusion groups was  pneumonia (p = 0.11) (Table 4).
+score --> 1
+Durations of hospital stay  were equal within transfusion groups, i.e.
+score --> 1
+Also, the Hb measurements of both transfusion  groups showed parallel curves (p = 0.8) but unequal means (p  < 0.001) (Figure 4).
+score --> 1
+No complications were observed during,  or after, RBC transfusions.
+score --> 1
+Kaplan-Meier plots of 90-day survival rates after hip fracture in residents from nursing homes and  sheltered housing facilities, by intention-to-treat analysis.
+score --> 1
+It  remains uncertain, however, whether the anemia was chronic  or was caused by the fracture.
+score --> 1
+Poor physical ability before fracture and  (chronic) anemia are 2 of many factors that affect functional  prognosis in nursing home residents (Onem et al.
+score --> 1
+Our results did not directly reproduce the findings that  higher Hb levels are associated with better early functional  recovery after hip fracture surgery.
+score --> 1
+To expand our follow-up period to 1  year, when recovery would be expected to peak (Ortiz-Alonso  et al.
+score --> 1
+(2012), which included  several RCTs in various patient populations, concluded that  RBC stocks can be saved without reducing functional recov- ery or increasing short-term mortality.
+score --> 1
+Postoperative anemia in surgical hip fracture patients is  associated with delirium and nosocomial infections (Marcan- tonio et al.
+score --> 1
+In our study, we found no  difference in the number of infections during the intervention  period (unpublished data).
+score --> 1
+In contrast  to previous studies, this included patients who were unable  to walk independently, and we found that higher Hb levels  reduced 90-day mortality.
+score --> 1
+However, we are unable to make further compari- sons, since no data are available on the transfusion strategy for  this group of nursing home residents.
+score --> 1
+Assessment with  the comprehensive geriatric assessment frailty index (which  was developed for surgical cancer patients) showed that a  large proportion of sheltered housing residents were not frail.
+score --> 1
+in activities of daily living  and cognition (Tolson et al.
+score --> 1
+The difference between the Hb targets  of RBC transfusion strategies may not have been sufficient  to yield more significant results.
+score --> 1
+Furthermore, our national guidelines recommend a Hb  target as low as 9.7 g/dL in elderly hip fracture patients.
+score --> 1
+The large proportion of non-frail elderly patients admit- ted from sheltered housing facilities may have diluted our  intervention effects.
+score --> 1
+Thus, we needed  more patients than previously calculated in order to show a  distinct difference between the transfusion groups.
+score --> 1
+No frail elderly patients with Hb levels below 9.7 g/dL were  excluded during the first 6 days of recruitment, since trans- fusions made it possible for them to participate.
+score --> 1
+No selection bias intruded, since during the entire study  period daily assessments in the orthopedic ward continued  for every hip fracture patient admitted from nursing homes or  sheltered housing.
+score --> 1
+This could have distorted the results, although the RCT design  would have distributed such confounding equally across both  transfusion groups.
+score --> 1
+MG (project manager) and EMD recruited the study participants.
+score --> 1
+We gratefully acknowledge the kind participation of patients, their relatives,  and general practitioners.
+score --> 1
+Bailey R A, Reardon G, Wasserman M R, McKenzie R S, Hord R S. Associa- tion of anemia with worsened activities of daily living and health-related  quality of life scores derived from the minimum data set in long-term care  residents.
+score --> 1
+Health and Qual Life Outcomes 2012; 10, 129  Baker N L, Cook M N, Arrighi H M, Bullock R. Hip fracture risk and sub- sequent mortality among alzheimer’s disease patients in the United King- dom, 1988–2007.
+score --> 1
+Beaupre L A, Jones C A, Johnston D W, Wilson D M, Majumdar S R. Recov- ery of function following a hip fracture in geriatric ambulatory persons  living in nursing homes: Prospective cohort study.
+score --> 1
+Bjorkelund K B, Hommel A, Thorngren K G, Lundberg D, Larsson S. Factors  at admission associated with 4 months outcome in elderly patients with hip  fracture.
+score --> 1
+Danish Health and Medicine Authority.
+score --> 1
+Gregersen M, Zintchouk D, Borris L C, Damsgaard E M. A geriatric multidis- ciplinary and tailor-made hospital-at-home method in nursing home resi- dents with hip fracture.
+score --> 1
+Gregersen M, Morch M M, Hougaard K, Damsgaard E M. Geriatric inter- vention in elderly patients with hip fracture in an orthopedic ward.
+score --> 1
+The effect of perioperative anemia on clinical and functional outcomes  in patients with hip fracture.
+score --> 1
+Helweg-Larsen K. The Danish Register of Causes of Death.
+score --> 1
+Scand J Public  Health 2011; 39 (Suppl 7): 26–29 Holvik K, Ranhoff A H, Martinsen M I, Solheim L F. Predictors of mortality  in older hip fracture inpatients admitted to an orthogeriatric unit in Oslo,  Norway.
+score --> 1
+[Relacion de la transfusion y la ferropenia con la infeccion  nosocomial en pacientes con fractura de cadera] Med Clin (Barc) 2008;  131 (17): 647-52.
+score --> 1
+Medical treat- ment predicts mortality after hip fracture.
+score --> 1
+A comparison of two pre-operative frailty measures in older surgi- cal cancer patients.
+score --> 1
+372 Acta Orthopaedica 2015; 86 (3): 363–372 Kumar D, Mbako A N, Riddick A, Patil S, Williams P. On admission haemo- globin in patients with hip fracture.
+score --> 1
+Lawrence V A, Silverstein J H, Cornell J E, Pederson T, Noveck H, Carson J  L. Higher hb level is associated with better early functional recovery after  hip fracture repair.
+score --> 1
+Lee K H, Ha Y C, Lee Y K, Kang H, Koo K H. Frequency, risk factors, and  prognosis of prolonged delirium in elderly patients after hip fracture sur- gery.
+score --> 1
+Anemia and recovery from disability in activities of daily living in hospital- ized older persons.
+score --> 1
+Timing mat- ters in hip fracture surgery: Patients operated within 48 hours have better  outcomes.
+score --> 1
+Petersen M B, Jorgensen H L, Hansen K, Duus B R. Factors affecting post- operative mortality of patients with displaced femoral neck fracture.
+score --> 1
+Correspondence: meregreg@rm.dk  submitted 2014-10-07. accepted 2014-12-01.
+score --> 0
+Open Access - This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use,  distribution, and reproduction in any medium, provided the source is credited.
+score --> 0
+Allocation was stratified by residence.
+score --> 0
+Follow-up was  at 90 days.
+score --> 0
+2011).
+score --> 0
+2004, Foss and Kehlet 2006, Maraldi et al.
+score --> 0
+2006).
+score --> 0
+2012).
+score --> 0
+2003).
+score --> 0
+2006, Bjorkelund et al.
+score --> 0
+2009, Gregersen et al.
+score --> 0
+2010).
+score --> 0
+2005, Berry et al.
+score --> 0
+2009, Ryg et al.
+score --> 0
+2009, Kannegaard  et al.
+score --> 0
+2010, Holvik et al.
+score --> 0
+2010, Juliebo et al.
+score --> 0
+2010, Onem et  al.
+score --> 0
+2010,  Baker et al.
+score --> 0
+2011, Kirkland et al.
+score --> 0
+2011, Moja et al.
+score --> 0
+2012, Schaller et al.
+score --> 0
+2012).
+score --> 0
+2009, Parker 2013).
+score --> 0
+2012, Salpeter et al.
+score --> 0
+2014).
+score --> 0
+Only  10% of the latter population were nursing home residents, and  no separate analysis was performed on this subgroup (Carson  et al.
+score --> 0
+2011).
+score --> 0
+Eligible patients from the orthopedic surgical ward at Aarhus  University Hospital were enrolled consecutively between  January 18, 2010 and June 6, 2013.
+score --> 0
+2011).
+score --> 0
+Randomization was provided by an  allocation concealment process in the web-based clinical trial- support system “TrialPartner” (Public Health and Quality  Improvement, Central Denmark Region).
+score --> 0
+Procedures The standard venous Hb analysis was done by cyanmethe- moglobin assay (inter-laboratory error: 0.2 g/dL) performed  immediately upon admission and postoperatively.
+score --> 0
+Hb was  measured daily during the first 3 postoperative days, then at  least once during the following 4–6 days, and at least once a  week for the following 3 weeks.
+score --> 0
+Blood tests were performed  during hospitalization, in nursing homes, and in sheltered  housing facilities by a multidisciplinary orthogeriatric team.
+score --> 0
+Transfusions, as necessary, were performed according to  group assignments and no later than 24 h after Hb determina- tion.
+score --> 0
+Only 1 RBC unit was given initially, prior to further Hb  measurement.
+score --> 0
+All Hb results were evaluated on a daily  basis by the project manager.
+score --> 0
+The foregoing procedures con- tinued for 30 days after HF surgery.
+score --> 0
+The standard procedure  of our Geriatric Department transferred sheltered housing resi- dents from the orthopedic ward to the geriatric ward on the day  after surgery, for approximately 1 week of physical training.
+score --> 0
+Nursing home residents were generally discharged directly  from the orthopedic ward to their nursing homes on the day  after surgery, since most of them needed familiar surround- ings to avoid a state of delirium.
+score --> 0
+All such  residents were visited by a multidisciplinary team immediately  after discharge and within 30 days of surgery.
+score --> 0
+Acta Orthopaedica 2015; 86 (3): 363–372 365 Measurements The primary outcome was recovery from physical disabilities,  with 3 tools being used to measure physical performance: (1)  Modified Barthel index measured the basic self-care activi- ties of daily living (ADL) performance ranging from 0 to 100  points (100 = best), assessing 10 domains—eating, transfer- ring, personal care, toiletry, bathing, walking, managing stairs,  dressing, bowel control, and bladder control; (2) New Mobil- ity score ranging from 0 to 9 points (9 = best), assessing both  indoor and outdoor walking abilities, and ability to go shop- ping; and (3) cumulated ambulation score, with a daily score  from 0 to 6 points (6 = best), assessing getting in and out of  bed, sitting-to-standing-to-sitting, and walking ability with an  appropriate aid.
+score --> 0
+Cognitive status was assessed by mini mental  state examination (MMSE), ranging from 0 to 30 points (30 =  no cognitive impairment).
+score --> 0
+2 occupational therapists (blinded assessors) assessed each  patient’s physical and cognitive abilities (“prefracture”) and  through the 90 days after surgery (days 10, 30, and 90).
+score --> 0
+1 assessor was appointed for each patient follow-up and vis- ited the patients in their residences.
+score --> 0
+Secondary outcomes were 30-day and 90-day mortality.
+score --> 0
+After study recruitment was complete, the comprehen- sive geriatric assessment frailty index was used to determine  whether nursing home and sheltered housing residents were  equally frail.
+score --> 0
+The frailty index embraced: (1) prefracture ADL  dependency (measured by Modified Barthel index < 80); (2)  severe comorbidity (measured by Charlson comorbidity index  > 2); (3) cognitive dysfunction (measured by MMSE < 20);  (4) malnutrition (measured by serum albumin < 34 g/L and  body mass index < 18.5); and (5) polypharmacy, i.e.
+score --> 0
+treatment  with more than 7 prescribed drugs.
+score --> 0
+Frailty was determined  according to one, or more, of the foregoing criteria (Kristjans- son et al.
+score --> 0
+2012).
+score --> 0
+We assumed  that the recovery of sheltered housing residents would simi- larly improve.
+score --> 0
+To obtain 85% statistical power at p ≤ 0.05, we  aimed to recruit 284 patients, allowing for a 10% probability  of withdrawal.
+score --> 0
+Patients’ baseline characteristics and clinical outcomes  were compared as follows: (1) intention to treat (ITT); (2)  randomized study group assignment; and (3) residential  group.
+score --> 0
+Continuous variables were compared using Student’s  t-test, categorical variables with Pearson’s chi-squared test or   Fisher’s exact test, and non-normally distributed variables with  Wilcoxon’s rank-sum test.
+score --> 0
+These  variables were not associated with any of the outcome vari- ables; thus, results are presented with crude estimates.
+score --> 0
+Measurements of Hb concentration and logarithm-trans- formed Modified Barthel index summed scores were com- pared by analysis of variance (with repeated measurement).
+score --> 0
+Likelihood ratio tests were used to test for parallel curves and  equal means between the 2 groups.
+score --> 0
+The models were checked  with normal probability plots of the standardized residuals and  scatter plots of the residuals versus predicted values.
+score --> 0
+Further- more, all pairwise differences between any 2 time points were  checked with normal probability plots and for equal standard  deviations and correlations (the compound symmetry model).
+score --> 0
+In non-survivors, the missing physical ability values were set  to zero (meaning no ability).
+score --> 0
+Modified Barthel index and cumulated ambulation score  measured on day 10 were categorized and compared using  Pearson’s chi-squared test or Fisher’s exact test.
+score --> 0
+The median  New Mobility scores were compared by Wilcoxon’s rank-sum  test.
+score --> 0
+Results are expressed as percentage or median with inter- quartile range (IQR).
+score --> 0
+The risk of death within 2 follow-up periods (30 or 90 days)  were analyzed using a Cox proportional hazard regression  model.
+score --> 0
+Time of death was recorded by date.
+score --> 0
+The assumption of pro- portional hazards was checked graphically using “log-log”  plots of the 2 survival curves.
+score --> 0
+Results are expressed as hazard  ratios (HRs) with 95% confidence intervals (CIs).
+score --> 0
+Outcome  measures for per-protocol analyses were similarly compared.
+score --> 0
+Any p-value ≤ 0.05 was considered statistically significant.
+score --> 0
+Statistical analyses were performed with Stata software, ver- sion 13.0.
+score --> 0
+Ethics At admission or (at the latest) on the day after surgery, the  project manager assessed the patients’ cognitive capacities.
+score --> 0
+Cognitive impairment was defined by: (1) a MMSE score of  < 20; (2) a confusion assessment method result indicating  delirium; or (3) a clinical cognitive evaluation undertaken by  2 independent healthcare professionals.
+score --> 0
+Patients who were  not impaired cognitively gave their written informed consent.
+score --> 0
+Consents for impaired patients were given by a next of kin  plus the relevant general practitioner.
+score --> 0
+The study is registered  at ClinicalTrials.gov, number NCT01102010.
+score --> 0
+Results 284 patients were enrolled (Figure 1).
+score --> 0
+In terms of baseline  characteristics and outcomes, 8 patients who dropped out of  the study did not differ significantly from those who com- pleted it, and 260 patients remained for the PP analysis.
+score --> 0
+A  statistically significantly higher proportion of nursing home  patients (96%) were assessed as being frail, when compared  to sheltered housing residents (78%) (p < 0.001).
+score --> 0
+Similar recovery 10 days after inter- vention was found in the 2 groups, according to Modified Bar- thel index, New Mobility score, cumulated ambulation score,  transfer from bed to chair, or walking ability (Table 2).
+score --> 0
+Figure 1.
+score --> 0
+parallel curves (p = 0.2) and equal means (p = 0.3).
+score --> 0
+Similar results were found with  per-protocol analyses.
+score --> 0
+However, the per-protocol 30-day mortality  Table 2.
+score --> 0
+b New Mobility score categories (9 = best, 0 = worst): “High level” (summed score 9–6); “Low level” (summed score 5–0).
+score --> 0
+c Cumulated ambulation score categories (6 = best, 0 = worst): “Independence” (summed score: 6); “Dependency” (summed score: 5–0).
+score --> 0
+Sheltered housing residents Postoperative days 0 20 40 60 80 100 Liberal strategy Restrictive strategy Prefracture         20                   40                60                     80      Nursing home residents Postoperative days Modified Barthel Index (median score) Modified Barthel Index (median score) 0 20 40 60 80 100 Liberal strategy Restrictive strategy Prefracture          20                40                60                80 Figure 2.
+score --> 0
+Frailty was asso- ciated with 90-day mortality (HR = 4.5, 95% CI: 1.1–19; p  = 0.03), as was cardiovascular disease (HR = 0.5, 95% CI:  0.3–0.9; p = 0.01).
+score --> 0
+Similar  results were obtained with the per-protocol analyses.
+score --> 0
+How- ever, for sheltered housing residents 90-day mortality rates  showed no statistically significant differences between trans- fusion groups (Figure 3).
+score --> 0
+a median of 2 days  for both groups of nursing home residents, and medians of 11  days and 10 days for sheltered housing residents (p = 0.35).
+score --> 0
+Table 3.
+score --> 0
+Hazards ratio of time to death within 30 and 90 days by intention-to-treat analysis and per-protocol analysis  30-day mortality 90-day mortality  Restrictive Liberal Hazard ratio  Restrictive Liberal Hazard ratio  strategy strategy (95% CI) p-value strategy strategy (95% CI) p-value Intention to treat, n 144 140   144 140  All residents  (%)   21 (14)   12 (8) 1.8 (0.7–3.6) 0.1   40 (27)   30 (21) 1.4 (0.9–2.2) 0.2  Nursing homes  (%)   16 (18)     9 (10) 1.9 (0.8–4.3) 0.1   32 (36)   18 (20) 2.0 (1.1–3.6) 0.01  Sheltered housing  (%)     5 (9)     3 (6) 1.5 (0.4–6.4) 0.6     8 (15)   12 (24) 0.6 (0.2–1.5) 0.3 Per-protocol, n 132 128   132 128  All residents  (%)   21 (16)     9 (7) 2.4 (1.1–5.2) 0.03   35 (27)   26 (20) 1.4 (0.8–2.3) 0.2  Nursing homes  (%)    16 (20)     8 (10) 2.2 (0.9–5.0) 0.07   28 (35)   17 (20) 1.9 (1.0–3.4) 0.04  Sheltered housing  (%)     5 (10)     1 (2) 4.6 (0.5–39) 0.2     7 (13)     9 (19) 0.7 (0.3–2.0) 0.5 Figure 3.
+score --> 0
+0.00 0.25 0.50 0.75 1.00 0.00 0.25 0.50 0.75 1.00 0 20 40 60 80 100 Days after surgery 0 20 40 60 80 100 Days after surgery Liberal strategy Restrictive strategy Survival rate – Nursing home residents Survival rate – Sheltered housing residents 0.00 0.25 0.50 0.75 1.00 0.00 0.25 0.50 0.75 1.00 0 20 40 60 80 100 Days after surgery 0 20 40 60 80 100 Days after surgery Liberal strategy Restrictive strategy Survival rate – Nursing home residents Survival rate – Sheltered housing residents Table 4.
+score --> 0
+Several studies have found an  association in elderly subjects between reduced physical abil- ity due to reduced muscle strength and chronic anemia (Pen- ninx et al.
+score --> 0
+2004).
+score --> 0
+2010).
+score --> 0
+Also, very few of our  patients regained their prefracture physical abilities during  3 months of follow-up.
+score --> 0
+2012), would probably have been of minor interest given  a 1-year expected mortality rate of approximately 45% for  nursing home residents (Beaupre et al.
+score --> 0
+2012).
+score --> 0
+The meta-analysis of Carson el al.
+score --> 0
+Unfortunately, the  researchers did not perform a subgroup analysis on the data  from nursing home residents (Carson et al.
+score --> 0
+2011).
+score --> 0
+2009).
+score --> 0
+Foss et al.
+score --> 0
+In contrast, for patients  in intensive care, Hébert et al.
+score --> 0
+2013).
+score --> 0
+In the present study, cardiovascular diseases were associ- ated with 90-day mortality rates.
+score --> 0
+2009).
+score --> 0
+1998, Izuel et al.
+score --> 0
+2008).
+score --> 0
+Prolonged delirium and pneumonia  are both associated with death (Holvik et al.
+score --> 0
+2010, Lee et al.
+score --> 0
+2006, Bjorkelund et al.
+score --> 0
+2009).
+score --> 0
+However, if the 2 diagnostic categories were pooled together  as cardiovascular diseases, no significant difference was found  between the groups.
+score --> 0
+In Denmark, the autopsy rate is less than 10% of all  deaths, and the quality of data on causes of death relies mainly  upon the correctness of the physician’s notification (Helweg- Larsen 2011).
+score --> 0
+Nursing home residents In a subgroup analyses, we looked specifically at the most frail  patients, defined as those living in nursing homes.
+score --> 0
+Berry et al.
+score --> 0
+The subgroup analyses were conducted according to type  of residence, to avoid the possibility that potentially different  levels of frailty would confuse our results.
+score --> 0
+There are nursing homes throughout the world, but the resi- dents are probably not directly comparable in different coun- tries.
+score --> 0
+However, they generally require continual care and have  other significant deficiencies, e.g.
+score --> 0
+2013).
+score --> 0
+In Denmark, nursing home residents are easy to identify  from their home addresses.
+score --> 0
+2012).
+score --> 0
+The  prevalence of these patients in the orthopedic ward is rela- tively high, and they require evidence-based expertise.
+score --> 0
+We cannot exclude the fact that some patients living in their  own homes are as frail as those in nursing homes, and there  may be different criteria between countries for transferring  patients to nursing homes.
+score --> 0
+2012).
+score --> 0
+Strengths and limitations Our power calculation was based on nursing home residents  only.
+score --> 0
+To compen- sate for a possible difference in the degree of frailty in these  2 residential groups, we stratified them in the randomization  process.
+score --> 0
+Nonetheless, our results show that the difference  between them was greater than expected.
+score --> 0
+However,  10 patients died intraoperatively and the Hb values of these  patients were unknown.
+score --> 0
+The Modified Barthel index was a sensitive physical assess- ment tool to measure changes in ADL over time, although the  items eating, bowel control, and bladder control were less rel- evant to recovery.
+score --> 0
+Our sample size calculation was based on  the summed scores of the Modified Barthel index, and this  was therefore our first choice of tool.
+score --> 0
+Measurements from New  Mobility score and cumulated ambulation score are presented  in order to make our results comparable to studies using simi- lar tools.
+score --> 0
+The New Mobility score was not very useful, e.g.
+score --> 0
+“ability to go shopping” is rarely an option for frail elderly  people.
+score --> 0
+Information on transfer and walking ability were more  Acta Orthopaedica 2015; 86 (3): 363–372 371 relevant to this population, but no significant differences were  found.
+score --> 0
+The protocol stated that a specific assessor would test  a given patient throughout the 90 days of follow-up, but in  some cases assessors were replaced due to vacations or illness.
+score --> 0
+LCB  ensured protocol compliance in the orthopedic ward, with MG and EMD  doing likewise in the geriatric ward.
+score --> 0
+MG registered data collected from the  assessors, performed the statistical analyses, and prepared the manuscript.
+score --> 0
+All  the authors took part in structuring and writing of the manuscript.
+score --> 0
+We also thank the staff of the orthopedic and geri- atric wards.
+score --> 0
+The Helga and Peter Korning Foundation provided a grant for  medical equipment (HemoCue portable photometer).
+score --> 0
+The costs of data col- lection, analysis, and preparation of the manuscript were borne by the Depart- ment of Geriatrics, Aarhus University Hospital.
+score --> 0
+No competing interests declared.
+score --> 0
+Age Ageing 2011; 40 (1): 49-54.
+score --> 0
+J Am Geriatr Soc 2012;  60 (7): 1268-73.
+score --> 0
+J Gerontol A Biol Sci Med Sci 2009;  64 (7): 771-77.
+score --> 0
+AANA J 2009; 77 (1): 49-58.
+score --> 0
+Carson J L, Terrin M L, Noveck H, Sanders D W, Chaitman B R, Rhoads  G G, et al.
+score --> 0
+NEJM 2011; 365 (26): 2453-62.
+score --> 0
+The Cochrane Data- base of Systematic Reviews 2012; 4, CD002042.
+score --> 0
+Carson J L, Brooks M M, Abbott J D, Chaitman B, Kelsey S F, Triulzi, D  J, et al.
+score --> 0
+Am Heart J 2013; 165 (6): 964-71.
+score --> 0
+Guidelines no.
+score --> 0
+10333 Blood transfu- sion 2008.
+score --> 0
+Retrieved december/20, 2007.
+score --> 0
+Available from http://www.sst.
+score --> 0
+Br J Anaesth 2005; 94 (1): 24-29.
+score --> 0
+J Bone  Joint Surg Br 2006; 88 (8): 1053-59.
+score --> 0
+Transfusion 2009; 49: 227-34.
+score --> 0
+Geriatr Orthop Surg Rehabil 2011; 2 (4): 148-54.
+score --> 0
+J Inj  Violence Res 2012; 4 (2): 45-51.
+score --> 0
+Haentjens P, Magaziner J, Colon-Emeric C S, Vanderschueren D, Milisen  K, Velkeniers B, et al.
+score --> 0
+Ann Intern Med 2010; 152 (6): 380-90.
+score --> 0
+Halm E A, Wang J J, Boockvar K, Penrod J, Silberzweig S B, Magaziner J, et  al.
+score --> 0
+J Orthop Trauma 2004; 18 (6): 369-74.
+score --> 0
+Hebért P C, Wells G, Blajchman M A, Marshall J, Martin C, Pagliarello G,  et al.
+score --> 0
+NEJM 1999; 340 (6): 409-17.
+score --> 0
+J Aging Health 2010; 22 (8): 1114-31.
+score --> 0
+Izuel R M, Garcia Erce J A, Gomez-Barrera M, Cuenca Espierrez J, Abad  Sazatornil R, Rabanaque Hernandez M J.
+score --> 0
+Juliebo V, Krogseth M, Skovlund E, Engedal K, Wyller T B.
+score --> 0
+J Gerontol A Biol Sci Med Sci  2010; 65 (4): 442-49.
+score --> 0
+Kannegaard P N, van der Mark S, Eiken P, Abrahamsen B.
+score --> 0
+national analysis of  comedications, comorbidity and survival.
+score --> 0
+Age Ageing 2010; 39 (2): 203- 09.
+score --> 0
+Kirkland L L, Kashiwagi D T, Burton M C, Cha S, Varkey P. The Charlson  comorbidity index score as a predictor of 30-day mortality after hip frac- ture surgery.
+score --> 0
+Am J Med Qual 2011; 26 (6): 461-67.
+score --> 0
+Kristjansson S R, Ronning B, Hurria A, Skovlund E, Jordhoy M S, Nesbakken  A, et al.
+score --> 0
+J Geriatric Oncology 2012; 3 (1): 1-7.
+score --> 0
+Injury 2011; 42 (2): 167-70.
+score --> 0
+Transfusion 2003; 43 (12): 1717-22.
+score --> 0
+Clin Orthop Relat Res 2011;  469 (9): 2612-20.
+score --> 0
+Maraldi C, Volpato S, Cesari M, Cavalieri M, Onder G, Mangani I, et al.
+score --> 0
+J Am Geriatr Soc 2006; 54 (4): 632-36.
+score --> 0
+Marcantonio E R, Goldman L, Orav E J, Cook E F, Lee T H. The association  of intraoperative factors with the development of postoperative delirium.
+score --> 0
+Am J Med 1998; 105 (5): 380-84.
+score --> 0
+Moja L, Piatti A, Pecoraro V, Ricci C, Virgili G, Salanti G, et al.
+score --> 0
+A meta-analysis and meta-regression of over 190,000 patients.
+score --> 0
+PloS One 2012; 7 (10): e46175.
+score --> 0
+Onem Y, Terekeci H, Kucukardali Y, Sahan B, Solmazgul E, Senol M G, et al.
+score --> 0
+Albumin, hemoglobin, body mass index, cognitive and functional perfor- mance in elderly persons living in nursing homes.
+score --> 0
+Arch Gerontol Geriatr  2010; 50 (1): 56-59.
+score --> 0
+Ortiz-Alonso F J, Vidan-Astiz M, Alonso-Armesto M, Toledano-Iglesias M,  Alvarez-Nebreda L, Branas-Baztan F, et al.
+score --> 0
+J Gerontol  A Biol Sci Med Sci 2012; 67 (6): 690-97.
+score --> 0
+Injury 2013; 44 (12):1916-18.
+score --> 0
+Penninx B W, Pahor M, Cesari M, Corsi A M, Woodman R C, Bandinelli S,  et al.
+score --> 0
+Anemia is associated with disability and decreased physical perfor- mance and muscle strength in the elderly.
+score --> 0
+J Am Geriatr Soc 2004; 52 (5):  719-24.
+score --> 0
+Injury  2006; 37 (8): 705-11.
+score --> 0
+Public Health and Quality Improvement, Central Denmark Region.
+score --> 0
+Trial- Partner.
+score --> 0
+Retrieved Nov/24, 2014.
+score --> 0
+Available from www.cfk.rm.dk/om+os/ forskning+og+kvalitetsudvikling/datamanagement/trialpartner.
+score --> 0
+J Bone Miner Res 2009;  24 (7): 1299-1307.
+score --> 0
+Am J Med 2014; 127 (2): 124; 131.e3.
+score --> 0
+Schaller F, Sidelnikov E, Theiler R, Egli A, Staehelin H B, Dick W, et al.
+score --> 0
+Bone 2012; 51  (3): 347-52.
+score --> 0
+Tolson D, Rolland Y, Katz P R, Woo J, Morley J E, Vellas B.
+score --> 0
+An international  survey of nursing homes.
+score --> 0
+JAMDA 2013; 14 (7): 459-62.  van Dijk P T, Mehr D R, Ooms M E, Madsen R, Petroski G, Frijters D H, et  al.
+score --> 0
+Comorbidity and 1-year mortality risks in nursing home residents.
+score --> 0
+J Am  Geriatr Soc 2005; 53 (4): 660-65.  WHO.
+score --> 0
+Haemoglobin concentrations for the diagnosis of anaemia and assess- ment of severity 2011.
+score --> 0
+Retrieved Apr/2, 2014.
+score --> 0
+Available from www.who.
+score --> 0
+int/vmnis/indicators/haemoglobin  
+score --> 0

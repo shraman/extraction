@@ -1,0 +1,163 @@
+Effect of Rollator Use on Health-Related Quality of Life in Individuals With COPD* Renu B. Gupta, MSc; Dina Brooks, PhD; Yves Lacasse, MD; and Roger S. Goldstein, MB ChB, FCCP Objective: The purpose of this study was to evaluate the influence of rollator use on health- related quality of life in patients with COPD.
+Design: Randomized controlled trial.
+Methods: Thirty-one postrehabilitation patients with COPDwere randomized to receive a rollator (n  18) or usual care (n  13) for 8 weeks and to record the frequency of rollator use.
+Outcome measures at baseline, 4 weeks, and 8 weeks included the Chronic Respiratory Questionnaire (CRQ) and the 6-min walk (6MW).
+Results: During acute testing, subjects consistently walked further when assisted (baseline 6MW: 292  67 m vs 263  67 m; 8 weeks: 283  65 m vs 259  68 m [SD]; p  0.013).
+However, provision of a rollator at home was not associated with group differences in the CRQ (p > 0.08) or in the unassisted 6MW (p  0.4) or the assisted 6MW (p  0.5).
+Eight of 18 subjects assigned to the rollator group used the rollator less than three times per week.
+Regular users demon- strated a consistent improvement in mastery compared with infrequent users (4 weeks: 4.7  0.6 vs 5.2  0.8, respectively; 8 weeks: 5.3  0.8 vs 4.7  0.4; p  0.014).
+Conclusions: Despite evidence of effectiveness during acute testing, this study did not demon- strate a rollator effect on quality of life or exercise capacity when the rollator was provided at home, for a longer period.
+Actual use of a rollator may be an important determinant of its effect.
+Therefore, when prescribing a rollator, health-care professionals should attempt to identify those most likely to use it.
+(CHEST 2006; 130:1089–1095) Key words: COPD; health-related quality of life; rehabilitation; rollator; walking aid Abbreviations: CI  confidence interval; CRQ Chronic Respiratory Questionnaire; 6MW 6-min walk; SIP  Sickness Impact Profile COPD is characterized by shortness of breath andlimited exercise tolerance, which result in pro- gressive activity limitation and isolation.1,2 A primary goal of COPD management is to improve dyspnea and walking ability in order to increase participa- tion.3 Rollator walkers are a useful, nonpharmaco- logic approach to improving functional exercise ca- pacity.4–9 In contrast to earlier walkers that offered excellent balance support but limited mobility, a rollator is a walker with four wheels, equipped with swivel castors on the front two wheels, hand brakes, a basket for carrying objects, and a seat that allows for rest.4 A rollator improves the biomechanical efficiency of walking and breathing, repositioning *From the Graduate Department of Rehabilitation Science (Ms. Gupta), Departments of Physical Therapy (Dr. Brooks) and Medicine (Dr. Goldstein), University of Toronto, West Park HealthCare Centre; and Centre de Pneumologie (Dr. Lacasse), Hoˆpital Laval, Ste-Foy, QB, Canada; Dr. Brooks was supported by a CIHR New Investigator Award.
+Dr. Goldstein is the National Sanitarium Association Chair in Respiratory Rehabilitation Research.
+The authors have no conflicts of interest to disclose.
+Manuscript received January 27, 2006; revision accepted April 7, 2006.
+Reproduction of this article is prohibited without written permission from the American College of Chest Physicians (www.chestjournal.
+org/misc/reprints.shtml).
+Correspondence to: Roger Goldstein, MB ChB, FCCP, West Park Healthcare Centre, 82 Buttonwood Ave, Toronto, ON, Canada M6M 2J5; e-mail: rgoldstein@westpark.org DOI: 10.1378/chest.130.4.1089 Original Research COPD www.chestjournal.org CHEST / 130 / 4 / OCTOBER, 2006 1089 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 the body forwards, anchoring the upper extremities, and assuming a small amount of the user’s weight.9 Several short-term studies10–11 have noted that rollators improved exercise results by 20 to 30 m on the 6-min walk (6MW) test, especially among the more impaired individuals with an unassisted walk- ing distance  375 m. These improvements were accompanied by a patient preference for assisted walking, in addition to reducing dyspnea, and a greater sense of safety.10 Despite several reports on the short-term effects of rollators, little is known about their long-term effects.
+Given the substantial number of rollators funded for respiratory patients, such information is highly relevant.
+In many jurisdictions, including Canada and the United States, health-care funding agencies will reimburse a major part of the cost of ambulatory aids.
+For example, in Ontario, Canada, with a pop- ulation of approximately 10 million, nearly 5,000 rollators were funded from 2003 to 2004, for adults with a diagnosis of respiratory disease, at a cost of $1.5 million (Canadian dollars) [Ministry of Health; personal communication; May 2005].
+The purpose of this study was to evaluate the influence of rollator provision on health-related quality of life in individ- uals with COPD.
+Materials and Methods Participants We recruited subjects from a respiratory follow-up clinic who had recently completed a pulmonary rehabilitation program.
+Eligible subjects were clinically stable with a diagnosis of mod- erate-to-severe COPD according to American Thoracic Society criteria12 (FEV1  59% predicted; FEV1/FVC  0.7), had com- pleted pulmonary rehabilitation in the last year, had not had previous rollator use, and had an unassisted 6MW distance 375 m. Subjects with associated medical conditions that limited exercise tolerance and those with an inability to communicate were excluded.
+Protocol The study was approved by the appropriate research ethics committees.
+All subjects provided written, informed consent.
+A randomized controlled study design was used, with the Chronic Respiratory Questionnaire (CRQ) as the primary outcome mea- sure.
+Subjects were randomized to a rollator group (Opal Legacy; Dolomite; Markham, ON, Canada) or nonrollator group for 8 weeks, stratified according to requirements for portable oxygen.
+Those in the rollator group were asked to integrate it into their daily activities.
+They were also requested to complete a log of the days they used the rollator.
+At the end of the study period, they were asked how the rollator had impacted on their life and to indicate the activities for which it was used.
+Outcome measures were performed at baseline and after 4 weeks and 8 weeks by an assessor unaware of the subject’s group allocation.
+The CRQ is a disease-specific health-related quality of life questionnaire comprised of four domains (dyspnea, fatigue, emotional function, and mastery) known to be valid, reproduc- ible, responsive, and interpretable for trials involving patients with COPD.13,14 The CRQ was administered by a trained interviewer.
+Secondary outcomes included the 6MW and the Sickness Impact Profile (SIP).
+All subjects completed two 6MW tests,15 one with a rollator and one without a rollator, with the test order being chosen at random and then maintained throughout.
+The SIP is a self-administered generic health profile comprised of 136 items in 12 domains with 3 primary dimensions: physical, psychosocial, and independence.16 Subjects were telephoned 3 days before their scheduled appointments to ensure that they were stable.
+Those with an acute exacerbation had outcome measures delayed by 7 days from their scheduled time.
+Outcomes were not measured  1 week after the study period, in order to minimize the so called “late comer” bias that is introduced when the measurement of outcomes is postponed until the patient’s condition has improved or deteriorated to the point of the outcome being systematically different from patients who were assessed on due time.17 Data Analysis The sample size was calculated from a clinically meaningful change in the CRQ score in which a sample size of 16 would be required for each group for a difference of 1.0, a two-tailed type I error of 0.05, and a type II error of 90%).13 A difference of 1.0 in each domain would allow for a moderate treatment effect to be evaluated.15 A repeated-measures analysis of variance was used to deter- mine if there was an effect of group or time.
+The 95% confidence interval (CI) around the mean differences within the two groups at 1 month and 2 months was calculated.
+At the end of the study, the differences in CRQ scores between the two study groups and the associated 95% CIs were calculated.
+These differences were adjusted for baseline scores.
+Results Sample Of 316 subjects screened, 241 were ineligible for a variety of reasons: 6MW  375 m (n  86); previous use of a rollator  4 weeks (n 58); comorbidities that influenced exercise tolerance (n 39); inability to walk unaided (n 17); unconfirmed diagnosis of severe COPD (n 22); clinical instability (n 5); unable to attend for follow-up measures (n 7); unable to communicate in English (n 5); noncom- pliant (n 2).
+Of the remaining 75 subjects, several subjects (n 44) declined for various social reasons or because of disinterest.
+Thirty-one subjects (42% men; mean age, 68 8 years [ SD]), participated in the study (Fig 1).
+Twelve subjects had been prescribed supplemental oxygen for use during exercise.
+Subjects were ran- domized to rollator (n 18) or nonrollator (n 13) groups.
+Following randomization and baseline mea- sures, four subjects were excluded from the trial (three rollator and one nonrollator), one because of acute abdominal pain, one who died unexpectedly, and two who withdrew for social reasons.
+The gen- 1090 Original Research Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 eral characteristics of the two groups are summa- rized in Table 1.
+There were no between-group differences at baseline in the CRQ, the SIP, and assisted or unassisted 6MW tests.
+Effect of Rollator During acute testing, subjects achieved higher 6MW distances when assisted walking was compared with unassisted walking at baseline (292 67 m vs 263 67 m), 4 weeks (296 62 m vs 275 63 m), and 8 weeks (283 65 m vs 259 68 m) [p  0.013], with no time effect (p 0.45).
+Details of the effects of acute testing on dyspnea, number of rests, and subject preference are described else- where.18 There were no between-group differences in any Figure 1.
+Study patient flow.
+www.chestjournal.org CHEST / 130 / 4 / OCTOBER, 2006 1091 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 of the domains of the CRQ (dyspnea, p 0.1; fatigue, p 0.3; emotional function, p 0.08; mas- tery, p 0.4) and no time effect (dyspnea, p 0.9; fatigue, p 0.9; emotional function, p 0.9; mas- tery, p 0.5) [Table 2].
+The adjusted mean differ- ences between the two groups did not exceed the minimally clinically important difference of 0.5 (Fig 2).
+There were no differences between groups (p 0.4) or over time (p 0.2) in the unassisted 6MW.
+The control group had similar 6MW distances at baseline (248 59 m), 4 weeks (250 49 m), and 8 weeks (249 65 m).
+After 4 weeks of rollator use, the rollator group had an increase in 6MW distance between baseline (271 73 m) and 4 weeks (291  69 m), followed by a decline at 8 weeks (263 74 m).
+Assisted walking with the rollator increased the walking distances but did not result in between-group differences (p 0.5) or a time effect (p 0.4).
+There were no differences between the groups (p 0.2) or over time (p 0.3) for the SIP and its domains.
+Frequency of Rollator Use Subjects in the rollator group were asked to record the number of days they used their rollator.
+Over 2 months, mean rollator use was 26 4 days (range, 5 to 60 days).
+A plot of the use frequency (Fig 3) indicated that there were no subjects who used the rollator 15 to 25 days.
+Based on the frequency distribution, a “user” was defined as someone who used their rollator at least three times a week over the study duration (ie,  24 days over the 8-week study period).
+In 10 rollator users (2 men and 8 women), the rollators were used for 25 to 60 days; and in 8 infrequent users (2 men and 6 women), the rollators were used for 5 to 15 days.
+At baseline, there were no significant differences in the characteristics between the user and infrequent user groups regarding age, pulmonary mechanics, use of oxygen, baseline walking distance, change in distance with or without rollator, or health-related quality of life.
+Table 3 shows the change in CRQ domains among users and infrequent users.
+For the mastery domain, there was a significant difference between groups (p  0.014), with users having a significantly higher mastery scores than infrequent users, a pattern that was consistent over time (4 weeks, 5.2 0.8 [users] vs 4.7 0.6 [infrequent users]; 8 weeks, 5.3 0.8 [users] vs 4.7 0.4 [infrequent users]).
+In the dys- pnea domain, the difference between the user and infrequent user groups was clinically significant (4.0 1.1 vs 3.0 0.8, respectively; unit change 1.0 at 4 weeks).
+There were no differences in the fatigue or emotion domains between groups (p 0.3 and p  0.08, respectively) or over time (p 0.9 and p  0.9).
+Table 1—Characteristics of the Study Groups* Characteristics Rollator Group (n 18) Nonrollator Group (n  13) p Value Male/female gender, No.
+4/14 9/4 Age, yr 68  9 (49–84) 68 7 (53–80) 0.8 Supplemental O2, No.
+(%) 7 (39) 5 (38) 0.9 FEV1, L 0.7  0.3 (0.4–1.3) 0.7 0.2 (0.5–1) 0.7 FEV1, % predicted 36  13 (17–65) 30 9 (15–44) 0.2 FEV1/FVC 40  11 (23–64) 32 10 (20–50) 0.04 Inspiratory capacity, L 1.71 0.34 (1.21–2.23) 1.70 0.57 (1.04–2.63) 0.9 Total CRQ score 16.6  3.3 (11.6–23.3) 17.3 4.6 (6.7–23.1) 0.5 *Data are presented as mean  SD (range).
+Table 2—Change in CRQ With and Without Rollator Use* Variables Baseline to 4 Weeks Baseline to 8 Weeks Rollator group Dyspnea 0.23 ( 0.45 to 0.92) 0.13 ( 0.57 to 0.84) Fatigue 0.22 ( 0.36 to 0.81) 0.27 ( 0.44 to 0.98) Emotion 0.12 ( 0.37 to 0.61) 0.16 ( 0.31 to 0.62) Mastery 0.13 ( 0.19 to 0.44) 0.15 ( 0.33 to 0.62) Nonrollator group Dyspnea  0.027 ( 0.14 to 0.086) 0.036 ( 0.13 to 0.20) Fatigue  0.24 ( 0.50 to 0.031) 0.018 ( 0.45 to 0.49) Emotion  0.064 ( 0.38 to 0.25) 0.13 ( 0.15 to 0.40) Mastery 0.00 ( 0.12 to 0.12)  0.018 ( 0.32 to 0.29) *Data are presented as unit change (95% CI).
+1092 Original Research Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 At the end of the study, the results of the stan- dardized questionnaire were tabulated from the number and percentage of subjects agreeing with specific statements pertaining to the rollator.
+All subjects in the rollator group reported that it im- proved their exercise endurance, as well as enabling them to feel safer and more stable when walking.
+In addition, 86% of subjects appreciated the seat and 71% of subjects felt less short of breath when walking with the rollator.
+Both users (86%) and infrequent users (91%) indicated that the rollator improved their quality of life.
+The activities for which rollators were used are presented in Table 4.
+Few patients reported using their rollator within their homes or to gain entry or exit from their homes.
+Most were used them for outdoor walking, recre- ational, or otherwise, such as shopping.
+Discussion We set out to evaluate the impact of rollator provision on the quality of life among patients with Figure 3.
+Frequency of use, in days, during the 8-week study period among those assigned to the rollator group; a “user” was defined as someone who used a rollator at least three times a week over the study duration (ie,  24 occurrences over the 8-week study period).
+Figure 2.
+Adjusted mean differences (95% CI) in CRQ between rollator users and control subjects.
+www.chestjournal.org CHEST / 130 / 4 / OCTOBER, 2006 1093 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 COPD most likely to benefit ambulatory assistance, given their baseline unassisted 6MW distances of  375 m.10 The study was negative, insofar as there were no between group differences at 1 month or 2 months.
+However, the study does raise some impor- tant clinical and practical issues related to rollator provision.
+Despite the fact that patients consistently walked further with a rollator when tested at three time points,18 and despite the majority of patients allocated to the rollator group indicating their pref- erence for walking with a rollator, 8 of 18 subjects used it less than three times a week.
+This lack of use almost certainly influenced the lack of between- group differences in exercise tolerance and quality of life.
+This is supported by the post hoc analysis that showed the improvements in mastery for those who did use the rollator regularly.
+Mastery is the extent to which an individual feels that they can cope with the limitations of their condition14 and is the domain of the CRQ most likely to respond to the use of an ambulatory aid.
+The between-group differences at 4 weeks and at 8 weeks represent a small but clinically important change, beyond the minimal clinically important difference of 0.5 for that measure.19 Un- fortunately, we did not include a detailed assessment of why the rollator was used and only listed the primary activities for which it was used.
+Therefore, we cannot comment on the seasonal impact of either hot or inclement whether.
+Nor did we collect infor- mation on whether infrequent users regarded the rollator as a social stigma.
+Although the CRQ is an excellent, disease-specific questionnaire frequently used in studies of individ- uals with COPD, the dyspnea domain requires that patients identify five important daily activities lim- ited by dyspnea.14 Given that a rollator impacts only on ambulation, if this was not of sufficient impor- tance to be listed, then the effects of the rollator on walking would not be relevant to the patient’s assess- ment of their dyspnea.
+In other words, even im- provements in the 6MW will only be a relevant if the patient regards walking as an important activity limited by dyspnea.
+Of note, 34% of subjects did not include ambulatory activities among the items self selected for the dyspnea domain.
+More than half of the subjects listed bathing or stair climbing, and one third listed dressing, bending, carrying, or being upset.
+Notwithstanding the above, the absence of between-group differences in the other domains of the CRQ, such as mastery or fatigue, makes it unlikely that the dyspnea domain misrepresented the influence of the rollator on quality of life.
+An obvious design weakness is that we did not require the patients to record, nor did we provide an indepen- dent assessment of the amount of time for which the rollator was used.
+Patients were only required to note the days on which they used the equipment.
+The 6MW test may not be the most appropriate or sensitive measure to demonstrate the effectiveness of a rollator, given its relatively weak correlation with measures of exercise endurance.
+Ambulatory sup- port with a rollator is not designed to enable the patient to cover as much ground as possible, more to improve quality of life by increasing their overall endurance.
+Therefore, although we used the 6MW as an entry criterion to establish who might benefit from assistance, we chose health-related quality of life as the primary outcome measure.
+We may have biased the study against a more satisfactory result by enrolling only rollator-naive subjects.
+In such circumstances, patients who regu- larly used a rollator when assigned to the control group would have demonstrated less favorable out- comes than those assigned to the rollator group.
+However, this design would have required the re- moval of rollators from those who clearly benefited from them.
+Funding guidelines for rollators vary among juris- dictions.
+In the United States, reimbursement for a rollator requires a diagnostic code and a physician’s prescription (Form 1490S).
+In Canada, reimburse- ment also requires the signature of an authorized therapist.
+In neither instance is a therapist obliged to Table 4—Activities for Which a Rollator Was Used* Activity No.
+(%) Walking in the home 5 (31) Other activities in the home 1 (6) Walking outside 13 (81) Transition inside to outside the home 5 (31) To and from the car 6 (38) Walking indoors (not home) 13 (81) Activities (not home) 10 (63) *n  16; two subjects did not complete the questionnaire.
+Table 3—Change in CRQ Components Among Rollator Users and Infrequent Users* Variables Baseline to 4 Weeks Baseline to 8 Weeks Rollator users Dyspnea 0.70 ( 0.19 to 1.59) 0.54 ( 0.41 to 1.49) Fatigue 0.58 ( 0.16 to 1.33) 0.27 ( 0.45 to 0.98) Emotion 0.43 ( 0.39 to 1.25) 0.57 (0.00 to 1.14) Mastery 0.16 ( 0.22 to 0.54) 0.38† ( 0.043 to 0.79) Infrequent users Dyspnea  0.35 ( 1.51 to 0.81)  0.38 ( 1.59 to 0.84) Fatigue  0.23 ( 1.29 to 0.85) 0.28 ( 1.33 to 1.89) Emotion  0.27 (0.74 to 0.21)  0.37 ( 1.1 to 0.33) Mastery 0.09 ( 0.57 to 0.74)  0.14† ( 1.20 to 0.93) *Data are presented as unit change (95% CI).
+†p  0.014.
+1094 Original Research Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 provide evidence of effectiveness, nor is there any requirement for a follow-up evaluation to determine rollator use and impact.
+This has important resource implications.
+For example, in the province of On- tario, Canada (population 12.5 million), the assistive devices program funds 75% of the cost of a rollator at a price range of $400 to $500 (Canadian), thereby allocating $1.5 million annually in support of the 5,000 rollators provided to patients with a respiratory diagnosis.
+Therefore, whether and how a patient with COPD benefits from a rollator is important.
+Guidelines state that the equipment must be re- quired for mobility within the individual’s place of residence, or to gain entry into and exit from it.
+Cost savings could result from education of patients and health-care providers as to the indications, applica- tion, and expected benefits from using a rollator, and further savings might accrue from the recycling of equipment.
+In fact, outdoor walking, and indoor walking outside of the home were the most fre- quently identified primary activities for which the patients used their rollator.
+Given the impact of weather on these activities, the 45% of subjects recruited during winter would have been limited in the extent to which they might have been able to gain from using a rollator.
+In summary, although this report extends the observation period beyond the short-term studies previously reported, further evaluations of rollator effectiveness, that include objective monitoring of usage,20 are required to establish longer term bene- fits.
+Provision of a rollator, even among severely impaired COPD patients who walked further during acute testing and who stated a preference for its use, is not synonymous with frequent use or with benefit.
+The improved mastery scores among regular users suggest that health-care providers should evaluate frequency of use and impact for those provided with this ambulatory aid.
+ACKNOWLEDGMENT: Supported in part by Ontario Physi- cians’ Services Incorporated; Provincial Rehabilitation Research Program Award; Ontario Respiratory Care Society, and Shop- per’s Home Healthcare.
+References 1 O’Donnell DE, Aaron S, Bourbeau J, et al.
+State of the art compendium: Canadian Thoracic Society recommendations for the management of chronic obstructive pulmonary dis- ease.
+Can Respir J 2004; 11(suppl B):7B–59B 2 Rochester CL.
+Exercise training in chronic obstructive pul- monary disease.
+J Rehabil Res Dev 2003; 40:559–580 3 American Thoracic Society.
+Pulmonary rehabilitation: 1999.
+Am J Respir Crit Care Med 1999; 159:1666–1682 4 Cornely HZ.
+Functional outcome difference using a rollator walker versus a two-wheeled rolling walker.
+Phys Ther Case Rep 1998; 1:104–106 5 Campbell EJM.
+Portable oxygen equipment and walking-aid in pulmonary emphysema.
+BMJ 1957; 11:1518–1521 6 Grant JB, Capel LH.
+Walking aid for pulmonary emphysema.
+Lancet 1972; 25:1125–1127 7 Wesmiller SW, Hoffman LA.
+Evaluation of an assistive device for ambulation in oxygen dependent patients with COPD.
+J Cardiopulm Rehabil 1994; 14:122–126 8 Dalton G, Ashley J, Rudkin ST, et al.
+The effect of walking aids on walking distance, breathlessness and oxygenation in patients with severe chronic obstructive pulmonary disease.
+Thorax 1995; 50(supplement 2):A57 9 Honeyman P, Barr P, Stubbing DG.
+Effect of a walking aid on disability, oxygenation, and breathlessness in patients with chronic airflow limitation.
+J Cardiopulm Rehabilit 1996; 16:63–67 10 Solway S, Brooks D, Lau L, et al.
+The short-term effect of a rollator on functional exercise capacity among individuals with severe COPD.
+Chest 2002; 122:56–65 11 Probst VS, Troosters T, Coosemans I, et al.
+Mechanisms of improvement in exercise capacity using a rollator in patients with COPD.
+Chest 2004; 126:1102–1107 12 American Thoracic Society.
+Standards for the diagnosis and care of patients with chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 1995; 152:S77–S121 13 Guyatt GH, Berman LB, Townsend M, et al.
+A measure of quality of life for clinical trials in chronic lung disease.
+Thorax 1987; 42:773–778 14 Lacasse Y, Wong E, Guyatt G. A systematic overview of the measurement properties of the Chronic Respiratory Ques- tionnaire.
+Can Respir J 1997; 4:131–139 15 American Thoracic Society.
+ATS statement: guidelines for the six-minute walk test.
+Am J Respir Crit Care Med 2002; 166:111–117 16 Lacasse Y, Wong E, Guyatt G, et al.
+Health status measure- ment instruments in chronic obstructive pulmonary disease.
+Can Respir J 1997; 4:152–164 17 Sackett DL.
+Bias in Analytical Research.
+J Chron Dis 1979; 32:51–63 18 Gupta R, Goldstein R, Brooks, D. The acute effects of a rollator in individuals with COPD.
+J Cardiopulm Rehabil 2006; 26:107–111 19 Jaeschke R, Singer J, Guyatt G. Measurement of health status: ascertaining the minimally clinically important differ- ence.
+Control Clin Trials 1989; 10:407–415 20 Steele BG, Belza B, Cain K, et al.
+Bodies in motion: monitoring daily activity and exercise with motion sensors in people with chronic pulmonary disease.
+J Rehabil Res Dev 2003; 40:45–58 www.chestjournal.org CHEST / 130 / 4 / OCTOBER, 2006 1095 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 

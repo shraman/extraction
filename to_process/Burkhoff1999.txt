@@ -1,0 +1,647 @@
+THE LANCET • Vol 354 • September 11, 1999 885
+S u m m a r y
+B a c k g r o u n d Transmyocardial revascularisation (TMR) is an
+operative treatment for refractory angina pectoris when
+bypass surgery or percutaneous transluminal angioplasty is
+not indicated. We did a prospective randomised trial to
+compare TMR with continued medication.
+M e t h o d s We recruited 182 patients from 16 US centres with
+Canadian Cardiovascular Society Angina (CCSA) score III
+(38%) or IV (62%), reversible ischaemia, and incomplete
+response to other therapies. Patients were randomly assigned
+TMR and continued medication (n=92) or continued
+medication alone (n=90). Baseline assessments were angina
+class, exercise tolerance, Seattle angina questionnaire for
+quality of life, and dipyridamole thallium stress test. We
+reassessed patients at 3 months, 6 months, and 12 months,
+with independent masked angina assessment at 12 months. 
+F i n d i n g s At 12 months, total exercise tolerance increased by
+a median of 65 s in the TMR group compared with a 46 s
+decrease in the medication-only group (p<0·0001, median
+difference 111 s). Independent CCSA score was II or lower in
+47·8% in the TMR group compared with 14·3% in the
+medication-only group (p<0·001). Each Seattle angina
+questionnaire index increased in the TMR group significantly
+more than in the medication-only group (p<0·001). 
+I n t e r p r e t a t i o n TMR lowered angina scores, increased
+exercise tolerance time, and improved patients’ perceptions
+of quality of life. This operative treatment provided clinical
+benefits in patients with no other therapeutic options.
+L a n c e t 1999; 3 5 4 : 8 8 5 – 9 0
+*Investigators listed at end of paper
+Department of Medicine, Columbia University, New York, NY, USA
+(D Burkhoff MD); Department of Surgery, Baylor College of Medicine,
+Houston, TX (S Schmidt MD, Prof J W Jones MD); Johns Hopkins
+University, Baltimore, MD (S P Schulman MD, J Resar MD,
+Prof L C Becker MD, Prof J Weiss MD); and Stanford University School
+of Medicine, Department of Veterans Affairs Medical Center,
+Palo Alto, CA (J Myers PhD)
+Correspondence to: Prof James W Jones, Department of Surgery,
+University of Missouri, One Hospital Drive, Columbia, MO 65212,
+USA
+(e-mail: jonesjw@health.missouri.edu)
+I n t r o d u c t i o n
+Standard treatments for angina pectoris are effective for
+most patients. Some patients with advanced disease,
+however, become less responsive to medication but are not
+candidates for percutaneous transluminal coronary
+angioplasty or coronary-artery bypass grafting because the
+atherosclerotic lesions are too diffuse. These patients have
+frequent angina, limited exercise tolerance, and poor
+quality of life. Transmyocardial revascularisation (TMR)
+was developed to treat such patients.1 TMR is a surgical
+procedure that uses a laser to create channels through the
+myocardial wall to the ventricular chamber. Although
+there is controversy about the mechanism of action, early
+clinical trials of TMR in the USA with carbon-dioxide
+lasers showed encouraging results.2 – 5 However, these
+results have been challenged because of high crossover
+rates and lack of masked assessment of symptoms. A
+subsequent study that used a carbon-dioxide laser but did
+not allow for crossover in the study design showed limited
+clinical benefits in patients with predominantly class III
+a n g i n a .6
+We designed the Angina Treatments—Lasers and
+Normal Therapies in Comparison (ATLANTIC)
+prospective randomised study to compare TMR with
+continued medical therapy in patients with medically
+refractory angina. 
+Patients and methods
+P a t i e n t s
+We recruited 337 patients from 16 US centres who were assessed
+by their treating physician and referred for this study (figure 1).
+After a medical history was taken, the most recent angiogram
+reviewed, and informed consent obtained, patients underwent
+baseline testing. Tests were echocardiography, a dipyridamole
+thallium stress test, treadmill exercise-tolerance testing (Modified
+Bruce Protocol), and a self-administered Seattle angina
+questionnaire. The Seattle angina questionnaire consists of 19
+questions, from which five quality-of-life indices specific for
+patients with angina are derived. Higher scores for each index
+signify better quality of life. Eligible patients had Canadian
+Cardiovascular Society Angina (CCSA) scores of III or IV,
+d e s p i t e maximum tolerated doses of at least two antianginal drugs.
+Entry criteria were a left-ventricular ejection fraction of 30% or
+more and reversible perfusion defects on dipyridamole thallium
+stress test.
+We designed the baseline exercise-tolerance-test protocol to
+obtain evidence that the patients’ angina was refractory to medical
+treatment, to account for possible exercise habituation effects, and
+to ensure test consistency. With the exception of sublingual
+nitroglycerine within 4 h, prescribed cardiovascular drugs were
+continued before the excerise-tolerance test. Each eligible patient
+had to have two consecutive exercise-tolerance tests (of a
+Tr a n s myocardial laser revascularisation compared with continued
+medical therapy for treatment of refractory angina pectoris:
+a prospective randomised trial
+Daniel Burkhoff, Sheila Schmidt, Steven P Schulman, Jonathan Myers, Jon Resar, Lewis C Becker, James Weiss,
+J a m e s W Jones for the ATLANTIC Investigators*
+Articles
+Statistical analysis
+The primary outcome measure was the change in exercise
+duration on a standard protocol. We designed the study to detect
+a difference of 60 s, which we took to be clinically important, in
+the mean change from baseline in the TMR group compared with
+the medication-only group, with a power of 80% and a level of
+significance of 0·05. We assumed that the change was normally
+distributed with an SD of 135 s on the basis of a preliminary
+feasibility study. We therefore estimated that we needed to recruit
+80 patients per group. We anticipated about a 10% loss to follow-
+up and increased the sample size to 90 per group.
+Angina, quality of life, and dipyridamole thallium stress test
+were taken to be secondary outcome measures. The study
+proceeded until completion of planned enrolment and was not
+stopped prematurely. Since all patients received assigned
+treatment and there was no crossover, we did analyses by
+treatment group. We excluded from analyses patients who died or
+withdrew from the study. Results are presented as medians and
+ranges or IQR. We compared baseline characteristics with Fisher’s
+exact test for dichotomous data, the Mantel-Haenszel χ2 test for
+ordered categorical data, or Wilcoxon’s rank-sum test for
+continuous data. We estimated survival curves by Kaplan-Meier
+method and used the log-rank test to compare groups. Changes
+from baseline in exercise-tolerance tests, Seattle angina
+questionnaire, dipyridamole thallium stress test, and ejection
+fraction between groups were compared with Wilcoxon’s test,
+whereas the difference in the distribution of angina between
+maximum of four tests) with durations within 15% of each other.
+The test could be limited by symptoms or ischaemic changes on
+electrocardiography, but typical angina occurring during at least
+one test was required for inclusion in the study. 
+We enrolled only patients with at least one region of protected
+myocardium. We defined a protected region angiographically as a
+vascular territory that was perfused by unobstructed blood flow
+(no lesion >50%) through a major vessel or through a previously
+placed bypass graft inserted into a major vessel that was free from
+distal disease. We developed this criterion from a previous
+retrospective study, which reported that patients with no
+protected regions were at higher risk of mortality after TMR.7
+Patients who had been admitted to hospital for unstable angina,
+substantial change in angina pattern, or change in antianginal
+drugs were not included until 21 days after the last event. We
+excluded patients who had had myocardial infarction within
+3 months, severe symptomatic heart failure (requiring 40 mg
+furosemide daily), a history of clinically important ventricular
+arrhythmias, or a cardiac transplant, or who were judged to be
+poor surgical candidates.
+Randomisation and treatment
+Patients who met the inclusion criteria were randomly assigned
+TMR with continued medication (n=92) or continued medication
+only with their current treatment regimen (n=90, figure 1). We
+used block randomisation according to site to achieve roughly
+equal distribution between groups at each site. Randomisation
+was done by a central coordinating centre by telephone. The
+coordinating centre confirmed eligibility criteria before it provided a
+randomisation assignment. Six patients had minor deviations from
+protocol related to entry criteria but were included in analyses.
+Under general anaesthetic, a limited muscle-sparing left
+thoracotomy was done and transmyocardial laser channels were
+created in and around previously identified areas of reversible
+ischaemia with a density of about one channel per 1·0–1·5 cm2. A
+median of 18 (range 9–42) channels were created with a
+holmium:YAG (CardioGenesis Corp, Sunnyvale, CA, USA).
+Bleeding from most channels stopped spontaneously or with
+finger pressure. No patient had recurrent bleeding after initial
+control. Patients were monitored in intensive care immediately
+after surgery.
+We assessed patients at 3 months, 6 months, and 12 months for
+angina class (unmasked assessment by investigators) exercise
+tolerance, dipyridamole thallium stress test, and Seattle angina
+questionnaire. Echocardiography was done at 3 months. Angina
+class was also assessed by standard protocol at 12 months by
+trained independent interviewers unaware of treatment group. We
+established central laboratories for on-site training and to review
+results of exercise-tolerance tests, echocardiography, dipyridamole
+thallium stress test, Seattle angina questionnaire, and independent
+angina assessments. All endpoint data were assessed by central
+laboratory investigators who were unaware of treatment group.
+886 THE LANCET • Vol 354 • September 11, 1999
+TMR Medication only
+(n=92) (n=90)
+Demography
+Age (years) 63 (42–78) 65 (36–78)
+Sex (M/F) 10 (11%)/82 (89%) 7 (8%)/83 (92%)
+Clinical characteristics
+Diabetes 33 (36%) 31 (34%)
+Hypertension 68 (74%) 79 (88%)*
+Hyperlipidaemia 71 (77%) 81 (90%)†
+History of smoking 77 (84%) 73 (81%)
+Family history of coronary-artery disease 66 (73%)‡ 70 (78%)
+Previous myocardial infarction 64 (70%) 62 (69%)
+Previous interventions
+None 3 (3%) 6 (7%)
+CABG alone 40 (44%) 27 (30%)
+PTCA alone 6 (7%) 8 (9%)
+CABG and PTCA 43 (47%) 49 (54%)
+Baseline tests
+CCSA score
+III 34 (37%) 36 (40%)
+IV 58 (63%) 54 (60%)
+Exercise tolerance (s) 364 (105–981) 381 (89–747)
+Left-ventricular ejection fraction (%) 50 (31–68) 45 (31–68)
+Left-ventricular myocardium 14 (0–63) 13 (0–51)
+with ischaemia
+Left-ventricular myocardium 9 (0–45) 13 (0–51)
+with infarction
+Seattle angina questionnaire
+Angina frequency 20 (0–90) 20 (0–80)
+Angina stability 25 (0–100) 50 (0–100)
+Physical limitation 25 (0–100) 31 (0–64)
+Disease perception 17 (0–67) 25 (0–75)§
+Treatment satisfaction 69 (0–100) 63 (13–100)
+Data are median (range) or n (%). CABG=coronary-artery bypass grafting;
+PTCA=percutaneous transluminal coronary angioplasty. *p=0·02. †p=0·03. ‡History
+unknown for two patients in TMR group. §p=0·02. 
+Table 1: Baseline demography and test results
+Figure 1: Trial profile
+Protected regions TMR Medication only*
+Anterior only 32 (35%) 31 (34%)
+Lateral only 14 (15%) 14 (16%)
+Inferior only 14 (15%) 10 (11%)
+Anterior and lateral 10 (11%) 13 (14%)
+Anterior and inferior 8 (9%) 13 (14%)
+Lateral and inferior 11 (12%) 5 (6%)
+Anterior, lateral, and inferior 3 (3%) 3 (3%)
+*One patient had no protected region and is not included in table.
+Table 2: Severity of coronary disease by number of protected
+regions
+transluminal coronary angioplasty. Two-thirds had class
+IV angina at baseline. Ventricular function was well
+preserved (median left-ventricular ejection fraction 50%)
+but baseline exercise tolerance was poor (median total
+exercise duration 364 s). The two groups showed a median
+of 14% ischaemic myocardium and 11% infarction,
+measured by quantitative polar analysis of the
+dipyridamole thallium stress test (available from 87% of
+participants at baseline). Severity of coronary-artery
+disease, indexed at the central laboratory by the number of
+protected regions, was also similarly distributed between
+groups (table 2). 115 patients had only a single protected
+region, most commonly a protected anterior wall that was
+the result of a previously placed internal mammary artery
+to a patent distal left anterior descending artery.
+The frequencies of use of individual cardiovascular
+drugs were similar in the two groups. In addition, 102
+(56%) patients were taking combinations of β- b l o c k e r s ,
+nitrates, and calcium-channel blockers, 38 (21%) were
+taking β-blockers and nitrates, and 29 (16%) were taking
+nitrates and calcium-channel blockers. 147 (81%) patients
+used daily aspirin at baseline. 137 (75%) patients were
+taking lipid-lowering agents. There was little change in the
+overall pattern of medications during the study.
+14 patients died during the study, (five [5%] in the
+TMR group, nine [10%] in the medication-only group).
+Four of the deaths in the TMR group were attributed to
+myocardial infarction and one to respiratory failure. Only
+one of these occurred within 30 days of surgery. All nine
+deaths in the medication-only group happened more than
+30 days after randomisation, seven because of cardiac
+causes and two because of unknown causes. Survival did
+not differ significantly between groups (figure 2).
+The number of episodes of unstable angina requiring
+admission to hospital was higher in the medication-only
+group than in the TMR group, whereas the rate of heart
+failure (defined as the need for a new prescription of a
+diuretic or doubling of a pre-existing diuretic regimen) or
+left-ventricular dysfunction (10% point decrease in
+ejection fraction) were higher in the TMR group. Other
+adverse events arose with low frequency (table 3).
+16 patients withdrew from the study, nine in the TMR
+group and seven in the medication-only group, all
+voluntarily. Although complete follow-up test results were
+not available for these patients, each one was contacted
+and was alive at 12 months. After deaths and withdrawals
+had been accounted for, 152 patients (78 in the TMR
+group, 74 in the medication-only group) reached the end
+of the study and were assessed for angina. Of these, 74
+(95%) in the TMR group and 67 (91%) in the medication-
+only group completed the exercise-tolerance test at 12
+months (figure 1). 
+Postoperative electrocardiography showed no significant
+changes in any patient and were typically unchanged from
+groups according to independent scores was assessed with the
+Mantel-Haenszel test. We compared ejection fraction over time
+within groups with a signed-rank test. All p values are two-sided.
+R e s u l t s
+182 of 337 patients were enrolled (figure 1). The main
+reasons for exclusion were absence of objective evidence of
+ischaemia on dipyridamole thallium stress test (34),
+patient’s decision not to participate (23), eligibility for
+coronary-artery bypass graft or percutaneous transluminal
+coronary angioplasty decided by the central laboratory
+(23), insufficient region of protected myocardium (20),
+absence of angina on exercise testing (20), and left-
+ventricular ejection fraction of less than 30% (12). Age,
+sex, and baseline variables were similar in the two groups,
+a l t h o u g h there were higher frequencies of hypertension
+and hypercholesterolaemia and higher disease perception
+score on the Seattle angina questionnaire in the
+medication-only group (table 1). More men than women
+were enrolled. 
+Most patients had previous myocardial infarction and
+coronary-artery bypass grafting or percutaneous
+THE LANCET • Vol 354 • September 11, 1999 887
+Event TMR Medication only
+Death 5 9
+Unstable angina 37 69
+Heart failure or left-ventricular dysfunction 25 10
+Myocardial infarction 14 8
+Arrhythmias 11 10
+Other cardiovascular disorder 11 12
+Thromboembolic disorder 9 3
+Respiratory failure 5 1
+Pneumonia 5 1
+Cellulitis 4 0
+Phrenic-nerve paresis 3 0
+Table 3: Serious adverse events
+Figure 2: Kaplan-Meier survival curves
+One additional death in medication-only group at 379 days not shown in
+curves. 
+Figure 3: Median (IQR) changes in total exercise duration at
+each follow-up visit
+baseline; changes that were seen were non-specific ST and
+T-wave changes. At 3-month follow-up, only two patients
+in the TMR group had new Q waves; no patient in the
+medication-only group had new Q waves.
+TMR channels have a central region of vaporised
+myocardium surrounded by a thin rim of necrosis due to
+thermal damage.8 Induction of myocardial necrosis is
+inherent to the procedure. Serum creatine phosphokinase
+and its MB fraction (available in 96% of patients) peaked at
+16–24 h after the procedure. The highest mean concentration
+was 1387 IU/L and was less than 1095 IU/L in 50% of
+patients. Mean overall creatine phosphokinase concentration
+was 45 IU/L and was less than 20 IU/L in 50% of patients. 
+There was an improvement in exercise duration in
+patients in the TMR group at all time points, with median
+values of more than 60 s. More than 50% of patients in the
+medication-only group had decreased exercise tolerance at
+all time points (59% at 3 months, 55% at 6 months, and
+64% at 12 months; figure 3). At 12 months, total exercise
+tolerance increased by a median of 65 s in the TMR group
+compared with a 46 s fall in the medication-only group
+(p<0·0001); the median difference between groups was
+111 s. Exercise duration at 12 months had decreased by
+6 0 s or more in only 17% of patients in the TMR group
+compared with 45% in the medication-only group. Despite
+the longer exercise duration, only 26% of patients in the
+TMR group had angina during the final test, compared
+with 58% of those in the medication-only group. The
+major reason for stopping the exercise test in patients who
+did not have angina was fatigue.
+Unmasked assessment of angina showed substantial
+improvement in angina in the TMR group at each follow-
+up visit. At 12 months, CCSA score had decreased by two
+or more classes in 47 (61%) of 77 TMR-treated patients
+compared with only eight (11%) of 73 treated with
+medication only, in whom CCSA class remained mostly
+unchanged. Additionally, patients with more severe angina
+at baseline were more likely to show more improvement;
+32 (67%) of 48 patients in the TMR group with baseline
+CCSA class IV angina were more likely to show a decrease
+of two or more classes compared with 15 (52%) of 29 in
+the TMR group with baseline CCSA class III angina. In
+the medication-only group, such changes were seen in five
+(12%) of 43 and three (10%) of 30, respectively. Findings
+were similar at each follow-up visit.
+Comparison of investigator scores and masked
+independent scores for angina at 12 months showed that
+investigators generally assigned lower angina scores to
+patients in the TMR group than did independent assessors
+(table 4). In the medication-only group, the proportion of
+patients for whom investigators assigned lower or higher
+scores than independent assessors (14% and 12%,
+respectively) showed no systematic bias in class
+assignment. In the TMR group, a significantly higher
+proportion of patients were assigned higher scores than
+lower scores by the investigators than by the independent
+assessors (32 v s 11%), which showed bias in favour of the
+therapy. It was therefore deemed inappropriate to rely on
+the investigator CCSA scores as a measure of efficacy.
+CCSA scores obtained from the masked assessment of
+angina at 12 months (figure 4) were significantly lower in
+the TMR group than in the medication-only group
+(p<0·001). 48% of patients in the TMR group were in
+class II or lower, compared with 14% of those in the
+medication-only group at the end of the study.
+At 3 months, 6 months, and 12 months, scores of each
+quality-of-life index in the Seattle angina questionnaire
+rose significantly more in the TMR group than in the
+medication-only group (figure 5). The reported quality of
+life was therefore better in the TMR group.
+The change in the percentage of myocardium with fixed
+and reversible defects from baseline to the 3-month, 6-
+month, and 12-month visits did not differ significantly
+between the two treatment groups. TMR did not, therefore,
+influence myocardial perfusion as assessed by this technique.
+For example, at 12 months, the median proportion of the
+myocardium affected by ischaemia on polar analysis was
+11·5% (range 0–65, n=66) in the TMR group and 12%
+(0–50, n=65) in the medication-only group, which are
+similar to each other and to the baseline values (table 1).
+Similarly, the median proportion of the myocardium with
+infarction was 11% (0–63, n=66) in TMR and 11% (0–39,
+n=66) in the medication-only group; these values did not
+differ significantly from each other or baseline.
+Left-ventricular ejection fraction did not change
+significantly in the medicaton-only group from baseline to  3
+months (median change 0% [–25 to 20], p=0·21). In the
+TMR group, the median change in ejection fraction from
+baseline to 3 months was a decrease from baseline by 3% (–28
+to 20, p<0·0001). A more detailed analysis, based on a
+qualitative grading of 15 different myocardial segments,
+showed no change in the proportion of segments graded as
+normal or hypokinetic, compared with those graded akinetic,
+dyskinetic, or aneurysmal in patients in each treatment group. 
+D i s c u s s i o n
+All previous studies of TMR have limited selection of
+patients to those with the most advanced forms of
+888 THE LANCET • Vol 354 • September 11, 1999
+CCSA classification by investigator assessment
+TMR Medication only
+I II III IV I II III IV
+I 16 4 0 1 0 0 2 0
+II 15 7 4 1 2 3 8 0
+III 13 7 7 4 2 3 11 13
+IV 0 10 1 6 3 2 8 44
+Table 4: Comparison of proportion (%) of investigator and
+independent scores in each CCSA class at 12 months
+Figure 4: Distribution of CCSA scores by independent assessors
+CCSA
+classification
+by independent
+assessment
+ischaemic heart disease and the worst symptoms, and
+those ineligible for standard interventions. Our entry
+criteria were intended to select such patients. Most of our
+patients had class IV angina and poor exercise tolerance
+and were in a stable stage of their disease. There was a high
+frequency of cardiac risk factors, previous myocardial
+infarctions, multiple previous invasive therapies, and
+reasonably well preserved left-ventricular function without
+symptoms of heart failure. The mortality rate in our study
+was lower than that in previous studies of TMR.  Factors
+contributing to the low mortality could include exclusion
+of patients with no region of protected myocardium, acute
+ischaemia, low ejection fractions (<30%), or refinement of
+surgical technique. 
+Postoperative echocardiography, electrocardiography, and
+dipyridamole thallium stress tests showed that TMR did not
+infarct the treated region on a large scale. Enzymatic
+evidence showed mild myocardial necrosis, but creatine
+phosphokinase MB concentrations of up to 30 IU/L are
+common. Concentrations were higher in a few patients, but
+other tests showed no evidence of substantial major
+myocardial damage. Echocardiography showed a small but
+significant reduction in global ejection fraction, although a
+more detailed segmental analysis showed no significant
+change from baseline. Such a decrease was not seen in a
+previous study of TMR with a carbon-dioxide laser,6 b u t
+differences in lasers or in study populations have not been
+established. For the group as a whole, this apparently minor
+change in left-ventricular function did not adversely impact
+on survival, exercise tolerance, or angina in the TMR group.
+Angina relief and improvement in quality of life were
+significant. Although we were able to eliminate bias in
+angina scoring by using only the independent scores, bias
+among patients could not be eliminated. There was a
+THE LANCET • Vol 354 • September 11, 1999 889
+Figure 5: Median (IQR) changes in values of individual indexes
+derived from the Seattle angina questionnaire
+significant increase in exercise tolerance in the TMR
+group, which provided objective evidence of improved
+functional capacity after TMR. No exercise training effect,
+commonly seen in studies of heart failure patients,9 w a s
+shown in patients in the medication-only group with
+angina but no heart failure; overall, exercise tolerance
+declined in this group. Thallium scans done under a fixed
+degree of chemically induced vasodilatory stress showed
+no improvement in blood flow after TMR. This finding
+raises questions about the mechanisms contributing
+t o clinical benefits, but does not exclude the possibility of
+an improvement in perfusion undetectable by this
+t e c h n i q u e .
+Several previous clinical studies of TMR focused on
+angina relief compared with a control group receiving
+medical therapy. Researchers in one study that used a
+carbon-dioxide laser concluded that TMR improves
+myocardial perfusion, although the high rate of crossover
+limited the validity of the conclusions.5 In another study
+that also used a carbon-dioxide system in mainly class III
+patients, the investigators reported a low rate of
+improvement in angina, a non-significant increase in
+exercise duration at 1 year, no improvement in perfusion,
+and a slightly higher 1-year mortality with TMR (11 v s
+4%, p=0·14).6
+There is controversy about the mechanism of action of
+TMR. Early claims of channel patency and direct
+transmyocardial blood flow1 0 – 1 3 have mainly been
+r e f u t e d .5 , 8 , 1 4 – 2 1 Preclinical studies have shown vascular
+growth (angiogenesis) after TMR that can increase blood
+reserve by about 30%,2 2 , 2 3 which may potentially improve
+symptoms. Angiogenesis and growth of existing vessels are
+thought to be due to the inflammation occurring in
+response to the microinjuries2 4 around the original laser
+c h a n n e l s .1 6 Myocardial denervation has been seen in
+laboratory animals,2 5 but no harmful clinical consequences
+of creating silent ischaemia have emerged, as shown by the
+low mortality rate after TMR. Analysis of
+electrocardiograms, nuclear scans, and echocardiograms
+has excluded the possibility that angina relief is provided
+by infarcting large regions of treated myocardium. Angina
+improvement may be due to a placebo effect, a factor that
+cannot be excluded in unmasked studies of angina relief.
+Continued refinements in surgical therapy have lowered
+morbidity and mortality among patients with ischaemic
+heart disease. Our study showed significant improvements
+in symptoms and function after 12 months among no-
+option patients treated with TMR.
+C o n t r i b u t o r s
+Daniel Burkhoff was a coprincipal investigator, designed the study,
+oversaw data collection and analysis, and drafted the paper. James W Jones
+was a coprincipal investigator, participated in study design, performed
+surgery and cared for most of the patients, trained many of the
+participating surgeons, and oversaw data analysis. Sheila Schmidt
+recruited, interviewed, and cared for many patients. Steven P Schulman
+did the masked CCSA assessments. Jonathan Myers headed the exercise
+test central laboratory and reviewed all tests. Jon Resar headed the
+angiography central laboratory and analysed the changes in medication use.
+L e w i s C Becker headed the central nuclear cardiology laboratory and
+analysed all of the scans. James Weiss headed the central echocardiography
+laboratory and analysed all of the images. All authors participated in
+writing of the paper.
+ATLANTIC study investigators
+Carolyn DeRosa, Craig R Smith, Henry M Spotnitz, Columbia University,
+New York, NY, USA; John Baldwin, Jeanne Holman, Cathy Murtagh,
+Baylor College of Medicine, Houston, TX; Robert Emery, Pat Janey,
+Abbott Northwestern, Minneapolis, MN; Diane Benoit, Peter Graper,
+Thomas P Kelly, Pamela Tenaerts, Sarasota Memorial Hospital,
+S a r a s o t a , FL; John Aldave, Anne Capriotti, Melanie Herr,
+M a r c S Sussman, Karen Turyna RN, Johns Hopkins University,
+Baltimore, MD; Kit Arom, Pat Janey, United Hospital, Minneapolis, MN;
+Edward Diethrich, Christopher J Guerin, Michelle Sagraves, Arizona
+Heart Institute, Pheonix, AZ; Ray A Blackwell, Angela DiSabatino,
+G e r a l d M Lemole, Hiep Nguyen, Kathleen W Nicholas, Monica Seador,
+A Jorge Serra, Christiana Health Care System, Newark, DE;
+W i l l i a m Morris Brown III, Carolyn E Wright MS, Emory Clinic,
+A t l a n t a , GA; Donald B Doty, Jean H Flores, Kent W Jones, LDS Hospital,
+Salt Lake City, UT; Jennifer Goodrick, Charles C Miller III,
+J o h n O’Donnel, Michael Reardon, Methodist Hospital, Houston, TX;
+Peter Fattal, Jennifer LaLonde, St Mary’s Medical Center, Saginaw, MG;
+Steven W Boyce, Richard Cooke, Leslie Sweet, Washington Hospital
+Center, Washington, DC; Charles J Mullany, Debbie Rolbiecki,
+M a y o Clinic, Rochester, MN; Deborah Cassar, Giocomo Delaria,
+J J e f f r e y Tyner, Scripps Clinic, La Jolla, CA; Audrey Dudeck,
+S t e p h e n Lincoln, Garth McDonald, St Joseph’s Hospital, Towson,
+Maryland; Scott Lucas, Pam Lipski, Baptist Medical Center, Oklahoma
+City, OA; Brett Buchwach, Robert Lazarra, Bruce McClellan,
+B e n d Memorial Clinic, Bend, ON; Thomas L Carter, Angela Dages, 
+Thomas Jefferson Medical College, Philadelphia, PA.
+A c k n o w l e d g m e n t s
+This study was supported by CardioGenesis Corporation, Sunnyvale CA,
+USA under the direction of Edward Brennan and Carole Marcot. The
+database was managed by Carol Giffen and Laurie Rich, Information
+Management Services, Silver Spring, MD. Statistical analyses were done
+by Margaret N Wesley, Information Management Services. 
+References
+1 Mirhoseini M, Shelgikar S, Cayton MM. New concepts in
+revascularization of the myocardium. Ann Thorac Surg 1988; 4 5 : 4 1 5 – 2 0 .
+2 Frazier OH, Cooley DA, Kadipasaoglu KA, et al. Myocardial
+revascularization with laser: preliminary findings. C i r c u l a t i o n 1995; 9 2
+(suppl II): II-58–65.
+3 Cooley DA, Frazier OH, Kadipasaoglu KA, et al. Transmyocardial
+laser revascularization: clinical experience with twelve-month follow-
+up. J Thorac Cardiovasc Surg 1996; 1 1 1 : 7 9 1 – 9 9 .
+4 Horvath KA, Mannting F, Cummings N, Shernan SK, Cohn LH.
+Transmyocardial laser revascularization: operative techniques and
+clinical results at two years. J Thorac Cardiovasc Surg 1996; 1 1 1 :
+1 0 4 7 – 5 3 .
+5 Horvath KA, Cohn LH, Cooley DA, et al. Transmyocardial laser
+revascularization: results of a multicenter trial with
+t r a n s m y o c a r d i a l laser revascularization used as sole therapy for 
+end-stage coronary artery disease. J Thorac Cardiovasc Surg 1 9 9 7 ;
+1 1 3 : 6 4 5 – 5 4 .
+6 Schofield PM, Sharples LD, Caine N, et al. Transmyocardial laser
+revascularisation in patients with refractory angina: a randomised
+controlled trial. L a n c e t 1999; 3 5 3 : 5 1 9 – 2 4 .
+7 Burkhoff D, Wesley MN, Resar JR, Lansing AM. Factors correlating
+with risk of mortality following transmyocardial revascularization. J Am
+Col Cardiol 1999; 3 4 : 5 5 – 6 1 .
+8 Hardy RI, Bove KE, James FW, Kaplan S, Goldman L. A histologic
+study of laser induced transmyocardial channels. Lasers Surg Med 1 9 8 7 ;
+6 : 5 6 3 – 7 3 .
+9 Packer M. The placebo effect in heart failure. Am Heart J 1990; 1 2 0 :
+1 5 7 8 – 8 2 .
+1 0 Cooley DA, Frazier OH, Kadipasaoglu KA, Pehlivanoglu S, 
+Shannon RL, Angelini P. Transmyocardial laser revascularization:
+anatomic evidence of long-term channel patency. Texas Heart Inst J
+1994; 2 1 : 2 2 0 – 2 4 .
+1 1 Horvath KA, Smith WJ, Laurence RG, Schoen FJ, Appleyard RF,
+Cohn LH. Recovery and viability of an acute myocardial infarct after
+transmyocardial laser revascularization. J Am Coll Cardiol 1995; 2 5 :
+2 5 8 – 6 3 .
+1 2 Mirhoseini M, Shelgikar S, Cayton M. Clinical and histological
+evaluation of laser  myocardial revascularization. J Clin Laser Med Surg
+1990; 8 : 7 3 – 7 8 .
+1 3 Yano OJ, Bielefeld MR, Jeevanandam V, et al. Prevention of acute
+regional ischemia with endocardial laser channels. Ann Thorac Surg
+1993; 5 6 : 4 6 – 5 3 .
+1 4 Burkhoff D, Fisher PE, Apfelbaum M, Kohmoto T, DeRosa CM,
+Smith CR. Histologic appearance of transmyocardial laser channels
+after 4-1/2 weeks. Ann Thorac Surg 1996; 6 1 : 1 5 3 2 – 3 5 .
+1 5 Burkhoff D, Fulton R, Wharton K, Billingham ME, Robbins R.
+Myocardial perfusion through naturally occurring subendocardial
+channels. J Thorac Cardiovasc Surg 1997; 1 1 4 : 4 9 7 – 9 9 .
+1 6 Fisher PE, Kohmoto T, DeRosa CM, Spotnitz HM, Smith CR,
+Burkhoff D. Histologic analysis of transmyocarial laser channels:
+comparison of CO2 and Holmium:YAG lasers. Ann Thorac Surg 1 9 9 7 ;
+6 4 : 4 6 6 – 7 2 .
+1 7 Kohmoto T, Fisher PE, Gu A, et al. Physiology, histology and 
+2 - w e e k morphology of acute transmyocardial laser channels made
+w i t h a CO2 laser. Ann Thorac Surg 1997; 6 3 : 1 2 7 5 – 8 3 .
+1 8 Krabatsch T, Schaper F, Leder C, Tulsner J, Thalmann U, Hetzer R.
+Histological findings after transmyocardial laser revascularization.
+J Cardiac Surg 1996; 1 1 : 3 2 6 – 3 1 .
+1 9 Pifarre R, Jasuja ML, Lynch RD, Neville WE. Myocardial
+revascularization by transmyocardial acupuncture: a physiologic
+impossibility. J Thorac Cardiovasc Surg 1969; 5 8 : 4 2 4 – 3 1 .
+2 0 Kohmoto T, Uzun G, Gu A, Zhu SM, Smith CR, Burkhoff D. Blood
+flow capacity via direct acute myocardial revascularization. Basic Res
+C a r d i o l 1997; 9 2 : 4 5 – 5 1 .
+2 1 Whittaker P, Kloner RA, Przyklenk K. Laser-mediated transmural
+myocardial channels do not salvage acutely ischemic myocardium.
+J Am Coll Cardiol 1993; 2 2 : 3 0 2 – 0 9 .
+2 2 Kohmoto T, DeRosa C, Yamamoto N, Fisher PE, Smith CR, 
+Burkhoff D. Evidence of vascular growth associated with laser
+treatment of normal canine myocardium. Ann Thorac Surg 1 9 9 8 ;
+6 5 : 1 3 6 0 – 6 7 .
+2 3 Yamamoto N, Kohmoto T, Gu A, DeRosa CM, Smith CR,
+B u r k h o f f D. Angiogenesis is enhanced in ischemic canine myocardium
+by transmyocardial laser revascularization. J Am Coll Cardiol 1 9 9 8 ;
+3 1 : 1 4 2 6 – 3 3 .
+2 4 Ware JA, Simons M. Angiogenesis in ischemic heart disease. Nat Med
+1997; 3 : 1 5 8 – 6 4 .
+2 5 Kwong KF, Kanellopoulos GK, Nickols JC, et al. Transmyocardial
+laser treatment denervates canine myocardium. J Thorac Cardiovasc
+S u r g 1997; 1 1 4 : 8 8 3 – 8 9 .
+890 THE LANCET • Vol 354 • September 11, 1999

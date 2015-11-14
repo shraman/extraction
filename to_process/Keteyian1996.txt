@@ -1,0 +1,671 @@
+Exercise Training in Patients with Heart Failure 
+A Randomized, Controlled Trial 
+Steven J. Keteyian, PhD; Arlene B. Levine, MD; Clinton A. Brawner, BS; Takeshi Kataoka, MD; 
+Felix J. Rogers, DO; John R. Schairer, DO; Paul D. Stein, MD; T. Barry Levine, MD; 
+and Sidney Goldstein, MD 
+Objective: To assess the benefit of exercise training in 
+patients with heart failure caused by left ventricular sys-
+tolic dysfunction and to further describe the physiologic 
+changes associated with exercise training in these patients. 
+Design: Randomized, controlled trial. 
+Setting: Urban outpatient clinic. 
+Patients: 40 men with compensated heart failure who 
+were receiving standard medical therapy were randomly 
+assigned to an exercise-training group or to a control 
+group that did not exercise. Fifteen of the 21 patients 
+assigned to exercise training and 14 of the 19 patients 
+assigned to the control group completed the study. 
+Intervention: Patients assigned to exercise training par-
+ticipated in a program of three exercise sessions per week 
+for 24 weeks. 
+Measurements: Symptom-limited exercise tests with gas 
+exchange analysis done just before randomization, at 
+week 12f and at week 24. 
+Results: At week 24f the following changes (mean ± SE) 
+were seen in patients in the exercise group and patients in 
+the control group, respectively: exercise duration, 
+2.8 ± 0.6 minutes and 0.5 ± 0.5 minutes; peak oxygen con-
+sumption (V02), 231 ± 54 L/min and 58 ± 38 Lymin; peak 
+ventilation, 12 ± 3 L/min and - 4 ± 3 L/min; peak heart 
+rate, 10 ± 4 beats/min and - 2 ± 4 beats/min; and peak 
+power output, 20 ± 6 W and 2 ± 5 W. Differences be-
+tween the increases occurring in the exercise group and 
+the changes occurring in the control group were signifi-
+cant (P < 0.05). Among patients in the exercise group, 
+85% of the increase in peak V02 occurred by week 12, and 
+46% of the increase in peak V02 was caused by the in-
+crease in peak heart rate. 
+Conclusions: Exercise training does not appear to be 
+contraindicated in patients with compensated heart fail-
+ure. Exercise training improved exercise tolerance, as mea-
+sured by increases in peak V02, exercise duration, and 
+power output. This improved exercise tolerance was 
+caused in part by an increase in peak heart rate. 
+Ann Intern Med. 1996;124:1051-1057. 
+From Henry Ford Heart and Vascular Institute, Detroit, Michi-
+gan. For current author addresses, see end of text. 
+The role of exercise training in the treatment of heart failure remains a paradox, because exer-
+cise intolerance is a characteristic finding in patients 
+with this condition. Improved exercise performance 
+after exercise training has been seen in patients with 
+heart failure, but such training is not yet widely 
+incorporated into clinical practice. In addition, the 
+mechanisms by which this improvement occurs are 
+uncertain. Factors that may explain the improve-
+ment include an increase in cardiac output (1, 2), an 
+improvement in skeletal muscle metabolism (3-5), 
+and an increase in peak blood flow to the exercising 
+limb that is caused by a decrease in vascular resis-
+tance (1, 2, 5). 
+Five randomized trials (5-9) have assessed exer-
+cise performance after exercise training in patients 
+with symptomatic heart failure. Two trials that as-
+sessed cardiorespiratory fitness as measured by ox-
+ygen consumption (V02) showed a 22% improve-
+ment in peak V02 after 4 weeks of exercise training 
+(6) and a 31% improvement after 6 months of 
+exercise training (5). Two other trials (7, 8) showed 
+an increase in exercise duration after 12 weeks of 
+exercise training, and a fifth trial (9) recently found 
+no significant increase in peak V02 after exercise 
+training. 
+We sought to assess the benefit of exercise train-
+ing in patients with heart failure caused by left 
+ventricular systolic dysfunction and to further de-
+scribe the physiologic changes associated with exer-
+cise training. Functional capacity and cardiorespira-
+tory fitness were measured before and after exercise 
+training in patients with compensated heart failure 
+who were receiving standard medical therapy. Pa-
+tients were randomly assigned either to a group that 
+participated in a program of three supervised exer-
+cise sessions per week for 24 weeks (exercise group) 
+or to a control group that did not exercise. 
+Methods 
+Patients 
+Forty men with compensated heart failure and 
+left ventricular dysfunction were randomly assigned 
+to the exercise group (n = 21) or the control group 
+(n = 19). Randomization was done according to a 
+© 1996 American College of Physicians 1051 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015
+computer-generated randomization list. Patients were 
+recruited from the outpatient heart failure clinic of a 
+tertiary care hospital or from the office of a cardi-
+ologist practicing in the community. Patients meet-
+ing the eligibility criteria for the study first received 
+a brief explanation of the study from their cardiol-
+ogist. Patients willing to participate in the random-
+ized trial were then referred. The hospital's institu-
+tional review board approved our study, and all 
+patients provided written informed consent. 
+Inclusion criteria were New York Heart Associ-
+ation class II or III, a resting ejection fraction of 
+35% or less as measured by echocardiography or 
+gated equilibrium radionuclide angiography, and no 
+change in medical therapy for 30 days before ran-
+domization. Exclusion criteria were atrial fibrilla-
+tion, acute myocardial infarction within the previous 
+3 months, angina pectoris at rest or induced by 
+exercise, current enrollment in another clinical trial, 
+and current participation in a regular exercise pro-
+gram (at least twice weekly). Patients were classified 
+as having ischemic cardiomyopathy if they had had 
+a myocardial infarction or had angiographic evi-
+dence of coronary artery disease that could explain 
+the extent of ventricular dysfunction. If they did not 
+meet these criteria, they were classified as having 
+idiopathic dilated cardiomyopathy. 
+Study Design 
+Exercise tests were completed before and after a 
+30-day prestudy period. The prestudy period was 
+used to document the stability of exercise tolerance, 
+clinical conditions, and prescribed medications. Im-
+mediately after completing the second exercise test, 
+patients were randomly assigned to the exercise 
+group or the control group. Each patient's assign-
+ment was sealed in an envelope until completion of 
+the second exercise test. Exercise testing was re-
+peated at weeks 12 and 24 for patients in both 
+groups. Each patient's physician was asked not to 
+change a patient's drug regimen during the study, if 
+possible. Patients in the control group were in-
+structed to maintain their normal daily activity hab-
+its and not to begin an exercise regimen. Controls 
+were contacted by telephone every 2 to 3 weeks to 
+assess compliance, cardiac-related symptoms, and 
+continued avoidance of a regular activity program. 
+Exercise Testing 
+Symptom-limited, maximal exercise tests were com-
+pleted using an upright stationary cycle ergometer 
+(Monark, Stockholm, Sweden), starting at a power 
+output of 25 W and increasing by 25 W every 3 
+minutes. Tests were discontinued when dyspnea or 
+calf, thigh, or generalized fatigue developed. Pa-
+tients were monitored by electrocardiography (Q-
+3000, Quinton Instruments, Seattle, Washington) at 
+rest, during exercise, and during 8 minutes of re-
+covery. Blood pressure, heart rate, rating of per-
+ceived exertion (categorized on the Borg scale; 
+range, 6 to 20), and a 12-lead electrocardiogram 
+were obtained after 30 minutes of supine rest, 
+within the last 25 seconds of each stage of exercise, 
+and during peak exercise. 
+Air expired during exercise testing was analyzed 
+using a Horizon II Metabolic System (Sensormedics, 
+Yorba Linda, California). Direct measurement and 
+calculations were used to determine peak V02, car-
+bon dioxide production (VC02), ventilation, oxygen 
+(02) pulse, and respiratory exchange ratio. Expired 
+air was sampled at a rate of 10 per second and 
+reported as a 15-second average. Exercise tests in 
+the exercise group and the control group represented 
+peak effort, as evidenced by ratings of perceived 
+exertion that were generally 16 or more and respi-
+ratory exchange ratios that were greater than 1.1. 
+Ventilatory derived anaerobic threshold (V-AT) 
+was determined using the V-slope method, origi-
+nally defined by Beaver and colleagues (10) and 
+later simplified by others (11-13). This measure, in 
+which VC02 is plotted as a function of V02, can be 
+used to detect the beginning of excess carbon diox-
+ide production caused by the buffering of H+ that 
+arise from lactic acid. Two independent, experi-
+enced reviewers blinded to the patients' group as-
+signment and testing periods determined V-AT. For 
+four patients in the exercise group and five patients 
+in the control group, a reviewer could not deter-
+mine V-AT in at least one of each patient's three 
+exercise tests. We also computed the slope of the 
+relation between ventilation and VC02 as a marker 
+of the severity of heart failure (14). 
+Exercise Training 
+Each exercise training session lasted 43 minutes. 
+During each session, patients completed a 5-minute, 
+slow warm-up phase, a 33-minute aerobic phase 
+(three different types of exercise equipment were 
+used for 11 minutes each), and a 5-minute cool-
+down phase. Exercise equipment included motor-
+driven treadmills, stationary cycles, rowing ma-
+chines, and arm ergometers. Patients attended the 
+exercise training program three times per week. Us-
+ing the heart rate reserve method (15), we set ex-
+ercise intensity at 60% for the first 2 weeks and 
+then increased it, as tolerated, to as high as 80%. A 
+rating of perceived exertion of 12 to 14 was also 
+used to guide exercise intensity. Heart rate and 
+rhythm were monitored during exercise using a sin-
+gle-lead electrocardiography telemetry system. 
+Statistical Analysis 
+Of the 40 patients entered into the study, only 
+those who also completed the exercise tests at 
+1052 15 June 1996 • Annals of Internal Medicine • Volume 124 • Number 12 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015
+Table 1. Baseline Patient Characteristics* 
+Characteristic Before Randomization 
+All Patients (n = 40) 
+After Randomization 
+Patients Who Completed the Study Patients Who 
+Control Group 
+(n = 14) 
+Exercise Group 
+(n=15) 
+Dropped Out 
+(n= 11)t 
+Mean age, y 56 ± 11 56 ± 12 52 ± 11 61 ± 10 
+Mean ejection fraction, % 21 ± 7 22 ± 6 23 ± 10 18± 5 
+Mean body mass, kg 88.3 ± 16.7 83.9 ± 16.5 90.6 ± 19.2 90.7 ± 13.3 
+Cause of heart failure, n 
+16 3 6 7 
+Dilated cardiomyopathy 24 11 9 4 
+Mean blood pressure, mm Hg 
+Systolic 111 ± 20 109 ± 18 114 ± 21 118 ± 2 2 
+Diastolic 71 ± 10 70 ± 9 73 ± 13 72 ± 10 
+Mean heart rate, beats/min 77 ± 15 76 ± 11 75 ± 2 0 80 ± 14 
+New York Heart Association class (ll/lll), n/n 27/13 9/5 12/3 6/5 
+Race,n 
+Black 15 8 2 5 
+White 25 6 13 6 
+Drug regimen, n 
+Digoxin 37 13 14 10 
+Diuretic 37 12 14 11 
+Angiotensin-converting enzyme inhibitor 39 14 14 11 
+Long-acting nitrate 19 5 8 6 
+j3-adrenergic blocking agent 2 2 
+- -
+Referral source, n 
+Tertiary care center 36 13 12 11 
+Community practice 4 1 3 
+-
+* Means are expressed ± SD. All other values are the number of patients. 
+t Six patients in the exercise group and five patients in the control group dropped out. 
+weeks 12 and 24 were considered in the data analy-
+sis. The 5 patients who dropped out for nonmedical 
+reasons were asked to return for follow-up testing, 
+but they refused. We compared patient characteris-
+tics at baseline using an unpaired Mest or the 
+Fisher exact test. We used univariate repeated-mea-
+sures analysis of variance with the Greenhouse-Geis-
+ser (16) sphericity correction to determine whether 
+a significant (P < 0.05) difference in the change 
+across time occurred between the two groups. For 
+variables for which a significant (or a tendency to-
+ward a significant) time-group interaction was de-
+tected, we used analysis of variance to assess a 
+within-group time effect and used a Student two-
+sample Mest to assess a group effect. For the latter 
+two analyses, we used the Bonferroni multiple test-
+ing adjustment to reduce the a level accordingly. Val-
+ues are expressed as means ± SE. The SAS software 
+package (SAS Institute, Cary, North Carolina) was 
+used for all analyses. 
+Results 
+Compliance, Medical Therapy, and Safety 
+Among patients who completed the study, no 
+differences in demographic characteristics were seen 
+between the two study groups after randomization 
+(Table 1). Of the 40 patients randomly assigned at 
+baseline, 29 completed the study and 11 dropped 
+out (Table 1). Regardless of the reason for drop 
+out, patients with ischemic cardiomyopathy tended 
+to drop out more frequently (7 of 16 patients [44%]) 
+than did patients with dilated cardiomyopathy (4 of 
+24 patients [17%]) (P = 0.08). In addition, ejection 
+fraction tended to be lower in patients who dropped 
+out than in those who did not (18% ± 5% com-
+pared with 23% ± 8%; P = 0.09), and patients who 
+dropped out tended to be older (61 ± 10 years com-
+pared with 54 ± 11 years; P = 0.07). No differences 
+were seen in New York Heart Association class (II 
+compared with III) between patients who completed 
+the study and those who dropped out. 
+Fifteen patients in the exercise group completed 
+the study. Two patients dropped out because of 
+noncardiac medical conditions (progressive, limiting 
+arthritis in one patient and newly diagnosed cancer 
+in the other) that developed within 1 month of the 
+start of the exercise program. One patient devel-
+oped atrial fibrillation between week 12 and week 
+24; 3 other patients stopped exercising for personal 
+reasons before week 12 and refused follow-up test-
+ing. Fourteen of the 19 patients in the control group 
+completed the study. Two dropped out for personal 
+reasons and refused follow-up testing, 1 developed 
+atrial fibrillation between week 12 and week 24, 1 
+was hospitalized at week 22 for an acute myocardial 
+infarction, and 1 died suddenly. 
+At baseline, the drug regimens of the exercise 
+and control groups were similar (Table 1); drugs 
+included digoxin, diuretics, and an angiotensin II-
+converting enzyme (ACE) inhibitor. During the 24-
+15 June 1996 • Annals of Internal Medicine • Volume 124 • Number 12 1053 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015
+Table 2. Changes in Cardiorespiratory Responses during Peak Exercise in Patients in the Exercise Group and Patients in 
+the Control Group* 
+Variable Control Group (n = 14) Exercise Group (n = = 15) Difference between 
+Groups (Exercise -
+Baseline Change from Baseline Baseline Change from Baseline Control) For Change 
+from Baseline to 
+Week 24 (95% CI) Week 12 Week 24 Week 12 Week 24 
+10.3 ± 1.0 0.2 ± 0.4 0.5 ± 0.5 10.6 ±0.8 1.9 ±0.4 2.8 ± 0.6t 2.3 (0.7 to 3.9) 
+Power output, 1/1/ 89 ± 8 0 ± 5 2 ± 5 92 ± 7 10± 5 20 ± 6 * 18 (3 to 33) 
+Oxygen consumption; mL/min 1224 ± 112 86 ± 2 7 58 ± 3 8 1412 ± 7 4 197 ±37 231 ± 54+ 173 (37 to 309) 
+Oxygen consumption, mUkg 
+of body weight per min 14.7 ± 1.1 1.0 ±0 .4 0.5 ± 0.5 16.0 ±0.9 2.2 ± 0.5 2.5 ± 0.6* 2.0 (0.4 to 3.6) 
+Ventilation, L/min 61 ± 5 - 4 ± 2 - 4 ± 3 58 ± 4 8 ± 2 12 ± 3 t 16 (8 to 24) 
+Ventilatory derived anaerobic 
+threshold, mL/min 930 ± 74 105 ±43 94 ± 3 7 1048 ± 7 4 100 ± 3 8 65 ± 6 5 -29 (-184 to 126) 
+Oxygen pulse, mL/beat 9.3 ± 1.0 0.3 ± 0.2 0.5 ± 0.3 10.7 ±0.7 0.7 ± 0.4 0.8 ± 0.3 0.3 (-0.5 to 1.1) 
+Respiratory exchange ratio 1.24 ± 0.04 -0.10 ±0.03 -0.07 ± 0.04 1.13 ±0.02 0.04 ± 0.02 0.04 ± 0.02 0.11 (-0.02 to 0.24) 
+Blood pressure, mm Hg 
+Systolic 147 ± 9 3 ± 4 5 ± 4 160 ± 8 - 3 ± 5 4 ± 3 - 1 (-11 to 9) 
+Diastolic 76 ± 3 3 ± 2 2 ± 3 78 ± 5 1 ± 4 - 2 ± 3 - 4 (-14 to 6) 
+Rate pressure product, 
+mm Hg/min (x 102)% 203 ± 17 9 ± 9 11 ± 8 208 ± 15 33 ± 18 25 ± 8 14 (-9 to 37) 
+Rating of perceived exertion 17.4 ±0.5 -1.5 ±0.8 -0.2 ± 0.6 17.5 ±0 .4 -1.8 ±0.5 -1.0 ±0.7 -0.8 (-2.5 to 0.9) 
+* Values are expressed as the mean ± SE. 
+t P<0.01 for significant differences in overall change across time for control group compared with exercise group. 
+$ P>0.01 but <0.05 for significant differences in overall change across time for control group compared with exercise group. 
+§ Rate pressure product = heart rate x systolic blood pressure. 
+week study, minor changes in medications occured 
+among patients in the exercise group. In three pa-
+tients, the dose of an ACE inhibitor was increased; 
+in two, the dose of a long-acting nitrate was in-
+creased; in three, the dose of a diuretic agent was 
+changed; and in one, digoxin therapy was stopped. 
+In two controls, the dose of an ACE inhibitor was 
+decreased; in one, the ACE inhibitor dose was in-
+creased; and in one, digoxin therapy was discontin-
+ued. No patients began receiving an ACE inhibitor, 
+a diuretic agent, or a long-acting nitrate during the 
+study. 
+Of the 15 patients in the exercise group, 14 reg-
+ularly attended the exercise training sessions. One 
+patient regularly attended the exercise program for 
+Figure 1. Peak oxygen consumption in patients with compensated 
+heart failure who did not have exercise training (control group, n = 
+14) and who did have exercise training (exercise group, n = 15). The 
+heavy line represents the mean value across time, with a significant differ-
+ence noted between groups (analysis of variance; P < 0.05). 
+the first 12 weeks, but between weeks 12 and 24, the 
+patient attended 30% of exercise sessions. In this 
+patient, however, peak V02 increased by more than 
+20%. All 14 controls who completed the study re-
+ported avoiding participation in any regular physical 
+activity program during the 24-week study. Overall, 
+138 symptom-limited graded exercise tests and 1150 
+exercise training sessions were completed without 
+incident. 
+Rest and Submaximal Exercise 
+No significant differences over time were seen 
+between the exercise and control groups in resting 
+heart rate, heart rate during exercise at 50 W, ven-
+tilation at 50 W, or resting systolic or diastolic blood 
+pressures. Among patients in the exercise group, the 
+heart rate during exercise at a standardized sub-
+maximal power output of 50 W was significantly 
+decreased over time (—8 ± 3 beats/min; P = 0.025). 
+A similar decrease was not seen in the control 
+group (0 ± 3 beats/min; P > 0.2). 
+Peak Exercise 
+Four measures of exercise tolerance—absolute 
+peak V02 (P < 0.05), relative peak V02 (P < 0.05), 
+exercise duration (P < 0.01), and peak power out-
+put (P < 0.05)—were significantly increased over 
+time in the patient group compared with the control 
+group (Table 2; Figures 1 and 2). No significant 
+difference in V-AT over time was seen between the 
+two groups. Among patients in the exercise group, 
+absolute peak V02 and peak V02 relative to body 
+mass increased over time by 16.3% and 15.6%, re-
+spectively. Age tended to be related to the observed 
+1054 15 June 1996 • Annals of Internal Medicine • Volume 124 • Number 12 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015
+change in peak V02 (r = -0.49; P= 0.08), and 
+85% of the increase in peak V02 occurred by week 
+12. Among patients in the control group, absolute 
+and relative peak V02 changed by 4.7% and 3.5%, 
+respectively. 
+Among patients in the exercise group, the in-
+crease in peak V02 tended to be greater in those 
+with idiopathic dilated cardiomyopathy (305 ± 60 
+mL/min) than in those with ischemic cardiomyopa-
+thy (121 ± 67 mL/min) (P = 0.07). No other differ-
+ences were seen among patients in the exercise 
+group, relative to the etiology of heart failure. 
+The difference in the change in peak ventilation 
+over time between patients in the exercise group 
+and patients in the control group was significant 
+(P < 0.01). However, the change in the slope for 
+ventilation to VC02 over time did not differ be-
+tween groups (exercise group, -1.3 ± 0.9; control 
+group, -2.2 ± 1.0). Peak ventilation increased by 
+12 ± 3 L/min in the exercise group (P = 0.001) and 
+decreased by 4 ± 3 L/min in the control group (P = 
+0.2). 
+In addition, a significant difference (P < 0.05) 
+was seen in the change over time in peak heart rate 
+between the exercise group (132 ± 6 beats/min to 
+142 ± 5 beats/min; difference, 10 ± 4 beats/min) and 
+the control group (136 ± 7 beats/min to 135 ± 8 
+beats/min; difference, - 2 ± 4 beats/min) (Figure 3). 
+Peak rate pressure product, 0 2 pulse, rating of per-
+ceived exertion, respiratory exchange ratio, and sys-
+tolic and diastolic blood pressures did not signifi-
+cantly differ between groups. 
+Discussion 
+In this randomized trial, we showed that moder-
+ately to vigorously intense exercise training safely 
+improved exercise capacity in patients with compen-
+sated heart failure and left ventricular systolic dys-
+function. Our observations of improved exercise du-
+ration, power output, and V02 after 24 weeks of 
+exercise training are consistent with findings of pre-
+vious uncontrolled (1, 17) or crossover (2, 18) trials 
+involving similar types of patients. The 16% im-
+provement in V02 that we found is also consistent 
+with the 22% increase reported by Jette and col-
+leagues (6) but is less than the 31% increase re-
+ported by Hambrecht and coworkers (5). In our 
+exercise group, 85% of the improvement in peak 
+V02 had occurred by week 12. 
+Chronotropic incompetence is characteristic of 
+patients with heart failure, and peak heart rate is a 
+determinant of exercise capacity (19). Our study 
+suggests that chronotropic incompetence may be re-
+versed, in part, by exercise training. This finding 
+differs from those in previous reports, which showed 
+Figure 2. Exercise duration in patients with compensated heart 
+failure who did not have exercise training (control group, n = 14) 
+and who did have exercise training (exercise group, n = 15). The 
+heavy line represents the mean value across time, with a significant differ-
+ence noted between groups (analysis of variance; P < 0.05). 
+no change in peak heart rate after exercise training 
+(1, 5, 20). In fact, increased peak heart rate ac-
+counted for 46% of the increase in peak V02 that 
+occurred in the exercise group. We did not differ-
+entiate, however, between an increase in peak heart 
+rate caused by a physiologic adaptation (such as a 
+change in px receptor sensitivity) and an increase 
+caused by an improved ability on the part of the 
+exercise-trained patients to put forth greater effort. 
+The absence of any differences between groups for 
+rating of perceived exertion and respiratory ex-
+change ratio (see Table 2) suggests that the increase 
+in peak heart rate was probably not caused by an 
+improved ability on the part of exercise-trained pa-
+tients to put forth greater effort during testing. We 
+have previously reported (21) a similar degree of 
+heart rate-related improvement in exercise perfor-
+Figure 3. Peak heart rate in patients with compensated heart fail-
+ure who had exercise training (exercise group, n = 14) and did not 
+have exercise training (control group, n = 13). A significant difference 
+over time was seen between groups (analysis of variance; P < 0.05). Values 
+are expressed as means with 95% CIs. 
+15 June 1996 • Annals of Internal Medicine • Volume 124 • Number 12 1055 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015
+mance in heart transplant recipients participating in 
+exercise training soon after surgery. The increased 
+peak heart rate in such patients was thought to 
+reflect a training-induced strengthening of the skel-
+etal muscles of the legs, which allowed the patients 
+to continue cycle testing until they reached a higher 
+peak heart rate. 
+Not all of the increase in peak V02 can be 
+explained by the increase in peak heart rate. Sulli-
+van and colleagues (1) reported a trend toward an 
+increased stroke volume at peak exercise after train-
+ing that was accompanied by an increased peak 
+single-leg blood flow and a trend toward an in-
+creased leg arteriovenous 0 2 difference. An increase 
+in peak cardiac output (2, 5) and a decrease in both 
+systemic vascular resistance (5) and plasma norepi-
+nephrine levels (2) have been reported after exer-
+cise training. These changes were associated with an 
+increase in vagal tone, which is presumed to be a 
+result of a correction of the autonomic imbalance 
+that is known to be present in patients with heart 
+failure (2). 
+Abnormal skeletal muscle function and metabo-
+lism have also been implicated as a cause of exer-
+cise intolerance in patients with heart failure (22-
+24). Although additional evidence assessing the 
+effects of exercise training on skeletal muscle me-
+tabolism is needed, training may improve oxidative 
+capacity (5) and muscle energetics during submaxi-
+mal exercise (3, 4, 25). 
+Peak ventilation, power output, and exercise du-
+ration also improved in our exercise group. Exercise 
+duration is often used as a measure in clinical trials 
+to evaluate the efficacy of certain drugs. Although 
+exercise duration may not be a valid marker of 
+exercise capacity (26, 27), our exercise group did 
+show more than a 2-minute increase compared with 
+the control group. This increase in exercise duration 
+exceeds the 0.5- to 1.5-minute increases that have 
+been previously shown in clinical trials evaluating 
+ACE inhibitors (18, 28) or digoxin (7, 28). 
+The absence of a significant improvement in ab-
+solute V-AT over time in our exercise group com-
+pared with controls differs from the findings of the 
+one randomized trial that has assessed this variable 
+in patients with heart failure (5). Hambrecht and 
+colleagues (5) showed a 23% increase in absolute 
+V-AT after 6 months of exercise training. Improved 
+function during submaximal exercise is clearly an 
+important consideration in these patients, who often 
+have symptoms of exercise intolerance. Their ability 
+to do standard or routine daily activities with fewer 
+or less severe symptoms and a reduced heart rate 
+response is a useful and functional outcome. Previ-
+ous investigators have shown that in patients with 
+heart failure, improved exercise capacity is associ-
+ated with improved New York Heart Association 
+class (20), quality-of-life scores (7), and patient-
+scored symptoms of breathlessness or fatigue (2). 
+Our study had some limitations. Randomization 
+was done after patients completed the exercise test 
+at the end of the 30-day prestudy period. Therefore, 
+persons conducting the exercise tests at weeks 12 
+and 24 were aware of group assignment. Bias at 
+these times was possible but unlikely, because an 
+effort was made to have all patients exercise to their 
+peak effort. 
+Evidence that peak effort was achieved is found 
+in both the rating of perceived exertion and the 
+respiratory exchange ratio. In addition, any possible 
+learning effect associated with familiarization with 
+testing was minimized by the inclusion of an exer-
+cise test at the beginning and the end of the 30-day 
+prestudy period and by the use of a control group. 
+At study entry, most patients were receiving stan-
+dard medical therapy, but minor changes that could 
+have affected exercise performance did occur through-
+out the 24 weeks. The ACE inhibitor dose was 
+increased in three patients in the exercise group and 
+was decreased in two patients in the control group. 
+These drugs can increase exercise duration (18), but 
+in these five patients, such an effect would have 
+been minimal. In each patient, the dose was changed 
+and therapy with the drug was not stopped or started. 
+Although no exercise-related adverse events oc-
+curred during our study, the small sample size lim-
+ited our ability to quantitate risk. Our findings on 
+safety, however, are consistent with those of previ-
+ous exercise trials that had similar sample sizes and 
+reported few, if any, training-related complications 
+(1, 2, 5-9, 17, 18, 20). No data are available on the 
+long-term effect of regular exercise training on mor-
+bidity or mortality in patients with heart failure. 
+On the basis of our findings and the work of 
+other investigators, we conclude that there seem to 
+be no cardiac-related contraindications to exercise 
+training in patients with stable heart failure caused 
+by left ventricular systolic dysfunction. Exercise 
+training improved peak V02, peak heart rate, peak 
+ventilation, peak power output, and exercise dura-
+tion. Much (46%) of the increase in peak V02 that 
+occurred in the exercise group was caused by the 
+increase in peak heart rate. However, further study 
+is needed on the long-term benefit of exercise train-
+ing in these patients, including the effect of training 
+on the ability of patients to do routine activities of 
+daily living. 
+Grant Support: In part by a grant from Astra Merck. 
+Requests for Reprints: Steven J. Keteyian, PhD, Henry Ford Heart 
+and Vascular Institute, Suite 1107, 2921 West Grand Boulevard, 
+Detroit, MI 48202. 
+1056 15 June 1996 • Annals of Internal Medicine • Volume 124 • Number 12 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015
+Current Author Addresses: Drs. Keteyian, Kataoka, and Stein and 
+Mr. Brawner: Henry Ford Heart and Vascular Institute, 2921 
+West Grand Boulevard, Suite 1107, Detroit, MI 48202. 
+Drs. Levine, Levine, and Goldstein: Henry Ford Heart and Vas-
+cular Institute, 2799 West Grand Boulevard, Detroit, MI 48202. 
+Dr. Rogers: 2295 Riverside Drive, Trenton, MI 48183. 
+Dr. Schairer: 37799 Professional Center Drive, Suite 105, Livo-
+nia, MI 48154. 
+References 
+1. Sullivan MJf Higginbotham MB, Cobb FR. Exercise training in patients 
+with severe left ventricular dysfunction. Hemodynamic and metabolic effects. 
+Circulation. 1988;78:506-15. 
+2. Coats AJ, Adamopoulos S, Radaelli A, McCance A, Meyer TE, Bernerdi 
+L, et al. Controlled trial of physical training in chronic heart failure. Exercise 
+performance, hemodynamics, ventilation, and autonomic function. Circula-
+tion. 1992;85:2119-31. 
+3. Adamopoulos S, Coats AJ, Brunotte F, Arnolda L, Meyer T, Thompson 
+CH, et al. Physical training improves skeletal muscle metabolism in patients 
+with chronic heart failure. J Am Coll Cardiol. 1993;21:1101-6. 
+4. Stratton JR, Dunn JF, Adamopoulos S, Kemp GJ, Coats AJ, Rajago-
+palan B. Training partially reverses skeletal muscle metabolic abnormalities 
+during exercise in heart failure. J Appl Physiol. 1994;76:1575-82. 
+5. Hambrecht R, Niebauer J, Fiehn E, Kalberer B, Offner B, Hauer K, et al. 
+Physical training in patients with stable chronic heart failure: effects on car-
+diorespiratory fitness and ultrastructural abnormalities of leg muscles. J Am 
+Coll Cardiol. 1996;25:1239-49. 
+6. Jette M, Heller R, Landry F, Blumchen G. Randomized 4-week exercise 
+program in patients with impaired left ventricular function. Circulation. 1991; 
+84:1561-7. 
+7. Koch M, Douard H, Broustet JP. The benefit of graded physical exercise in 
+chronic heart failure. Chest. 1992;101:231S-4S. 
+8. Kostis JB, Rosen RC, Cosgrove NM, Shindler DM, Wilson AC. Nonphar-
+macologic therapy improves functional and emotional status in congestive 
+heart failure. Chest. 1994;106:996-1001. 
+9. Killavuori K, Toivonen l_ Naveri H, Leinonen H. Reversal of autonomic 
+derangements by physical training in chronic heart failure assessed by heart 
+rate variability. Eur Heart J. 1995;16:490-5. 
+10. Beaver WL, Wasserman K, Whipp BJ. A new method for detecting an-
+aerobic threshold by gas exchange. J Appl Physiol. 1986;60:2020-7. 
+11. Sue DY, Wasserman K, Moricca RB, Casaburi R. Metabolic acidosis during 
+exercise in patients with chronic obstructive pulmonary disease. Use of the V-
+slope method for anaerobic threshold determination. Chest. 1988;94:931-8. 
+12. Dickstein K, Barvik S, Aarsland T, Snapinn S, Millerhagen J. Validation 
+of a computerized technique for detection of the gas exchange anaerobic 
+threshold in cardiac disease. Am J Cardiol. 1990;66:1363-7. 
+13. Schneider DA, Phillips SE, Stoffolano S. The simplified V-slope method of 
+detecting the gas exchange threshold. Med Sci Sports Exerc. 1993;25:1180-4. 
+14. Buller NP, Poole-Wilson PA. Mechanism of the increased ventilatory re-
+sponse to exercise in patients with chronic heart failure. Br Heart J. 1990;63: 
+281-3. 
+15. American College of Sports Medicine. Guidelines for Exercise Testing and 
+Prescription. 4th ed. Philadelphia: Lea & Febiger; 1991:148-9. 
+16. Geisser S, Greenhouse SW. An extension of Box's results on the use of the 
+F distribution in multivariate analysis. Annals of Mathematical Statistics. 1958; 
+29:885-91. 
+17. Arvan S. Exercise performance of the high risk acute myocardial infarction 
+patient after cardiac rehabilitation. Am J Cardiol. 1988;62:197-201. 
+18. Meyer TE, Casadei B, Coats AJ, Davey PP, Adamopoulos S, Radaelli A, 
+et al. Angiotensin-converting enzyme inhibition and physical training in heart 
+failure. J Intern Med. 1991;230:407-13. 
+19. Smith RF, Johnson G, Ziesche S, Bhat G, Blankenship K, Cohn JN. 
+Functional capacity in heart failure. Comparison of methods for assessment 
+and their relation to other indexes of heart failure. The V-HeFT VA Coopera-
+tive Studies Group. Circulation. 1993;87(6 Suppl):VI88-93. 
+20. Lee AP, Ice R, Blessey R, Sanmarco ME. Long-term effects of physical 
+training on coronary patients with impaired ventricular function. Circulation. 
+1979;60:1519-26. 
+21. Keteyian S, Shepard R, Ehrman J, Fedel F, Glick C, Rhoads K, et al. 
+Cardiovascular responses of heart transplant patients to exercise training. 
+J Appl Physiol. 1991;70:2627-31. 
+22. Sullivan MJ, Green HJ, Cobb FR. Skeletal muscle biochemistry and histol-
+ogy in ambulatory patients with long-term heart failure. Circulation. 1990;81: 
+518-27. 
+23. Myers J, Froelicher VF. Hemodynamic determinants of exercise capacity in 
+chronic heart failure. Ann Intern Med. 1991;115:377-86. 
+24. Mancini DM, Walter G, Reichek N, Lenkinski R, McCully KK, Mullen JL, 
+et al. Contribution of skeletal muscle atrophy to exercise intolerance and 
+altered muscle metabolism in heart failure. Circulation. 1992;85:1364-73. 
+25. Minotti JR, Johnson EC, Hudson TL, Zuroske G, Murata G, Fukushima 
+E, et al. Skeletal muscle response to exercise training in congestive heart 
+failure. J Clin Invest. 1990;86:751-8. 
+26. Chandrashekhar Y, Anand IS. Can common exercise indices determine 
+peak exercise oxygen consumption and anaerobic threshold during stress 
+testing in patients with chronic congestive heart failure? Indian Heart J. 1993; 
+45:493-5. 
+27. Cohen-Solal A, Caviezei B. Cardiopulmonary exercise testing in chronic 
+heart failure. Heart Failure. 1994;April/May:46-57. 
+28. Comparative effects of therapy with captopril and digoxin in patients with 
+mild to moderate heart failure. The Captopril-Digoxin Multicenter Research 
+Group. JAMA. 1988;259:539-44. 
+15 June 1996 • Annals of Internal Medicine • Volume 124 • Number 12 1057 
+Downloaded From: http://annals.org/ by a The Indian Inst of Tech Kharagpur User  on 10/28/2015

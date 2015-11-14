@@ -1,0 +1,521 @@
+1. Surgically remediable cause for heart failure. 2. Consideration for heart transplantation. 3. Terminal cancer. 4. Participation in another trial. 5. Inability to provide informed consent
+Exclusions included: (i) a surgi- cally remediable cause for heart failure, such as severe aortic stenosis, (ii) consideration for heart transplanta- tion, (iii) inability to provide informed consent, (iv) terminal cancer and (v) participation in any other clini- cal trial.
+score --> 10
+While the intervention trials have utilized different designs, the heart failure nurse practitioner is common to all the trials and appears to have a key role in heart failure management.
+score --> 6
+The intervention involved clinical review at a hospital-based heart failure clinic early after discharge, individual and group education sessions, a personal diary to record medication and body weight, information booklets and regular clinical follow-up alternating between the general practitioner and heart failure clinic.
+score --> 5
+Effect of metoprolol CR/XL in chronic heart failure: metoprolol CR/XL randomised inter- vention trial in congestive heart failure (MERIT-HF).
+score --> 5
+e-mail: r.doughty@auckland.ac.nz 0195-668X/02/020139+08 $35.00/0alibrary.com on trial of integrated heart agement re Management Study arl2, H. J. Walsh1, S. Muncaster1, ble1 and N. Sharpe1 l of Medicine, The University of Auckland, Auckland,European Heart Journal (2002) 23, 139–146 doi:10.1053/euhj.2001.2712, available online at http://www.iprimary and secondary care, on quality of life and death or hospital readmissions in patients with chronic heart failure.
+score --> 4
+Methods and Results This trial was a cluster randomized, controlled trial of integrated primary/secondary care com- pared with usual care for patients with heart failure.
+score --> 4
+The study team had no input intoaims of this study were to determine the effects of an integrated heart failure management programme on hospital readmissions and quality of life in patients with heart failure.
+score --> 4
+Heart failure was con- sidered due to ischaemic heart disease in 54%, and, while the remainder were classified as non-ischaemic, many of these patients had multiple potential causes of heart Eur Heart J, Vol.
+score --> 4
+Reduction in heart failure events by the addition of a clinical pharmacist intervention to the heart failure management team.
+score --> 4
+However, such clinics are expensive to run and at present are often limited to tertiary institutions with specific purposes such as heart transplantation orRandomized, controlled failure ma The Auckland Heart Fai R. N. Doughty1, S. P. Wright1, A. P G. A. Whalley1, G. Ga Departments of 1Medicine and 2General Practice, SchoRevision submitted 27 March 2001, accepted 28 March 2001, and published online 3 August 2001.
+score --> 3
+Hospital bed days were similar in the intervention group during the first readmissionsHeart failure management 143Index admission with episode of heart failure Baseline assessment in hospital Randomization at discharge from hospital (cluster randomization)baseline showed markedly impaired quality of life: mean baseline physical functioning score was 25·6 (SD 12·4) and emotional score 10 (SD 7·8).
+score --> 3
+The effect of the intervention is delayed, as can be seenThis is the first randomized controlled trial of an inte- grated approach to heart failure management, involving patients and their families, with primary and secondary 0m P 12 g dPhysical C h an ge  in  s co re Total E –25 –5 –10 –15 –20 2P = 0·1 2P = 0·015 2 Figure 3 Change in quality of life scores from baseline to intervention ( ) and control ( ) groups (Minnesota Livin Failure questionnaire).
+score --> 3
+This overall effect, while relatively modest, is likely to be a reliable indication of the effect of this management approach and generalisable to similar Table 3 Death, hospital readmissions and bed days during 12 months follow-up Intervention group Control group Deaths (all-cause) 19 24 All-cause readmissions First readmission 64 59 Subsequent readmissions 56 95* Total 120 154 Readmissions for heart failure First readmission 21 23 Subsequent readmission 15 42* Total 36 65 Hospital bed days All-cause readmissions 1074 1170 Heart failure readmissions 358 561 *2P<0·05, Fishers exact test.
+score --> 3
+This study has important differences in design com- pared with the other intervention trials in heart failure management.
+score --> 3
+These trials have, in general, targeted certain subgroups of patients with heart failure and have demonstrated larger effects of these interventions in these selected patient subgroups.
+score --> 3
+Several randomized, controlled trials have now assessed different approaches in the management of patients with heart failure[4,5,14,17–19].
+score --> 3
+The current study supports the role of integrated management involving the patient/ family and primary and secondary care, although the Heart failure management 145first admission for patients with newly diagnosed heart failure.
+score --> 3
+de n lu e m o New Zealand Aims To determine the effect of an integrated heart failure management programme, involving patient and family, improvement in the intervention group from baseline to 12 months compared with the control group (11·1 vs 5·8 respectively, 2P=0·015).
+score --> 2
+The main effect of the interventionIntroduction Hospital admissions for heart failure are common and appear to be increasing in frequency[1,2].
+score --> 2
+In addition, quality of life for patients with heart failure is often markedly impaired.
+score --> 2
+While pharmacological therapy has established benefits in the treatment of patients with heart failure, clinical outcomes may be improved further by non-pharmacological strategies.
+score --> 2
+Several studies have now shown that multidisciplinary, home-based inter- ventions for patients with heart failure[4–6] can reduce hospital readmissions and improve quality of life.
+score --> 2
+Education, counselling and ongoing support for patients with heart failure would appear essential for effective long-term management[7].
+score --> 2
+Hospital-based specialist heart failure clinics have been advocated to improve long-term management[8].
+score --> 2
+One hundred and ninety-seven patients admit- ted to Auckland Hospital with an episode of heart failure were enrolled in the study.
+score --> 2
+Conclusions This integrated management programme for patients with chronic heart failure improved quality of life and reduced total hospital admissions and total bed days.
+score --> 2
+2712)  2001 The European Society of Cardiology Key Words: Congestive heart failure, management, hospitalization, integrated care.
+score --> 2
+Management of patients with heart failure may be improved by combined follow-up between specialists and general practitioners.
+score --> 2
+After consent was obtained, the patient was informed of their group allocation based on the randomization of their current general practitioner.
+score --> 2
+Eligible patients were those admitted to the general medical wards at Auckland Hospital with a primary diagnosis of heart failure.
+score --> 2
+The Auckland Ethics Committee approved the study and written informed consent was obtained from each patient during the index admission just prior to hospital discharge.
+score --> 2
+A follow-up plan was devised for each patient aiming for 6-weekly visits alternating between the GP and heart failure clinic, although the patients were free to see their GPs at any time they wished.
+score --> 2
+A detailed letter was faxed to the GP on the same day as the patient visited the heart failure clinic.
+score --> 2
+The aim was for a close liaison between the patient and family, the GP and the hospital heart failure clinic.
+score --> 2
+The content of the one-on-one and group education included explanation of the symptoms and signs of heart failure, importance of monitoring of daily body weight and action plans should weight change, effects of medica- tions and importance of compliance and recommenda- tions regarding exercise and diet.
+score --> 2
+The study team at the hospital heart failure clinic was available for consultation during normal working hours and received calls from both patients and their GPs.
+score --> 2
+If admission was not required then an earlier heart failure clinic visit could be arranged.
+score --> 2
+Secondary end- points included: (a) all-cause hospital readmissions; (b) all-cause hospital bed days; and (c) readmissions for worsening heart failure.
+score --> 2
+HF=heart failure; BP=blood pressure; CORD=chronic obstruc- tive respiratory disease.Table 1 Baseline characteristics Intervention group Control group Number of patients 100 97 Number of GPs 64 68 Age, years (SD) 72·5 (11·6) 73·5 (10) Age range 34–92 49–92 Female 36 43 Heart failure management 141be discharged from hospital.
+score --> 2
+Fifty-two percent had a prior admission for heart failure before the index admission.
+score --> 2
+Patients in the intervention group attended the hospital heart failure clinic on average four times during the 12 months.
+score --> 2
+There were 36 readmissions (358 bed days) with a primary diagnosis of heart failure in the intervention group compared with 65 readmissions (561 bed days) in the control group.
+score --> 2
+First readmissions for heart failure were similar in intervention and control groups (21 vs 23 respectively).
+score --> 2
+The intervention group received support and education from their general prac- titioner, a specialist at the heart failure clinic and a nurse practitioner.
+score --> 2
+Follow-up was shared between the general practitioner and heart failure clinic with easy access to the clinic as required.
+score --> 2
+Thus there was a lag time until the intervention started when patients attended the first heart failure clinic visit (median of 11 days).
+score --> 2
+As such, this group are representative of those patients commonly admitted to medical wards with exacerbations of heart failure.
+score --> 2
+Readmission rates were high, although notably only a third of readmissions in these patients were attributed primarily to heart failure.
+score --> 2
+The greatest effect of the intervention was to almost halve the readmissions for worsening heart failure.
+score --> 2
+The high rate of readmissions associated with other conditions highlights the need for attention to co-morbidities as well as management of heart failure.
+score --> 2
+[14], 1396 US Veterans with diabetes, congestive heart failure (n=504) or chronic obstructive pulmonary disease were randomly assigned to either an intensive primary care intervention or usual care.
+score --> 2
+Several studies have now demonstrated that home-based multidiscipinary interventions can reduce readmissions in patients with heart failure[4–6].
+score --> 2
+Implications for clinical practice Hospital admissions for heart failure have consistently increased over the last 10–20 years and the cost of these admissions alone account for 1–1·5% of total health budgets in most developed countries[3,16].
+score --> 2
+23, issue 2, January 2002 development of these evidence-based management pro- grammes has the potential to improve the quality of life for patients with heart failure and to reduce the public health burden of this disease.
+score --> 2
+Treatment of myocardial infarction shuld be audited before heart failure clinics are set up (letter).
+score --> 2
+Trends in hospitalisation for heart failure in Scotland, 1980-1990.
+score --> 2
+[2] Doughty RN, Wright SP, Gamble G, Sharpe N. Increasing hospital admissions and decreasing length of hospital stay for heart failure in New Zealand (1988-1997).
+score --> 2
+[3] Doughty R, Yee T, Sharpe N, MacMahon S. Hospital admissions and deaths due to congestive heart failure in New Zealand, 1988–91.
+score --> 2
+A multidisciplinary intervention to prevent the readmission of elderly patients with congestive heart failure.
+score --> 2
+Effects of a home-based intervention among patients with congestive heart failure discharged from acute hospital care.
+score --> 2
+Effects of a multidiscipli- nary, home-based intervention on unplanned readmissions and survival among patients with chronic congestive heart failure: a randomised, controlled study.
+score --> 2
+Effects of educa- tion and support on self-care and resource utilisation in patients with heart failure.
+score --> 2
+[8] Abraham WT, Bristow MR. Specialised centeres for heart failure management.
+score --> 2
+Patients self-assessment of their congestive heart failure: content, reliability abd validity of a new measure — the Minnesota Living with Heart Failure questionnaire.
+score --> 2
+Cost effective management programme for heart failure reduces hospitalisation.
+score --> 2
+[16] McMurray J, Hart W, Rhodes G. An evaluation of the cost of heart failure to the National Health Service in the UK.
+score --> 2
+[18] Serxner S, Miyaji M, Jeffords J. Congestive heart failure disease management study: a patient education intervention.
+score --> 2
+These admis- sions account for 1–1·5% of total health budgets in developed countries[1,3], with out-patient management costs contributing at least another 0·5–1%.
+score --> 1
+Evidence of the benefits of such management programmes is required from randomized, controlled trials including a wide range of  2001 The European Society of Cardiology patients before general recommendations are made.
+score --> 1
+The GP was approached regarding the study and informed of their patient’s participation.
+score --> 1
+Heart failure was diagnosed on the basis of typical symptoms and signs, with review of the chest radiograph, ECG and echocardiogram.
+score --> 1
+A patient diary, for daily weights, medication record, clinical notes and appointments, and education booklet were provided (see acknowledgements).
+score --> 1
+No assistance with travel costs or other incentives were provided for the patients in the intervention group.
+score --> 1
+For patients who were unable to attend the 12-month visit, information regarding clinical status and medication usage was obtained from primary care records.
+score --> 1
+Statistical analysis A provisional sample size of 180 patients per group was estimated to provide at least 80% power at the 0·05 level of statistical significance to detect a 30% reduction in the combined end-point of death or hospital readmission.
+score --> 1
+23, issue 2, January 2002 admission rate in the intervention group compared with (n=100) e s represent mean (SD), unless stated.failure with the exact cause often being uncertain.
+score --> 1
+The average left ventricular ejection fraction at entry to the trial was 32% (SD13).
+score --> 1
+Overall, there were 120 hospital readmissions for all causes in the intervention group compared with 154 in the control group.
+score --> 1
+Death and hospital admissions Figure 1 shows the flow of patients through the trial.
+score --> 1
+The main effect of the i the prevention of multipl sions for all causes wer control groups (64 vs 59 quent all-cause readmissio tion group compared wit respectively, 2P=0·015, Table 3).
+score --> 1
+1·0 u rv iv al χ2 = 0·95 2P = 0·33 0·8 0·6heart failure were fewer in the intervention group com- pared with the control group (15 vs 42 respectively, 2P=0.036, Table 3).
+score --> 1
+While many have advocated the benefits of such integrated management[8], this is the first evidence of benefit from a randomized controlled trial.
+score --> 1
+Early clinical review occurred after hospital discharge and education was provided both individually and in group sessions.
+score --> 1
+Beta- blocker therapy was minimal in this patient group, as the study was carried out prior to the definitive beta- blocker trials[11,12].
+score --> 1
+The combined dataset from these trials is still relatively small, and at present it is uncertain which components of the interventions actually produces the beneficial results observed.
+score --> 1
+[15] studied the effects of a nurse-led hospital-based clinic for the management of heart fail- ure.
+score --> 1
+Correspondence: Dr R. N. Doughty, Senior Lecturer in Cardiology, Dept of Medicine, 4th Floor, Auckland Hospital, Park Road, Auckland, New Zealand.
+score --> 0
+Follow-up was for 12 months.
+score --> 0
+There was no significant differ- ence between the intervention and control groups for the combined end-point of death or hospital readmission.
+score --> 0
+The physical dimension of quality of life showed a greaterwas attributable to the prevention of multiple admissions (56 intervention group vs 95 control group, 2P=0·015) and associated reduction in bed days.
+score --> 0
+(Eur Heart J 2002; 23: 139–146, doi:10.1053/euhj.2001.
+score --> 0
+See page 101, doi:10.1053/euhj.2001.2828 for the Editorial comment on this articleresearch.
+score --> 0
+The may have occurred if a general practitioner had patients in both groups.
+score --> 0
+Thus, cluster randomization was study team within 2 weeks of hospital discharge.
+score --> 0
+Atperformed using the general practitioner as the unit of randomization.
+score --> 0
+General practitioners (GPs) were randomly allocated, using computer-generated random numbers, to either the intervention or control groups.
+score --> 0
+No GP approached in this way declined to take part in the study.
+score --> 0
+Details of the clinical history, physical examination, blood biochemistry, ECG and chest radiograph were recorded at baseline.
+score --> 0
+A transthoracic echocardiogram was performed in all subjects and ejection fraction measured (biplane Simpson’s method) using an Acuson 128 or ATL HDI5000 ultrasound machine.
+score --> 0
+The Minnesota Living with Heart Failure questionnaire[9], for assessment of quality of life, was administered by trained interviewers.
+score --> 0
+Methods The study was a randomized, controlled single centre study.
+score --> 0
+Exclusion criteria were kept to a minimum to allow a wide range of patients to be enrolled.
+score --> 0
+Potentially eligible patients were reviewed dur- ing their hospital stay by the study team.
+score --> 0
+Randomization Contamination of the control group management140 R. N. Doughty et al.the medical management of the patients during the Intervention Patients randomized to the intervention group were scheduled for an outpatient clinical review with the Eur Heart J, Vol.
+score --> 0
+23, issue 2, January 2002this initial clinic visit the patient’s clinical status was reviewed, with particular attention to possible remedi- able exacerbating factors.
+score --> 0
+Pharmacological treatment was based on evidence-based guidelines current at the time of the study[10].
+score --> 0
+One-on-one education with the study nurse was initiated at the first clinic visit.
+score --> 0
+This letter included summary comments outlining the rationale for any changes in treatment, and was followed-up with a phone call to the patient’s GP to discuss any relevant changes in the management plan.
+score --> 0
+GPs made changes to the patient’s management as they saw fit but were encouraged to discuss aspects of the patient’s management with the clinic team at any stage.
+score --> 0
+Subsequently, group education sessions (each lasting 1·5–2 h) were offered, two within 6 weeks of hospital discharge and a further after 6 months.
+score --> 0
+These sessions were run by a cardiologist and the study nurse.
+score --> 0
+The advice given was individualized and reinforced at each subsequent clinic visit by the study nurse.
+score --> 0
+Monitoring of daily weights, with documentation in the diary and knowing what action to take should weight change, was reinforced at every available opportunity, either in the clinic or during phone calls with the patient.
+score --> 0
+At times of worsening symptoms patients were initially advised to see their GP.
+score --> 0
+No explicit criteria for readmis- sion were pre-specified and the decision to request admission rested with the GP.
+score --> 0
+Patients randomized to the control group continued under the care of their GP with additional follow-up measures as usually recommended by the medical team responsible for their in-patient care.in-patient stay.
+score --> 0
+Thus the study commenced from the time of discharge following the index admission, although the actual intervention was delayed until the first outpatient visit following discharge.Study end-points and data collection Primary end-points were (1) combined end-point of death or hospital readmission (time to first event) and ence between the two groups for the combined end-point of death or readmission.
+score --> 0
+Thus, recruitment was stopped, Living alone 29 41 Ethicity NYHA (index admission)with a total of 197 patients randomized.
+score --> 0
+Follow-up to 12 months continued to allow completion of the quality of life and total readmission end-points.
+score --> 0
+Data were analysed using two approaches.
+score --> 0
+Firstly the unit of randomization was assumed to be the individual, as if simple randomization had been performed.
+score --> 0
+Differ- ences between treatment arms in categorical variables over 12 months were tested using Fisher’s Exact test, whilst differences in continuous variables were sought using Student’s t-test.
+score --> 0
+In other analyses the unit of randomization was the GP, consistent with the actual method of cluster randomization.
+score --> 0
+Similar analyses were performed where the average value per GP was weighted by the number of patients the GP contributed, by taking the proportion of patients in each general practice as the dependent variable and comparing a weighted mean between groups.
+score --> 0
+Since the median number of partici- pants per general practitioner was small (1·5 in each arm) the influence of clustering was small and only results from the first approach are presented.
+score --> 0
+In no case(2) quality of life questionnaire[9].
+score --> 0
+Patients were followed for 1 year.
+score --> 0
+All surviving patients were invited for a clinical review after 12 months.
+score --> 0
+At this visit the patient’s symptoms and signs were determined and the quality of life questionnaires repeated.
+score --> 0
+Blood was drawn for electrolytes and renal function, and the ECG and echocardiogram were re- peated.
+score --> 0
+Data on deaths and hospitalizations after ran- domization were collected and reviewed at the time of the 12-month visit.
+score --> 0
+Extensive checks for hospital admis- sions during the 12 months were made from patient reporting, GP records and hospital databases.
+score --> 0
+Deaths were verified from death certificates and all hospital admissions were checked with the hospital records.
+score --> 0
+Because of uncertainty of the actual rates of death or hospital readmission in this patient group, an indepen- dent interim analysis was prospectively planned after 100 patients had been followed for 6 months to allow recalculation of sample size.
+score --> 0
+This independent analysis showed higher than expected event rates but no differ-did statistical significance differ depending upon the approach adopted.
+score --> 0
+The combined end-point of death or hospital readmis- sion was analysed on a time to first event basis using theNZ European 77 79 Maori 8 7 Pacific Island 14 9 Other 1 2methods of Kaplan–Meier.
+score --> 0
+All analyses were performed on an intention-to-treat basis, all tests were two-tailed (2P) and a 5% significance level was used throughout.
+score --> 0
+Results One hundred and ninety seven patients were enrolled in the study (100 in the intervention group (64 GPs) and 97 in the control (68 GPs)).
+score --> 0
+The groups were well matched at baseline (Table 1).
+score --> 0
+The mean age at entry to the study was 73 years (SD 10·8).
+score --> 0
+Three quarters of the patients were classified as being in NYHA functional class IV on admission, but all patients had improved sufficiently to III 24 24 IV 76 73 Aeitology of HF Ischaemic 48 59 Non-ischaemic 52 38 No.
+score --> 0
+prior admissions for HF* 1 21 20 2 34 27 Medical history Prior myocardial infarction 42 48 Prior revascularization† 12 13 Prior stroke 20 21 Treated hypertension 46 56 Diabetes 32 25 CORD 20 17 Atrial fibrillation 34 30 Heart rate, beats .
+score --> 0
+min1 (SD) 80·9 (13·2) 78·6 (11·8) Systolic BP, mmHg (SD) 123·6 (21·0) 126·3 (21·6) Diastolic BP, mmHg (SD) 70·8 (11·5) 72·0 (12·5) LV ejection fraction, % (SD) 30·6 (12·7) 33·8 (12·7) Creatinine clearance, ml .
+score --> 0
+min1 (SD) 48·6 (23·2) 49·2 (24·9) Values represent number unless stated.
+score --> 0
+*Index admission not included; †Coronary artery bypass surgery or coronary angioplasty.
+score --> 0
+Forty-six percent of all patients had a history of docu- mented prior MI, 52% prior hypertension, and 29% diabetes.
+score --> 0
+Most were receiving frusemide and 88% were receiving an ACE inhibitor (Table 2).
+score --> 0
+Renal function was impaired with an average creatinine clearance of 48·9 ml .
+score --> 0
+min1 (SD 24) (normal range 90–140 ml .
+score --> 0
+min1).No.
+score --> 0
+prescribed drugs* (range) 6 (2–14) Frusemide % receiving drug at baseline 97% Dose at baseline, mg .
+score --> 0
+day1 116·9 (86·2) Digoxin % receiving drug at baseline 20% Dose at baseline, mg .
+score --> 0
+day1 0·15 (0·06) ACE inhibitor† % receiving drug at baseline 88% % receiving drug at 12 months 83% Dose at baseline, mg .
+score --> 0
+day1 11·9 (36·3) Dose at 12 months, mg .
+score --> 0
+day1 15·4 (43·2) Change baseline to 12 months +3·5 (7·4) *Number of prescribed drugs is median.
+score --> 0
+†Most patients were rec lisinopril: the dosages were converted to an enalapril-equivalent doTable 2 Medications at baseline and 12 months Intervention group 142 R. N. Doughty et al.clinic review at 12 months.
+score --> 0
+Mortality and hospital admission data were available for 196 patients, including the patients who did not attend the 12 month review, Eur Heart J, Vol.
+score --> 0
+23, issue 2, January 2002with one patient lost to follow-up.
+score --> 0
+During the 12 months of follow-up, 43 (22%) patients died and 123 (62%) were admitted to hospital.
+score --> 0
+For the combined end-point of death or hospital readmission, there was no significant difference between the intervention and control groups (68 vs 61 respectively, Chi-square=0·95, 2P=0·33, Fig.
+score --> 0
+2).
+score --> 0
+There was a decrease in the hospital Control group (n=97) 2P 6 (2–14) 93% 117·3 (80·1) 0·97 26% 0·15 (0·07) 0·80 89% 73% 0·58 11·3 (37·7) 0·63 12·4 (41·8) 0·052 +1·1 (6·7) 0·095 iving enalapril, captopril, or e for the comparison.
+score --> 0
+Valuesthe control group, with hospital admission rates of 1·37 , respectively, and an incident er patient year (95% CI 0·16, ·74 suggests a 26% decrease in te (95% CI 0·52, 0·96).
+score --> 0
+There bed days associated with this missions in the intervention control group, 1074 vs 1170 hus, there were 12·3 bed days -up in the intervention group days per patient year in the n of 1·6 bed days per patient .
+score --> 0
+The mean time to the first s not significantly different s: 102 (SD 104) days in the (SD 116) days in the control ntervention was attributable to e readmissions.
+score --> 0
+First readmis- e similar in intervention and respectively).
+score --> 0
+However, subse- ns were fewer in the interven- h the control group (56 vs 95Follow-up The median time to the first outpatient visit, which marked the onset of the management programme for patients in the intervention group, was 11 days.
+score --> 0
+Sixty percent of the intervention group attended the first group education session, and 40% attended the 6-month session.
+score --> 0
+There was a trend for a higher proportion of the intervention group to be receiv- ing an ACE inhibitor and at a higher dose at 12 months although these differences were not statistically signifi- cant (Table 2).
+score --> 0
+Other medications were similar in the two groups at baseline and during follow-up.
+score --> 0
+Seven patients in each group were unable to attend the and 1·84 per patient year rate difference of 0·47 p 0·78).
+score --> 0
+The rate ratio of 0 the hospital admission ra were fewer total hospital reduction in hospital ad group compared with the bed days, respectively.
+score --> 0
+T per patient year of follow compared with 13·9 bed control group, a reductio year (95% CI 0·51, 2·7) hospital readmission wa between the two group intervention group vs 122 group (2P=0·4).
+score --> 0
+There were more hospital bed days in the intervention group during the first readmissions compared with the control group ee  s(546 vs 444 respectively), but fewer bed days during subsequent readmissions (528 intervention group vs 726 control group, 2P=0·0001).
+score --> 0
+However, subsequent readmissions for compared with the control group (219 vs 195 respect- ively), but there were fewer bed days during subsequent readmissions (139 intervention group vs 366 control group, 2P=0·0001).
+score --> 0
+Quality of life The Minnesota Living with Heart Failure scores at 400 Days E ve n t  fr 0 300200100 0·4 0·2 Figure 2 Death or hospital readmission in the intervention ( ) and control ( ) groups during 12 months of follow-up.Control group n = 97 24 patients died19 patients died Intervention group n = 100 12 Month follow-up 1 patient lost to follow-up Death/Hospital readmission status available for 196 patients Figure 1 Study flow chart.
+score --> 0
+There was a significant improvement in physical functioning from baseline to Eur Heart J, Vol.
+score --> 0
+23, issue 2, January 2002 12 months between the intervention and control groups (11·1 and 5·8 respectively, 2P=0·015) (Fig.
+score --> 0
+3).
+score --> 0
+Discussion health-care settings.
+score --> 0
+Minnesota score is positively scorecare.
+score --> 0
+The study involved a broad range of patients who are representative of those from a general hospital setting.
+score --> 0
+The study demonstrated improvements in the physical dimensions of quality of life, and a reduction in multiple hospital admissions over 12 months.
+score --> 0
+There were 34 fewer hospital readmissions and 96 less bed days in the inter- vention group compared with the control group, with the main effect attributable to the prevention of multiple admissions.
+score --> 0
+144 R. N. Doughty et al.There was no significant change in the emotional score between the two groups from baseline to 12 months (3·3 and 3·3 respectively, 2P=0·97).higher score implies worse quality of life.
+score --> 0
+A negative value f score from baseline to 12 months indicates improvement in qu Values shown are mean change with error bars representi error.
+score --> 0
+Eur Heart J, Vol.
+score --> 0
+23, issue 2, January 2002from the lack of effect on the first readmissions.
+score --> 0
+This may, in part, have occurred as the intervention did not start until after the patients were discharged following the index admissions.
+score --> 0
+Given the delayed effect of the intervention it is possible that the effect may continue and perhaps be greater in second or subsequent years, although longer-term follow-up would be required to determine this.
+score --> 0
+The control group also otional  = 0·97 months for with Heart such that aor change in ality of life.
+score --> 0
+ng standard overall effects are more modest than seen with the home-based interventions.
+score --> 0
+Further benefits may beappears to have received a good standard of care in the Auckland setting.
+score --> 0
+This may reflect the influence of local clinical research, opinion leaders and clinical practice guidelines.
+score --> 0
+ACE inhibitors, as one clinical indicator, were used in 89% of the control group at baseline.
+score --> 0
+Dosages may be considered suboptimal although it is notable that the patients had markedly impaired renal function, making lower dosages appropriate.
+score --> 0
+Some authors have advocated audit of pharmacological therapy prior to using scarce resources on nurse practitioners or clinics[13].
+score --> 0
+One com- ponent of the intervention in the current study was to review and optimize pharmacological therapy.
+score --> 0
+There were trends for more patients to be receiving ACE inhibitor therapy and at a slightly higher dose, although overall these were only relatively small changes and thus it is unlikely that this alone would have accounted for the beneficial effects observed.
+score --> 0
+The patients enrolled in the current study had mul- tiple coexisting medical conditions, including diabetes, chronic respiratory disease, prior stroke and gout, their renal function was impaired and they were taking a median of six medications.
+score --> 0
+In the model in the current study a cardiologist, nurse practitioner and general prac- titioner were combined although greater benefits may be gained by the involvement of general physicians and/or geriatricians.
+score --> 0
+In a study by Weinberger et al.
+score --> 0
+Patients were identified at the time of hospital admission although one of these three medical conditions did not have to be the primary reason for the admission.
+score --> 0
+The intervention involved close follow-up by a nurse and a primary care physician beginning before discharge and continuing for 6 months.
+score --> 0
+The patients in the intervention group had significantly higher rates of readmission than the controls (0·19 vs 0·14 per month, P=0·005).
+score --> 0
+In addition, more patients in the intervention group had multiple readmissions than controls.
+score --> 0
+One potential reason for the increase in admis- sions may have been that the increased care may have led to the detection of previously unrecognised medical conditions that required admission for treatment.
+score --> 0
+In addition, a disease-specific protocol and integrationachieved with earlier intervention in hospital prior to discharge, use of agents proven to reduce admissions such as beta-blocker therapy[11,12], and further attention to the co-morbidities commonly found in these patients.
+score --> 0
+It is important to remember that every patient has different and distinct educational and medical needs and thus flexible and practical approaches should be employed that allow tailoring to individual needs.
+score --> 0
+Further studies are obviously required to develop these manage- ment strategies further.
+score --> 0
+It should be noted that such management programmes have only been applied in patients who have been admitted to hospital.
+score --> 0
+Conse- quently, there is no evidence of benefit in reducing theof primary with specialist care, as in the current study, may be important requirements for the success of such management programmes.
+score --> 0
+Cline et al.
+score --> 0
+The effects of this intervention were modest with an increase in the time to first readmission but only a trend to fewer hospital admissions in the intervention group.
+score --> 0
+The design of this study is different to the Auckland study, as it did not involve a structured approach to integration between the patient and primary and second- ary care.
+score --> 0
+Provision of the management programmes outside of the hospital setting, including home-visiting, does appear to have a greater potential for benefit.
+score --> 0
+There is thus an urgent need for strategies to reduce these admissions.
+score --> 0
+In addition, the programmes have generally only followed patients for a relatively short period and the longer-term effects remain uncertain.
+score --> 0
+Further Eur Heart J, Vol.
+score --> 0
+The study was funded by a project grant from the National Heart of New Zealand and an unrestricted educational grant from Rockville, MD., June, 1994.
+score --> 0
+[11] CIBIS-II Investigators and Committees.
+score --> 0
+The Cardiac Insufficiency Bisoprolol Study II (CIBIS-II): a randomised [13] Timmis AD.
+score --> 0
+BMJ 1999; 319: 123.
+score --> 0
+[14] Weinberger M, Oddone EZ, Henderson WG.
+score --> 0
+for the Veterans Affairs Cooperative Study Group on Primary Care and Hospital Readmission.
+score --> 0
+Does increased access to primary care reduce hospital readmissions?
+score --> 0
+N Engl J Med 1996; 334: Farquharson, Ford, Fowler, Fox (Jonathan), Fox (Judith), Frye, Gabriel, Gardyne, Gibson, Grieve, 146 R. N. Doughty et al.trial.
+score --> 0
+Lancet 1999; 353: 9–13.
+score --> 0
+[12] MERIT-HF Study Group.
+score --> 0
+Lancet 1999; 353: 2001–7.Merck Sharp Dohme (NZ) Ltd. RND was the recipient of the New Zealand Heart Foundation BNZ Senior Fellowship.
+score --> 0
+The Patient Diary and Patient Education Booklet have now been produced by the New Zealand Heart Foundation, copies are available from the corresponding author on request.
+score --> 0
+References [1] McMurray J, McDonagh T, Morrison CE, Dargie HJ.
+score --> 0
+Euro Heart J 1993; 14: 1158–62.
+score --> 0
+J Cardiac Failure 1999; 5 (Suppl 1): 63.
+score --> 0
+NZ Med J 1995; 108: 473–5.
+score --> 0
+[4] Rich MWR, Beckham V, Wittenberg C, Leven CL, Freedland KE, Carney RM.
+score --> 0
+N Engl J Med 1995; 333: 1190–5.
+score --> 0
+[5] Stewart S, Pearson S, Horowitz JD.
+score --> 0
+Arch Int Med 1998; 158: 1067–72.
+score --> 0
+[6] Stewart S, Marley JE, Horowiz JD.
+score --> 0
+Lancet 1999; 354: 1077–83.
+score --> 0
+[7] Jaarsma T, Halfens R, Abu-Saad HH et al.
+score --> 0
+Eur Heart J 1999; 20: 673–82.
+score --> 0
+Circulation 1997; 96: 2755–7.
+score --> 0
+[9] Rector TS, Kubo SH, Cohn JN.
+score --> 0
+Heart Failure 1987; 3: 198–209.
+score --> 0
+[10] Konstam M, Dracup K, Baker D. Evaluation and care of patients with left ventricular systolic dysfunction.
+score --> 0
+Clinical Practice Guideline No.11.
+score --> 0
+AHCPR Publication No 94-0612,Eur Heart J, Vol.
+score --> 0
+23, issue 2, January 2002Gulbransen, Haydon, Heath, Hefford, Hewitt, Hill, Hillman, Hoadley, Hodder, Hopcroft, Horne, Houng-Lee, Hulley, Hurly, Isted, Jansen, Jennings, Johnson, Kara, Karetai, Kidd, King, Lam, Large, Lawson, Leggatt, Lello, Levenberg, Liang, Long, Lusk, MacGibbon, MacLachlan, Madgwick, Marshall, Martley, McAllister, Mok, Ng, Nola, O,Sullivan, Parbhu, Parr, Patel, Paul, Peak, Pettit, Pohl, Raj, Ramirez, Rasalingham, Robertson, Rushmer, Russell, Ryan, Sanders, Selvakuma, Settle, Short, Skinner, So, Solomon, Soysa, Strange, Stubbs, Sullivan, Svensen, Tagg, Thomas, Tseung, Twigg, Tye, van Roekel, Vather, Vickers, Wah, Wardrope, Washer, Waterfall, Watson, Way, Weeramuni, Wernham, Wiles, Williams (A), Williams (J), Wong, Woolford, Zink.1441–7.
+score --> 0
+[15] Cline CMJ, Israelsson BYA, Willenheimer RB, Broms K, Erhardt LR.
+score --> 0
+Heart 1998; 80: 442–6.
+score --> 0
+Br J Med Econ 1993; 6: 99–110.
+score --> 0
+[17] Schneider JK, Hornberger S, Booker J, Davis A, Kralicek R. A medication discharge planning programme: measuring the effect on readmissions.
+score --> 0
+Clin Nurs Res 1993; 2: 41–53.
+score --> 0
+Congestive Heart Fail 1998; 4: 23–8.
+score --> 0
+[19] Gattis WA, Hasselblad V, Whellan DJ, O’Connor CM.
+score --> 0
+Results of the Pharmacist in Heart Failure Assessment Recommendation and Monitoring (PHARM) Study.
+score --> 0
+Arch Intern Med 1999; 159: 1939–45.
+score --> 0
+Appendix We wish to thank the following Auckland general practitioners who participated in this study: Doctors Abeysekera, Addis, Antunovich, Atlas, Bailey, Baker (Ron), Baker (Robyn), Barrett, Batt, Beatham, Beer, Beltowski, Bond, Botica, Bowden, Boyd, Broom, Budelman, Cairney, Caldwell, Cameron, Cearns, Chaffey, Chan, Cheung, Collinson, Connell, Cook, Cotton, Cotton-Barker, De Lacey, Dhana, Dublessis, 
+score --> 0

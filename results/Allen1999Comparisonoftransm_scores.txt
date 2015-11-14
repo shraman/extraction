@@ -1,0 +1,791 @@
+Refractory angina CCS class IV, not amenable to CABG or PTCA, reversible ischaemia determined by myocardial perfusion scanning, and ejection fraction > 25%
+The criteria for enrollment were refractory class IV angina that was not amenable to coronary-artery bypass grafting or percuta- neous transluminal coronary angioplasty (as determined by a sur- geon and an interventional cardiologist at each center); reversible ischemia, as determined by myocardial perfusion scanning, within the distal two thirds of the left ventricle (i.e., the area of the ven- tricle amenable to transmyocardial revascularization); and a left ventricular ejection fraction greater than 25 percent.
+score --> 13
+Medically refractory angina was defined as CCS class IV angina that was present despite maximal tolerated doses of multiple an- tianginal medications (nitrates, calcium-channel blockers, and beta- blockers).
+score --> 5
+Angina was assessed with the use of a questionnaire de- signed to classify the symptoms of angina according to the CCS class (with class 0 indicating the absence of angina).
+score --> 5
+9,16    The lower rate of im- provement in angina may reflect the enrollment of patients with class III angina rather than class IV an- gina.
+score --> 5
+1030   ·   September 30, 1999   The New England Journal  of  Medicine   apy alone in patients with refractory class IV angina (according to the classification system of the Cana- dian Cardiovascular Society [CCS]).
+score --> 4
+Improvement in angina was defined as a reduction of two or more CCS angina classes from base line.
+score --> 4
+21    In a prospective, randomized trial involv- ing primarily patients with class III angina, Schofield and associates   19    compared transmyocardial revascu- larization (performed with a carbon dioxide laser) with medical therapy alone and were unable to dem- onstrate improved perfusion on thallium scans ob-   Figure 6.
+score --> 4
+In this prospective, randomized, multicenter trial, patients with medically refractory class IV angina who underwent transmyocardial revascularization and continued medical therapy had significantly higher rates of improvement in angina, survival free of car- diac events, freedom from treatment failure, and free- dom from cardiac-related rehospitalization than pa- tients who received medical therapy alone.
+score --> 4
+We compared the safety and efficacy of transmyocardial revascularization per- formed with a holmium laser with those of medical therapy in patients with refractory class IV angina (ac- cording to the criteria of the Canadian Cardiovascu- lar Society).
+score --> 3
+Methods   In a prospective study conducted between March 1996 and July 1998 at 18 centers, 275 patients with medically refractory class IV angina and coro- nary disease that could not be treated with percuta- neous or surgical revascularization were randomly assigned to receive transmyocardial revasculariza- tion followed by continued medical therapy (132 pa- tients) or medical therapy alone (143 patients).
+score --> 3
+However, there were no differences in myocardial perfusion between the two groups, as assessed by thallium scanning.
+score --> 3
+METHODS   Patients   Between March 1996 and July 1998, 275 patients with medi- cally refractory class IV angina and coronary artery disease that could not be treated with percutaneous or surgical revasculariza- tion were randomly assigned to undergo transmyocardial revascu- larization and continued medical therapy (132 patients) or med- ical therapy alone (143 patients).
+score --> 3
+Primary End Points   The primary end points were a change in angina symptoms, treatment failure, and a change in myocardial perfusion.
+score --> 3
+At 12 months, 76 percent of the patients in the transmyocardial-revascularization group had im- provement in angina (a reduction of two or more CCS classes), as compared with only 32 percent of   Figure 1.
+score --> 3
+All patients had class IV angina at base line.
+score --> 3
+The results of the masked assessment of angina were closely correlated with the study inves- tigators’ assessment and differed by no more than one CCS class 80 percent of the time.
+score --> 3
+8,9,13    We performed transmyocardial revascularization with a holmium laser in patients with medically refractory class IV angina.
+score --> 3
+OF   P   ATIENTS     (%)   Death 7 (5) Atrial arrhythmias 13 (10) Hypotension 13 (10) Ventricular arrhythmia 16 (12) Non–Q-wave myocardial infarction 6 (5) Congestive heart failure 5 (4) Respiratory insufficiency 4 (3) Q-wave myocardial infarction 1 (1) Transfusion due to blood loss from trans- myocardial revascularization 0    Figure 4.
+score --> 3
+Although in our study the patients treated with transmyocardial revascular- ization had higher rates of improvement in angina, freedom from treatment failure, and freedom from cardiac-related rehospitalization, as well as better ex- ercise tolerance and higher quality-of-life scores at 12 months, than the patients treated with medical therapy alone, no significant differences in computer- quantified reversible or fixed perfusion defects were noted between the two groups.
+score --> 3
+These results seemingly supported the hypothesis that trans- myocardial revascularization improved myocardial perfusion.
+score --> 3
+Sympathetic denervation may relieve angina without influencing myocardial perfusion; this would explain the immediate relief experienced by some patients.
+score --> 3
+Prospective randomized multi-center trial of transmyocardial revascu- larization versus maximal medical management in patients with refractory  class IV angina: 12-month results.
+score --> 3
+Results   After one year of follow-up, 76 percent of the patients who had undergone transmyocardial re- vascularization had improvement in angina (a reduc- tion of two or more classes), as compared with 32 percent of the patients who received medical ther- apy alone (P<0.001).
+score --> 2
+Conclusions   Patients with refractory angina who underwent transmyocardial revascularization and re- ceived continued medical therapy, as compared with similar patients who received medical therapy alone, had a significantly better outcome with respect to improvement in angina, survival free of cardiac events, freedom from treatment failure, and freedom from cardiac-related rehospitalization.
+score --> 2
+Beck’s use of omentopexy, reported in 1935,   1   and Vinberg’s use of thoracic-artery implantation, reported in 1954,   2    were attempts to provide direct myocardial perfusion and were based on the descrip- tion by Wearn et al., in 1933,   3    of a sinusoidal net- work in the human heart.
+score --> 2
+Exclusion criteria were a contraindication to general anesthesia; severe chron- ic obstructive pulmonary disease (indicated by a forced expiratory volume in one second that was less than 55 percent of the pre- dicted value); the need for continued use of intravenous antian- gina medications; an inability to undergo dipyridamole–thallium stress scintigraphy; a non–Q-wave myocardial infarction within the previous two weeks or a Q-wave myocardial infarction within the previous three weeks; the need for long-term anticoagulant ther- apy; the presence of a ventricular mural thrombus; severe arrhyth- mias; and decompensated congestive heart failure.
+score --> 2
+CAD denotes coronary artery disease, PTCA percutaneous transluminal coronary angioplasty, and CABG coronary-artery bypass grafting.
+score --> 2
+*   V   ARIABLE   T   RANSMYOCARDIAL   R   EVASCULARIZATION   (N=132) M   EDICAL   T   HERAPY   (N=143)   Age — yr 60±10 60±11 Preoperative ejection fraction — % 47±11 47±10 Male sex — no.
+score --> 2
+(%) 114 (86) 123 (86) Previous PTCA or CABG — no.
+score --> 2
+Computerized quantification of ischemic changes, perfusion defects at rest, and delayed perfusion defects was performed in a masked manner by an independent laboratory (at Brigham and Women’s Hospital, Boston), with the use of the validated Emory/Cedars–Sinai software package, version 1.0.
+score --> 2
+For end points measured at 12 months (improvement in angina, results of thallium scanning, myocardial-infarction rates, medication use, quality-of-life scores, and performance on an exercise treadmill test), the patients who underwent transmyocardial revasculariza- tion were compared with the patients who received medical ther- apy alone throughout the study.
+score --> 2
+Base-line scans obtained at rest, under conditions of stress, and after a four-hour delay were compared with follow-up scans.
+score --> 2
+Further- more, no correlation was noted between improvement in angina and the results of thallium scanning.
+score --> 2
+Since laser energy ablates myocardial tissue, there was con- cern that transmyocardial revascularization might im- prove angina by creating zones of infarction; however, no differences in fixed defects were noted.
+score --> 2
+The higher rates of improvement in angina and free- dom from treatment failure and the reduced rates of cardiac-related rehospitalization and use of cardioac- tive medications among the patients treated with trans- myocardial revascularization, as compared with those receiving medical therapy alone, were reflected in the surgical group’s greater tolerance of exercise (5.0± 0.7 vs. 3.9±0.8 MET, P=0.05) and higher quality-of- life score (21±14 vs. 12±11, P= 0.003) at 12 months.
+score --> 2
+Un- fortunately, a subgroup of patients with medically refractory angina have small or diffusely diseased distal vessels that are not amenable to conventional revascularization therapies.
+score --> 2
+In one study, transmyocardial revascularization with a carbon dioxide laser resulted in a higher per- ioperative mortality rate in patients with unstable angina than in those with stable angina (27 percent vs. 1 percent).
+score --> 2
+These results suggest that transmyocardial revascularization with a holmium laser should be performed, when possible, in patients with stable angina but that those with un- stable angina should not be denied this procedure.
+score --> 2
+There was a strong correlation between the independent eval- uation and that performed by the investigators, with a discrepancy of no more than one CCS class 80 percent of the time.
+score --> 2
+However, the follow-up was incomplete, the analysis was not computer-quantified, and im- proved perfusion was poorly correlated with relief of angina.
+score --> 2
+The failure to demonstrate improved perfusion after transmyocardial revascularization may be due to the low sensitivity of thallium scanning rather than to the absence of an effect.
+score --> 2
+Although its mechanism of action is unknown, trans- myocardial revascularization is a treatment option for patients with medically refractory angina who are not candidates for conventional revascularization.
+score --> 2
+A   BSTRACT   Background   Transmyocardial revascularization in- volves the creation of channels in the myocardium with a laser to relieve angina.
+score --> 1
+ESPITE the success of current medical and surgical management of ischemic heart disease, a growing number of patients have diffuse obstructive coronary artery disease that is not amenable to coronary-artery by- pass grafting or catheter-based interventions.
+score --> 1
+Early attempts at in- direct myocardial revascularization had limited suc- cess.
+score --> 1
+pro- posed the creation of transmural channels in the left ventricular wall to permit direct perfusion of ische- mic myocardium with oxygenated left ventricular blood.
+score --> 1
+4    This concept was based on the model of the reptilian heart, in which the left ventricle is directly perfused from endothelium-lined channels that radi- ate out from the left ventricular cavity.
+score --> 1
+Subsequent clinical trials using a carbon dioxide laser   7-13    or a holmium:yttrium–alu- minum–garnet laser   14-16    (hereafter referred to as a hol- mium laser) demonstrated that transmyocardial revas- cularization significantly improved angina in patients who were not candidates for conventional therapies.
+score --> 1
+Three to five channels were placed, followed by the application of digital pressure for two to three minutes to obtain hemostasis and allow for myocardial recovery.
+score --> 1
+An independent laboratory (at the Cleveland Clinic Foundation, Cleveland) con- ducted a masked assessment of angina and quality of life at 12 months.
+score --> 1
+Treatment failure in both the transmyocardial-revascularization group and the medical-therapy group was defined a priori as death, Q-wave myocardial infarction, two cardiac-related hospital- izations within a 3-month period, three cardiac-related hospitaliza- tions within a 12-month period, or an inability to withdraw in-   *Plus–minus values are means ±SD.
+score --> 1
+(%) 66 (50) 64 (45) History of myocardial infarction — no.
+score --> 1
+(%) 22 (17) 37 (26) Previous PTCA — no.
+score --> 1
+(%) 63 (48) 67 (47) Previous CABG — no.
+score --> 1
+Myocardial perfusion was assessed with the use of dipyrida- mole–thallium stress testing, with images obtained while the pa- tient was at rest, under conditions of drug-induced stress, and af- ter a four-hour delay.
+score --> 1
+A change in perfusion was defined as a difference of more than 10 percent from the base-line value.
+score --> 1
+The 46 patients in the crossover group underwent follow-up thallium scanning only at rest and were excluded from this analysis.
+score --> 1
+Computer-quantified, paired scans (base-line and 12-month follow-up) were available for 61 of 95 eligible patients (64 percent).
+score --> 1
+Freedom from cardiac-related rehospitalization, occurrence of Q-wave and non–Q-wave myocardial infarction, and survival free of cardiac events were evaluated at 3, 6, and 12 months.
+score --> 1
+Survival free of cardiac events was defined as freedom from death, Q-wave myocardial infarction, cardiac-related hospi- talization, and subsequent coronary-artery bypass grafting or per- cutaneous angioplasty.
+score --> 1
+The rates of use of cardioactive medications (calcium-channel blockers, beta-blockers, and nitrates) and doses were determined at base line and at 3, 6, and 12 months.
+score --> 1
+Following a recommendation by the FDA, however, we modified the protocol after the first 160 patients had been en- rolled, eliminating follow-up thallium scanning and substituting treadmill testing according to the Naughton protocol at 12 months.
+score --> 1
+To determine the average work- load, expressed as metabolic equivalents (MET), Naughton and non-Naughton test results were combined.
+score --> 1
+The 11 patients who were unable to exercise because of angina were assigned a score of 1 MET.
+score --> 1
+A central laboratory using Statgraphics Plus, version 2.1, per- formed all analyses of thallium scans.
+score --> 1
+Kaplan–Meier estimates were used to compare the treatment groups at one year with respect to mortality, survival free of car- diac events, freedom from treatment failure, freedom from cardi- ac-related hospitalization, and myocardial infarction.
+score --> 1
+With the ex- ception of the analysis of thallium scans, all analyses were performed with the use of SAS software, versions 6.11 and 6.12 (SAS Institute, Cary, N.C.).
+score --> 1
+The improvement in angina in the medical-therapy group at 12 months reflects the reduction in the number of patients in this group as the sicker patients were withdrawn so that they could undergo transmyocardial revascularization under a separate protocol.
+score --> 1
+The proportion of patients in the crossover group who had improvement in angina at 12 months was similar to that in the transmyocardial-revasculariza- tion group.
+score --> 1
+Computer-quantified changes in perfusion between base line and 12 months are shown in Figure 3.
+score --> 1
+There were no significant differences between the transmy- ocardial-revascularization group and the medical- therapy group with respect to changes in ischemia, defects in perfusion at rest, or delayed defects.
+score --> 1
+Two of the 97 patients (2 percent) who received medical therapy alone throughout the study died within 30 days after enrollment; both deaths resulted from myocardial infarctions.
+score --> 1
+DISCUSSION   Direct surgical or percutaneous revascularization remains the mainstay of treatment for angina.
+score --> 1
+The perioperative mortality rate after transmyo- cardial revascularization performed with a carbon di- oxide laser in patients with stable angina ranges from 1 to 20 percent.
+score --> 1
+15    In our study, the crossover group (pa- tients in the medical-therapy group who could not be weaned from intravenous antianginal medications and underwent transmyocardial revascularization as part of a separate protocol) and the transmyocardial- revascularization group had similar rates of periop- erative mortality (9 percent and 5 percent, respec- tively; P=0.48), survival in the Kaplan–Meier analysis (91 percent and 84 percent, respectively; P=0.53), and improvement in angina at one year.
+score --> 1
+18   Transmyocardial revascularization performed with a holmium laser resulted in a significant improve- ment in angina at one year in 76 percent of the pa- tients in our study who underwent the procedure, as compared with 32 percent of the patients who re- ceived medical therapy alone.
+score --> 1
+The subjective nature of angina assessment introduces the possibility of bi- as.
+score --> 1
+Unlike previous studies,   7-13,19    ours included an in- dependent, masked evaluation of angina.
+score --> 1
+Our findings are in agreement with those re- ported by other investigators   8,9,13    and support the suggestion that relief of angina in patients treated with transmyocardial revascularization is not due to increased use of antianginal medications.
+score --> 1
+Relief of angina for up to four years has been reported in pa- tients who underwent transmyocardial revasculariza- tion with a carbon dioxide laser.
+score --> 1
+20    Although the ben- efit of transmyocardial revascularization in our patients may have been due in part to a placebo effect, sus- tained relief of angina and widely divergent Kaplan– Meier curves at one year (P<0.001) for freedom from treatment failure help refute the argument that a placebo effect is an important mechanism for the favorable results of transmyocardial revascularization.
+score --> 1
+Horvath and associates   9    reported a small improve- ment in perfusion after transmyocardial revascular- ization performed with a carbon dioxide laser.
+score --> 1
+Al- though the proportion of patients with improvement in angina was significantly larger in the transmyocar- dial-revascularization group, it was lower than that reported in previous studies.
+score --> 1
+In- flammatory cells recruited in response to laser-induced myocardial injury may release angiogenic growth fac- tors, and the actions of these growth factors may result in neovascularization and improved regional collateral flow.
+score --> 1
+The possibility that denervation may lead to silent ischemia or infarction after transmyo- cardial revascularization is less likely, since there was no increase in fixed perfusion defects in our trans- myocardial-revascularization group.
+score --> 1
+Transmyocardial acu- puncture: a new approach to myocardial revascularization.
+score --> 1
+Laser myocardial  revascularization.
+score --> 1
+Transmyocardial  revascularization in patients with refractory, unstable angina.
+score --> 1
+A brief self- administered questionnaire to determine functional capacity (the Duke Ac- tivity Status Index).
+score --> 1
+Transmyocardial laser re- vascularization in patients with refractory angina: a randomised controlled  trial.
+score --> 1
+Functional improvement,  long term survival and angina relief after transmyocardial revascularization  with a CO2 laser.
+score --> 1
+ Volume 341 Number 14   ·   1029   TRANSMYOCARDIAL REVASCULARIZATION VS. MEDICAL THERAPY IN PATIENTS WITH REFRACTORY ANGINA   COMPARISON OF TRANSMYOCARDIAL REVASCULARIZATION WITH MEDICAL  THERAPY IN PATIENTS WITH REFRACTORY ANGINA   K   EITH    B.
+score --> 0
+A   LLEN   , M.D., R   OBERT    D. D   OWLING   , M.D., T   OMMY    L. F   UDGE   , M.D., G. P   HILLIP    S   CHOETTLE   , M.D.,  S   AMUEL    L. S   ELINGER   , M.D., D   EEPAK    M. G   ANGAHAR   , M.D., W   ILLIAM    W. A   NGELL   , M.D., M   ICHAEL    R. P   ETRACEK   , M.D.,  C   ARL    J.
+score --> 0
+S   HAAR   , P   H   .D.,    AND    W   ILLIAM    W. O’N   EILL   , M.D.
+score --> 0
+Kaplan–Meier survival esti- mates at one year (based on an intention-to-treat analysis) were similar for the patients assigned to undergo transmyocardial revascularization and those assigned to receive medical therapy alone (84 per- cent and 89 percent, respectively; P=0.23).
+score --> 0
+At one year, the patients in the transmyocardial-revascu- larization group had a significantly higher rate of survival free of cardiac events (54 percent, vs. 31 percent in the medical-therapy group; P<0.001), a significantly higher rate of freedom from treatment failure (73 percent vs. 47 percent, P<0.001), and a significantly higher rate of freedom from cardiac- related rehospitalization (61 percent vs. 33 percent, P<0.001).
+score --> 0
+Exercise tolerance and quality-of-life scores were also significantly higher in the transmyocar- dial-revascularization group than in the medical- therapy group (exercise tolerance, 5.0 MET [metabol- ic equivalent] vs. 3.9 MET; P=0.05; quality-of-life score, 21 vs. 12; P=0.003).
+score --> 0
+(N Engl J Med 1999;341:1029-36.)
+score --> 0
+©1999, Massachusetts Medical Society.
+score --> 0
+From the Department of Cardiothoracic Surgery, St. Vincent Hospital and Indiana Heart Institute, Indianapolis (K.B.A., C.J.S.
+score --> 0
+); the Department of Cardiothoracic Surgery, University of Louisville and Jewish Heart and Lung Institute, Louisville, Ky.
+score --> 0
+(R.D.D.
+score --> 0
+); the Department of Cardiothoracic Surgery, Terrebonne Hospital, Houma, La.
+score --> 0
+(T.L.F.
+score --> 0
+); the Department of Cardiothoracic Surgery, Methodist Hospital, Memphis, Tenn.
+score --> 0
+(G.P.S.
+score --> 0
+); the Department of Cardiothoracic Surgery, Sacred Heart Medical Center, Spo- kane, Wash.
+score --> 0
+(S.L.S.
+score --> 0
+); the Department of Cardiothoracic Surgery, Bryan Memorial Hospital, Lincoln, Nebr.
+score --> 0
+(D.M.G.
+score --> 0
+); the Department of Cardio- thoracic Surgery, Tampa General Hospital, Tampa, Fla.
+score --> 0
+(W.W.A.
+score --> 0
+); St. Thomas Heart Institute, Nashville (M.R.P.
+score --> 0
+); and the Division of Cardiol- ogy, William Beaumont Hospital, Royal Oak, Mich.
+score --> 0
+(W.W.O.).
+score --> 0
+Address re- print requests to Dr. Allen at 8333 Naab Rd., Suite 300, Indianapolis, IN 46260, or at cvsurgeon@iquest.net.
+score --> 0
+The centers and investigators participating in the study are listed in the Appendix.
+score --> 0
+This problem has stimulated interest in developing alter- native therapeutic approaches.
+score --> 0
+In 1965, Sen et al.
+score --> 0
+Mirhoseini and associates   5,6    advanced the concept by using laser energy rather than mechanical energy to create the transmural channels.
+score --> 0
+We conducted a prospective, randomized, multi- center trial to compare the safety and efficacy of transmyocardial revascularization, performed with a holmium laser and followed by continued medical therapy, with the safety and efficacy of medical ther- D The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+Eighteen cen- ters in the United States participated in the study.
+score --> 0
+Randomization was performed by each center on a 1:1 basis, with a block size of six patients per center.
+score --> 0
+The demographic and clinical characteristics of the pa- tients in the two treatment groups were similar (Table 1).
+score --> 0
+A blind- ed, independent data and safety monitoring committee monitored the study.
+score --> 0
+Study approval was obtained from the Food and Drug Administration (FDA) and the institutional review board of each participating center.
+score --> 0
+Informed consent was obtained from each patient before enrollment.
+score --> 0
+At the time of enrollment, 91 percent of the patients (250 of 275) were taking two or more antianginal medications, and 31 percent (85 of 275) were taking analgesics or narcotics.
+score --> 0
+Forty-six patients (32 percent) initially assigned to receive med- ical therapy alone met the a priori criteria for treatment failure and could not be weaned from intravenous antianginal medica- tion on two attempts over a period of 48 hours.
+score --> 0
+They were with- drawn from the study and underwent transmyocardial revascular- ization under a parallel, FDA-approved protocol for patients who could not be weaned from intravenous antianginal medications.
+score --> 0
+Thus, there were three groups of patients: those randomly as- signed to undergo transmyocardial revascularization and to re- ceive continued medical therapy (132 patients), those who received medical therapy alone throughout the study (97), and those ran- domly assigned to receive medical therapy alone who met the cri- teria for treatment failure and underwent transmyocardial revas- cularization as part of a separate protocol (46).
+score --> 0
+The third group of patients is hereafter referred to as the crossover group.
+score --> 0
+Operative Technique and Laser Procedure   The operative procedure has been described in detail else- where.
+score --> 0
+14,15    Cardiac exposure was accomplished through a limited left anterior thoracotomy.
+score --> 0
+The administration of intravenous flu- ids was minimized to prevent fluid overload.
+score --> 0
+A 20-W, pulsed hol- mium laser (Eclipse Surgical Technologies, Sunnyvale, Calif.) was used to create transmyocardial channels.
+score --> 0
+The laser, which has been approved by the FDA, was calibrated to deliver 6 to 8 W per pulse, and energy was delivered at the rate of five pulses per sec- ond through a flexible 1-mm optical fiber.
+score --> 0
+Energy application was not gated to the cardiac cycle.
+score --> 0
+Channels were placed every square centimeter throughout the distal two thirds of the left ventricle.
+score --> 0
+Mechanical manipulation of the heart was minimized.
+score --> 0
+A mean (±SD) of 39±11 channels were created per patient.
+score --> 0
+The mean durations of surgery and laser use were 99±43 and 25±13 minutes, respectively.
+score --> 0
+Angina was evaluated at 3, 6, and 12 months in all surviving patients who were not crossed over to surgical treatment and who had reached the designated follow-up time (hereafter referred to as eligible pa- tients): 213 of 221 patients (96 percent) at 3 months, 172 of 183 (94 percent) at 6 months, and 126 of 136 (93 percent) at 12 months.
+score --> 0
+The Duke Activity Status Index   17    was used to assess the quality of life.
+score --> 0
+The index is based on a scale from 0 to 58, with higher scores indi- cating greater functional capacity.
+score --> 0
+Among the first 160 patients enrolled in the study, these assessments were performed at 12 months in 112 of 132 eligible patients (85 percent).
+score --> 0
+None of the differences between the treatment groups were statistically significant.
+score --> 0
+T   ABLE    1.
+score --> 0
+C   HARACTERISTICS       OF       THE    P   ATIENTS       AND    C   ARDIAC    R   ISK    F   ACTORS   .
+score --> 0
+(%) 98 (74) 109 (76) History of diabetes — no.
+score --> 0
+(%) 61 (46) 69 (48) History of hypertension — no.
+score --> 0
+(%) 92 (70) 102 (71) History of hypercholesterolemia  — no.
+score --> 0
+(%) 104 (79) 120 (84) Tobacco use — no.
+score --> 0
+(%) 95 (72) 103 (72) Family history of premature CAD  — no.
+score --> 0
+(%) 84 (64) 92 (64) History of congestive heart failure  — no.
+score --> 0
+(%) 121 (92) 124 (87) The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+TRANSMYOCARDIAL REVASCULARIZATION VS. MEDICAL THERAPY IN PATIENTS WITH REFRACTORY ANGINA   Volume 341 Number 14   ·   1031   travenous antianginal medications on at least two attempts in a 48-hour period.
+score --> 0
+Data on treatment failure were available at 12 months for 273 of 275 patients (99 percent).
+score --> 0
+Imaging was performed at base line in all patients and at 3, 6, and 12 months in the first 160 patients en- rolled in the study.
+score --> 0
+Secondary End Points   Secondary end points included freedom from cardiac-related rehospitalization, survival free of cardiac events, use of cardiac medications, performance on an exercise treadmill test, and qual- ity-of-life score.
+score --> 0
+The use of cardiac sup- pressants (beta-blockers and calcium-channel blockers) was avoid- ed during the first 48 hours after surgery, but treatment with ni- trates, angiotensin-converting–enzyme inhibitors, and diuretics was resumed after the operation.
+score --> 0
+Cardioactive medications that had been administered before surgery were continued for two months after surgery and then gradually withdrawn, as tolerated, on the basis of the patient’s anginal symptoms.
+score --> 0
+An independent labora- tory (at Stanford University Medical Center, Stanford, Calif.) per- formed a masked analysis of medication use at 12 months for the first 160 patients enrolled in the study.
+score --> 0
+Data were available for 126 of the 132 eligible patients (95 percent).
+score --> 0
+Exercise treadmill testing was not part of the original study de- sign.
+score --> 0
+No treadmill tests were performed at base line.
+score --> 0
+Analysis of total exercise time included only the 81 patients who underwent Naughton testing; the 9 patients who underwent other types of treadmill testing were excluded.
+score --> 0
+Exercise treadmill tests were performed in 90 of 132 el- igible patients (68 percent) at 12 months.
+score --> 0
+Statistical Analysis   Since 32 percent of the patients assigned to receive medical therapy alone met the predefined criteria for treatment failure and were withdrawn from this study to undergo transmyocardial re- vascularization in a parallel, nonrandomized study, a modified ap- proach to the statistical analysis was required for certain end points.
+score --> 0
+For definitive end points recorded before crossover (treatment failure, survival free of cardiac events, and cardiac-related rehos- pitalization), an intention-to-treat analysis was used.
+score --> 0
+Survival at one year was deter- mined with the use of both types of analyses.
+score --> 0
+Mean changes were calculated for each variable, and Student’s t-test was used to analyze unpaired data.
+score --> 0
+The chi-square test and Student’s t-test were used to compare qualitative and continuous variables, respectively, and P values of 0.05 or lower on two-tailed testing were considered to indicate statistical significance.
+score --> 0
+RESULTS   Primary End Points   Angina improved in a significantly larger propor- tion of patients in the transmyocardial-revasculariza- tion group than in the medical-therapy group at 3, 6, and 12 months (P<0.001 for all three comparisons) (Fig.
+score --> 0
+1).
+score --> 0
+Improvement in Angina at 3, 6, and 12 Months in Pa- tients Randomly Assigned to Undergo Transmyocardial Revascu- larization (TMR), Patients Who Received Medical Therapy Alone Throughout the Study (MT), and Patients Assigned to Receive Medical Therapy Who Met the Criteria for Treatment Failure and Underwent Transmyocardial Revascularization (Crossover).
+score --> 0
+P<0.001 for the comparison between the transmyocardial- revascularization and medical-therapy groups at all three points in time.
+score --> 0
+The numbers at the bottom of the graph are numbers of patients.
+score --> 0
+0 100 3 Months 83 13 87 TMR MT Crossover 20 86 82 32 76 78 6 Months NO.
+score --> 0
+OF PATIENTS 115 98 23 98 74 33 76 50 37 12 Months 20 40 60 80 Im p ro ve m en t  in  A n g in aJ (%  o f  p at ie n ts ) The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+1032   ·   September 30, 1999   The New England Journal  of  Medicine   patients in the medical-therapy group (P<0.001).
+score --> 0
+In the intention-to-treat analysis, the rate of free- dom from treatment failure at one year was signifi- cantly higher in the transmyocardial-revasculariza- tion group than in the medical-therapy group (73 percent vs. 47 percent, P<0.001) (Fig.
+score --> 0
+2).
+score --> 0
+Patients randomly assigned to receive medical therapy alone were twice as likely to meet the a priori criteria for treatment failure at 12 months as patients randomly assigned to undergo transmyocardial revascularization.
+score --> 0
+Perioperative Morbidity and Mortality   The rate of perioperative (in-hospital or 30-day) mortality after transmyocardial revascularization was 5 percent (7 of the 132 patients died), which includ- ed 1 patient who died after randomization but be- fore undergoing transmyocardial revascularization.
+score --> 0
+Five patients (4 percent) died from cardiac causes: two from left ventricular dysfunction and three from ventricular fibrillation.
+score --> 0
+Two patients died from non- cardiac causes: one each from respiratory insufficien- cy and multisystem organ failure.
+score --> 0
+The perioperative mortality rate among the last 100 consecutively en- rolled patients was 2 percent.
+score --> 0
+Perioperative adverse events in the transmyocardial-revascularization group are shown in Table 2.
+score --> 0
+The perioperative mortality rate in the crossover group was 9 percent (4 of the 46 patients died).
+score --> 0
+The mor- tality rates at 30 days in the transmyocardial-revascu- larization, medical-therapy, and crossover groups did not differ significantly (P=0.07).
+score --> 0
+In the intention-to-treat analysis, Kaplan–Meier survival estimates at one year for the transmyocar- dial-revascularization and medical-therapy groups did not differ significantly (84 percent and 89 percent, respectively; P=0.23) (Fig.
+score --> 0
+4).
+score --> 0
+When the crossover patients were considered separately, there were also no significant differences in survival at one year (trans- myocardial-revascularization group, 84 percent; med- ical-therapy group, 88 percent; and crossover group, 91 percent; P=0.47) (Fig.
+score --> 0
+5).
+score --> 0
+Secondary End Points   In the intention-to-treat analysis, the Kaplan–Mei- er estimate of survival free of cardiac events at one year was significantly higher in the transmyocardial- revascularization group than in the medical-therapy group (54 percent vs. 31 percent, P<0.001).
+score --> 0
+The rate of freedom from cardiac-related rehospitalization was also significantly higher in the transmyocardial-   Figure 2.
+score --> 0
+Kaplan–Meier Estimates of Freedom from Treatment Failure at One Year for the 132 Patients Randomly Assigned to Undergo Transmyocardial Revascularization (TMR) and the 143 Patients Assigned to Receive Medical Therapy Alone (MT) in the Intention-to-Treat Analysis.
+score --> 0
+The difference between the groups was significant (P<0.001 by the log-rank test).
+score --> 0
+20 100 0 350 30 40 50 60 70 80 90 50 100 150 200 250 300 Day 47% 73% TMR MT Fr ee d o m  f ro m J T re at m en t  Fa ilu re  ( % )   Figure 3.
+score --> 0
+Changes from Base Line to 12 Months in Ischemia, Perfusion Defects at Rest, and Delayed Defects.
+score --> 0
+TMR denotes transmyocardial revascularization, and MT med- ical therapy.
+score --> 0
+¡10 10 IschemiaJ (n=61) P=0.90 ¡0.9 ¡0.6 1.6 2.2 1.3 0.5 P=0.84 P=0.82 DefectsJ at RestJ (n=61) DelayedJ DefectsJ (n=48) ¡5 0 5 C h an g e  fr o m  B as e  Li n eJ to  1 2  M o n th s  (% ) TMRJ MT The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+TRANSMYOCARDIAL REVASCULARIZATION VS. MEDICAL THERAPY IN PATIENTS WITH REFRACTORY ANGINA   Volume 341 Number 14   ·   1033   revascularization group (61 percent vs. 33 percent, P<0.001) (Fig.
+score --> 0
+6).
+score --> 0
+The transmyocardial-revascular- ization group and the medical-therapy group did not differ significantly with respect to freedom from Q-wave infarction (98 percent and 96 percent, re- spectively; P=0.56) or freedom from non–Q-wave infarction (88 percent and 93 percent, respectively; P=0.17).
+score --> 0
+The rate of use of calcium-channel blockers at 12 months was lower in the group of patients who un- derwent transmyocardial revascularization (44 per- cent [26 of 59 patients]) than in the group that re- ceived medical therapy alone (76 percent [32 of 42], P=0.002).
+score --> 0
+Similarly, the use of beta-blockers was reduced or discontinued in 39 percent of the trans- myocardial-revascularization group (28 of 72 pa- tients), as compared with 17 percent of the medical- therapy group (7 of 42, P=0.02).
+score --> 0
+Although the percentage of patients who decreased or discontinued their use of nitrates was greater in the transmyocardial- revascularization group than in the medical-therapy group, the difference was not significant (P=0.12).
+score --> 0
+Transmyocardial revascu- larization has been introduced to supplement medi- cal management of this difficult condition.
+score --> 0
+The peri- operative mortality rate in this group of patients was 5 percent (7 of 132 patients died); 5 of the 7 deaths occurred during the first three months in which the   T   ABLE    2.
+score --> 0
+P   ERIOPERATIVE    (I   N   -H   OSPITAL       OR     30-D   AY   ) M   ORTALITY       AND    C   OMPLICATIONS       AMONG       THE    132 P   ATIENTS    R   ANDOMLY     A   SSIGNED       TO    U   NDERGO    T   RANSMYOCARDIAL     R   EVASCULARIZATION   .
+score --> 0
+V   ARIABLE   N   O   .
+score --> 0
+Kaplan–Meier Estimates of Survival at One Year in the Intention-to-Treat Analysis.
+score --> 0
+The difference in survival between the groups was not signifi- cant.
+score --> 0
+TMR denotes transmyocardial revascularization, and MT medical therapy.
+score --> 0
+20 100 0 350 30 40 50 60 70 80 90 50 100 150 200 250 300 Day 84% 89% TMR MT S u rv iv a l  (% )   Figure 5.
+score --> 0
+Kaplan–Meier Estimates of Survival at One Year for the 132 Patients Randomly Assigned to Undergo Transmyocar- dial Revascularization (TMR), the 97 Patients Who Received Medical Treatment Alone Throughout the Study (MT), and the 46 Patients Assigned to Receive Medical Therapy Who Met the Criteria for Treatment Failure and Underwent Transmyocardial Revascularization (Crossover).
+score --> 0
+The differences in survival were not significant.
+score --> 0
+50 100 0 350 60 70 80 90 50 100 150 200 250 300 Day TMR (84%)J MT (88%)J Crossover (91%)S u rv iv al  ( % ) The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+1034   ·   September 30, 1999   The New England Journal  of  Medicine   study was conducted.
+score --> 0
+The perioperative mortality rate in the last 100 consecutively enrolled patients was 2 percent, which was the same as the rate in the group of patients who received medical therapy alone.
+score --> 0
+The rate of perioperative complications was low in view of the coexisting conditions in this patient population.
+score --> 0
+13    In a study of transmyocardial revas- cularization with a holmium laser in 85 patients who could not be weaned from intravenous antianginal medications, Dowling and associates reported an operative mortality rate of 12 percent (10 of 85 pa- tients died).
+score --> 0
+Ventricular arrhythmia was an early concern with the use of lasers that were not gated to the cardiac cycle.
+score --> 0
+The perioperative rate of ventricular arrhyth- mia in our trial was 12 percent, which is similar to the 10 percent rate in clinical trials using a gated car- bon dioxide laser.
+score --> 0
+The proportion of patients who reduced or ceased their use of cardioactive medica- tions was significantly larger in the transmyocardial- revascularization group than in the medical-therapy group.
+score --> 0
+The success of transmyocardial revascularization is thought to be due to improved regional blood flow to ischemic myocardium, but the precise mechanisms of its effects remain unclear.
+score --> 0
+Kaplan–Meier Estimates of Freedom from Cardiac- Related Rehospitalization at One Year in the Intention-to-Treat Analysis.
+score --> 0
+The difference between the groups was significant (P<0.001 by the log-rank test).
+score --> 0
+TMR denotes transmyocardial revasculariza- tion, and MT medical therapy.
+score --> 0
+20 100 0 350 30 40 50 60 70 80 90 50 100 150 200 250 300 Day MT TMR 33% 61% Fr ee d o m  f ro m J R eh o sp it al iz at io n  ( % ) The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+TRANSMYOCARDIAL REVASCULARIZATION VS. MEDICAL THERAPY IN PATIENTS WITH REFRACTORY ANGINA   Volume 341 Number 14   ·   1035   tained after transmyocardial revascularization.
+score --> 0
+Using positron-emission tomography, Frazier and associates   7    demonstrated an improvement in subendocardial blood flow in 11 pa- tients treated with transmyocardial revascularization.
+score --> 0
+Angiogenesis   22-24    and sympathetic denervation25-27 are plausible mechanisms for the clinical results achieved with transmyocardial revascularization.
+score --> 0
+The mechanism of action of transmyocardial revascularization is prob- ably multifactorial, with angiogenesis and denerva- tion occurring concurrently.
+score --> 0
+Mortality did not differ significantly between the two groups.
+score --> 0
+Supported by a grant from Eclipse Surgical Technologies, Sunnyvale, California.
+score --> 0
+Presented at the American Heart Association’s 71st Scientific Session, Dallas, November 7–10, 1998.
+score --> 0
+APPENDIX The following centers and investigators participated in the study; the number of patients enrolled at each center is shown in parentheses: Albany Hospital, Albany, N.Y. — J.M.
+score --> 0
+Luber, Jr., and J.M.
+score --> 0
+Kelley (3); Audubon Hospital, Louisville, Ky. — T. Matthew (8); Brook Army Hospital, Fort Sam Houston, Tex.
+score --> 0
+— D. Cohen (1); Bryan Memorial Hospital, Lincoln, Nebr.
+score --> 0
+— D.M.
+score --> 0
+Gangahar (15); University of Louisville, Jewish Heart and Lung Institute, Louisville, Ky. — R.D.
+score --> 0
+Dowling, A. Lansing, and A.D. Slater (31); Memorial Hospital, Springfield, Ill. — J.A.
+score --> 0
+Schneider (11); Methodist Hospital, Memphis, Tenn. — G.P.
+score --> 0
+Schoettle (25); Ochsner Hospital, New Orleans — J.L.
+score --> 0
+Ochsner (2); Sacred Heart Hospital, Spo- kane, Wash. — S.L.
+score --> 0
+Selinger, S.M.
+score --> 0
+Cattaneo, and D. Sandler (21); St. John Hospital, Detroit — A. Kafi and T. Schreiber (5); St. Joseph’s Hospital, At- lanta — D. Murphy and J.A.
+score --> 0
+Wolfe (8); St. Thomas Heart Institute, Nash- ville — M.R.
+score --> 0
+Petracek (14); St. Vincent Hospital and Indiana Heart Insti- tute, Indianapolis — K.B.
+score --> 0
+Allen, D.A.
+score --> 0
+Heimansohn, and J.J. Schier (64); Tampa General Hospital, Tampa, Fla. — W.W. Angell, F. Matar, P.P.
+score --> 0
+Mc- keown, and N.J. Sears (15); Terrebonne General Medical Center, Houma, La.
+score --> 0
+— T.L.
+score --> 0
+Fudge (32); University of Colorado Hospital, Denver — R.K. Brown (3); University of Iowa Hospital, Iowa City — W.E.
+score --> 0
+Richenbacher (12); and William Beaumont Hospital, Royal Oak, Mich. — J.S.
+score --> 0
+Basset (5).
+score --> 0
+REFERENCES 1.
+score --> 0
+Beck CS.
+score --> 0
+The development of a new blood supply to the heart by op- eration.
+score --> 0
+Ann Surg 1935;102:801-13.
+score --> 0
+2.
+score --> 0
+Vinberg A.
+score --> 0
+Clinical and experimental studies in the treatment of coro- nary artery insufficiency by internal mammary artery implant.
+score --> 0
+J Int Coll  Surg 1954;22:503-18.
+score --> 0
+3.
+score --> 0
+Wearn JT, Mettier SR, Klumpp TG, Zschiesche LJ.
+score --> 0
+The nature of the  vascular communications between the coronary arteries and the chambers  of the heart.
+score --> 0
+Am Heart J 1933;9:143-64.
+score --> 0
+4.
+score --> 0
+Sen PK, Udwadia TE, Kinare SG, Parulkar GB.
+score --> 0
+J Thorac Car- diovasc Surg 1965;50:181-9.
+score --> 0
+5.
+score --> 0
+Mirhoseini M, Muckerheide M, Cayton MM.
+score --> 0
+Transventricular revascu- larization by laser.
+score --> 0
+Lasers Surg Med 1982;2:187-98.
+score --> 0
+6.
+score --> 0
+Mirhoseini M, Cayton MM, Shelgikar S, Fisher JC.
+score --> 0
+Lasers Surg Med 1986;6:459-61.
+score --> 0
+7.
+score --> 0
+Frazier OH, Cooley DA, Kadipasaoglu KA, et al.
+score --> 0
+Myocardial revascu- larization with laser: preliminary findings.
+score --> 0
+Circulation 1995;92:Suppl II: II-58–II-65.
+score --> 0
+8.
+score --> 0
+Horvath KA, Mannting F, Cummings N, Shernan SK, Cohn LH.
+score --> 0
+Transmyocardial laser revascularization: operative techniques and clinical  results at two years.
+score --> 0
+J Thorac Cardiovasc Surg 1996;111:1047-53.
+score --> 0
+9.
+score --> 0
+Horvath KA, Cohn LH, Cooley DA, et al.
+score --> 0
+Transmyocardial laser revas- cularization: results of a multicenter trial with transmyocardial laser revas- cularization used as sole therapy for end-stage coronary artery disease.
+score --> 0
+J Thorac Cardiovasc Surg 1997;113:645-54.
+score --> 0
+10.
+score --> 0
+Cooley DA, Frazier OH, Kadipasaoglu KA, Pehlivanoglu S, Shannon  RL, Angelini P. Transmyocardial laser revascularization: anatomic evidence  of long-term channel patency.
+score --> 0
+Tex Heart Inst J 1994;21:220-4.
+score --> 0
+11.
+score --> 0
+Cooley DA, Frazier OH, Kadipasaoglu KA, et al.
+score --> 0
+Transmyocardial la- ser revascularization: clinical experience with twelve-month follow-up.
+score --> 0
+J Thorac Cardiovasc Surg 1996;111:791-9.
+score --> 0
+12.
+score --> 0
+Vincent JG, Bardos P, Kruse J, Maass D. End stage coronary artery  disease treated with the transmyocardial CO2 laser revascularization: a  chance for the ‘inoperable’ patient.
+score --> 0
+Eur J Cardiothorac Surg 1997;11:888-94.
+score --> 0
+13.
+score --> 0
+March RJ, Boyce S, Cooley DA, et al.
+score --> 0
+Improved event survival follow- ing transmyocardial laser revascularization versus medical management in  patient with unreconstructed coronary artery disease.
+score --> 0
+In: Program and ab- stracts of the 77th Annual Meeting of the American Association of Tho- racic Surgery, Washington, D.C., May 4–7, 1997:94. abstract.
+score --> 0
+14.
+score --> 0
+Allen KB, Dowling RD, Heimansohn DA, Reitsma E, Didelot L,  Shaar CJ.
+score --> 0
+Transmyocardial revascularization utilizing a holmium:YAG laser.
+score --> 0
+Eur J Cardiothorac Surg 1998;14:Suppl 1:S100-S104.
+score --> 0
+15.
+score --> 0
+Dowling RD, Petracek MR, Selinger SL, Allen KB.
+score --> 0
+Circulation  1998;98:Suppl II:II-73–II-76.
+score --> 0
+16.
+score --> 0
+Allen KB, Fudge FL, Schoettle GP Jr, Selinger SL, Shaar CJ, Dowling  RD.
+score --> 0
+Circulation 1998;98:Suppl I:I-476.
+score --> 0
+ab- stract.
+score --> 0
+17.
+score --> 0
+Hlatky MA, Boineau RE, Higginbotham MB, et al.
+score --> 0
+Am J Cardiol 1989;64:651-4.
+score --> 0
+18.
+score --> 0
+Circulatory System Device Panel Meeting.
+score --> 0
+PLC premarket approval  presentation.
+score --> 0
+Washington, D.C.: Department of Health and Human Serv- ices, Food and Drug Administration, April 24, 1998:30-40.
+score --> 0
+19.
+score --> 0
+Schofield PM, Sharples LD, Caine N, et al.
+score --> 0
+Lancet 1999;353:519-24.
+score --> 0
+20.
+score --> 0
+Horvath KA, Cohn LH, Cooley DA, et al.
+score --> 0
+Circulation 1998;Suppl I:98:I-217.
+score --> 0
+abstract.
+score --> 0
+21.
+score --> 0
+Circulatory System Device Panel Meeting.
+score --> 0
+PLC premarket approval  presentation.
+score --> 0
+Washington, D.C.: Department of Health and Human Serv- ices, Food and Drug Administration, July 28, 1997:15-30.
+score --> 0
+The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.
+score --> 0
+1036 · September 30, 1999 The New England Journal  of  Medicine 22.
+score --> 0
+Kohmoto T, Fisher PE, DeRosa C, Smith CR, Burkhoff D. Evidence  of angiogenesis in regions treated with transmyocardial laser revasculariza- tion.
+score --> 0
+Circulation 1996;94:Suppl I:I-294.
+score --> 0
+abstract.
+score --> 0
+23.
+score --> 0
+Burkhoff D, Fisher PE, Apfelbaum M, Kohmoto T, DeRosa CM,  Smith CR.
+score --> 0
+Histologic appearance of transmyocardial laser channels after  41/2 weeks.
+score --> 0
+Ann Thorac Surg 1996;61:1532-5.
+score --> 0
+24.
+score --> 0
+Spanier T, Smith CR, Burkoff D. Angiogenesis: a possible mechanism  underlying the clinical benefits of transmyocardial laser revascularization.
+score --> 0
+J Clin Laser Med Surg 1997;15:269-73.
+score --> 0
+25.
+score --> 0
+Kwong KF, Kanellopoulos GK, Schuessler RB, Saffitz JE, Sundt TM  III.
+score --> 0
+Endocardial laser treatment incompletely denervates canine myocardi- um.
+score --> 0
+Circulation 1997;96:Suppl I:I-565.
+score --> 0
+abstract.
+score --> 0
+26.
+score --> 0
+Kwong KF, Kanellopoulos GK, Nickols JC, et al.
+score --> 0
+Transmyocardial la- ser treatment denervates canine myocardium.
+score --> 0
+J Thorac Cardiovasc Surg  1997;114:883-90.
+score --> 0
+27.
+score --> 0
+Al-Sheikh T, Allen KB, Straka SP, et al.
+score --> 0
+Cardiac sympathetic denerva- tion after transmyocardial laser revascularization.
+score --> 0
+Circulation 1999;100: 135-40.
+score --> 0
+The New England Journal of Medicine  Downloaded from nejm.org at NORTHWESTERN UNIVERSITY on October 29, 2015.
+score --> 0
+For personal use only.
+score --> 0
+No other uses without permission.
+score --> 0
+Copyright © 1999 Massachusetts Medical Society.
+score --> 0
+All rights reserved.  
+score --> 0

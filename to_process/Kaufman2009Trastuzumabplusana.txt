@@ -1,0 +1,1201 @@
+Trastuzumab Plus Anastrozole Versus Anastrozole Alone for
+the Treatment of Postmenopausal Women With Human
+Epidermal Growth Factor Receptor 2–Positive, Hormone
+Receptor–Positive Metastatic Breast Cancer: Results From
+the Randomized Phase III TAnDEM Study
+Bella Kaufman, John R. Mackey, Michael R. Clemens, Poonamalle P. Bapsy, Ashok Vaid, Andrew Wardley,
+Sergei Tjulandin, Michaela Jahn, Michaela Lehle, Andrea Feyereislova, Ce´dric Re´vil, and Alison Jones
+See accompanying editorial on page 5492 and article on page 5538
+From the Chaim Sheba Medical Center,
+Tel Hashomer, Israel; Cross Cancer
+Institute, Edmonton, Alberta, Canada;
+Klinikum Mutterhaus der Borroma¨erin-
+nen, Trier, Germany; Kidwai Memorial
+Institute of Oncology, Bangalore; Rajiv
+Gandhi Cancer Institute, New Delhi,
+India; Christie Hospital National Health
+Service Foundation Trust, Manchester;
+Royal Free Hospital, London, United
+Kingdom; Russian Cancer Research
+Center, Moscow, Russia; and
+F. Hoffmann-La Roche, Basel, Switzerland.
+Submitted October 21, 2008; accepted
+May 13, 2009; published online ahead
+of print at www.jco.org on September
+28, 2009.
+Supported by F. Hoffmann-La Roche
+Ltd, Basel, Switzerland.
+Presented in part at the 31st Congress
+of the European Society for Medical
+Oncology, September 29-October 3,
+2006, Istanbul, Turkey; 29th Annual San
+Antonio Breast Cancer Symposium,
+December 14-17, 2006, San Antonio,
+TX; and 30th Annual San Antonio
+Breast Cancer Symposium, December
+13-16, 2007, San Antonio, TX.
+Authors’ disclosures of potential con-
+flicts of interest and author contribu-
+tions are found at the end of this
+article.
+Clinical Trials repository link available on
+JCO.org.
+Corresponding author: Bella Kaufman,
+MD, Cancer Research Center, Chaim
+Sheba Medical Center, Hashomer,
+Israel; e-mail: bella.kaufman@sheba
+.health.gov.il.
+The Acknowledgment and Appendix
+are included in the full-text version
+of this article; they are available
+online at www.jco.org. They are
+not included in the PDF version
+(via Adobe® Reader®).
+© 2009 by American Society of Clinical
+Oncology
+0732-183X/09/2733-5529/$20.00
+DOI: 10.1200/JCO.2008.20.6847
+A B S T R A C T
+Purpose
+TAnDEM is the first randomized phase III study to combine a hormonal agent and trastuzumab
+without chemotherapy as treatment for human epidermal growth factor receptor 2 (HER2)/
+hormone receptor–copositive metastatic breast cancer (MBC).
+Patients and Methods
+Postmenopausal women with HER2/hormone receptor–copositive MBC were randomly assigned
+to anastrozole (1 mg/d orally) with or without trastuzumab (4 mg/kg intravenous infusion on day 1,
+then 2 mg/kg every week) until progression. The primary end point was progression-free survival
+(PFS) in the intent-to-treat population.
+Results
+Overall, 103 patients received trastuzumab plus anastrozole; 104 received anastrozole alone.
+Patients in the trastuzumab plus anastrozole arm experienced significant improvements in PFS
+compared with patients receiving anastrozole alone (hazard ratio  0.63; 95% CI, 0.47 to 0.84;
+median PFS, 4.8 v 2.4 months; log-rank P  .0016). In patients with centrally confirmed hormone
+receptor positivity (n  150), median PFS was 5.6 and 3.8 months in the trastuzumab plus
+anastrozole and anastrozole alone arms, respectively (log-rank P  .006). Overall survival in the
+overall and centrally confirmed hormone receptor–positive populations showed no statistically
+significant treatment difference; however, 70% of patients in the anastrozole alone arm crossed
+over to receive trastuzumab after progression on anastrozole alone. Incidence of grade 3 and 4
+adverse events was 23% and 5%, respectively, in the trastuzumab plus anastrozole arm, and 15%
+and 1%, respectively, in the anastrozole alone arm; one patient in the combination arm
+experienced New York Heart Association class II congestive heart failure.
+Conclusion
+Trastuzumab plus anastrozole improves outcomes for patients with HER2/hormone receptor–
+copositive MBC compared with anastrozole alone, although adverse events and serious adverse
+events were more frequent with the combination.
+J Clin Oncol 27:5529-5537. © 2009 by American Society of Clinical Oncology
+INTRODUCTION
+Approximately three quarters of breast cancer
+tumors are estrogen receptor (ER) and/or progester-
+one receptor (PgR) positive. Hormone receptor
+status is the validated predictive marker for select-
+ing systemic hormonal therapy for patients with
+both early breast cancer and metastatic breast
+cancer (MBC).1-4
+Human epidermal growth factor receptor 2
+(HER2) amplification or overexpression of the
+HER2 protein occurs in approximately one fifth of
+newly diagnosed breast cancers and is associated
+with shortened relapse-free survival and overall
+survival (OS).5,6 For patients with HER2-positive
+tumors, trastuzumab (Herceptin; F. Hoffmann-La
+Roche, Basel, Switzerland), a monoclonal antibody
+directed against HER2, significantly improves
+JOURNAL OF CLINICAL ONCOLOGY O R I G I N A L R E P O R T
+VOLUME 27  NUMBER 33  NOVEMBER 20 2009
+© 2009 by American Society of Clinical Oncology 5529
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+survival in the settings of early breast cancer and MBC.7-
+11Although there are quantitative inverse associations between
+HER2 and both ER and PgR,12 approximately half of HER2-positive
+primary breast cancers and MBCs are also hormone receptor
+positive,13-16 and approximately one tenth of hormone receptor–
+positive tumors are also HER2 positive.17,18 Trastuzumab is effec-
+tive in patients with HER2-positive disease irrespective of hormone
+receptor status.9,10,13-15 However, women with HER2/hormone
+receptor–copositive disease may derive less benefit from hormonal
+therapy than women with HER2-negative, hormone receptor–
+positive disease.17,19-22
+Preclinical evidence suggests that cross talk between HER2 and
+ER signaling pathways in breast cancer contributes to resistance to
+hormonal therapy.20,23-26 Also, trastuzumab concurrent with tamox-
+ifen or fulvestrant restores tumor sensitivity to these hormonal agents
+and may inhibit tumor growth.27-30 Simultaneously inhibiting both
+HER2 and ER pathways should, therefore, be more effective than ER
+inhibition alone. In a phase II trial, trastuzumab combined with letro-
+zole was well tolerated and effective in postmenopausal women with
+HER2/hormone receptor–copositive MBC.31 The TAnDEM (Trastu-
+zumab and Anastrozole Directed Against ER-Positive HER2-Positive
+Mammary Carcinoma) study evaluated hormonal therapy with the
+aromatase inhibitor anastrozole (Arimidex; AstraZeneca, London,
+United Kingdom) in combination with trastuzumab, without chem-
+otherapy, in postmenopausal women with HER2/hormone receptor–
+copositive MBC.32
+PATIENTS AND METHODS
+Study Design
+TAnDEM is a randomized, open-label, multicenter, international, phase
+III study. Patient screening began in 2001 and recruitment was completed in
+2004. Random assignment was conducted using a minimization procedure,33
+with stratification according to presence of liver metastases; measurable versus
+evaluable disease; time to relapse after adjuvant tamoxifen, if administered;
+and bisphosphonate therapy at enrollment.
+The study was conducted in accordance with the Guideline for Good
+Clinical Practice International Conference on Harmonization Tripartite
+Guideline (January 1997) based on the Declaration of Helsinki. All patients
+provided written informed consent. The study protocol was approved by
+independent ethics committees.
+The trial was conducted by F. Hoffmann-La Roche. The sponsor
+controlled the database, performed all analyses, and interpreted the results
+in consultation with the principal investigator (A.J.) and other authors of
+this article.
+Eligibility Criteria
+Postmenopausal women with HER2-positive (immunohistochemistry
+[IHC] 3 by DAKO HercepTest [DAKO, Carpinteria, CA] or another US
+Food and Drug Administration–approved IHC test, and/or fluorescence in
+situ hybridization positive with two-fold amplification; confirmed by cen-
+tral testing) and hormone receptor–positive (ER positive and/or PgR positive;
+determined locally as defined by institutional criteria) MBC were eligible.
+Previous treatment with tamoxifen as adjuvant or hormonal therapy for MBC
+or anastrozole if begun up to 4 weeks before random assignment was permit-
+ted. Prior chemotherapy for MBC or adjuvant chemotherapy within 6 months
+was not permitted.
+Other requirements included a baseline left ventricular ejection fraction
+(LVEF) greater than 50%; adequate baseline hepatic, renal, and bone marrow
+function; an Eastern Cooperative Oncology Group performance status of 0 to
+1; and measurable or evaluable disease. Exclusion criteria were clinical or
+radiologic evidence of CNS metastases; history of another malignancy, con-
+gestive heart failure (CHF), or uncontrolled cardiac disease (angina, arrhyth-
+mias, hypertension); uncontrolled serious intercurrent illness; and severe
+dyspnea at rest. Patients who had received an investigational drug within 30
+days of starting study medication or previous anti-HER2 therapy were ineligi-
+ble. Patients with previous radiotherapy to indicator lesions were excluded
+from the response evaluation.
+Study Treatment
+Randomly assigned patients received anastrozole 1 mg/d orally (control)
+or trastuzumab (4 mg/kg by intravenous infusion on day 1, followed by
+2 mg/kg weekly) plus anastrozole (1 mg/d orally); no patients received chem-
+otherapy. Treatment was planned to continue until progressive disease
+(PD), at which point patients in the anastrozole alone arm could switch to
+a trastuzumab-containing regimen.
+Assessments
+The primary efficacy end point was progression-free survival (PFS),
+which was defined as the time between random assignment and the date of PD
+(clinical or radiographic) or death. Secondary end points included clinical
+benefit rate (CBR; complete response, partial response, or stable disease for
+ 6 months), overall response rate (ORR; complete response or partial
+response), time to progression (TTP; time between random assignment and
+PD), duration of response, time to response, OS, and 2-year survival rates.
+Tumor response was assessed at baseline, every 2 months up to 24
+months, and every 4 months thereafter, or until PD. Lesions used in defining
+response were measured at study entry and at each assessment. Response was
+assessed according to WHO Handbook for Reporting Results of Cancer Treat-
+ment criteria.34
+A reconciled data set, which integrated the tumor response/date of pro-
+gression as determined by the investigator and a blinded Response Evaluation
+Committee, was used for the primary analyses. An independent oncologist
+reconciled cases where investigator and committee assessments differed.
+Intent-to-treat (ITT) analyses included patients with hormone receptor–
+positive tumors as determined by local testing. A planned analysis for PFS
+considered patients with centrally confirmed hormone receptor–positive
+tumors; the hazard ratio was calculated in a post hoc unplanned analysis.
+Unplanned analyses for TTP and OS were also subsequently performed for
+this subpopulation.
+Adverse events (AEs) and serious AEs (SAEs) were graded according to
+the National Cancer Institute Common Toxicity Criteria version 2.0. CHF was
+classified according to New York Heart Association (NYHA) criteria. Labora-
+tory assessments, vital signs, and a general physical examination were con-
+ducted at each visit. Cardiac LVEF assessments were performed after 2 and 4
+months and then every 4 months up to 24 months or PD. After 24 months,
+efficacy and safety assessments were performed every 4 months until PD, with
+a safety follow-up 1 month after the last dose of study drug.
+Statistical Analyses
+Final statistical analyses were performed after 186 reconciled events had
+occurred in randomly assigned patients who received study medication at least
+once (ITT population). Kaplan-Meier curves were calculated for time-to-
+event end points, with differences between arms tested at the overall 5%
+significance level by log-rank test. Overall type I error was controlled through
+interim and main analyses using the Lan and DeMets  spending function,35
+which resulted in a two-sided significance level of P  .0493 for the main
+analysis of PFS.
+Because there were no previous efficacy data for anastrozole alone in
+HER2-positive tumors, an assumed median PFS of 7 months was derived from
+an observed TTP in patients not preselected for HER2-positive tumor status,36
+with adjustments included for expected poorer prognosis in patients with
+HER2-positive disease. On the basis of this assumption and to detect a median
+4-month improvement in PFS with addition of trastuzumab (57% prolonga-
+tion), the study required 101 patients per arm to achieve 80% power with an
+overall two-sided significance level of 5%.
+Kaufman et al
+5530 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+RESULTS
+Patient Demographics and Disposition
+A total of 207 randomly assigned patients received treatment
+(anastrozole alone, n 104; trastuzumab plus anastrozole, n 103)
+and were included in the final ITT analyses (Fig 1). Baseline charac-
+teristics were balanced between the two arms (Table 1). Hormone
+receptor positivity was confirmed in the central laboratory for 150
+patients (trastuzumab plus anastrozole, n77; anastrozole alone, n
+73; Table 1). ER/PgR negativity was found centrally in 44 patients
+(trastuzumab plus anastrozole, n  21; anastrozole alone, n  23),
+and central confirmation was not possible in 13 patients (trastuzumab
+plus anastrozole, n 5; anastrozole alone, n 8).
+In the trastuzumab plus anastrozole arm, patients had almost
+twice the duration of exposure to anastrozole compared with patients
+receiving anastrozole alone (median, 189 days [range, 12 to 818 days]
+v 98 days [range, 8 to 743 days], respectively). Patients in the combi-
+nation arm received a median of 25 trastuzumab infusions (range, one
+to 170 infusions).
+There were 187 withdrawals from trial treatment, with PD being
+the most frequent reason in both treatment arms (Appendix Table A1,
+online only). In the anastrozole alone arm, 73 (70%) of 104 patients
+who experienced PD subsequently received a trastuzumab-containing
+regimen (Fig 1).
+Efficacy
+PFS. Patients in the trastuzumab plus anastrozole arm experi-
+enced significantly improved PFS, with a median PFS of 4.8 months
+(95% CI, 3.7 to 7.0 months) versus 2.4 months (95% CI, 2.0 to 4.6
+months) in the anastrozole alone arm (hazard ratio 0.63; 95% CI,
+0.47 to 0.84; log-rank P .0016; Fig 2A) for independently reconciled
+data. The median PFS as assessed by investigators was 5.8 months
+(95% CI, 4.6 to 8.3 months) in the trastuzumab plus anastrozole
+arm versus 2.9 months (95% CI, 2.1 to 4.5 months) in the anastro-
+zole alone arm. A visual estimate of the 2-year PFS rate from the
+PFS Kaplan-Meier curves was approximately 15% with trastuzumab
+plus anastrozole versus 5% with anastrozole alone. In a planned
+subgroup analysis in patients with centrally confirmed hormone
+1 patient did not
+receive study drug
+Treatment
+Received at least 1 dose of anastrozole + trastuzumab
+(n = 103)*†
+Treatment
+Received at least 1 dose of anastrozole
+(n = 104)*†
+Random Assignment
+(N = 208)
+Patients who did not complete
+24 months of therapy
+(n = 100)
+Safety
+   Adverse event (n = 0)
+   Death (n = 3)
+Non-safety
+   Insufficient response (n = 91)
+   Violation of entry criteria (n = 1)
+   Other protocol violation (n = 0)
+   Refused treatment (n = 4)
+   Failure to return (n = 1)
+   Other (n = 0)
+Patients who did not complete
+24 months of therapy
+(n = 87)
+Safety
+   Adverse event (n = 6)
+   Death (n = 0)
+Non-safety
+   Insufficient response (n = 75)
+   Violation of entry criteria (n = 0)
+   Other protocol violation (n = 1)
+   Refused treatment (n = 3)
+   Failure to return (n = 1)
+   Other (n = 1)
+Completed 24 months of therapy
+(n = 4)
+Received a trastuzumab-containing
+regimen after study withdrawal
+(n = 15)‡
+Completed 24 months of therapy
+(n = 16)
+Ongoing in study: anastrazole alone (n = 7),
+anastrazole + trastuzumab (n = 11)
+Patients in main and extension phases
+switched to trastuzumab-containing 
+treatment regimens‡
+(n = 58)
+Fig 1. TAnDEM (Trastuzumab and Anastrozole Directed Against ER-Positive HER2-Positive Mammary Carcinoma) patient enrollment and study flow. (*) Final statistical
+analyses were performed on the total of 207 randomly assigned patients who received study treatment. (†) TAnDEM was originally designed to end after 187 reconciled
+events had occurred. However, as a result of a marked slowdown in event rate over the preceding 12 months with no new event in the preceding 6 months, the study
+was closed, and the final analysis was performed after 186 events. With a reduced dropout rate, the power of the study remained at 80%, and 183 events were needed
+for a mature analysis. (‡) A total of 73 patients in the anastrozole alone arm who experienced progressive disease subsequently received a trastuzumab-containing regimen.
+Trastuzumab-Anastrozole for HER2/Hormone Receptor–Positive MBC
+www.jco.org © 2009 by American Society of Clinical Oncology 5531
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+receptor–positive tumors, median PFS was longer in both arms than
+in the overall population and remained significantly improved with
+trastuzumab plus anastrozole compared with anastrozole alone (me-
+dian PFS, 5.6 v 3.8 months; P .006; Fig 2B).
+Secondary end points. TTP was significantly improved with
+trastuzumab plus anastrozole compared with anastrozole alone
+(4.8 months [95% CI, 3.7 to 7.7 months] v 2.4 months [95% CI, 2.0
+to 4.6 months], respectively; log-rank P  .0007; Fig 2C). In the
+population with centrally confirmed hormone receptor–positive
+tumors, median TTP was 5.6 months with trastuzumab plus anas-
+trozole and 3.9 months with anastrozole alone (P .007; Fig 2D).
+Median OS was 28.5 months in the trastuzumab plus anastro-
+zole arm and 23.9 months in the anastrozole alone arm; this differ-
+ence was not statistically significant (log-rank P  .325; Fig 2E).
+The Kaplan-Meier estimate of the 2-year survival rate was 57% in
+the trastuzumab plus anastrozole arm and 50% in the anastrozole
+alone arm. For patients with centrally confirmed hormone receptor–
+positive tumors, median OS was 34.1 and 28.6 months in trastu-
+zumab plus anastrozole and anastrozole alone arms, respectively
+(P .451; Fig 2F).
+To investigate further the impact on OS of patients in the
+control arm switching to a trastuzumab-containing regimen, un-
+planned exploratory analyses were performed comparing patients
+receiving trastuzumab plus anastrozole from day 1 after random
+assignment with the subgroup of patients who initially received
+anastrozole and did not cross over to a trastuzumab-containing
+regimen after progression. These data are given in the Appendix
+(online only).
+In the ITT population, CBR was significantly higher with
+trastuzumab plus anastrozole (42.7%; 95% CI, 33.0% to 52.9%)
+compared with anastrozole alone (27.9%; 95% CI, 19.5% to 37.5%;
+P .026). Of 147 patients evaluable for response, 15 (20.3%) of 74
+patients in the trastuzumab plus anastrozole arm versus five
+(6.8%) of 73 patients in the anastrozole alone arm had a partial
+Table 1. Baseline Patient Demographics and Clinical Characteristics
+Characteristic
+Trastuzumab  Anastrozole
+(n  103) Anastrozole Alone (n  104)
+No. of Patients % No. of Patients %
+Age, years
+Median 56 54
+Range 31-85 27-77
+Hormone receptor status
+Primary and/or metastatic lesion ER and/or PgR positive (local) 103 100.0 104 100.0
+Primary and/or metastatic lesion ER and/or PgR positive (central) 77 74.8 73 70.2
+Time from diagnosis of primary disease, months
+Median 25.6 27.3
+Range 0.6-419 0.6-154.3
+Time from diagnosis of metastatic disease, months
+Median 1.6† 1.2
+Range 0.3-67.1 0.3-19.3
+No. of metastatic sites per patient
+Median 2 2
+Range 1-5 1-5
+No. of lesions per patient
+Median 4 4
+Range 1-14 1-13
+Site of metastases
+Lung 43 41.7 48 46.2
+Liver 33 32.0 29 27.9
+Bone 64 62.1 53 51.0
+Soft tissue 46 44.7 44 42.3
+Other 72 69.9 65 62.5
+Previous therapy
+Hormonal 62 60.2 69 66.3
+Tamoxifen for metastatic disease 5 4.9 3 2.9
+Chemotherapy 55 53.4 62 59.6
+Anthracycline 46 44.7 53 51.0
+Bisphosphonate 28 27.2 27 26.0
+LVEF, %
+Median 62 63
+Range 50-82 51-89
+Abbreviations: ER, estrogen receptor; PgR, progesterone receptor; LVEF, left ventricular ejection fraction.
+Hormone receptor status determined locally as defined by institutional criteria.
+†n  101; two patients were not considered as having metastatic disease but, instead, were considered as having local recurrence.
+Kaufman et al
+5532 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+response (P .018); no patient had a complete response (Table 2).
+Twenty-eight patients in each arm achieved stable disease. There
+was no significant difference in median duration of response (9.5
+months [range, 3.8 to 50.6 months] with trastuzumab plus anas-
+trozole v 10.0 months [range, 5.3 to 33.1 months] with anastrozole
+alone) or median time to response (2.0 months [range, 1.4 to 12.1
+months] with trastuzumab plus anastrozole v 2.0 months [range,
+1.7 to 4.1 months] with anastrozole alone).
+Safety
+AEs. No new or unexpected AEs occurred in either treatment
+arm. A total of 68 (65%) of 104 patients in the anastrozole alone arm
+and 90 (87%) of 103 patients in the trastuzumab plus anastrozole arm
+experienced one or more AE during the study. With the exception of
+fatal AEs, which are reported both up to and after cross over, AE values
+for the anastrozole alone arm are only up to the point of cross over to
+trastuzumab. The most frequently reported AEs were fatigue (21.3%),
+C
+0
+Ti
+m
+e 
+to
+ P
+ro
+gr
+es
+si
+on
+(p
+ro
+ba
+bi
+lit
+y)
+Time (months)
+3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 60
+1.0
+0.8
+0.6
+0.4
+0.2
+D
+0 605 10 15 20 25 30 35 40 45 50 55
+Ti
+m
+e 
+to
+ P
+ro
+gr
+es
+si
+on
+(e
+st
+im
+at
+ed
+ p
+ro
+ba
+bi
+lit
+y)
+Time (months)
+1.0
+0.8
+0.6
+0.4
+0.2
+Trastuzumab
+ + anastrozole
+No. at risk
+Anastrozole
+ alone
+Trastuzumab
+ + anastrozole
+No. at risk
+Anastrozole
+ alone
+E
+0
+Ov
+er
+al
+l S
+ur
+vi
+va
+l
+(p
+ro
+ba
+bi
+lit
+y)
+Time (months)
+3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 60
+1.0
+0.8
+0.6
+0.4
+0.2
+F
+0 605 10 15 20 25 30 35 40 45 50 55
+Ov
+er
+al
+l S
+ur
+vi
+va
+l
+(e
+st
+im
+at
+ed
+ p
+ro
+ba
+bi
+lit
+y)
+Time (months)
+1.0
+0.8
+0.6
+0.4
+0.2
+Trastuzumab
+ + anastrozole
+No. at risk
+Anastrozole
+ alone
+Trastuzumab
+ + anastrozole
+No. at risk
+Anastrozole
+ alone
+A
+0
+Pr
+og
+re
+ss
+io
+n-
+Fr
+ee
+Su
+rv
+iv
+al
+ (p
+ro
+ba
+bi
+lit
+y)
+Time (months)
+3 6 9 12 15 18 21 24 27 30 33 36 39 42 45 48 51 54 57 60
+1.0
+0.8
+0.6
+0.4
+0.2
+B
+0 605 10 15 20 25 30 35 40 45 50 55P
+ro
+gr
+es
+si
+on
+-F
+re
+e 
+Su
+rv
+iv
+al
+(e
+st
+im
+at
+ed
+ p
+ro
+ba
+bi
+lit
+y)
+Time (months)
+1.0
+0.8
+0.6
+0.4
+0.2
+77 70 64 60 49 41 31 22 12 4 3 0 0
+5.5 months
+73 67 59 49 42 30 26 17 4 2 1 1 0
+4.6 months
+104 96 87 73 58 42 34 22 5 2 1 1 0
+103 91 83 76 63 49 36 24 12 4 3 0 0
+Events
+58
+64
+Median OS
+28.5 months
+23.9 months
+95% CI
+22.8 to 42.4
+18.2 to 37.4
+.325
+77 38 26 16 13 12 10 8 3 1 1 0 0
+1.7 months
+73 26 16 5 3 3 2 1 0 0 0 0 0
+2.4 months
+104 33 17 5 3 3 2 1 0 0 0 0 0
+103 47 31 17 14 13 11 9 3 1 1 0 0
+Events
+84
+92
+Median TTP
+4.8 months
+2.4 months
+95% CI
+3.7 to 7.7
+2.0 to 4.6
+.0007
+77 38 26 16 13 12 10 8 4 1 1 0 0Trastuzumab
+ + anastrozole
+No. at risk
+73 28 19 7 4 3 2 1 0 0 0 0 0Anastrozole
+ alone
+1.8 months
+Trastuzumab
+ + anastrozole
+No. at risk
+Events
+87
+99
+Median PFS
+4.8 months
+2.4 months
+95% CI
+3.7 to 7.0
+2.0 to 4.6
+Hazard
+ratio
+0.63 .0016
+2.4 months
+104 36 22 9 5 4 2 1 0 0 0 0 0
+103 48 31 17 14 13 11 9 4 1 1 0 0
+Anastrozole
+ alone
+P
+P
+P
+Events
+63
+68
+Median PFS
+5.6 months
+3.8 months
+95% CI
+3.8 to 8.3
+2.0 to 6.3
+Hazard
+ratio
+0.62 .006
+P
+Events
+62
+63
+Median TTP
+5.6 months
+3.9 months
+95% CI
+3.8 to 8.3
+2.1 to 6.3
+Hazard
+ratio
+0.62 .007
+P
+Events
+42
+41
+Median OS
+34.1 months
+28.6 months
+95% CI
+23.9 to 52.0
+17.4 to 40.0
+Hazard
+ratio
+0.85 .451
+P
+Fig 2. Kaplan-Meier curves showing estimated (A) progression-free survival (PFS) for the intent-to-treat (ITT) population, (B) PFS for patients with centrally confirmed
+hormone receptor–positive tumors, (C) time to progression (TTP) for ITT population, (D) TTP for patients with centrally confirmed hormone receptor–positive tumors,
+(E) overall survival (OS) for ITT population, and (F) OS for patients with centrally confirmed hormone receptor–positive tumors.
+Trastuzumab-Anastrozole for HER2/Hormone Receptor–Positive MBC
+www.jco.org © 2009 by American Society of Clinical Oncology 5533
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+vomiting (21.3%), and diarrhea (20.4%) in the trastuzumab plus
+anastrozole arm and fatigue (9.6%), arthralgia (9.6%), and dyspnea
+(8.7%) in the anastrozole alone arm (Table 3).
+Most AEs were mild to moderate in severity. There was a higher
+incidence of grade 3 and grade 4 AEs in the trastuzumab plus anastro-
+zole arm (23% and 5%, respectively) than in the anastrozole alone arm
+(15% and 1%, respectively; Table 3). However, no specific grade 3 or 4
+AEs occurred in more than three patients in the trastuzumab plus
+anastrozole arm. Grade 4 AEs in this arm were hypercalcemia (two
+events), dyspnea, lower respiratory tract infection, and myocardial
+ischemia. Forty-seven SAEs were experienced by 24 patients in the
+trastuzumab plus anastrozole arm, and nine SAEs were experienced
+by six patients in the anastrozole alone arm. More patients in the
+trastuzumab plus anastrozole arm discontinued treatment as a result
+of AEs (nine patients v one patient in the anastrozole alone arm).
+There were no treatment-related deaths in the trastuzumab plus anas-
+trozole arm; however, one patient administered anastrozole alone
+died as a result of a serious respiratory tract infection, and a second
+patient in this arm died of probable cardiac failure, not considered by
+the investigator as treatment related, after cross over to a trastuzumab-
+containing regimen.
+Cardiac safety. Cardiac events were more frequent with trastu-
+zumab plus anastrozole (14 events) than with anastrozole alone (two
+events), but grade 3 or 4 cardiac events were balanced between the
+treatment arms (Table 4). In the trastuzumab plus anastrozole arm,
+one patient had symptomatic NYHA class II CHF, and another patient
+had confirmed asymptomatic decreases in LVEF of at least 15% to an
+absolute value of less than 50%. Two additional patients experienced
+such LVEF decreases after cross over from anastrozole alone to a
+trastuzumab-containing regimen. Five patients in the combination
+arm discontinued treatment as a result of the following cardiac events:
+myocardial infarction (n  1); NYHA class II CHF (n  1); and
+asymptomatic declines in LVEF (n 3).
+DISCUSSION
+TAnDEM is the first randomized phase III trial to investigate the
+combination of a hormonal agent and trastuzumab, without chemo-
+therapy, as treatment for patients with HER2/hormone receptor–
+copositive MBC. The trial demonstrates that the addition of
+trastuzumab to anastrozole significantly improves PFS, TTP, CBR,
+and ORR compared with anastrozole alone. Although grade 3 and 4
+AEs were higher with trastuzumab plus anastrozole than with anastro-
+zole alone, they were reversible, and none was life threatening.
+Table 2. Summary of Response Data From the 147 Patients Evaluated for
+Response in the Reconciled Population
+Response
+Best Overall Response
+Trastuzumab 
+Anastrozole (n  74)
+Anastrozole Alone
+(n  73)
+No. of Patients % No. of Patients %
+Complete response 0 0 0 0
+Partial response 15 20.3† 5 6.8
+Stable disease 28 37.8 28 38.4
+Progressive disease 30 40.5 36 49.3
+Not evaluable 1 1.4 4 5.5
+NOTE. The analysis population for response required patients to have at least
+one bidimensionally measurable and evaluable lesion, and this excluded bone
+lesions, pleural effusions, and lesions assessed by ultrasound.
+Three complete responses (anastrozole alone arm, n  2; trastuzumab plus
+anastrozole arm, n  1) were determined by investigators but not confirmed
+in the reconciliation process.
+†P  .018 v anastrozole alone.
+Table 3. Summary of Frequency and Incidence of the Most Common Adverse Events
+Adverse
+Event
+Common Adverse Events, All Grades Grade 3 Adverse Events Grade 4 Adverse Events
+Trastuzumab 
+Anastrozole
+(n  103)
+Anastrozole
+Alone
+(n  104)
+Trastuzumab 
+Anastrozole
+(n  103)
+Anastrozole
+Alone
+(n  104)
+Trastuzumab 
+Anastrozole
+(n  103)
+Anastrozole
+Alone
+(n  104)
+No. % No. % No. % No. % No. % No. %
+Total 90 87.4 68 65.4 24 23.3 16 15.4 5 4.9 1 1.0
+Fatigue 22 21.3 10 9.6 1 1.0 0 0 0 0 0 0
+Diarrhea 21 20.4 8 7.7 1 1.0 0 0 0 0 0 0
+Vomiting 22 21.3 5 4.8 3 2.9 1 1.0 0 0 0 0
+Arthralgia 15 14.6 10 9.6 0 0 1 1.0 0 0 0 0
+Pyrexia 18 17.5 7 6.7 0 0 0 0 0 0 0 0
+Back pain 15 14.6 7 6.7 2 1.9 2 1.9 0 0 0 0
+Dyspnea 13 12.6 9 8.7 1 1.0 0 0 1 1.0 0 0
+Nausea 17 16.5 5 4.8 1 1.0 0 0 0 0 0 0
+Cough 14 13.6 6 5.8 0 0 0 0 0 0 0 0
+Headache 14 13.6 6 5.8 0 0 0 0 0 0 0 0
+Nasopharyngitis 17 16.5 2 1.9 0 0 0 0 0 0 0 0
+Bone pain 11 10.7 6 5.8 2 1.9 0 0 0 0 0 0
+Constipation 12 11.7 5 4.8 0 0 0 0 0 0 0 0
+Chills 15 14.6 0 0 1 1.0 0 0 0 0 0 0
+Hypertension 7 6.8 4 3.8 2 1.9 4 3.8 0 0 0 0
+NOTE. Most common adverse events are those of any grade occurring at an incidence rate of 10% in either treatment arm and/or those of grade 3 or 4 occurring
+at a frequency of  2% in either treatment arm. Percentages are based on number of patients in each arm.
+Adverse events reported here were recorded in the anastrozole alone arm only until cross over.
+Kaufman et al
+5534 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+Patients who received trastuzumab plus anastrozole had statisti-
+cally significant improvement in the primary end point of PFS, and
+separation of the curves occurred relatively early. PFS data were cen-
+trally reviewed blindly and reconciled by an independent oncologist.
+Investigator assessment showed longer PFS in both arms than the
+reconciled data set but a similar relative increase in PFS.
+However, in both arms, PFS was shorter than might be ex-
+pected. The study power calculation assumed a median PFS of 7
+months in the anastrozole alone arm and a treatment difference of
+4 months, corresponding to a predicted improvement of 57%. In
+fact, median PFS in the anastrozole alone arm was only 2.4 months,
+and the prolongation to 4.8 months with the addition of trastu-
+zumab represents an actual improvement of 100%. The relatively
+short PFS is likely explained by the aggressive nature of HER2/
+hormone receptor– copositive tumors compared with HER2-neg-
+ative/hormone receptor–positive tumors. Several clinical studies
+have established that patients with ER-positive and HER2-positive
+primary tumors experience relapse sooner and experience a signif-
+icantly shorter TTP after hormonal therapy than patients whose
+tumors are only ER positive.17,18,37 Recent evidence also suggests
+that HER2 overexpression abrogates the effect of AIs on tu-
+mor proliferation.38,39
+TAnDEM required that all patients should have hormone
+receptor–positive tumors by local testing; however, central retest-
+ing, undertaken as an internal control, revealed that 21% of pa-
+tients had centrally confirmed ER/PgR-negative tumors. With
+patients recruited from 77 centers in 22 countries worldwide, as
+expected,40 some discordance occurred as a result of different IHC
+methodologies and scoring systems used. Moreover, lower hor-
+mone receptor expression in HER2/hormone receptor– copositive
+disease may confound the reliability of hormone receptor test
+results.41 As expected, compared with the overall population, me-
+dian PFS, TTP, and OS times in both treatment arms were slightly
+longer in the subgroup with centrally confirmed hormone receptor
+positivity. The magnitude of the difference in favor of adding
+trastuzumab to anastrozole for both PFS and TTP (1.8 and 1.7
+months, respectively) remained statistically significant.
+It should be noted that patients in the anastrozole alone arm were
+given the option to switch to a trastuzumab-containing regimen on
+progression of disease. This switching may have reduced any OS
+benefit with trastuzumab plus anastrozole by improving OS in the
+anastrozole alone arm.
+The findings in the anastrozole plus trastuzumab arm in
+TAnDEM are consistent with those from a phase II study assessing
+letrozole plus trastuzumab in 31 evaluable postmenopausal women
+with HER2/hormone receptor–copositive advanced breast cancer.31
+ExcludingIHC2patients, themedianTTPinthatstudywas5.5months
+(comparedwith4.8monthsinTAnDEM),andCBRwas44%(compared
+with 43% in TAnDEM). The findings in the anastrozole alone arm can
+only be compared with historic data from an HER2/hormone receptor–
+copositive subgroup (n87) in a study of letrozole alone in MBC where
+median TTP was 6.1 months (compared with 2.4 months in TAnDEM)
+and CBR was 33% (compared with 28% in TAnDEM).42
+The numbers of AEs and SAEs were higher with trastuzumab
+plus anastrozole compared with anastrozole alone; however, it should
+be considered that duration of treatment was longer in the trastu-
+zumab plus anastrozole arm. The open-label design meant that anas-
+trozole alone AEs were reported only until the patients crossed over to
+trastuzumab. Moreover, AE over-reporting may have occurred in
+patients on trastuzumab plus anastrozole because they went to the
+hospital for weekly infusions as well as for study assessments. There-
+fore, bias in AE reporting may have been introduced favoring anastro-
+zole alone. As anticipated from earlier studies of trastuzumab
+monotherapy, there was a low incidence of LVEF declines in the
+trastuzumab plus anastrozole arm, and only one patient experienced
+symptomatic NYHA class II CHF.
+The results from the present study should be assessed within the
+context of other available data for the treatment of HER2-positive
+breast cancer. Because tumors that are HER2/hormone receptor–
+copositive are likely to progress sooner on hormonal therapy alone
+than HER2-negative, hormone receptor–positive tumors, combining
+hormonal therapy and trastuzumab may be expected to maximize
+clinical benefit. The doubling of median PFS (from 2.4 to 4.8 months)
+in the ITT population of TAnDEM demonstrates the value of giving
+up-front trastuzumab. However, it is a matter of debate whether
+patients with HER2/hormone receptor–copositive disease should re-
+ceive hormonal therapy or whether they might be more logically and
+simply treated with the standard first-line treatment option for HER2-
+positive MBC of trastuzumab plus a taxane.10,11,43 This is an area for
+future research.
+In summary, the combination of trastuzumab and anastrozole
+produced statistically significant improvements in PFS, TTP, CBR,
+and ORR in postmenopausal women with HER2/hormone receptor–
+copositive MBC, although outcomes in both arms were relatively poor
+for most patients. AEs and SAEs were more frequent with the combi-
+nation than with anastrozole alone. Approximately 15% of patients
+who received trastuzumab plus anastrozole did not experience disease
+progression for at least 2 years, suggesting that the use of HER2-
+targeted therapy with an AI can substantially delay chemotherapy in
+some patients who experience clinical benefit.
+Table 4. Summary of Cardiac Events
+Cardiac Event
+No. of Events
+Trastuzumab 
+Anastrozole
+(n  103)
+Anastrozole
+Alone
+(n  104)
+All grade cardiac AEs 14 2
+Grade 3 or 4 cardiac AEs 2 2†
+Serious cardiac AEs 2‡ 1§
+Cardiac AEs leading to discontinuation
+of study treatment 5 0
+Confirmed decrease of  15 LVEF
+percentage points from baseline
+to  50% 1 0
+NYHA class
+I CHF (asymptomatic) 4 0
+II CHF (symptomatic) 1 0
+Abbreviations: AE, adverse event; LVEF, left ventricular ejection fraction;
+NYHA, New York Heart Association; CHF, congestive heart failure.
+Grade 3 cardiac failure, grade 4 myocardial ischemia.
+†Grade 3 sinus tachycardia, grade 4 myocardial infarction.
+‡Myocardial infarction, myocardial ischemia.
+§Myocardial infarction.
+Three patients had asymptomatic class I CHF, and one patient had a
+myocardial infarction and subsequent asymptomatic class I CHF.
+Trastuzumab-Anastrozole for HER2/Hormone Receptor–Positive MBC
+www.jco.org © 2009 by American Society of Clinical Oncology 5535
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS
+OF INTEREST
+Although all authors completed the disclosure declaration, the following
+author(s) indicated a financial or other interest that is relevant to the subject
+matter under consideration in this article. Certain relationships marked
+with a “U” are those for which no compensation was received; those
+relationships marked with a “C” were compensated. For a detailed
+description of the disclosure categories, or for more information about
+ASCO’s conflict of interest policy, please refer to the Author Disclosure
+Declaration and the Disclosures of Potential Conflicts of Interest section in
+Information for Contributors.
+Employment or Leadership Position: Michaela Jahn, F. Hoffmann-La
+Roche (C); Michaela Lehle, F. Hoffmann-La Roche (C); Andrea
+Feyereislova, F. Hoffmann-La Roche (C); Ce´dric Re´vil, F. Hoffmann-La
+Roche (C) Consultant or Advisory Role: John R. Mackey, AstraZeneca
+(U), Roche (U); Andrew Wardley, Roche (C), AstraZeneca (C) Stock
+Ownership: Michaela Jahn, F. Hoffmann-La Roche; Andrea
+Feyereislova, F. Hoffmann-La Roche; Ce´dric Re´vil, F. Hoffmann-La
+Roche Honoraria: John R. Mackey, AstraZeneca, Roche; Andrew
+Wardley, Roche, AstraZeneca; Sergei Tjulandin, Roche, AstraZeneca,
+sanofi-aventis; Alison Jones, Roche, AstraZeneca Research Funding:
+Andrew Wardley, Roche; Sergei Tjulandin, Roche, sanofi-aventis, Eli
+Lilly; Alison Jones, Roche Expert Testimony:NoneOther Remuneration:
+Andrew Wardley, Roche, AstraZeneca
+AUTHOR CONTRIBUTIONS
+Conception and design: Andrew Wardley, Andrea Feyereislova,
+Alison Jones
+Financial support: Michaela Jahn, Michaela Lehle, Andrea Feyereislova,
+Ce´dric Re´vil
+Administrative support: Michaela Jahn, Michaela Lehle, Andrea
+Feyereislova, Ce´dric Re´vil
+Provision of study materials or patients: Bella Kaufman, John R.
+Mackey, Michael R. Clemens, Andrew Wardley, Sergei Tjulandin,
+Alison Jones
+Collection and assembly of data: Bella Kaufman, Michael R. Clemens,
+Andrew Wardley, Sergei Tjulandin, Michaela Lehle
+Data analysis and interpretation: Bella Kaufman, John R. Mackey,
+Michael R. Clemens, Poonamalle P. Bapsy, Ashok Vaid, Andrew
+Wardley, Michaela Jahn, Andrea Feyereislova, Ce´dric Re´vil
+Manuscript writing: Bella Kaufman, John R. Mackey, Michael R.
+Clemens, Poonamalle P. Bapsy, Ashok Vaid, Andrew Wardley, Sergei
+Tjulandin, Michaela Jahn, Michaela Lehle, Andrea Feyereislova, Ce´dric
+Re´vil, Alison Jones
+Final approval of manuscript: Bella Kaufman, John R. Mackey, Michael
+R. Clemens, Poonamalle P. Bapsy, Ashok Vaid, Andrew Wardley, Sergei
+Tjulandin, Michaela Jahn, Michaela Lehle, Andrea Feyereislova, Ce´dric
+Re´vil, Alison Jones
+REFERENCES
+1. Goldhirsch A, Coates AS, Gelber RD, et al:
+First-select the target: Better choice of adjuvant
+treatments for breast cancer patients. Ann Oncol
+17:1772-1776, 2006
+2. Jordan C: Historical perspective on hormonal
+therapy of advanced breast cancer. Clin Ther 24:A3-
+A16, 2002 (suppl A)
+3. Buzdar AU: Endocrine therapy in the treat-
+ment of metastatic breast cancer. Semin Oncol
+28:291-304, 2001
+4. Buzdar AU, Hortobagyi GN: Recent advances
+in adjuvant therapy of breast cancer. Semin Oncol
+26:21-27, 1999 (suppl 12)
+5. Wolff AC, Hammond MEH, Schwartz JN, et
+al: American Society of Clinical Oncology/College of
+American Pathologists guideline recommendations
+for human epidermal growth factor receptor 2 test-
+ing in breast cancer. J Clin Oncol 25:118-145, 2007
+6. Slamon DJ, Clark GM, Wong SG, et al: Human
+breast cancer: Correlation of relapse and survival
+with amplification of the HER-2/neu oncogene. Sci-
+ence 235:177-182, 1987
+7. Smith I, Procter M, Gelber RD, et al: 2-year
+follow-up of trastuzumab after adjuvant chemother-
+apy in HER2-positive breast cancer: A randomised
+controlled trial. Lancet 369:29-36, 2007
+8. Perez EA, Romond EH, Suman VJ, et al:
+Updated results of the combined analysis of NCCTG
+N9831 and NSABP B-31. Presented at the 43rd
+Annual Meeting of the American Society of Clinical
+Oncology, Chicago, IL, June 1-5, 2007
+9. Slamon D, Eiermann W, Robert N, et al: BCIRG
+006: 2nd interim analysis phase III randomized trial
+comparing doxorubicin and cyclophosphamide fol-
+lowed by docetaxel (AC3T) with doxorubicin and
+cyclophosphamide followed by docetaxel and
+trastuzumab (AC3TH) with docetaxel, carboplatin
+and trastuzumab (TCH) in Her2neu positive early
+breast cancer patients. Presented at the 29th
+Annual San Antonio Breast Cancer Symposium,
+San Antonio, TX, December 14-17, 2006 (abstr 52)
+10. Marty M, Cognetti F, Maraninchi D, et al:
+Randomized phase II trial of the efficacy and safety
+of trastuzumab combined with docetaxel in pa-
+tients with human epidermal growth factor receptor
+2–positive metastatic breast cancer administered as
+first-line treatment: The M77001 study group. J Clin
+Oncol 23:4265-4274, 2005
+11. Slamon DJ, Leyland-Jones B, Shak S, et al: Use
+of chemotherapy plus a monoclonal antibody against
+HER2 for metastatic breast cancer that overexpresses
+HER2. N Engl J Med 344:783-792, 2001
+12. Konecny G, Pauletti G, Pegram M, et al:
+Quantitative association between HER-2/neu and
+steroid hormone receptors in hormone receptor-
+positive primary breast cancer. J Natl Cancer Inst
+95:142-153, 2003
+13. Untch M, Gelber RD, Jackisch C, et al: Esti-
+mating the magnitude of trastuzumab effects within
+patient subgroups in the HERA trial. Ann Oncol
+19:1090-1096, 2008
+14. Perez EA, Romond EH, Suman VJ, et al:
+Updated results of the combined analysis of NCCTG
+N9831 and NSABP B-31 adjuvant chemotherapy
+with/without trastuzumab in patients with HER2-
+positive breast cancer. J Clin Oncol 25:6s, 2007
+(suppl 18S; abstr 512)
+15. Brufsky A, Lembersky B, Schiffman K, et al:
+Hormone receptor status does not affect the clinical
+benefit of trastuzumab therapy for patients with meta-
+static breast cancer. Clin Breast Cancer 6:247-252, 2005
+16. Penault-Llorca F, Vincent-Salomon A, Mathieu
+MC, et al: Incidence and implications of HER2 and
+hormonal receptor overexpression in newly diag-
+nosed metastatic breast cancer (MBC). J Clin Oncol
+23:69s, 2005 (suppl 16S; abstr 764)
+17. Dowsett M, Allred C, Knox J, et al: Relationship
+between quantitative estrogen and progesterone re-
+ceptor expression and human epidermal growth factor
+receptor 2 (HER-2) status with recurrence in the Arimi-
+dex, Tamoxifen, Alone or in Combination trial. J Clin
+Oncol 26:1059-1065, 2008
+18. Mauriac L, Keshaviah A, Debled M, et al:
+Predictors of early relapse in postmenopausal
+women with hormone receptor-positive breast can-
+cer in the BIG 1-98 trial. Ann Oncol 18:859-867,
+2007
+19. De Laurentiis M, Arpino G, Massarelli E, et al:
+A meta-analysis on the interaction between HER-2
+expression and response to endocrine treatment in
+advanced breast cancer. Clin Cancer Res 11:4741-
+4748, 2005
+20. Jones A: Combining trastuzumab (Herceptin)
+with hormonal therapy in breast cancer: What can
+be expected and why? Ann Oncol 14:1697-1704,
+2003
+21. Lipton A, Ali SM, Leitzel K, et al: Elevated
+serum HER-2/neu level predicts decreased re-
+sponse to hormone therapy in metastatic breast
+cancer. J Clin Oncol 20:1467-1472, 2002
+22. Dowsett M, Harper-Wynne C, Boeddinghaus
+I, et al: HER-2 amplification impedes the antiprolif-
+erative effects of hormone therapy in estrogen
+receptor-positive primary breast cancer. Cancer Res
+61:8452-8458, 2001
+23. Johnston SRD: Combinations of endocrine
+and biological agents: Present status of therapeutic
+and presurgical investigations. Clin Cancer Res 11:
+889s–899s, 2005 (suppl)
+24. Osborne CK, Shou J, Massarweh S, et al:
+Crosstalk between estrogen receptor and growth
+factor receptor pathways as a cause for endocrine
+therapy resistance in breast cancer. Clin Cancer Res
+11:865s–870s, 2005 (suppl)
+25. Shou J, Massarweh S, Osborne CK, et al:
+Mechanisms of tamoxifen resistance: Increased es-
+trogen receptor-HER2/neu cross-talk in ER/HER2-
+positive breast cancer. J Natl Cancer Inst 96:926-
+935, 2004
+26. Schiff R, Massarweh S, Shou J, et al: Breast
+cancer endocrine resistance: How growth factor
+signaling and estrogen receptor coregulators modu-
+late response. Clin Cancer Res 9:447s-454s, 2003
+(suppl)
+Kaufman et al
+5536 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.
+27. Witters L, Engle L, Lipton A: Restoration of
+estrogen responsiveness by blocking the HER-2/neu
+pathway. Oncol Rep 9:1163-1166, 2002
+28. Kunisue H, Kurebayashi J, Otsuki T, et al:
+Anti-HER2 antibody enhances the growth inhibitory
+effect of anti-oestrogen on breast cancer cells ex-
+pressing both oestrogen receptors and HER2. Br J
+Cancer 82:46-51, 2000
+29. Witters LM, Kumar R, Chinchilli VM, et al:
+Enhanced anti-proliferative activity of the combina-
+tion of tamoxifen plus HER-2-neu antibody. Breast
+Cancer Res Treat 42:1-5, 1997
+30. Benz CC, Scott GK, Sarup JC, et al: Estrogen-
+dependent, tamoxifen-resistant tumorigenic growth
+of MCF-7 cells transfected with HER2/neu. Breast
+Cancer Res Treat 24:85-95, 1992
+31. Marcom PK, Isaacs C, Harris L, et al: The
+combination of letrozole and trastuzumab as first or
+second-line biological therapy produces durable re-
+sponses in a subset of HER2 positive and ER
+positive advanced breast cancers. Breast Cancer
+Res Treat 102:43-49, 2007
+32. Kaufman B: Trastuzumab  anastrozole in
+postmenopausal women with HER2-positive, HR-
+positive MBC: Results of the TAnDEM study. Oral
+presentation LBA2 presented at the 31st Congress
+of the European Society for Medical Oncology,
+Istanbul, Turkey, September 29-October 3, 2006
+33. Pocock SJ, Simon R: Sequential treatment as-
+signment with balancing for prognostic factors in the
+controlled clinical trial. Biometrics 31:103-115, 1975
+34. WHO: WHO Handbook for Reporting Re-
+sults of Cancer Treatment. Geneva, Switzerland,
+WHO, 1979
+35. Lan KKG, DeMets DL: Discrete sequential
+boundaries for clinical trials. Biometrika 70:659-663,
+1983
+36. Buzdar A, Jonat W, Howell A, et al: Anas-
+trozole, a potent and selective aromatase inhibi-
+tor, versus megestrol acetate in postmenopausal
+women with advanced breast cancer: Results of
+overview analysis of two phase III trials—Arimidex
+Study Group. J Clin Oncol 14:2000-2011, 1996
+37. Hu JC, Mokbel K: Does c-erbB2/HER2 over-
+expression predict adjuvant tamoxifen failure in pa-
+tients with early breast cancer? Eur J Surg Oncol
+27:335-337, 2001
+38. Murray J, Young OE, Renshaw L, et al: A
+randomised study of the effects of letrozole and
+anastrozole on oestrogen receptor positive breast
+cancers in postmenopausal women. Breast Cancer
+Res Treat 114:495-501, 2009
+39. Shin I, Miller T, Arteaga CL: ErbB receptor
+signaling and therapeutic resistance to aromatase
+inhibitors. Clin Cancer Res 12:1008s–1012s, 2006
+(suppl)
+40. Barnett S: UK NEQAS Run 74: The breast
+hormonal receptor module. Immunocytochemistry
+6:20-23, 2007
+41. Rhodes A, Jasani B, Barnes DM, et al: Reli-
+ability of immunohistochemical demonstration of
+oestrogen receptors in routine practice: Interlabora-
+tory variance in the sensitivity of detection and
+evaluation of scoring systems. J Clin Pathol 53:125-
+130, 2000
+42. Lipton A, Ali SM, Leitzel K, et al: Serum
+HER-2/neu and response to the aromatase inhibitor
+letrozole versus tamoxifen. J Clin Oncol 21:1967-
+1972, 2003
+43. Miller WR: ERBB2 status and outcome of
+endocrine treatment. Lancet Oncol 9:4-5, 2008
+■ ■ ■
+Trastuzumab-Anastrozole for HER2/Hormone Receptor–Positive MBC
+www.jco.org © 2009 by American Society of Clinical Oncology 5537
+29, 2015 from 165.124.165.129
+Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October
+Copyright © 2009 American Society of Clinical Oncology. All rights reserved.

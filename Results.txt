@@ -1,0 +1,89 @@
+Benjaminovits2000
+
+2 IE sentences
+
+both in top 3
+
+--------
+
+Burkhoff1999
+
+2 IE sentences
+
+Exclusion in top 3
+
+Inclusion has score 1 and rank 70
+
+--------
+
+Fernandez1980
+
+Unable to find IE sentences
+
+Not in top 3
+
+--------
+
+Keteyian1996
+
+2 IE sentences
+
+both in top 3
+
+--------
+
+Mullen2005
+
+2 IE sentences
+
+both in top 3
+
+--------
+
+Renfroe1988
+
+Xml keywords ambiguous
+
+Not in top 3
+
+--------
+
+Solway2002
+
+2 IE sentences
+
+Exclusion rank 1
+
+Inclusion rank 5
+
+--------
+
+Stur1996
+
+3 IE sentences
+
+Inclusion rank 1
+
+Exclusion rank 7,8
+
+--------
+
+Takeda1998
+
+Unable to find IE sentences
+
+Not in top 3
+
+Rank 63
+
+Rank 76
+
+--------
+
+Zimmer1985
+
+Unable to find IE sentences
+
+Not in top 3
+
+--------

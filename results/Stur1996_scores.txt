@@ -1,0 +1,623 @@
+Exudative AMD in one eye (defined as angiographic evidence of classic or occult choroidal neovascularisation or RPE detachment) and early ARM with visual acuity 20/40 or better in other eye (early ARM: macular drusen with no angiographic evidence of exudative lesion).
+Admission criteria included a diagnosis of AMD with an exudative lesion in one eye, denned as angio- graphic evidence of classic and/or occult choroidal neovascularization (CNV) and/or RPE detachment, and macular drusen with and without signs of RPE degeneration but without angiographic evidence of exudative lesions and visual acuity of better than 20/ 40 in the second eye.
+score --> 22
+The photo- graphs and angiograms were graded at a later date using the Wisconsin grading system for macular drusen (Table 2),16 and the risk status of the study eyes was determined using drusen size, drusen confluence, and RPE alterations as cut-off criteria.17 Eyes with a predominant drusen size of more than 125 /Ltm and/or a largest drusen size of more than 250 //m and/or definite evidence of focal RPE degeneration and/or definite presence of drusen confluence were classified as "high-risk AMD" eyes, whereas eyes that did not exceed these limits were classi- fied as "low-risk AMD" eyes.
+score --> 16
+A 2-year, double-masked, randomized, placebo-controlled study including 112 white pa- tients with age-related macular degeneration and exudative lesions (choroidal neovascularization, pigment epithelial detachment, or both) in one eye and a visual acuity of better than 20/40 and macular degeneration without any exudative lesion in the second eye was performed.
+score --> 15
+Definitions of the Wisconsin Age-Related Maculopathy Grading System Grade Predominant drusen size in field 2 NA 0 1 2 3 4 5 6 7 8 Confluence in all of field 2 NA 0 1 2 3 4 5 6 7 8 Predominant drusen type NA 0 1 2 3 4 7 8 Increased pigment 0 1 2 3 6 7 8 RPE degeneration 0 1 2 3 4 7 8 Definition Not applicable (no drusen) Stippling <63 /im, hard, indistinct or questionable <63 //m, hard, distinct <125 //m, hard-distinct <250 urn 2:250 /xm Reticular drusen Cannot grade, obscuring lesion Cannot grade, photo quality Not applicable (drusen size < grade 2) None Questionable touching or merging of drusen <250 /xm in diameter 2=250 /xm but <500 /im in diameter 2=500 m but <1000 fim in diameter 2:1000 /im in diameter Reticular drusen Cannot grade, obscuring lesion Cannot grade, photo quality Not applicable (drusen size < grade 1) Hard, indistinct Hard, distinct Soft, indistinct Soft, distinct Reticular Cannot grade, obscuring lesion Cannot grade, photo quality No pigment deposits Questionable pigment deposits Area of pigment <250 //m Area of pigment >250 ^m Cannot grade, hyperpigmentation, other Cannot grade, obscuring lesion Cannot grade, photo quality NoneQuestionable <25% of the subfield <50% of the subfield >50% of the subfield Cannot grade, obscuring lesion Cannot grade, photo quality RPE = retinal pigment epithelium.
+score --> 15
+The fact that we did not observe functional deterioration in the eyes in which exudative lesions did not develop also agrees with study results investigating the natural course of AMD, which showed tfiat visual deterioration caused by exudative lesions could occur at any stage of AMD, whereas deterioration of visual acuity caused by atrophic alterations is found only in late stages of AMD.6-22"24 Unfortunately, Newsome and coworkers3 did not use a standardized grading protocol, which prevented an exact comparison of their study patients and ours.
+score --> 10
+Their study group was composed primarily of patients with bilateral drusen associated with RPE degenera- tion, unilateral RPE detachment, and/or choroidal neovascular membranes and different stages of geo- graphic atrophy; visual acuity had to be better than 20/80 in one eye for inclusion in the study.
+score --> 10
+The calculation was performed according to Verriest,15 determining the tritan axis with cup 1 and cup 46, the deutan axis with cup 5 and cup 59, the protan Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 Zinc and Macular Degeneration TABLE l. Basic Patient Data 1227 n Age Sex Male Female Nicotine abuse Not smoking Smoking Blood pressure Normotensive Hypertensive Functional tests Visual acuity (LogMAR) FM-100 error score Tritan error score Retinal grating acuity (LogMAR) Contrast sensitivity 1.5 cycles/degree Contrast sensitivity 15 cycles/degree Blood tests Serum zinc (/ig/dl) Serum copper (//g/dl) Red blood cell count (XlO6/ml) Hemoglobin (mg/ml) AMD status High-risk AMD Low-risk AMD Undetermined Treatment Group 56 72.3 ± 8.3 23 33 42 14 34 22 0.073 ±0.12 163.7 ± 83.3 91.2 ± 50.8 -0.082 ± 0.1 36.3 ± 15.4 10.9 ± 9.9 78.1 ± 11 155.2 ± 29.8 4.6 ± 0.4 14.4 ± 1.5 42 12 2 Placebo Group 56 70.6 ± 8.0 25 31 47 9 32 24 0.076 ±0.13 154.1 ± 85.5 89.7 j -0.057 j 38.3 j 11.6 j 80.0 j 154.9 l 4.6 n 14.3 j t 50.3 t 0.1 t 16.2 t 11.3 t 15.9 t 27.7 t 0.4 t 1 39 13 4 P Value 0.24 0.7 0.24 0.7 0.93 0.55 0.88 0.01 0.16 0.72 0.46 0.97 0.86 0.77 0.69 AMD = age-related macular degeneration.
+score --> 7
+During this time, seven more patients (three in the treatment group, four in the placebo group) had loss of visual acuity caused by a CNV in the study eye, and in two patients (one in the treatment group, one in the placebo group), se- rous RPE detachment developed.
+score --> 7
+Analysis of Variance of Morphologic Changes in Eyes Without Development of Exudative Lesions During the Treatment Period* P Value Predominant drusen size in field 2 Treatment group (n = 37) Placebo group (n = 41) Confluence in all of field 2 Treatment group (n = 37) Placebo group (n = 41) Predominant drusen type (central subfield) Treatment group (n = 37) Placebo group (n = 41) Predominant drusen type (pericentral subfields) Treatment group (n = 37) Placebo group (n = 41) Increased pigment (central subfield) Treatment group (n = 37) Placebo group (n = 41) Increased pigment (pericentral subfields) Treatment group (n = 37) Placebo group (n = 41) RPE degeneration (central subfield) Treatment group (n = 37) Placebo group (n = 41) RPE degeneration (pericentral subfields) Treatment group (n = 37) Placebo group (n = 41) 3.7 3.7 2.2 2.5 2.1 1.8 2.4 2.4 0.6 0.6 1.4 1.5 0.2 0.1 0.9 0.6 Start ± 1.3 ± 1.2 ± 1.8 ± 1.9 ± 1.2 ± 1.2 ± 1.1 ± 1.0 ± 0.8 ± 0.8 ± 1.2 ± 1.2 ± 0.5 ± 0.37 ± 1.1 ± 0.9 24 Months 4.0 ± 1.3 3.9 ± 1.4 2.7 ± 2.0 3.0 ± 2.2 2.2 ± 1.3 2.0 ± 1.2 2.6 ± 1.1 2.5 ± 1.1 1.0 ± 1.0 0.9 ± 1.1 1.8 ± 1.2 1.9 ± 1.2 0.3 ± 0.8 0.3 ± 0.8 1.1 ± 1.3 1.0 ± 1.4 ANOVA (time) 0.002 <0.0001 0.03 0.004 <0.0001 <0.0001 0.02 <0.0001 ANOVA (medication) 0.6 0.87 0.46 0.64 0.56 0.56 0.7 0.2 RPE = retinal pigment epithelium.
+score --> 7
+Low contrast sensitivity and color discrimination are con- sidered to be affected earlier than high contrast visual acuity during the natural course of AMD.8"13 To detect not only exudative lesions but also minimal functional deterioration, as well as small morphologic changes, we evaluated LogMAR visual acuity, contrast sensitivity at several spatial frequencies, and color discrimination and used a standardized grading system for the evalua- tion of fundus photographs and fluorescein angio- grams.
+score --> 6
+Two eyes had RPE detachment without angiographic evidence of choroidal neovascularization.
+score --> 6
+Results of the Age-Related Macular Degeneration Grading Before the Start of Treatment* Predominant drusen size in field 2 Treatment group Placebo group Confluence in all of field 2 Treatment group Placebo group Predominant drusen type (central subfield) Treatment group Placebo group Predominant drusen type (pericentral subfields) Treatment group Placebo group Increased pigment (central subfield) Treatment group Placebo group Increased pigment (pericentral subfields) Treatment group Placebo group RPE degeneration (central subfield) Tretament group Placebo group RPE degeneration (pericentral subfields) Treatment group Placebo group NA = not applicable; RPE = retinal •Values are number (%).
+score --> 6
+in whom exudative AMD did not develop was large enough to show that visual functions were stable in all eyes for 24 months despite the progressive develop- ment of drusen and degenerative RPE changes, which took place in both groups at a significant rate.
+score --> 6
+There were macular alterations correlated with a high risk for progression (large drusen, confluent drusen, focal hyperpigmentation) in a high percentage of our study eyes (76.6%), and all eyes in which a CNV developed were eyes that showed high-risk features at the start of treatment.
+score --> 6
+Seven additional patients (three in the treatment group, four in the placebo group) experienced visual loss caused by CNV, and in two patients (one in each group), serous pigment epidielial detachment developed without angiographic evidence of CNV after die end of treatment, during a mean additional follow-up time of 20.8 ± 8.2 months.
+score --> 5
+In eyes in which exudative lesions did not develop, there was no significant change in any of the functional parameters during the 24-month treatment period, but there was a significant increase in the nonexudative alterations (drusen size, drusen confluence, hyperpig- mentation, and focal degeneration of the retinal pigment epithelium) in both groups.
+score --> 5
+The natural course of AMD includes visual loss caused by the degeneration of the retinal pigment epithelium (RPE), as well as visual loss caused by exudative le- sions.
+score --> 5
+METHODS Patient Selection and Entry The patient group consisted of 48 men and 64 women older than 50 years of age who had been referred to the outpatient clinic of retinal vascular and macular diseases because of exudative AMD in one eye (Table 1).
+score --> 5
+The slightly lower, but insignificant, visual acuity of the treatment group probably was caused by lens opacities, as shown by the results of the retinal grating acuity tests, which provided a slightly better, but insignificant, grating acuity in the treat- ment group from the beginning to the end of the treatment period.
+score --> 5
+1), and there was no significant difference between treatment and placebo groups in the final visual acuity of eyes in which an exudative lesion developed during the follow-up period.
+score --> 5
+Risk Factors in Eyes With and Without Development of Exudative Lesions* Smoking history Smoking Not smoking Systemic hypertension Hypertensive Normal Risk of AMD progression High risk Low risk Age (years) (mean ± SD) Exudative 6 (6.5) 17 (18.5) 8 (8.6) 15 (16.3) 23 (25.5) 0 70.52 ± 6.5 Nonexudative 15 (16.3) 54 (58.7) 26 (28.3) 43 (46.7) 45 (50) 22 (24.4) 70.33 ± 7.8 P Value 0.67 0.8 0.0016 0.92 AMD = age-related macular degeneration.
+score --> 5
+The developmental rate of exudative lesions in the second eye of patients in our study (25% after 44.8 ± 8.2 months) was similar to the rate pub- lished in earlier studies6"7 investigating the natural his- tory of AMD in the second eye.
+score --> 5
+To investigate the short-term effect of oral zinc substitution on the development of age-related macular degeneration in the second eye of patients with an exudative form of the disease in the first eye.
+score --> 4
+Oral zinc substitution has no short-term effect on the course of age-related macular degeneration in patients who have an exudative form of the disease in one eye.
+score --> 4
+I n the United States and Europe, age-related macular degeneration (AMD) is the most frequent cause of visual loss among persons older than 60 years of age.1'2 In spite of the high number of patients with AMD and their strong motivation to undergo any treatment that promises a slight chance of postponing the loss of central vision, the number of clinical trials investigat- From the *KlinikfUr Augenheilkunde, Abteilung A, and the ^Klinikfur Innere Medizin IV, Abteilung fur Arbeitsmedizin, Allgemeines Krankenhaus der Stadt Wien, Vienna, Austria.
+score --> 4
+The current study was undertaken to investigate the effect of oral zinc substitution within 24 months on the further development of AMD in the second eye of patients with unilateral exudative AMD.
+score --> 4
+The distribution of risk factors in eyes with and without exudative lesions was investigated by x2 tests for independence (smoking, systemic hypertension, AMD risk status) and factorial analysis of variance (age) (Table 7).
+score --> 4
+The original plan was to include 500 patients so that we could prove with a statistical certainty of >80% that daily oral substitution with 200 mg of zinc sulfate reduces the frequency of visual loss in the second eye of patients with unilateral exudative AMD.
+score --> 4
+Repeat angiograms were performed in all 92 pa- tients who completed the study per protocol, either when there was visual acuity deterioration or when exudative lesions were visible by ophthalmoscopy (14 patients) or at the end of the treatment period (78 patients).
+score --> 4
+During the continued follow-up after the end of the treatment period, additional angiograms were performed if there was visual acuity deterioration or if exudative lesions were suspected.
+score --> 4
+All eyes in which a CNV or RPE detachment devel- oped had been assigned a "high-risk AMD" status at the start of the study.
+score --> 4
+Their study found a significant effect of oral zinc only in patients whose visual acuity was better than 20/80 in both eyes.
+score --> 4
+There was no significant treatment benefit in patients who already lost vision because of an exudative form of AMD in one eye.
+score --> 4
+Key Words age-related macular degeneration, choroidal neovasculariza- tion, fluorescein angiography, visual acuity, zinc sulfate Acknowledgments The authors thank the staff at Astra GmbH, Linz, Austria, for providing the coded doses of zinc sulfate and pla- cebo.
+score --> 4
+Assessment of visual function in patients with age-related macular degeneration and low visual acuity.
+score --> 4
+The main outcome parameters were visual acuity, contrast sensitivity, color discrimination, and retinal grating acuity, as well as serum levels of zinc and copper, red blood cell count, hemoglobin, and morphologic changes detected by grading of monochrome fundus photographs and fluorescein angiograms.
+score --> 3
+7 subset of patients is at high risk for the development of exudative AMD in the second eye within a few years6'7 and needs a protective strategy most urgently.
+score --> 3
+Thus, the effect of a prophylactic therapy of AMD could be either a slowing of the degenerative alterations of the retinal pigment epithelium or a re- duction in the incidence of exudative lesions.
+score --> 3
+In the first eye, choroidal neovas- cular membranes were detected in 110 eyes.
+score --> 3
+Exclusion criteria included dense senile cataract and/or any other eye disease that could produce sig- nificant and permanent loss of visual acuity during the follow-up period.
+score --> 3
+To detect any late-onset treatment effect, patients in whom an exudative lesion in the study eye did not develop dur- ing the treatment period were observed at 6 month- intervals after the end of the treatment period until October 31, 1994.
+score --> 3
+The primary parameters were incidence of CNV in all patients and change of visual acuity, contrast sensitivity, and color discrimina- tion, as well as morphologic alterations in the patients in whom a CNV in the study eye did not develop.
+score --> 3
+Kaplan-Meier analysis was used to test for between-treatment differences in the inci- dence of exudative lesions in the second eye during a mean follow-up time of 44.8 ± 8.2 months after the start of treatment (Fig.
+score --> 3
+The unpaired West and the x2 test for independence showed a significant difference in the results of the retinal grating acuity test, which had a slightly lower mean LogMAR value (i.e., better acuity) in the treat- ment group than in the placebo group.
+score --> 3
+Two enrolled patients did not return for study entry angiograms and, therefore, were withdrawn, and two angiograms were of poor quality, which fulfilled the criterion for exclusion of exudative lesions but prohibited evaluation of more subtle image details, such as drusen size or focal depigmentation and hyperpigmentation.
+score --> 3
+Results of the functional tests on eyes in which an exudative lesion did not develop during the treatment Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 OS o TABLE 3.
+score --> 3
+Results of Functional Tests in Eyes Without Development of Exudative Lesions During the Treatment Period* Group Start 6 Months 12 Months 18 Months 24 Months Visual acuity (LogMAR, n = 78) Treatment group (n = 37) Placebo group (n = 41) Retinal grating acuity (LogMAR, n = 78) Treatment group (n = 37) Placebo group (n = 41) FM-100 total error score (n = 76) Treatment group (n = 37) Placebo group (n = 39) FM-100 tritan error score (n = 76) Treatment group (n = 37) Placebo group (n = 39) Contrast sensitivity 3 cycles/ degree (n = 78) Treatment group (n = 37) Placebo group (n = 41) Contrast sensitivity 18 cycles/ degree (n = 78) Treatment group (n = 37) Placebo group (n = 41) ANOVA (medication) (P value) N 2 as o 6} O n 1 I o 0.059 ± 0.11 0.051 ± 0.13 0.072 ± 0.92 0.066 ± 0.1 155.2 ± 83.2 135.5 ± 74.6 87.8 ± 52.7 83.9 ± 51.5 59.0 ± 22.4 69.1 ± 26.0 10.6 ± 9.7 13.9 ± 11.7 0.042 ± 0.1 0.039 ± 0.13 -0.107 ± 0.095 -0.081 ± 0.079 129.9 ± 75.8 108.1 ± 60.1 69.7 ± 35.6 63.6 ± 34.4 63.4 ± 23.1 68.1 ± 28.4 13.0 ± 9.5 14.7 ± 11.9 0.05 ± 0.12 0.028 ± 0.13 -0.107 ± 0.096 -0.081 ± 0.081 130.9 ± 63.8 110.2 ± 56.7 74.0 ± 36.4 65.1 ± 34.0 63.6 ± 33.6 67.2 ± 27.5 10.9 ± 9.8 15.5 ± 14.9 0.045 ± 0.12 0.016 ± 0.13 -0.094 ± 0.095 -0.065 ± 0.085 139.6 ± 78.1 120.5 ± 71.9 78.3 ± 47.5 72.5 ± 42.2 61.8 ± 22.2 75.7 ± 33.7 11.6 ± 9.5 13.9 ± 12.2 0.046 ± 0.12 0.027 ± 0.14 -0.097 ± 0.087 -0.075 ± 0.096 148.2 ± 90.6 130.7 ± 80.6 79.9 ± 48.7 75.5 ± 43.8 71.9 ± 32.2 70.7 ± 31.9 12.8 ± 11.0 14.6 ± 14.7 0.52 0.24 0.20 0.47 0.20 0.23 * Values are mean ± SD.
+score --> 3
+An analysis of variance for between-treatment differences of all tests during the treatment period did not show any significant dif- ference in the functional results of study eyes without exudative lesions.
+score --> 3
+Morphologic changes in the 78 study eyes in which exudative lesions did not develop during the treatment period were compared for between-treat- ment differences using repeated-measures analysis of variance.
+score --> 3
+The distribution of other risk factors, such as smoking, systemic hypertension, and age, was not significantly different between eyes with and without the development of an exudative lesion during the entire follow-up period (Table 7).
+score --> 3
+Nevertheless, using the 23 study eyes in which a CNV developed, the statistical power of all calculations was insufficient to determine the effect of zinc on the development of CNV in eyes with AMD because the size of the sample was too small and the follow-up period was too short.
+score --> 3
+The sample size of our study was insufficient to determine whether zinc has a protective effect against the development of exudative lesions in the second eye, but the number of patients in our study TABLE 7.
+score --> 3
+Because we obtained a homoge- neous cohort regarding AMD status and visual func- tions as a result of the selection criteria, risk factors such as age, smoking, and hypertension had less effect on the short-term outcome than macular degenera- tion status.
+score --> 3
+Baun O, Vinding T, Krogh E. Natural course in fellow eyes of patients with unilateral age-related exudative mac- ulopathy: A fluorescein angiographic 4-year follow-up of 45 patients.
+score --> 3
+Rela- tions between fundus appearance and function: Eyes whose fellow eye has exudative age-related macular degeneration.
+score --> 3
+Bilateral macular drusen in age-related macular degeneration: Prognosis and risk factors.
+score --> 3
+They reported a significant lower incidence of visual loss in the treat- ment group, which also had a lower frequency of exu- dative lesions during the follow-up period.
+score --> 2
+Smoking was defined whenever the patient admitted smoking more than 10 cigarettes a day; it was also defined if the patient stopped smok- ing more than 10 cigarettes a day fewer than 5 years earlier.
+score --> 2
+Patients were told to return earlier than scheduled if they experienced a deterioration in visual acuity or if there were any side effects possibly caused by the medication.
+score --> 2
+Ophthalmologic examination included best-cor- rected visual acuity in LogMAR units using Bailey Lo- vie charts #4 and #5 (National Vision Research Insti- tute, Australia), contrast sensitivity at five different spatial frequencies (VCTS 6500 chart; Vistech Consul- tants, Dayton, OH), and color discrimination (Farns- worth-Munsell 100 hue test).
+score --> 2
+Retinal grating acuity (Lotmar Visometer; Haag— Streit, Bern, Switzerland) also was included in the set of functional tests to detect visual loss caused by media opacities.14 The Snellen readings obtained with the Visometer were converted to LogMAR units using the formula: LogMAR = -0.001583 + (-1.0004 X log(Snellen)) This formula was calculated by using the Snellen and LogMAR values of the Bailey-Lovie charts to create a logarithmic regression line.
+score --> 2
+All 78 patients in whom an exudative lesion did not de- velop were followed up at 6-month intervals after the end of the treatment period.
+score --> 2
+All angiograms and monochrome fundus pictures were graded by two observers (MS, MT) using the Wisconsin Age-Related Maculopathy Grading Sys- tem.16 This grading system was not available when the patients were recruited; hence, neither the ability to grade angiograms nor the results of grading were part of the criteria for study entrance (the only criterion was the exclusion of exudative lesions).
+score --> 2
+the possible role of zinc in the development of AMD is not fully understood and requires further investiga- tion.21 The study by Newsome and coworkers,3 who reported a significant delay of visual loss after oral zinc substitution, raised hopes among ophthalmolo- gists and patients alike.
+score --> 2
+In our study, we recruited a homogeneous group of patients with unilateral exudative AMD—a subset of patients with AMD who most urgently needed a protective strategy.
+score --> 2
+The results of our study indicate that this subset, similar to the subset of patients with monocular exudative AMD in the study by Newsome and coworkers,3 did not benefit from oral zinc substi- tution.
+score --> 2
+1 I H end of treatment period j - < •L i— f 11 1 I 1 - 1 - 0 25 50 75 100 125 150 175 200 225 250 Time • Event Times (placebo) D Event Times (zink) Bracket = 95 % Confidence Interval Log-Rank Chi-Square = 0,22 P = 0,6 FIGURE l. Kaplan-Meier cumulative survival plot for the in- cidence of exudative lesions during and after the treatment period (event times, 95% confidence intervals).
+score --> 2
+These criteria might have provided a heterogeneous cohort of early- and late-stage AMD eyes, which might have influenced the results considerably.
+score --> 2
+Second eye involvement in age- related macular degeneration: A four-year prospective study.
+score --> 2
+Color matching and the Stiles-Crawford effect in observers with early age- related macular changes.
+score --> 2
+Visual func- tion and the subsequent development of exudative age-related macular degeneration.
+score --> 2
+Drusen characteristics in patients with exudative versus non-exudative age-related macular degeneration.
+score --> 2
+Element analysis of the early stages of age-related macular degeneration.
+score --> 2
+Relation- ship of drusen and abnonnalities of the retinal pigment epithelium to the prognosis of neovascular macular de- generation: The Macular Photocoagulation Study Group.
+score --> 2
+Atrophic macular degenera- tion: Rate of spread of geographic atrophy and visual loss.
+score --> 2
+A choroidal neovascular membrane (CNV) was detected in 14 patients during the treatment period (nine in the treatment group, five in the placebo group).
+score --> 1
+In 1988, Newsome and coworkers3 published the results of a double-blind, randomized, placebo-controlled study that investigated the effect of oral zinc substitu- tion on the natural course of AMD.
+score --> 1
+Before study entry, every patient received a letter addressed to his or her general physician related to the patient's eye disease and the study in progress and asking questions concerning the patient's history (diabetes, hypertension, gastrointestinal diseases), in- cluding smoking habits.
+score --> 1
+Patients were in- structed to dissolve one tablet per day in a glass of water and to drink it during or after the main meal and then return any unused tablets to establish com- pliance with therapy.
+score --> 1
+Statistical Methods The unpaired Student's t-test and the x2 test for inde- pendence were used to test patient data for significant between-treatment differences in the distribution of age, sex, hypertension, and smoking, as well as in the results of the functional tests and the AMD grading (Tables 1 and 3).
+score --> 1
+Efficacy analysis was based on the data from all patients who completed the study per protocol and from patients who had to be withdrawn after laser treatment to the study eye.
+score --> 1
+During the treatment period, a CNV developed in the study eye in 14 patients (nine in the treatment group, five in the placebo group).
+score --> 1
+Simi- larly, there was no significant difference between treat- ment and placebo groups in the incidence of exuda- tive lesions during the observation period (Fig.
+score --> 1
+This fact is corrob- orated further by the high deterioration rate New- some and coworkers found in their placebo group (35% lost more than nine letters within 24 months), a much higher rate than that reported by other studies investigating the natural course of AMD.622"24 Thus, it is possible that the treatment effect observed by Newsome and coworkers was caused by a difference in the AMD status between the treatment group and the placebo group before the start of treatment that was undetected because no standardized grading was performed.
+score --> 1
+Several epidemiologic studies have questioned the role of zinc and emphasized the importance of the long-term dietary intake of other antioxidants such as beta carotene, alpha-tocopherol, and ascorbic acid.5'25"29 Nevertheless, the use of mineral or vitamin supplements, or both, to prevent the progression of AMD is not supported by these studies.
+score --> 1
+Further studies investigating the long-term effect of vitamins and min- erals on different stages of AMD are under way (e.g., the Age Related Eye Disease Study30) but will not be completed for many years.
+score --> 1
+For now, we must advise our patients with AMD that there is no proven prophy- lactic treatment available.
+score --> 1
+Senile macular degeneration: Review of epide- miologic features.
+score --> 1
+Ferris FD, Fine SL, Hyman L. Age-related macular degeneration and blindness due to neovascular macu- lopathy.
+score --> 1
+Newsome DA, Swartz M, Leone NC, Elston RC, Miller E. Oral zinc in macular degeneration.
+score --> 1
+Risk factors for neovascular age-related macular de- generation: The Eye Disease Case-Control Study Group.
+score --> 1
+Are antioxidants or supplements protective for age-related macular de- generation?
+score --> 1
+Spectral thresholds in macular degeneration.
+score --> 1
+The natural history of dry type of age-related macular de- generation.
+score --> 1
+Wyszynski RE, Bruner WE, Cano DB, Morgan KM, Davis CB, Sternberg P. A donor-age-dependent change in the activity of alpha-mannosidase in human cultured RPE cells.
+score --> 1
+Zinc content in melanosomes of degener- ating RPE as measured by X-ray mapping.
+score --> 1
+Metallothionein shows an age-related decrease in human macular reti- nal pigment epithelium.
+score --> 1
+Tsang NC, Penfold PL, Snitch PJ, Billson F. Serum levels of antioxidants and age-related macular degen- eration.
+score --> 1
+Factors associated with age-related macular degenera- tion.
+score --> 1
+Dietary carotenoids, vitamins A, C, and E, and advanced age- related macular degeneration: Eye Disease Case-Con- trol Study Group.
+score --> 1
+Christen WG Jr. Antioxidants and eye disease.
+score --> 1
+Oral Zinc and the Second Eye in Age-Related Macular Degeneration Michael Stur* Michael Tittl,* Andreas Reitner* and Vanee Meisingerf Purpose.
+score --> 0
+Methods.
+score --> 0
+Patients received either 200 mg of oral zinc sulfate or placebo once daily for 24 months.
+score --> 0
+Results.
+score --> 0
+In the treatment group, the mean zinc serum level increased significandy (P < 0.0001) from 79 ± 10 ^ig/dl to 108 ± 26 Mg/dl compared to no change (82 ± 16 Mg/dl to 85 ± 10/xg/dl) in the placebo group.
+score --> 0
+Serum levels of copper, hemoglobin, and red blood cell count did not change significandy in either group.
+score --> 0
+Conclusions.
+score --> 0
+Invest Ophthal- mol Vis Sci.
+score --> 0
+1996;37:1225-1235.
+score --> 0
+Supported in part by the Austrian Foundation for the Propagation of Scientific Research (Ostetreichischer Fonds zur Forderung der xuissenschaftlichen Forschung), Project 7215-MED.
+score --> 0
+Submitted for publication fuly 14, 1995; revised February 12, 1996; accepted February 13, 1996.
+score --> 0
+Proprietary interest category: N. Reprint requests: Michael Stur, Klinik fur Augenheilkunde, Abteilung A, Wdhringer Giirtel 18-20, A-1097 Vienna, Austria.
+score --> 0
+ing the effect of medical treatment is still small.
+score --> 0
+Later stud- ies4 5 implicated that zinc is much less important than other antioxidative agents, but the results of Newsome and coworkers have not yet been reproduced or dis- proved.
+score --> 0
+This Investigative Ophthalmology & Visual Science, June 1996, Vol.
+score --> 0
+37, No.
+score --> 0
+7 Copyright © Association for Research in Vision and Ophthalmology 1225 Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 1226 Investigative Ophthalmology & Visual Science, June 1996, Vol.
+score --> 0
+37, No.
+score --> 0
+The study was performed according to the tenets of the Declaration of Helsinki.
+score --> 0
+All patients gave his or her written informed consent before entry into the study.
+score --> 0
+The study was registered with the Austrian Min- istry of Health, but no approval of our institutional human experimentation committee was obtained be- cause, at the time of the study, Austrian law did not require such approval for tests with drugs already reg- istered for human use in Austria.
+score --> 0
+We also excluded patients whose physical status would prevent the required follow-up examinations and patients who had a history of serious systemic or metabolic disease.
+score --> 0
+Systemic hypertension was de- fined whenever the patient reported a regular intake of antihypertensive medication and/or the patient's history was positive.
+score --> 0
+MATERIALS AND METHODS All patients underwent ophthalmologic examinations immediately before study entry and 6, 12, 18, and 24 months after the start of treatment.
+score --> 0
+Examinations were performed by the same team of investigators and technicians, under the same test conditions, and al- ways between 1 PM and 3 PM.
+score --> 0
+The LogMAR and Vis- tech charts were used at a distance of 3 m with a direct illumination of approximately 30 to 70 foot-lamberts.
+score --> 0
+To analyze color discrimination deficits, we used cus- tom software for determining the total error score, plot- ting the Famsworth polar graph as well as calculating individual axis scores for the tritan, deutan, protan, and scotopic axes.
+score --> 0
+axis with cup 22 and cup 64, the tetartan axis with cup 26 and cup 75, and the scotopic axis with cup 10 and cup 54.
+score --> 0
+The different error scores were calculated using the cup numbers arranged ±6 cups from these axis points.
+score --> 0
+All the patients were untrained and performed the test monocularly under standardized light conditions.
+score --> 0
+Nonfasting blood samples were collected before the start of therapy and after 6 and 24 months, always at 1 PM, and included serum levels of zinc and copper as well as other laboratory tests (complete blood cell count, blood electrolytes, and chemistry) to detect any copper deficiency and its consequences (e.g., hypochromic ane- mia) that might be caused by the zinc intake.
+score --> 0
+Blood sam- ples used for the evaluation of zinc and copper were collected into trace element-free, silicon-coated tubes to avoid contamination with trace elements.
+score --> 0
+The concentration of serum zinc was measured by using air-acetylene flame atomic absorption spectrometry.
+score --> 0
+One milliliter of serum sample and 4 ml of deionized water were strongly mixed; this mixture was aspirated directly into the burner of an atomic absorption spec- trometer (AAS-3030; Perkin Elmer, Norwalk, CT).
+score --> 0
+Serum copper levels were determined by means of electrothermal atomic absorption.
+score --> 0
+The serum sample was first diluted with 10~4 M HNO3 in a ratio of 1:41.
+score --> 0
+Twenty microliters of diluted sample solution were injected into the graphite tube of an atomic absorption spectrometer (Perkin Elmer AAS-3030), using an auto-sampling AS-40 for the determination of copper.
+score --> 0
+Monochrome red-free fundus photography and flu- orescein angiography was performed before study entry, after the conclusion of the 24-month treatment period, and whenever changes of the functional parameters, mac- ular morphology, or both were observed.
+score --> 0
+Medication Coded doses of zinc sulfate and placebo were pre- pared by the sponsor (Astra, Linz, Austria).
+score --> 0
+All doses were lemon-flavored effervescent tablets made of citric acid that provided improved gastrointestinal absorp- tion and contained saccharine and sorbitol.
+score --> 0
+Treat- ment group doses contained an additional 200 mg of zinc sulfate.
+score --> 0
+(This preparation is identical to a zinc Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 1228 Investigative Ophthalmology 8c Visual Science, June 1996, Vol.
+score --> 0
+37, No.
+score --> 0
+7 TABLE 2.
+score --> 0
+sulfate preparation registered in Austria and other Eu- ropean countries under the name Solvezink; Astra, Wedel, Germany.)
+score --> 0
+Tablets were bottled in identical containers.
+score --> 0
+At the first visit and the 3-month visit, patients were given 3-month supplies.
+score --> 0
+Six-month supplies were distributed at the 6-, 12-, and 18-month visits.
+score --> 0
+Study Design This was a double-masked, randomized, placebo-con- trolled study conducted at a single center.
+score --> 0
+The ran- domization between zinc and placebo was performed Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 Zinc and Macular Degeneration 1229 in a ratio 1:1.
+score --> 0
+The treatment and follow-up period was 24 months.
+score --> 0
+Repeated-measure analysis of variance was used to test for between-treatment differences, a time trend in functional and morphologic parameter changes, and blood tests (Tables 4 to 6).
+score --> 0
+1).
+score --> 0
+RESULTS One hundred twelve patients were enrolled between March 1, 1990 and June 30, 1992.
+score --> 0
+Six patients (four in the treatment group, two in the placebo group) could not tolerate the medication because of gastroin- testinal side effects and had to be withdrawn from the study.
+score --> 0
+Fourteen patients did not return for the scheduled follow-up visits or decided to withdraw from the study because of personal reasons.
+score --> 0
+The withdrawal of these 14 patients was not connected to any side effects of the study medication.
+score --> 0
+The rest of the re- cruited patients (92 patients) returned for all required visits.
+score --> 0
+Monitoring was conducted by the sponsor (Astra), who made a statistical calculation after the first 40 patients finished the 24-month follow-up period to determine whether there was a detectable trend.
+score --> 0
+Because this first statisti- cal calculation did not show any treatment benefit, the recruitment process was halted temporarily in June 1992 and terminated after a second statistical evaluation in June 1993.
+score --> 0
+Ten of these pa- tients underwent laser treatment and were withdrawn from the study.
+score --> 0
+The 82 patients who completed the 24-month treatment took at least 80% of the pre- scribed dose and returned for all required visits.
+score --> 0
+Table 1 details patient data concerning the strati- fication of age, sex, systemic hypertension, and smok- ing between treatment and placebo groups, as well as the results of functional tests and blood tests.
+score --> 0
+On the other hand, this difference of 0.025 LogMAR units repre- sents a single letter on the LogMAR chart, showing that the variations of LogMAR readings were low and emphasizing the homogeneity of our patient sample.
+score --> 0
+We were able to grade 108 angiograms that were obtained before the start of treatment.
+score --> 0
+Three angiograms were only partially gradeable, and 105 angiograms could be graded for all parameters of the grading system.
+score --> 0
+In- traobserver reliability for all parameters was between 60% and 88% (kappa statistic, 60.9 to 88.2), which was acceptable for all morphologic parameters to be taken into statistical account.
+score --> 0
+Results of the grading are listed in Table 3.
+score --> 0
+There was no significant differ- ence between treatment and placebo group (x2 test for independence).
+score --> 0
+NA 1 2 Grade 0 9 (8.6) 11 (10.5) 7 (6.6) 10 (9.4) 1 (0.9) 1 (0.9) 29 (27.6) 33 (31.4) 15 (14.3) 16 (15.2) 48 (44.9) 50 (46.7) 22 (20.6) 31 (29) pigment epithelium.
+score --> 0
+Grade 1 1 (0.9) 2 (1-8) 9 (8.6) 4 (3.8) 13 (12.3) 9 (8.4) 10 (9.3) 12 (11.2) 13 (12.4) 9 (8.6) 8 (7.6) 8 (7.6) 3 (2.8) 2 (1.9) 10 (9.3) 11 (10.3) Grade 2 8 (7.4) 8 (7.4) 11 (10.5) 9 (8.5) 5 (4.7) 8 (7.5) 6 (5.6) 7 (6.5) 9 (8.6) 8 (7.6) 10 (9.5) 13 (12.4) 3 (2.8) 1 (0.9) 16 (15) 10 (9.3) Grade 3 13 (12) 11 (10) 11 (10.5) 14 (13.3) 26 (24.5) 25 (23.6) 29 (27.1) 29 (27.1) 3 (2.9) 1 (0.9) 20 (19) 15 (14.3) 2 (1.9) 1 (0.9) Grade 4 11 (10) 16 (14.8) 4 (3.8) 6 (5.7) 3 (2.8) 0 8 (7.4) 4 (3.7) 4 (3.7) 0 Grade 5 15 (13.8) 15 (13.8) 2 (1-9) 1 (0.9) Grade 6 7 (6.4) 1 (0.9) 8 (7.6) 6 (5.7) Grade 8 1 1 2 3 2 2 2 1 2 3 3 2 2 1 2 1 Kappa 80.7 75.5 77.7 88.2 69.8 80.6 60.9 82.5 P Value 0.3 0.7 0.3 0.8 0.6 0.8 0.5 0.12 1 a.I O 13 srB- fr o 5" i n n'3 I* H to ,  Vol .
+score --> 0
+37 ,  N o Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 TABLE 4.
+score --> 0
+ANOVA = analysis of variance NS OS Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 1232 Investigative Ophthalmology 8c Visual Science, June 1996, Vol.
+score --> 0
+37, No.
+score --> 0
+7 TABLE 5.
+score --> 0
+Changes of Serum Levels of Zinc and Copper, Red Blood Cell Count, and Hemoglobin During the Treatment Period* Start 6 Months 24 Months Serum zinc (fig/dl) (n = 80) Treatment group (n = 38) Placebo group (n = 42) Serum copper (fxg/dl) (n = 80) Treatment group (n = 38) Placebo group (n = 42) Red blood cell count (1.00 e + 6/ml) (n = 67) Treatment group (n = 33) Placebo group (n = 34) Hemoglobin (mg/ml) (n = 66) Treatment group (n = 33) Placebo group (n = 33) ANOVA {medication) (P value) 79.2 ± 10.5 82.4 ± 16.7 151.8 ± 28.2 152.7 ± 26.2 4.6 ± 0.44 4.6 ± 0.33 14.4 ± 1.7 14.4 ± 1.0 99.6 ± 22.2 83.2 ± 13.9 151.9 ± 27.9 152.7 ± 25.1 4.6 ± 0.49 4.6 ± 0.41 14.2 ± 1.5 14.3 ± 1.4 108.7 ± 26.3 85.3 ± 10.2 141.3 ± 32.6 142.5 ± 31.6 4.7 ± 0.44 4.7 ± 0.31 14.2 ± 1.4 14.3 ± 1.2 <0.0001 0.99 0.9 0.74 * Values are mean ± SD.
+score --> 0
+ANOVA = analysis of variance period are listed in Table 4.
+score --> 0
+Serum levels of zinc and copper, red blood cell count, and hemoglobin are presented in Table 5.
+score --> 0
+Be- cause patients in whom a CNV developed during the treatment period were not required to continue the treatment, only 82 samples were collected after the con- clusion of the 24-month treatment period.
+score --> 0
+Two results of the evaluation of serum levels of zinc and copper and several test results of red blood count and hemoglobin were unobtainable; therefore, only hematologic test re- sults from 66 patients and zinc and copper test results from 80 patients could be included in the statistical anal- ysis.
+score --> 0
+Before the start of treatment, serum levels of zinc of all tested patients were in the normal range (study range, 80 ± 14 i^g/dl; normal range, 68 to 136 /ig/dl), and there was no significant difference between groups.
+score --> 0
+In the treatment group, the mean serum zinc levels after 6 months and after 24 months of treatment were signifi- cantly higher than before the start of treatment and were significantly higher than those of the placebo group.
+score --> 0
+In neither group was there a significant change in serum copper levels, red blood cell counts, and hemoglobin values when we performed an analysis of variance for between-treatment differences during the treatment pe- riod.
+score --> 0
+Although all parameters showed a significant increase over time, there was no difference between treatment and placebo groups (Table 6).
+score --> 0
+DISCUSSION There is no doubt that zinc is an important trace ele- ment in the retinal pigment epithelium.18"20 However, Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 Zinc and Macular Degeneration 1233 TABLE 6.
+score --> 0
+* Values are mean grade ± SD.
+score --> 0
+* Values are number (%).
+score --> 0
+Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 1234 Investigative Ophthalmology 8c Visual Science, June 1996, Vol.
+score --> 0
+37, No.
+score --> 0
+7 1 .
+score --> 0
+1 • 1 • „ a .
+score --> 0
+7 .
+score --> 0
+,6- • 5 : 4- ,3- ,2- , 1 • 0- - .
+score --> 0
+1 • (!
+score --> 0
+Patient selection also might have influenced the results of our study.
+score --> 0
+Therefore, this selection bias might have increased the possibility of detecting a treatment ef- fect if we had included more patients and used a longer observation period.
+score --> 0
+References 1.
+score --> 0
+Ferris FD.
+score --> 0
+Am J Epidemiol.
+score --> 0
+1983;118:132-151.
+score --> 0
+2.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1984; 102:1640-1642.
+score --> 0
+3.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1988; 106:192-198.
+score --> 0
+4.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1992; 110:1701-8.
+score --> 0
+Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 Zinc and Macular Degeneration 1235 5.
+score --> 0
+West S, Vitale S, Hallfrisch J, et al.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1994; 112:222-227.
+score --> 0
+6.
+score --> 0
+Ada Ophthalmol.
+score --> 0
+1993; 71:398-401.
+score --> 0
+7.
+score --> 0
+Roy M, Kaiser KM.
+score --> 0
+Eye.
+score --> 0
+1990; 4:813-818.
+score --> 0
+8.
+score --> 0
+Eisner A, Stoumbos VD, Klein ML, Fleming SA.
+score --> 0
+Invest Ophthalmol Vis Sci.
+score --> 0
+1991;32:8-20.
+score --> 0
+9.
+score --> 0
+Alexander MF, Maguire MG, Lietman TM, Snyder JR, Elman MJ, Fine SL.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1988; 106:1543- 1547.
+score --> 0
+10.
+score --> 0
+Smith VC, Pokorny J, Diddie KR.
+score --> 0
+J Opt SocAmA.
+score --> 0
+1988;5:2113- 2121.
+score --> 0
+11.
+score --> 0
+Alvarez SL, King SP, Bhargava SK.
+score --> 0
+Br J Ophthalmol.
+score --> 0
+1983; 67: 508-511.
+score --> 0
+12.
+score --> 0
+Wen F, Wu DZ, Wu L, Yi Y, Feng G, Zheng J.
+score --> 0
+Yen Ko Hsueh Pao.
+score --> 0
+1993;9:31-33.
+score --> 0
+13.
+score --> 0
+Eisner A, Klein ML, Zilis JD, Watkins MD.
+score --> 0
+Invest Ophthalmol VisSci.
+score --> 0
+1992; 33:3091-3102.
+score --> 0
+14.
+score --> 0
+Bernth PP, Naeser K. Clinical evaluation of the Lotmar Visometer for macula testing in cataract pa- tients.
+score --> 0
+Acta Ophthalmol (Copenh).
+score --> 0
+1982; 60:525-532.
+score --> 0
+15.
+score --> 0
+Verriest G. Further studies on acquired deficiency of color discrimination.
+score --> 0
+/ Opt Soc Am.
+score --> 0
+1963;53:185-195.
+score --> 0
+16.
+score --> 0
+Klein R, Davis MD, Magli YL, Segal P, Klein BE, Hub- bard L. The Wisconsin age-related maculopathy grad- ing system.
+score --> 0
+Ophthalmology.
+score --> 0
+1991;98:1128-1134.
+score --> 0
+17.
+score --> 0
+Bressler NM, Bressler SB, Seddon JM, Gragoudas ES, Jacobson LP.
+score --> 0
+Retina.
+score --> 0
+1988;8:109-114.
+score --> 0
+18.
+score --> 0
+Invest Ophthalmol Vis Sci.
+score --> 0
+1989; 30:2341-2347.
+score --> 0
+19.
+score --> 0
+Ulshafer RJ.
+score --> 0
+Prog Clin BiolRes.
+score --> 0
+1989;314:131-139.
+score --> 0
+20.
+score --> 0
+Tate D Jr, Newsome DA, Oliver PD.
+score --> 0
+Invest Ophthalmol Vis Sci.
+score --> 0
+1993; 34:2348-2351.
+score --> 0
+21. van der Schaft TL, de Bruijn WC, Mooy CM, Ketelaars DA, de Jong PT.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1992; 110:389-394.
+score --> 0
+22.
+score --> 0
+Holz FG, Wolfensberger TJ, Piguet B, et al.
+score --> 0
+Ophthalmology.
+score --> 0
+1994; 101: 1522-1528.
+score --> 0
+23.
+score --> 0
+Bressler SB, Maguire MG, Bressler NM, Fine SL.
+score --> 0
+Arch Ophthalmol 1990; 108:1442-1447.
+score --> 0
+24.
+score --> 0
+Schatz H, McDonald HR.
+score --> 0
+Ophthalmology.
+score --> 0
+1989;96:1541-1551.
+score --> 0
+25.
+score --> 0
+Antioxidant status and neovascular age-related macu- lar degeneration: Eye Disease Case-Control Study Group.
+score --> 0
+Arch Ophthalmol.
+score --> 0
+1993; 111:104-109.
+score --> 0
+26.
+score --> 0
+Kaminski MS, Yolton DP, Jordan WT, Yolton RL.
+score --> 0
+Eval- uation of dietary antioxidant levels and supplementa- tion with ICAPS-Plus and Ocuvite.
+score --> 0
+J Am Optom Assoc.
+score --> 0
+1993; 64:862-870.
+score --> 0
+27.
+score --> 0
+Doc Ophthalmol.
+score --> 0
+1992; 81:387-400.
+score --> 0
+28.
+score --> 0
+Goldberg J, Flowerdew G, Smith E, Brody JA, Tso MO.
+score --> 0
+An analysis of data from the first National Health and Nutrition Examination Survey.
+score --> 0
+Am J Epidemiol.
+score --> 0
+1988:128:700-710.
+score --> 0
+29.
+score --> 0
+Seddon JM, Ajani UA, Sperduto RD, et al.
+score --> 0
+JAMA.
+score --> 0
+1994;272:1413-1420.
+score --> 0
+30.
+score --> 0
+Am] Med.
+score --> 0
+1994;97:14S-17S.
+score --> 0
+Downloaded From: http://iovs.arvojournals.org/pdfaccess.ashx?url=/data/Journals/IOVS/933417/ on 10/15/2015 
+score --> 0

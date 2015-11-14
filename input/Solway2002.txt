@@ -1,0 +1,280 @@
+The Short-term Effect of a Rollator on Functional Exercise Capacity Among Individuals With Severe COPD* Sherra Solway, MSc, BSc (PT); Dina Brooks, PhD, MSc, BSc (PT); Louis Lau; and Roger Goldstein, MB, ChB, FCCP Study objectives: This study was conducted to examine the short-term effects of using a rollator on functional exercise capacity among individuals with COPD and to characterize which individuals benefit most from its use.
+Design: Repeated-measures randomized crossover design using the 6-min walk test (6MWT) as the primary outcome measure.
+Setting: Respiratory rehabilitation center.
+Patients: Forty stable subjects who had received a diagnosis of COPD.
+Interventions: Two 6MWTs were performed on each study day.
+One 6MWT was performed unaided, and the other was performed with a rollator.
+The order was randomized on the first day and reversed on the second day.
+Results: Use of the rollator was associated with a significant reduction in dyspnea (p < 0.001) and duration of rest (reduction for the total group, 19 s; and reduction for those who walked < 300 m unaided, 40 s; p  0.001) during the 6MWT.
+For subjects who walked < 300 m unaided, there was also a significant improvement in distance walked (p  0.02).
+No changes were found for the measures of cardiorespiratory function or gait (p > 0.05).
+The requirement to rest during an unaided 6MWT was a significant predictor of improved functional exercise capacity with the use of the rollator (p < 0.005).
+The majority of subjects whose unaided 6MWT distance was < 300 m preferred using the rollator to walking unaided.
+Conclusions: Use of a rollator was effective in improving functional exercise capacity by reducing dyspnea and rest duration among stable individuals with severe COPD.
+Individuals who walked < 300 m and individuals who required a rest during an unaided 6MWT benefited the most from using a rollator in terms of reduced dyspnea, reduced rest time, and improved distance walked.
+(CHEST 2002; 122:56–65) Key words: COPD; dyspnea; functional exercise capacity; rehabilitation; rollator; walk test Abbreviations: NR  no rollator; SGRDQ St. George’s Respiratory Disease Questionnaire; 6MWT 6-min walk test; WR  with rollator I ndividuals with COPD experience reduced func-tional exercise capacity as their condition progresses.
+In patients with severe disease, dyspnea may become so disabling that they are obliged to adopt a sedentary lifestyle.
+This results in further deconditioning, wors- ening of symptoms, and reduced quality of life.1 Respi- ratory rehabilitation programs reverse this cycle by encouraging walking, which is an important, useful, and preferred form of exercise for many individuals with COPD.2,3 Wheeled walking aids are sometimes prescribed for patients with COPD to improve their functional exercise capacity.4 Wheeled walkers are walker frames with two, three, or four standard wheels.
+While a rollator is also considered a walker with four wheels, the front two wheels typically are on swivel casters for easy maneuverability.5 Rollators also are equipped with hand brakes, a basket for carrying *From the Graduate Department of Rehabilitation Science (Ms. Solway) and the Department of Physical Therapy (Dr. Brooks), University of Toronto, Toronto, ON, Canada; and West Park Healthcare Center (Dr. Goldstein and Mr. Lau), Toronto, ON, Canada.
+Support was received from Glaxo Wellcome (unrestricted edu- cational grant), the Clinical Evaluation and Research Unit of the West Park Healthcare Centre, and the West Park Foundation.
+Sherra Solway was supported by the Ontario Respiratory Care Society and the Canadian Physiotherapy Cardiorespiratory Soci- ety through fellowship awards.
+Manuscript received September 7, 2001; revision accepted De- cember 24, 2001.
+Correspondence to: Sherra Solway, MSc, BSc (PT), c/o Dr. Dina Brooks, Department of Physical Therapy, University of Toronto, 256 McCaul St, Toronto, ON, M5T 1W5, Canada; e-mail: s.solway@utoronto.ca 56 Clinical Investigations Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 objects, and a fold-down seat that allows the user to rest at any time.
+Although wheeled walkers offer important advantages over standard walkers (ie, those without wheels),6–9 the effect of wheeled walkers on functional capacity and activities of daily living has not been studied extensively.
+Information on the influence of wheeled walking aids in patients with COPD has been limited to reports that used small sample sizes,4,10–14 subjects with mild disease,14 testing that predated the use of standardized, validated walking tests,10,11 and a study design that was confounded by subjects having to pull their portable oxygen during the unassisted walk.4 Therefore, this study was undertaken to de- termine the short-term effect of using a rollator on functional exercise capacity among individuals with COPD and to characterize which individuals with COPD would benefit most from its use.
+Materials and Methods Subjects We recruited subjects who were enrolled in the respiratory rehabilitation program at West Park Healthcare Center (Toronto, ON, Canada).
+Subjects were considered eligible for the study if they had received a diagnosis of COPD,15 were clinically stable (ie, had no evidence of acute exacerbation and had experienced no change in medication or bronchodilator use in the previous 4 weeks), were between 55 and 85 years of age, and were unaccustomed to the use of a walking aid.
+Exclusion criteria included the presence of associated medical conditions that limited exercise tolerance (eg, symptomatic cardiovascular or musculoskeletal conditions and recent surgery) or an inability to communicate in English.
+Protocol The study was approved by the Human Subjects Review Committee (University of Toronto).
+All subjects gave informed written consent.
+A randomized crossover design was used with the 6-min walk test (6MWT) as the primary outcome measure.
+Each subject was studied at the same time of the day on two separate days in the same week.
+Subjects did not perform the exercise-training component of their respiratory rehabilitation program on study days and were requested to abstain from caffeine for 4 h prior to each session and to administer their inhaled bronchodilator 30 min before each session.
+Subjects wore the same footwear on both study days.
+On each study day, two 6MWTs were performed with a minimum 1-h rest between tests.
+One 6MWT was performed unaided, and the other was performed using a rollator (Opal Legacy; Dolmite; Markham, ON, Canada).
+The test order was randomized (random numbers table) for the first day and re- versed on the second day.
+The same rollator was used for all subjects (Fig 1).
+The height was adjusted to ensure that the handle bars were at the level of the subject’s ulnar styloid process,16 and this was kept consistent for both study days.
+Walk Tests The 6MWTs were conducted in an enclosed corridor that was 60 m long and 3.4 m wide.
+Pylons were placed at either end of the course.
+The tests were performed under quiet conditions with a minimum of distractions and corridor traffic.
+All subjects per- formed at least two practice walks before data collection in order to control for learning and practice effects.17,18 Standardized instructions were provided to subjects, and no encouragement was offered during the tests.19 Subjects were requested to cover as much ground as possible during the test period, stopping only if they felt too tired or too breathless to continue, and to resume walking as soon as they were able to do so.
+Subjects were accompanied by the tester for each 6MWT.
+The tester walked behind the subject in order to avoid pacing.
+The tester pushed a wheeled cart on which the monitoring and acquisition equipment was placed.
+For subjects using supplemental oxygen, the portable oxygen canister also was carried on the wheeled cart.
+Measures Primary Measures: Functional exercise capacity was the pri- mary outcome of this study and was evaluated by 6MWT distance, duration of rest, and modified Borg ratings of dys- pnea.20,21 Distance walked was automatically recorded using a photosensing device (Photoelectric Switch; Omron Corporation; Tokyo, Japan), which was placed on the wheel of the tester’s cart.
+Secondary Measures: Secondary measures were those of car- diorespiratory function and gait.
+Cardiorespiratory function in- cluded oxygen saturation and heart rate, which were acquired continuously with a finger probe pulse oximeter (Biox 3700; Ohmeda; Madison, WI).
+Respiratory rate, minute volume, and the phase relationships between the rib cage and abdominal excursions22,23 were monitored using a respiratory inductance plethysmograph (Respitrace; Ambulatory Monitoring, Inc; Ards- ley, NY).
+This method has been validated during both treadmill and cycle ergometer exercise.23–25 The rib cage band was placed just under the axilla, and the abdominal band was placed below Figure 1.
+Photograph of the type of rollator (Opal Legacy; Dolmite) that was used for study.
+Reprinted with permission of BMedical.com (http://www.bmedical.com/e/walkers/dolomite/ dolomite_legacy.asp).
+www.chestjournal.org CHEST / 122 / 1 / JULY, 2002 57 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 the lowest vertebral rib, just above the iliac crest.26–28 The bands were placed directly on the subject’s skin, as recommended by the manufacturer, and were secured by surgical tape.29 The electronic oscillator unit then was taped to the chest wall to eliminate artifacts caused by movement of the unit.25,28 The plethysmograph was calibrated before each 6MWT with a volume spirometer (Spiroflow; PK Morgan Ltd; Rainham, Gillingham, UK).
+Gait was evaluated by stride length using a self-developed stride counter, and overall walking speed was calculated by dividing the distance walked in 6 min by the duration of actual walking time (ie, the duration of rest was subtracted from the 6 min).
+Other: Demographic, descriptive data and recent spirometry results were extracted from each subject’s medical chart.
+Subjects completed the St. George’s Respiratory Disease Questionnaire (SGRDQ) during the study week and a stan- dardized preference questionnaire on completion of the study.
+In the preference questionnaire, subjects were asked to identify their preference for walking during the 6MWT either with or without the rollator and their reasons for this prefer- ence.
+Weight-bearing by the upper extremities while using the rollator was measured by four strain gauges (LY Series Uniaxial Gauge; Omega Engineering Inc; Laval, QC, Canada) mounted on two force-measuring aluminum beams that were placed under the handle bars.
+Data Acquisition Signals from the respiratory inductance plethysmograph, vol- ume spirometer, distance sensor, pulse oximeter, upper extremity weight-bearing sensors, and stride counter were sampled at 100 Hz using a laptop computer (Satellite Pro 410CS; Toshiba; Tokyo, Japan) with a data acquisition card (DAQCard-AI-16XE-50; Na- tional Instruments; Austin, TX) and data acquisition and processing software (LabVIEW, version 5.1; National Instruments).
+Statistical Analysis A sample size estimation using a two-tailed test with a type 1 error of 0.05 and power of 90% determined that a clinically significant difference in 6MWT distance (mean, 54 m30) would be detected with a minimum of 16 subjects (SD, 86 m).
+However, to allow for the potential of using multiple linear regression with at least three variables, a sample size of 40 was sought.
+This estimation was based on the method of Norman and Streiner31 in which the recommended sample size is 5 to 10 times the number of variables included in the regression equation.
+Data were analyzed for the total sample and for the subgroup of subjects with greater disability who walked  300 m unaid- ed.4,32 Variables were described for the total 6MWT, as well as for individual minutes of each 6MWT.
+Means, SDs, and SEs were calculated for all measures.
+Descriptive statistics also were used for age, height, weight, FEV1, health-related quality of life, subject preference, and upper extremity weight-bearing.
+Differ- ences in outcomes for the 6MWTs conducted with and without the rollator and for study day were analyzed using a two-way repeated-measures analysis of variance.
+Univariate regression was used to explore the relationship between change in functional exercise capacity (ie, distance walked or perception of dyspnea) with the rollator and indepen- dent variables such as age, FEV1, use of supplemental oxygen, etc.
+Stepwise multiple regression analysis was used to determine the relationship between the significant variables and the change in functional exercise capacity using the rollator.
+Statistical analysis and graphing were undertaken using two statistical software packages (SigmaStat, version 2.03, and Sig- maPlot, version 5.0; SPSS Inc; Chicago, IL).
+For all statistical analyses, p values of  0.05 were considered to be significant.
+Results Results are expressed as the mean of measure- ments taken on the two study days.
+No significant difference for study day was observed for any of the outcomes of interest.
+Table 1—General Characteristics of Sample* Variable Total Sample (n  40) Subjects Who Walked  300 m Unaided (n  19) Subjects Who Walked  300 m Unaided (n  21) Sex Male 21 12 9 Female 19 7 12 Age, yr 67.7  1.2 67.6  1.5 67.8  1.8 Weight, kg 71.2  2.3 75.3  3.0 67.5  3.3 Height, cm 165.8  1.5 167.3 2.0 164.4  2.3 Subjects using supplemental oxygen, No.
+(%) 10 (25.0) 7 (36.8) 3 (14.3) Supplemental oxygen required, L/min 2.2 0.3 2.1  0.4 2.3  0.3 FEV1 L 0.8  0.1 0.7 0.04 0.9  0.1 % predicted 36.1  2.0 33.1  2.7 38.7  2.9 FEV1/FVC % 38.5  2.0 36.8  3.2 39.9  2.5 Pao2, mm Hg 65.2  1.6 64.1  2.1 66.2  2.4 Paco2, mm Hg 44.1  0.9 46.3  1.1 41.9  1.3 Sao2, % 91.9  0.6 91.6  0.9 92.2  0.9 SGRDQ, % Total score 51.7  2.6 54.0  3.9 49.7  3.5 Symptoms score 59.4 3.0 63.2  3.8 55.9  4.5 Activity score 72.1 2.9 78.1  3.6 66.8  4.1 Impacts score 37.8 3.1 37.3  5.0 38.3  3.8 *Values given as mean  SE, unless otherwise indicated.
+Sao2  oxyhemoglobin saturation.
+58 Clinical Investigations Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 Sample Characteristics Twenty-one male subjects and 19 female subjects with severe COPD (mean [ SE] FEV1, 36.1 2.0% predicted; FEV1/FVC ratio, 38.5 2.0%; Pao2, 65.2 1.6 mm Hg; Paco2, 44.1 0.9 mm Hg; oxyhe- moglobin saturation, 91.9 0.6%) participated in the study.
+Ten of the subjects used supplemental oxygen during exertion.
+Of the 40 subjects, 19 walked 300 m during the unaided 6MWT.
+Subject characteristics are shown in Table 1.
+Primary Outcomes 6MWT Distance: Walking distance increased with the use of the rollator among subjects who walked  300 m unaided (with rollator [WR], 242.5 14.2 m; no rollator [NR], 220.3 12.0 m; p 0.02), whereas it was unchanged in the total sample (WR, 317.0 15.7 m; NR, 311.6 16.6 m; p 0.3) and in those who walked  300 m unaided (WR, 384.4 16.4 m; NR, 394.3 13.9 m; p  0.1) [Fig 2].
+The mean distance walked for each minute of the 6MWT for the total sample and for subjects who walked  300 m and  300 m is shown in Figure 3.
+In both the total sample and the subgroup of subjects who walked 300 m unaided, there was a decline in distance walked during the middle of the 6MWT (ie, minutes 2 to 4) and an increase in the distance walked at the end portion of the test (ie, minutes 4 to Figure 2.
+Total distance walked unaided (NR) and WR (R) for the total sample (left, A), subjects who walked  300 m unaided (middle, B), and subjects who walked  300 m unaided (right, C).
+Open circles individual data points; solid squares mean  SE.
+Figure 3.
+Distance walked unaided (NR) and WR (R) for each minute of the 6MWT for the total sample (left, A), subjects who walked  300 m unaided (middle, B), and subjects who walked  300 m unaided (right, C).
+Open circlesWR; solid circles NR.
+www.chestjournal.org CHEST / 122 / 1 / JULY, 2002 59 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 6).
+This pattern was consistent regardless of rollator use, but it was not present among subjects who walked  300 m and was likely due to the require- ment of rest during the middle potion of the 6MWT in those who walked  300 m. For the total sample, subjects walked further unaided during the first minute of the 6MWT (WR, 54.4 2.4 m; NR, 57.3 2.2 m; p 0.001) with no differences in distance walked for minutes 2, 3, 4, 5, and 6 (p 0.1).
+The interaction between time (ie, minutes) and the use of the rollator was significant (p 0.001).
+Those subjects who walked  300 m unaided also walked slightly further in the first minute unaided (WR, 44.1 2.2 m; NR, 47.8 1.8 m; p  0.001), however, they walked significantly fur- ther with the rollator for minute 3 (WR, 40.4 2.2 m; NR, 34.0 1.9 m; p 0.01), minute 4 (WR, 35.7 3.1 m; NR, 28.3 3.2 m; p 0.03), minute 5 (WR; 37.3 3.5 m; NR, 31.4 3.5 m; p 0.02), and minute 6 (WR, 39.9 3.8 m; NR, 34.3 3.9 m; p  0.02).
+The interaction between time and rollator use was also significant (p 0.001).
+The distance walked each minute was less variable with use of the rollator (Fig 3, middle, B).
+Duration of Rest: Subjects rested for a mean ( SE) time of 11.9 5.8 s with the rollator com- pared to 31.2 8.7 s without the rollator (p 0.001; Fig 4).
+This reduction in resting time when using the rollator was even greater when it was calculated for the group of subjects who walked  300 m unaided (WR, 24.3 11.6 m; NR, 64.7 15.0 s; p 0.001) [Fig 4].
+Rest duration for each 6MWT was associated with a single rest for the majority of subjects.
+Modified Borg Rating of Dyspnea: The rollator was associated with a statistically significant reduc- tion in dyspnea in the total sample (WR, 1.8 0.2 unit change; NR, 2.7 0.3 unit change; p 0.001).
+This observation persisted when the results were analyzed separately for those who walked  300 m unaided (WR, 1.8 0.3 unit change; NR, 3.2 0.4 unit change; p 0.001) and for those who walked  300 m unaided (WR, 1.7 0.2 unit change; NR, 2.2 0.3 unit change; p 0.03) [Fig 5].
+Secondary Outcomes Cardiorespiratory Function: Use of the rollator did not influence oxygen saturation during the 6MWT among the total group (p 0.2) or among those who walked  300 m unaided (p 0.1) [Fig 6].
+Heart rate decreased slightly with the rollator (WR, 102.5 1.8 beats/min; NR, 105.9 1.9 beats/min; p 0.02) due to lower heart rates in minutes 1 and 6 of the 6MWT (p 0.03).
+No significant difference was found for those who walked  300 m unaided (p 0.2).
+There were no changes in respiratory rate (p 0.4), minute volume (p 0.4), or phase relation- ships between the rib cage and abdominal excursions (p 0.5) with use of the rollator for the total sample or for those who walked  300 m unaided.
+Gait: There was no difference in stride length during the 6MWT when using the rollator among the total sample (p 0.2) or for those who walked  300 m unaided (p 0.2).
+Use of the rollator was associated with a slight reduction in walking speed for the total sample (WR, 54.4 2.4 m/min; NR, 56.1 2.2 m/min; p 0.007).
+No difference was observed for the subjects who walked  300 m unaided (p 0.1).
+Upper Extremity Weight-Bearing: The amount of upper extremity weight applied to the rollator was Figure 4.
+Duration of rest during the 6MWT when walking unaided (NR) and WR (R) for the total sample (top, A) and subjects who walked  300 m unaided (bottom, B).
+Open circles represent individual data points.
+Solid squares represent mean  SE.
+60 Clinical Investigations Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 5.0 0.3 kg (7.0 0.4% of body weight) for the total group and 5.5 0.5 kg (7.4 0.6% of body weight) for those who walked 300 m unaided.
+The amount of weight applied to the rollator was unre- lated to changes in distance walked (r  0.3; p  0.1) or dyspnea ratings (r  0.3; p 0.3) with use of the rollator.
+Subject Preference: Fifty percent of subjects (n 20) preferred walking with the rollator, 17.5% (n 7) had no preference, and 32.5% (n 13) preferred to walk unaided.
+Of the 19 subjects who walked  300 m unaided, 14 (74%) preferred using the rollator, 1 had no preference, and 4 preferred to walk unaided.
+The number and percentage of sub- jects agreeing with specific statements pertaining to the use of the rollator are shown in Table 2.
+Regression Analysis: Baseline measures of impair- ment (FEV1), disability (unaided 6MWT distance of  300 m or  300 m), and quality of life (SGRDQ scores), as well as other variables such as oxygen use, resting during the unassisted 6MWT, and baseline dyspnea ratings, were evaluated by simple regression analysis to identify potential predictors of improve- ment in functional exercise capacity with use of the rollator (Table 3).
+The unaided 6MWT distance and the requirement for a rest during the 6MWT were significant for both improvement in distance walked and dyspnea rating.
+Stepwise regression analysis revealed that requiring a rest during the unaided 6MWT was predictive of improvement in both dis- tance walked and perception of dyspnea with use of the rollator (Table 4).
+There was a strong and significant relationship between requiring a rest and the unaided 6MWT distance (r  0.67; p  0.001).
+Discussion We have extended the observations reported on the use of wheeled walking aids in patients with COPD4,10–13 to include a larger sample size, stan- dardized walking tests, and measures of weight transferred to the rollator.
+We also evaluated the characteristics that are most likely to be associated with an improvement in functional exercise capacity among a homogeneous population of patients with severe disease.
+Use of a rollator reduced dyspnea and rest time during walking among stable subjects with severe COPD.
+For individuals who walked  300 m unaided, the distance walked also increased.
+Functional capacity has been defined as the ability to undertake physically demanding activities of daily living.33 An improvement in functional capacity can be manifested by walking further or by being less breathless for the same distance walked.34 In this study, all of the subjects experienced a reduction in dyspnea with the rollator.
+Dyspnea is a distressing sensation that limits exercise tolerance, and, as such, some clinicians regard it as a primary outcome measure in the rehabilitation of patients with COPD.35–37 It has been suggested that a 1-unit change represents the minimum clinically important difference for dyspnea ratings using the modified Borg scale (Denis O’Donnell, MD; personal commu- nication; April 6, 2000).
+The use of a rollator resulted in a 1-unit reduction in the perception of dyspnea for the total sample and a 1.4-unit reduction for those patients who were most disabled.
+These results are Figure 5.
+Comparison of the change in dyspnea ratings when walking unaided (NR) and WR (R) for the total sample (left, A), subjects who walked  300 m unaided (middle, B), and subjects who walked  300 m unaided (right, C).
+Open circles represent individual data points.
+Solid squares represent the mean  SE.
+www.chestjournal.org CHEST / 122 / 1 / JULY, 2002 61 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 consistent with reports by Honeyman and col- leagues4 and Dalton and colleagues,13 who found a reduction in dyspnea of  1 unit with the use of a rollator.
+Subjects with greater disability (ie, 6MWT dis- tance,  300 m) walked further WR.
+Although a minimal change in 6MWT distance of 54 m has been suggested as the threshold for a clinically important improvement, this value is based on a COPD popu- lation with an average 6MWT distance of 371 m.30 Given that our subgroup walked 220 m during the unaided 6MWT, the smaller improvement of 22 m is likely to be meaningful, especially since it was ac- companied by a reduction in dyspnea.
+Honeyman and colleagues4 and Wesmiller and Hoffman12 have reported comparable improvements with the use of a rollator among individuals with similar levels of disability.
+The improvements observed among the more disabled subjects may be especially important as improvements in exercise performance and health status in patients with COPD after an exercise program may depend on the severity of their disabil- ity.
+Wedzicha and colleagues38 noted that although patients with moderate disability (ie, Medical Re- search Council dyspnea grades 3 and 4) who were mobile outside of their homes showed improvements in exercise capacity following rehabilitation, those with severe disability (ie, Medical Research Council dyspnea grade 5) who were largely housebound showed no improvement in exercise performance following individualized physical training.
+Therefore, for patients with severe disability and poor physical fitness, the provision of a rollator might offer a useful adjunct to rehabilitation in reducing dyspnea and increasing exercise tolerance.
+The outcome of rest duration has received little attention in the literature.
+In a review of studies that used time-based walking tests to evaluate functional exercise capacity, Menard-Rothe and colleagues39 found none that reported total rest time as an outcome.
+We included a measure of rest duration as this information allows a clearer understanding of the walk test.39 Our finding of a reduction in rest time of 19 s for the total group and 40 s for the more disabled subgroup supports the benefit of using a rollator, especially when considered in conjunction with the reduction in dyspnea and the improvement in walking distance observed among the more dis- abled subjects.
+The use of the rollator was not associated with changes in ventilation or breathing pattern, an ob- servation that is in agreement with that of Grant and Capel,11 who used a respirometer to measure minute ventilation in five men with COPD and noted no change when they walked with a wheeled walking aid.
+Improvement in ventilation using the rollator may be contingent on being able to adopt the “forward-lean” position frequently seen among pa- tients with COPD.40 This position is thought to improve the effectiveness of the diaphragm, thereby reducing work of breathing.40,41 Whereas other stud- ies on wheeled walking aids have used high-wheeled walkers10,11,14 or have adjusted the height of the aid for comfort,12 we standardized the height of the rollator, using the approach that most clinicians adopt when prescribing walking frames.16,42 It is possible that the height of the rollator may have been too low to facilitate this forward-lean position.
+Improvement with the rollator was not dependent on the actual amount of weight applied to the rollator, which was only 7% of the subject’s body weight.
+However, the provision of arm support likely Figure 6.
+Oxygen saturation during the 6MWT when walking unaided (NR) and WR (R) for the total sample (top, A) and subjects who walked  300 m unaided (bottom, B).
+Open circles represent individual data points.
+Solid squares repre- sent mean  SE.
+62 Clinical Investigations Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 did contribute to the improvement.
+Individuals with COPD often breathe with their accessory respiratory muscles including those of the upper arm and shoul- der girdle, which have roles both in the maintenance of ventilation and in postural stabilization.43,44 When the arms are unsupported, such as in arm swing during ambulation, the accessory muscles increase their participation in the postural support of the chest wall.
+To reduce dyspnea, individuals often stabilize their arms.45 This stabilization enables the arm and shoulder girdle muscles to act more effec- tively as accessory muscles of respiration.46 There- fore, the rollator may have facilitated a reduction in dyspnea by enabling the users to stabilize their upper limbs during walking, thereby improving the effec- tiveness of their accessory muscles.43,44 In this study, we did not evaluate the electromyographic activity of accessory muscles.
+Dyspnea is also influenced by emotion.47 During exercise, an individual may breathe hard and not experience the sensation of dyspnea because such exertion is not accompanied by a sense of anxiety over the adequacy of ventilation.48 Additionally, the sensation of dyspnea may occur without a corre- sponding change in ventilation or gas exchange.48 Therefore, patients with COPD who are anxious may experience more dyspnea for a given amount of work than those who are not.
+Use of the rollator may have provided sufficient reassurance to reduce anxiety during walking to result in a reduction in their perception of dyspnea without a corresponding change in ventilation.
+We may in fact have underes- timated the benefit of a rollator among individuals with severe COPD as, in the course of modifying the rollator to incorporate the measurement of upper extremity weight-bearing, we removed the seat.
+The seat provides the user with the security of knowing that he/she can rest at anytime and may, therefore, serve to further reduce the anxiety and fear many individuals with COPD have when embarking on community ambulation.
+Stride length and walking speed have been shown to be altered when using various types of wheeled walking aids, especially among older subjects with no underlying lung disease.6,49–51 Although neither changed in the current study, we did observe changes in minute-to-minute variability of distance walked, reflecting improved pacing, especially among subjects with greater disability (Fig 3).
+Finally, we noted that the majority of subjects, especially individuals with greater disability, pre- ferred using the rollator to walking unaided.
+Those who did not reported concerns of the perceived stigma associated with using a mobility aid and its Table 3—Univariate Regression Analysis Between Potential Predictor Variables and Improvement in Distance Walked and Perception of Dyspnea Using a Rollator Predictor Variables Distance Walked (WRNR) Change in Dyspnea (WRNR) n r Value p Value n r Value p Value FEV1 37 0.15 0.42 36 0.10 0.57 Unaided 6MWT distance (ie,  300 m or  300 m) 40 0.48 0.002 39 0.38 0.02 Health-related quality-of-life scores† 36  0.17  0.36 36  0.40 Use of supplemental oxygen 40 0.18 0.28 39 0.15 0.36 Requirement of a rest during unaided 6MWT 40 0.57  0.001* 39 0.49 0.002* Baseline modified Borg rating of dyspnea 39 0.12 0.45 39 0.12 0.47 Age 40 0.13 0.43 39 0.08 0.63 *Statistical significance.
+†Total and domain scores for the SGRDQ.
+Table 2—Agreement With Statements Pertaining to Use of the Rollator During the 6MWT* Statement Subjects Who Walked  300 m Unaided (n  19) Subjects Who Walked  300 m Unaided (n  21) Strongly Agree or Agree Neither Agree nor Disagree Strongly Disagree or Disagree Strongly Agree or Agree Neither Agree nor Disagree Strongly Disagree or Disagree Breathe easier 14 (73.7) 4 (21.0) 1 (5.3) 11 (52.4) 7 (33.3) 3 (14.3) Feel safer 13 (68.4) 3 (15.8) 3 (15.8) 11 (52.4) 6 (28.6) 4 (19.0) Difficult to push 0 (0) 0 (0) 19 (100.0) 1 (5.3) 1 (5.3) 19 (90.5) Impaired walking 0 (0) 2 (10.5) 17 (89.5) 0 (0) 4 (19.0) 17 (81.0) *Values given as No.
+of subjects (%).
+www.chestjournal.org CHEST / 122 / 1 / JULY, 2002 63 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 cost (the Opal Legacy rollator retails for approxi- mately $495 [in Canadian dollars]).
+Therefore, it is important to address the patient’s preferences prior to a making a clinical recommendation.52,53 Conclusion The use of a rollator reduced dyspnea and rest duration in stable patients with severe COPD.
+Those who walked  300 m unaided or required a rest during the 6MWT benefited the most from use of the rollator, as in this group walking distance also increased.
+The improvement was not associated with alterations in cardiorespiratory function or gait.
+The effect of rollator height and its influence on respira- tory muscle function, as well as the long-term effects of rollator use on functional exercise capacity and health-related quality of life will further advance our understanding of the indications for recommending the use of a rollator to patients with COPD.
+ACKNOWLEDGMENTS: The authors thank Drs.
+Cheryl Cott and Scott Thomas for their constructive comments in the plan- ning and execution of the study, David I. Wang for his assistance with data analysis, Donna Clow for her help with subject recruitment, Therapists Choice Medical Supplies for provision of the rollator, and the individuals who participated in the study, for their time, kindness, and genuine desire to help others.
+References 1 Canadian Respiratory Review Panel.
+Guidelines for the treat- ment of chronic obstructive pulmonary disease (COPD).
+1st ed.
+Toronto, Canada: Medication Use Management Services, 1998 2 American Thoracic Society.
+Pulmonary rehabilitation: 1999.
+Am J Respir Crit Care Med 1999; 159:1666–1682 3 Murray JF, Petty TL, eds.
+Frontline treatment of COPD.
+Hackettstown, NJ: Snowdrift Pulmonary Foundation, 1996 4 Honeyman P, Barr P, Stubbing DG.
+Effect of a walking aid on disability, oxygenation, and breathlessness in patients with chronic airflow limitation.
+J Cardpulm Rehabil 1996; 16: 63–67 5 Cornely HZ.
+Functional outcome difference using a rollator walker versus a two-wheeled rolling walker.
+Phys Ther Case Rep 1998; 1:104–106 6 Bohannon RW.
+Gait performance with wheeled and standard walkers.
+Percept Mot Skills 1997; 85:1185–1186 7 Medley A, Thompson M. The effect of assistive devices on the performance of community dwelling elderly on the timed up and go test.
+Issues Aging 1997; 20:3–7 8 Foley MP, Prax B, Crowell R, et al.
+Effects of assistive devices on cardiorespiratory demands in older adults.
+Phys Ther 1996; 76:1313–1319 9 Hamzeh MA, Bowker P, Sayegh A.
+The energy costs of walking using two types of walking frames.
+Clin Rehabil 1988; 2:119–123 10 Campbell EJM.
+Portable oxygen equipment and walking aid in pulmonary emphysema.
+BMJ 1957; 11:1518–1521 11 Grant BJB, Capel LH.
+Walking aid for pulmonary emphy- sema.
+Lancet 1972; 25:1125–1127 12 Wesmiller SW, Hoffman LA.
+Evaluation of an assistive device for ambulation in oxygen dependent patients with COPD.
+J Cardpulm Rehabil 1994; 14:122–126 13 Dalton G, Ashley J, Rudkin ST, et al.
+The effect of walking aids on walking distance, breathlessness and oxygenation in patients with severe chronic obstructive pulmonary disease (COPD) [abstract].
+Thorax 1995; 50(suppl):26 14 Roomi J, Yohannes AM, Connolly MJ.
+The effect of walking aids on exercise capacity and oxygenation in elderly patients with chronic obstructive pulmonary disease.
+Age Ageing 1998; 27:703–706 15 American Thoracic Society.
+Standards for the diagnosis and care of patients with chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 1995; 152:S77–S121 16 Pierson FM.
+Principles and techniques of patient care.
+Philadelphia, PA: WB Saunders, 1994 17 Solway S, Brooks D, Lacasse Y, et al.
+A qualitative systematic overview of the measurement properties of functional walk tests used in the cardiorespiratory domain.
+Chest 2001; 119:256–270 18 Bittner V. Six minute walk test in patients with cardiac dysfunction.
+Cardiologia 1997; 42:897–902 19 Guyatt GH, Pugsley SO, Sullivan MJ, et al.
+Effect of encour- agement on walking test performance.
+Thorax 1984; 39:818– 822 20 Borg GAV.
+Psychophysical bases of perceived exertion.
+Med Sci Sports Exerc 1982; 14:377–381 21 Borg G. A category scale with ratio properties for intermodal and interindividual comparisons.
+In: Geissler HG, Petzold P, eds.
+Psychophysical judgement and the process of perception.
+Proceedings of the 22nd International Congress of Psychol- ogy.
+Amsterdam, Netherlands: North Holland Publishing, 1980; 25–34 22 Gosselink RAAM, Wagenaar RC, Rijswijk H, et al.
+Diaphrag- matic breathing reduces efficiency of breathing in patients with chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 1995; 151:1136–1142 23 Tobin MJ, Jenouri G, Lind B, et al.
+Validation of respiratory inductive plethsmography in patients with pulmonary disease.
+Chest 1983; 83:615–620 24 Wells JA, Smyth RJ, Rebuck AS.
+Thoracoabdominal motion in response to treadmill and cycle exercise.
+Am Rev Respir Dis 1986; 134:1125–1128 25 Sackner JD, Nixon ASAJ, Davis B, et al.
+Non-invasive mea- surement of ventilation during exercise using a respiratory Table 4—Multiple Regression Analysis Between Predictor Variables Identified With Simple Linear Regression and Improvement in Functional Exercise Capacity Using a Rollator* Variables Distance Walked (WR  NR)† (n  40) Change in Dyspnea (WR  NR)‡ (n  39) Unaided 6MWT distance (ie,  300 m or  300 m) 0.31 0.58 Requirement of a rest during unaided 6MWT 0.001§ 0.002§ *Values are given as p values.
+†R2  0.32.
+‡R2  0.24.
+§Statistical significance.
+64 Clinical Investigations Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 inductive plethysmograph.
+Am Rev Respir Dis 1980; 122: 867–871 26 Verschakelen JA, Deschepper K, Jiang TX, et al.
+Diaphrag- matic displacement measured by fluoroscopy and derived by respitrace.
+J Appl Physiol 1989; 67:694–698 27 Loveridge B, West P, Anthonisen NR, et al.
+Single position calibration of respiratory inductance plethysmograph.
+J Appl Physiol 1983; 55:1031–1034 28 Cohn MA, Rao ASV, Broudy M, et al.
+The respiratory inductive plethysmograph: a new non-invasive monitor of respiration.
+Bull Eur Physiopathol Respir 1982; 18:643–658 29 Millman RP, Chung DCC, Shore ET.
+Importance of breath size in calibrating respiratory inductive plethysmograph.
+Chest 1986; 89:840–845 30 Redelmeier DA, Bayoumi AM, Goldstein RS, et al.
+Interpret- ing small differences in functional status: the six minute walk test in chronic lung disease patients.
+Am J Respir Crit Care Med 1997; 155:1278–1282 31 Norman GR, Streiner DL.
+PDQ statistics.
+2nd ed.
+Hamilton, ON, Canada: BC Decker, 1999 32 Goldstein RS, Gort EH, Stubbing D, et al.
+Randomized controlled trial of respiratory rehabilitation.
+Lancet 1994; 344:1394–1397 33 Guyatt GH, Thompson PJ, Berman LB, et al.
+How should we measure function in patients with chronic heart and lung disease?
+J Chronic Dis 1985; 38:517–524 34 Calverley PMA.
+Supplementary therapy in COPD: is it really useful?
+Thorax 2000; 55:537–538 35 O’Donnell DE.
+Dyspnea in advanced chronic obstructive pulmonary disease.
+J Heart Lung Transplant 1998; 17:544– 554 36 O’Donnell DE, McGuire M, Samis L, et al.
+The impact of exercise reconditioning on breathlessness in severe chronic airflow limitation.
+Am J Respir Crit Care Med 1995; 152: 2005–2013 37 Jenkins C, Mitchell C, Irving L, et al.
+Guidelines for the management of chronic obstructive pulmonary disease.
+Mod Med Aust 1995; 38:132–146 38 Wedzicha JA, Bestall JC, Garrod R, et al.
+Randomized controlled trial of pulmonary rehabilitation in severe chronic obstructive pulmonary disease patients, stratified with the MRC dyspnoea scale.
+Eur Respir J 1998; 12:363–369 39 Menard-Rothe K, Sobush DC, Bousamra M, et al.
+Self- selected walking velocity for functional ambulation in patients with end-stage emphysema.
+J Cardiopulm Rehabil 1997; 17:85–91 40 Sharp JT, Drutz WS, Moisan T, et al.
+Postural relief of dyspnea in severe chronic obstructive pulmonary disease.
+Am Rev Respir Dis 1980; 122:201–211 41 Barach AL.
+Chronic obstructive pulmonary disease: postural relief of dyspnea.
+Arch Phys Med Rehabil 1974; 55:494–504 42 Hall J, Clarke AK, Harrison R. Guidelines for prescription of walking frames.
+Physiotherapy 1990; 76:118–120 43 Celli BR.
+The clinical use of upper extremity exercise.
+Clin Chest Med 1994; 15:339–349 44 Breslin EH, Garoutte BC, Kohlman-Carrieri V, et al.
+Corre- lations between dyspnea, diaphragm and sternomastoid re- cruitment during inspiratory resistance breathing in normal subjects.
+Chest 1990; 98:298–302 45 Celli BR, Rassulo J, Make BJ.
+Dyssynchronous breathing during arm but not leg exercise in patients with chronic airflow obstruction.
+N Engl J Med 1986; 314:1485–1490 46 Banzett RB, Topulos GP, Leith DE, et al.
+Bracing arms increases capacity for sustained hyperpnea.
+Am Rev Respir Dis 1988; 138:106–109 47 Altose MD.
+Assessment and management of breathlessness.
+Chest 1985; 88(suppl):77S–83S 48 Sherwood L. Human physiology from cells to systems.
+2nd ed.
+Minneapolis, MN: West Publishing Company, 1993 49 Cornely H, Garcia J, Pereda A.
+Comparing ambulation with a rollator walker and a two-wheeled rolling walker [abstract].
+Phys Ther 1997; 77:S72 50 Mahoney J, Euhardy R, Carnes M. A comparison of a two-wheeled walker and a three-wheeled walker in a geriatric population.
+J Am Geriatr Soc 1992; 40:208–212 51 McGavin CR, Gupta SP, Lloyd EL, et al.
+Physical rehabili- tation for the chronic bronchitic: results of a controlled trial of exercises in the home.
+Thorax 1977; 32:307–311 52 Guyatt GH, Haynes RB, Jaeschke RZ, et al.
+Users’ guides to the medical literature: XXV.
+Evidence-based medicine: prin- ciples for applying the users’ guides to patient care; Evidence- Based Medicine Working Group.
+JAMA 2000; 284:1290– 1296 53 McAlister FA, Straus SE, Guyatt GH, et al.
+Users’ guides to the medical literature: XX.
+Integrating research evidence with the care of the individual patient: Evidence-Based Working Group.
+JAMA 2000; 283:2829–2836 www.chestjournal.org CHEST / 122 / 1 / JULY, 2002 65 Downloaded From: http://journal.publications.chestnet.org/ by a Northwestern University User  on 10/29/2015 

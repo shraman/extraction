@@ -1,0 +1,453 @@
+women with pathologically confirmed, HER2-positive, locally ad- vanced or metastatic breast cancer. HER2 status was considered positive if over-expres- sion was detected in either the primary or metastatic tumour tissue by local immunohis- tochemistry (grade 3+ staining intensity) or by fluorescence in situ hybridisation. Du- ration of previous trastuzumab treatment had to be 12 weeks or greater, and the time since the end of the last trastuzumab cycle had to be less than 6 weeks. Patients could have received up to 1 chemotherapy drug for metastatic disease. Karnofsky performance status of 60% or greater; a life expectancy of greater than 3 months; and adequate hae- matologic, renal, hepatic and cardiac function sonographically confirmed by a LVEF of 50% or greater. Written informed consent
+Patients were required to have a Karnofsky perfor- mance status of 60% or greater; a life expectancy of greater than 3 months; and adequate hematologic, renal, hepatic, and cardiac function that was sono- graphically confirmed by a left ventricular ejection fraction (LVEF) of 50% or greater.
+score --> 16
+HER-2 status was considered positive if overexpres- sion was detected in either the primary or metastatic tumor tissue by local immunohistochemistry (grade 3 staining intensity) or by fluorescence in situ hybridization.
+score --> 15
+Durations of response were 3.4 months (95% CI, 3.0 to 5.9) in the capecitabine group and 3.9 months (95% CI, 1.8 Patients randomly assigned (N = 156) Capecitabine monotherapy (n = 78) Capecitabine + trastuzumab (n = 78) Treated until progression or death (n = 53) Treated until progression or death (n = 55) Received at least one cycle of allocated treatment (n = 74) Received at least one cycle of allocated treatment (n = 77) Did not start treatment • Unknown (n = 1) Did not start treatment • Withdrawal of     consent (n = 3) • Unknown (n = 1) Premature discontinuation • Adverse events (n = 10) • Patients wish (n = 6) • End of chemotherapy     unknown (n = 5) Ongoing therapy at     database lock  (n = 6) Premature discontinuation • Adverse events (n = 8) • Patients wish (n = 3) • End of chemotherapy     unknown (n = 5) Fig 1.
+score --> 15
+Duration of previous trastuzumab treatment had to be 12 weeks or greater, and the time since the end of the last trastuzumab cycle had to be less than 6 weeks.
+score --> 13
+% Age, years Median 59.0 52.5 Range 33-82 28-78 Karnofsky index 100 39 51 34 44 90-80 35 46 41 53 70-60 2 3 2 3 Menopausal status Premenopausal 12 16 17 23 Postmenopausal 64 84 58 77 T stage at first diagnosis 1 30 43 20 28 2 30 43 27 38 3-4 11 14 24 34 N stage at first diagnosis Negative 15 21 12 17 Positive 58 79 59 83 M stage at first diagnosis 0 55 76 58 82 1 17 24 13 18 Grading at first diagnosis 2 31 40 34 44 3-4 47 60 44 56 Hormone receptor status ER- and PgR-negative 28 39 32 44 ER- and/or PgR-positive 43 62 41 56 Metastatic site Locoregional 7 9 14 18 Liver 39 50 40 51 Lung 30 38 27 35 Bone 17 22 14 18 CNS 2 3 1 1 Other 18 23 29 37 Previous therapy Adjuvant trastuzumab plus taxane 0 0 3 4 Trastuzumab plus taxane for metastatic disease 56 72 55 70 Trastuzumab with or without other chemotherapy for metastatic disease 22 28 20 26 Anthracyclines 53 68 55 71 Taxanes 64 82 68 87 Duration of previous trastuzumab therapy, weeks  12 5 7 1 2 12-24 11 14 12 17  24 61 79 57 81 Abbreviations: ER, estrogen receptor; PgR, progesterone receptor.
+score --> 12
+Selection of Patients Women with pathologically confirmed, HER-2–positive, locally ad- vanced or metastatic breast cancer were enrolled on the study if they provided written informed consent.
+score --> 11
+Capecitabine is an oral prodrug of the antimetabolite fluororu- racil; it is frequently used in patients with metastatic breast cancer after taxane treatment and provides consistent response rates and accept- able toxicity.11,12 The combination of capecitabine and trastuzumab showed a clinical benefit rate of 63% to 70% in heavily pretreated patients with HER-2–positive advanced breast cancer.4,13 We conducted this phase III trial to assess whether patients who were treated with trastuzumab beyond progression and second-line chemotherapy experienced a longer time to progression than those treated with chemotherapy alone.
+score --> 10
+In vitro laboratory experiments did not identify fluorouracil as additive or synergistic with trastuzumab.24 However, in-tumor xeno- graft models of capecitabine and trastuzumab had at least additive antitumor activity in vivo.25 One might speculate that trastuzumab beyond progression will be even more efficacious with other chemo- therapeutic drugs, like platinum compounds.26 In conclusion, these data confirm a statistically and clinically significant improved response and time to progression for the continuation of trastuzumab beyond progression in the manage- ment of women with HER-2–positive advanced breast cancer.
+score --> 9
+Factors Associated With Time to Progression Factor Analysis Univariate Multivariate HR 95% CI P  HR 95% CI P† Age, years  Median‡  Median 1.03 0.73 to 1.46 .867 1.04 0.71 to 1.53 .841 Karnofsky index .237 .568 80-100‡  80 2.24 0.82 to 6.13 .118 1.74 0.57 to 5.29 .331 Missing 1.52 0.48 to 4.82 .475 1.287 0.36 to 4.61 .698 pT stage at first diagnosis .520 .107 1 or 2‡ 3 or 4 1.08 0.70 to 1.66 .719 1.60 0.93 to 2.74 .089 Missing 0.68 0.33 to 1.41 .304 0.65 0.25 to 1.68 .375 Tumor grade .322 .403 III‡ I or II 0.77 0.53 to 1.11 .157 0.76 0.50 to 1.14 .182 Missing 0.75 0.38 to 1.51 .423 0.84 0.39 to 1.82 .666 Node status at first diagnosis .861 .435 Negative‡ Positive 0.89 0.56 to 1.40 .615 0.75 0.44 to 1.28 .290 Missing 0.84 0.36 to 1.96 .683 1.16 0.36 to 3.74 .799 M status at first diagnosis .891 .497 0‡ 1 0.89 0.57 to 1.41 .631 0.74 0.44 to 1.24 .250 Missing 0.99 0.50 to 1.96 .966 .899 ER/PgR status at first diagnosis .056 .003 Negative/negative‡ Other 0.86 0.60 to 1.23 .395 0.66 0.44 to 0.99 .045 Missing 2.90 1.04 to 8.10 .042 1.06 0.46 to 2.44 .017 Pretreatment .572 .469 Trastuzumab plus taxane‡ Trastuzumab with or without other chemotherapy 0.91 0.61 to 1.36 .642 0.82 0.53 to 1.26 .363 Adjuvant trastuzumab plus taxane 0.49 0.12 to 2.01 .964 0.51 0.12 to 2.21 .367 Metastatic site Low-risk‡§ High-risk 1.54 1.05 to 2.26 .028 1.73 1.15 to 2.60 .009 Assigned treatment Capecitabine alone‡ Capecitabine plus trastuzumab 0.69 0.48 to 0.97 .035 0.66 0.43 to 0.99 .049 Abbreviations: HR, hazard ratio; ER, estrogen receptor; PgR, progesterone receptor.
+score --> 9
+Methods Patients with HER-2–positive breast cancer that progresses during treatment with trastuzumab were randomly assigned to receive capecitabine (2,500 mg/m2 body-surface area on days 1 through 14 [1,250 mg/m2 semi-daily]) alone or with continuation of trastuzumab (6 mg/kg body weight) in 3-week cycles.
+score --> 8
+Conclusion Continuation of trastuzumab plus capecitabine showed a significant improvement in overall response and time to progression compared with capecitabine alone in women with HER-2– positive breast cancer who experienced progression during trastuzumab treatment.
+score --> 8
+Preclinical data indicate that trastuzumab is effective against tumor cell proliferation as long as it is present, whereas trastuzumab withdrawal re- sults in rapid tumor cell regrowth.1,2 In addition, trastuzumab significantly enhances the antitumor effect of taxanes in tumors that progress with trastuzumab alone.3 Clinical evidence on treatment with trastu- zumab beyond progression either alone or with a switch to a different chemotherapy is based, so far, on various retrospective analyses.4-7 However, these results might be biased as a result of unknown fac- tors that influence physicians’ decisions to stop or to continue trastuzumab.
+score --> 8
+The median durations of previous trastuzumab treatment were 45 weeks (range, 7 to 235 weeks) in the capecitabine group and 44 weeks (range, 10 to 284 weeks) in the capecitabine-plus- trastuzumab group.
+score --> 8
+Random assignment was stratified by pretreatment (ie, taxanes and trastuzumab as adjuvant treatment, taxanes and trastu- zumab as first-line treatment for metastatic disease, and trastuzumab alone or in combination with cytotoxic agents other than capecitabine or taxanes as first-line treatment) and by participating center.
+score --> 7
+Patients could have received up to one chemotherapy drug for metastatic disease.
+score --> 7
+Treatment Patients received either capecitabine 2,500 mg/m2 (1,250 mg/m2 semi- daily) on days 1 through 14 followed by 1 week of rest or the same capecitabine regimen plus trastuzumab 6 mg/kg body weight as a 30-minute infusion every 3 weeks until disease progression or unacceptable toxicity occurred.
+score --> 7
+DISCUSSION The introduction of trastuzumab has improved the prognosis of women with HER-2–positive metastatic breast cancer beyond that of women with HER-2–negative disease.14 Consequently, subsequent lines of treatment are more frequently required.
+score --> 7
+Dawood SS, Kristine B, Hortobagyi GN, et al: Prognosis of women with stage IV breast cancer by HER2 status and trastuzumab treatment: An institu- tional based review.
+score --> 7
+Specific recommendations for dose modification were provided for di- arrhea of grade  2, nausea or vomiting of grade  2, skin toxicity of grade  2, neutropenic fever, decreased LVEF to less than 45%, and other toxicities of grade  3.
+score --> 6
+More than one chemotherapy drug for metastatic disease was allowed in the lapatinib trial, whereas, in our trial, the vast majority of the patients started capecitabine as second-line chemotherapy for metastatic dis- ease.
+score --> 6
+Tripathy D, Slamon DJ, Cobleigh M, et al: Safety of treatment of metastatic breast cancer with trastuzumab beyond disease progression.
+score --> 6
+Sample size was calculated on the assumptions that the time to progres- sion in the targeted population was 4 months for capecitabine alone and that continuation of trastuzumab would result in a 27.5% improvement to 5.1 months.
+score --> 5
+Previous first-line treatment for metastatic disease consisted of a taxane-plus-trastuzumab combination in 111 patients, trastuzumab alone or with a non–taxane-containing chemotherapy in 42 patients, and taxane- and trastuzumab-containing adjuvant therapy in three patients.
+score --> 5
+Other significant prognostic factors that influenced time to progres- sion were positive estrogen receptor (ER)/progesterone receptor (PgR) status and a low-risk metastatic site (Table 2).
+score --> 5
+This GBG 26/BIG 03- 05 study demonstrates that continued treatment with trastuzumab beyond progression improves activity of subsequent chemotherapy in patients with HER-2–positive breast cancer.
+score --> 5
+Whereas 38% of patients had a trastuzumab-free interval of greater than 8 weeks in the lapatinib trial, all patients had to continue trastuzumab within 6 weeks of the last infusion in our trial.
+score --> 5
+Pegram MD, Konecny GE, O’Callaghan C, et al: Rational combinations of trastuzumab with chem- otherapeutic drugs used in the treatment of breast cancer.
+score --> 5
+O’Shaughnessy J, Blackwell KL, Burstein H, et al: A randomized study of lapatinib alone or in combination with trastuzumab in heavily pretreated HER2–positive metastatic breast cancer progress- ing on trastuzumab therapy.
+score --> 5
+Time to progression was the primary end point of the trial and was defined as the time period between random assignment and documented disease progression or disease-related death.
+score --> 4
+Compliance A total of 586 capecitabine cycles (median per patient, 6; range, 1 to 42) were administered in the capecitabine group; 819 capecitabine cycles (median per patient, 9; range, 1 to 39) and 934 trastuzumab cycles (median per patient, 9; range, 1 to 60) were administered in the capecitabine-plus-trastuzumab group.
+score --> 4
+An additional 20 patients in the capecitabine group and 21 patients in the capecitabine-plus- trastuzumab group had stable disease for greater than 24 weeks, which resulted in clinical benefit rates of 54.1% (95% exact CI, 42.1 to 65.7) in the capecitabine group and 75.3% (95% exact CI, 64.2 to 84.4) in the capecitabine-plus-trastuzumab group (odds ratio, 2.59; P .0068).
+score --> 4
+This might explain the shorter time to progression in the capecitabine-alone group in the lapatinib trial (4.4 months)9 com- pared with the time in our trial (5.6 months).
+score --> 4
+Currently active trials either will compare trastuzumab with lapatinib directly or with a combination of lapatinib and trastuzumab, so the genuine activity of trastuzumab beyond progression will not be assessed again.
+score --> 4
+Ben- efit of adding trastuzumab to second-line chemother- apy in breast cancer patients previously treated with trastuzumab.
+score --> 4
+Cameron D, Casey M, Press M, et al: A phase III randomized comparison of lapatinib plus capecit- abine versus capecitabine alone in women with advanced breast cancer that has progressed on trastuzumab: Updated efficacy and biomarker anal- yses.
+score --> 4
+Reichardt P, von Minckwitz G, Thuss-Patience PC, et al: Multicenter phase II study of oral capecit- abine in patients with metastatic breast cancer relapsing after treatment with a taxane-containing therapy.
+score --> 4
+Schaller G, Fuchs I, Gonsch T, et al: Phase II study of capecitabine plus trastuzumab in human epidermal growth factor receptor 2 overexpressing metastatic breast cancer pretreated with anthracy- clines or taxanes.
+score --> 4
+Pegram MD, Lipton A, Hayes DF, et al: Phase II study of receptor-enhanced chemosensitivity us- ing recombinant humanized anti-p185HER-2/neu monoclonal antibody plus cisplatin in patients with HER-2/neu–overexpressing metastatic breast can- cer refractory to chemotherapy treatment.
+score --> 4
+The primary end point was time to progression.
+score --> 3
+Median times to progression were 5.6 months in the capecitabine group and 8.2 months in the capecitabine-plus-trastuzumab group with an unadjusted hazard ratio of 0.69 (95% CI, 0.48 to 0.97; two-sided log-rank P  .0338).
+score --> 3
+Overall survival rates were 20.4 months (95% CI, 17.8 to 24.7) in the capecitabine group and 25.5 months (95% CI, 19.0 to 30.7) in the capecitabine-plus- trastuzumab group (P  .257).
+score --> 3
+Clinical benefit was defined as complete response, partial response, or disease stabilization for greater than 24 weeks.
+score --> 3
+Patients who withdrew consent or who were lost to follow-up were censored at the date of last contact.
+score --> 3
+Participants were assessed clinically for tumor symptoms and toxicity and for hematology (weekly) and blood biochemistry every 3 weeks during treatment and every 3 months thereafter.
+score --> 3
+We subsequently performed a hypothetical sam- ple size calculation on the basis of the results of the lapatinib study, which revealed that the effect of lapatinib on time to progression could have been shown with fewer than 90 patients.
+score --> 3
+As accrual was slowing down, we closed the trial in agreement with the IDMC on July 1, 2007, and we expected to reject trastuzumab treatment beyond progression with sufficient statistical power if the trial result was negative.
+score --> 3
+Day 1 of a capecitabine cycle was delayed for 3 or more days in 125 cycles (23.7%) in the capecitabine group and in 82 cycles (11.3%) in the capecitabine-plus-trastuzumab group.
+score --> 3
+The median time to progressions of the intent-to-treat analysis were 5.6 months (95% CI, 4.2 to 6.3) in the capecitabine group and 8.2 months (95% CI, 7.3 to 11.2) in the capecitabine-plus-trastuzumab group (hazard ratio [HR], 0.69; two- sided log-rankP .0338; one-sidedP .0169; Fig 2A).
+score --> 3
+In a sensitivity analysis that excluded three patients who had no prior chemotherapy, one patient who had no protocol-specified documentation of positive HER-2 status, and one patient who had no documentation of protocol-specified tumor lesions, the hazard ratio was 0.65 (two-sided log-rank P  .0164; one-sided P  .0082).
+score --> 3
+The median overall survival times were 20.4 months (95% CI, 17.8 to 24.7) in the capecitabine alone group and 25.5 months (95% CI, 19.0 to 30.7) in the capecitabine-plus-trastuzumab group (HR, 0.76; two- sided P .2570; one-sided P .13; Fig 2B).
+score --> 3
+Safety A total of 49 patients (66.2%) in 81 (13.8%) cycles in the capecit- abine group and 49 patients (63.6%) in 95 (10.2%) cycles in the capecitabine-plus-trastuzumab group experienced grade 3 or 4 toxic- ities (P  .865).
+score --> 3
+LVEF to less than 40% or by greater than 10% from baseline was observed in none of the patients in the capecitabine group and in one patient (1.3%) in the capecitabine-plus-trastuzumab group.
+score --> 3
+Tras- tuzumab can induce an immune-mediated, target-cell killing by antibody-dependent, cell-mediated cytotoxicity.2,18-20 Our hypothe- sis is that, under the selective pressure of continuous antibody expo- sure, breast cancer cells are able to bypass the antiproliferative action of trastuzumab but leave a chemotherapy-sensitizing mechanism in- tact.
+score --> 3
+Recent data suggest that reintroduction or continuation of tras- tuzumab improves even the efficacy of other noncytotoxic drugs, like lapatinib, pertuzumab, tenispimycin, or DM1, in patients with meta- static breast cancer who are heavily pretreated.21 When our results are compared with the trial of lapatinib and capecitabine,9,10 some differences in the trial designs should be con- sidered.
+score --> 3
+In the capecitabine group, the median time to progression was 5.64 months (range, 4.16 to 6.30 months); 65 events occurred, and nine patients were censored because of incomplete follow-up.
+score --> 3
+In the capecitabine-plus-trastuzumab group, the median time to progression was 8.16 months (range, 7.25 to 11.21 months); 62 events occurred, and 15 patients were censored because of incomplete follow-up.
+score --> 3
+Pietras RJ, Pegram MD, Finn RS, et al: Re- mission of human breast cancer xenografts on ther- apy with humanized monoclonal antibody to HER-2 receptor and DNA-reactive drugs.
+score --> 3
+Bullock K, Blackwell K: Clinical efficacy of taxane-trastuzumab combination regimens for HER- 2-positive metastatic breast cancer.
+score --> 3
+Bartsch R, Wenzel C, Altorjai G, et al: Cape- citabine and trastuzumab in heavily pretreated met- astatic breast cancer.
+score --> 3
+Jackisch C, Eustermann H, Schoenegg W, et al: Clinical use of trastuzumab (Herceptin) in meta- static breast cancer (MBC) in Germany from 2001 to 2006.
+score --> 3
+Kauraniemi P, Hautaniemi S, Autio R, et al: Effects of Herceptin treatment on global gene expression patterns in HER-2–amplified and nonamplified breast cancer cell lines.
+score --> 3
+Barok M, Isola J, Palyi-Krekk Z, et al: Tras- tuzumab causes antibody-dependent cellular cytotoxicity-mediated growth inhibition of submac- roscopic JIMT-1 breast cancer xenografts despite intrinsic drug resistance.
+score --> 3
+Gennari R, Menard S, Fagnoni F, et al: Pilot study of the mechanism of action of preoperative trastuzumab in patients with primary operable breast tumors overexpressing HER-2.
+score --> 3
+Musolino A, Naldi N, Bortesi B, et al: Immu- noglobulin G fragment C receptor polymorphisms and clinical efficacy of trastuzumab-based therapy in patients with HER-2/neu–positive metastatic breast cancer.
+score --> 3
+Pegram MD, Hsu S, Lewis G, et al: Inhibitory effects of combinations of HER-2/neu antibody and chemotherapeutic agents used for treatment of human breast cancers.
+score --> 3
+Fujimoto-Ouchi K, Sekiguchi F, Tanaka Y: Antitumor activity of combinations of anti–HER-2 antibody trastuzumab and oral fluoropyrimidines capecitabine/dFUrd in human breast cancer models.
+score --> 3
+© 2009 by American Society of Clinical Oncology 0732-183X/09/2712-1999/$20.00 DOI: 10.1200/JCO.2008.19.6618 A B S T R A C T Purpose Trastuzumab shows clinical activity in human epidermal growth factor receptor 2 (HER-2)–positive early and advanced breast cancer.
+score --> 2
+In the German Breast Group 26/Breast International Group 03-05 trial, we investigated if trastuzumab treatment should be continued beyond progression.
+score --> 2
+© 2009 by American Society of Clinical Oncology INTRODUCTION Change of treatment at disease progression is a general principle in oncology.
+score --> 2
+in Europe to investigate trastuzumab beyond progression in prospec- tive randomized trials have failed, to date, because a strong prevision by physicians and patients for the superiority of this approach resulted in insufficient accrual.8 Recently, lapatinib, a small molecule that inhibits the tyrosine kinases of HER-2 and the epidermal growth factor receptor type 1 (ie, EGFR, HER-1, ErbB-1), in combination with capecitabine was superior to capecitabine in patients previously treated with trastu- zumab.9,10 It is uncertain whether this observation reflects non–cross resistance of the two anti–HER-2 agents or represents a general syner- gism of anti–HER-2 treatments in combination with cytotoxic agents.
+score --> 2
+Participants were assigned in a 1:1 ratio to continue trastuzumab with the start of capecitabine or to receive capecitabine as single-agent therapy.
+score --> 2
+Treatment could be delayed for up to 2 weeks to allow recovery from acute toxicity.
+score --> 2
+Trastuzumab treatment could be continued at the investigator’s discretion while capecitabine was being withheld.
+score --> 2
+Repeat cardiac ultrasound was performed as clinically indicated.
+score --> 2
+Statistical Methods The time to event outcome parameters were estimated with the Kaplan- Meier product-limit method, and the log-rank test was used to compare data between treatment groups.
+score --> 2
+An accrual period of 24 months and a follow-up period of 12 months required the inclusion of 482 patients.
+score --> 2
+Two interim analyses of the primary end point, scheduled after the occurrence of 150 and 300 events, were planned.
+score --> 2
+However, the first interim analysis was performed on December 9, 2006, after accrual of 119 patients (82 events) and a follow-up of at least 3 months, at the request of the independent data monitoring committee (IDMC) after release/publication of data on lapa- tinib in a comparable trial setting.10 The significance level was set at .0015 according to the O’Brien-Fleming group sequential rule for three groups.
+score --> 2
+The primary analysis was performed as an intent-to-treat analysis (Fig 1).
+score --> 2
+A per-protocol analysis was performed for confirmation.
+score --> 2
+Because the sample size was originally calcu- lated for a one-sided test, a corresponding one-sidedP value is also quoted for the primary end point.
+score --> 2
+Treatment interruptions occurred in 42 cycles (8.0%) in the capecitabine group and in 74 cycles (9.3%) in the capecitabine-plus-trastuzumab group.
+score --> 2
+Trastuzumab was de- layed for 3 or more days in 64 cycles (7.5%); no dose reduction was performed.
+score --> 2
+Overall, six patients received lapatinib as subsequent medication (two patients from the X arm and four patients from the capecitabine/ trastuzumab [XH] arm).
+score --> 2
+When the benefits and risks of both approaches are evaluated, HRs from the assessment by investigators should be compared (0.72 for lapatinib and 0.71 for trastuzumab).22 The addition of lapatinib to capecitabine was associ- ated with more diarrhea and rash10; the addition of trastuzumab did not add clinically relevant toxicity (Table 3).
+score --> 2
+Nevertheless, this as- sumption is based on a comparison of events, is not adjusted to the different patient populations, and could only be confirmed by a direct comparison in a controlled clinical trial.
+score --> 2
+The trial investigated in a straight- forward, prospective way the beyond-progression approach, as all patients progressed during trastuzumab treatment.
+score --> 2
+The median duration of overall survival was 20.39 months (range, 17.77 to 24.66 months); 38 events occurred, and 36 patients were censored because of incomplete follow-up.
+score --> 2
+The median duration of overall survival was 25.48 months (range, 19.02 to 30.69 months); 33 events occurred, and 44 patients were censored because of incomplete follow-up.
+score --> 2
+capecitabine group probably had an ongoing exposure to trastu- zumab because of the drug’s long half-life.23 This is supported by the shape of the curves (Fig 2A) for time to progression, which does not separate for the first 3 months, and by the overall response rate that is higher than those reported previously for capecitabine alone.11,12 Also, a potential bias in assessment of response rates by the unblinded investigator can not be excluded.
+score --> 2
+Gelmon KA, Mackey J, Verma S, et al: Use of trastuzumab beyond disease progression: Observa- tions from a retrospective review of case histories.
+score --> 2
+Geyer CE, Forster J, Lindquist D, et al: Lapa- tinib plus capecitabine for HER-2–positive advanced breast cancer.
+score --> 2
+Blum JL, Dieras V, Lo Russo PM, et al: Multicenter, phase II study of capecitabine in taxane-pretreated metastatic breast carcinoma pa- tients.
+score --> 2
+Trastuzumab Beyond Progression in Human Epidermal Growth Factor Receptor 2–Positive Advanced Breast Cancer: A German Breast Group 26/Breast International Group 03-05 Study Gunter von Minckwitz, Andreas du Bois, Marcus Schmidt, Nicolai Maass, Tanja Cufer, Felix E. de Jongh, Eduard Maartense, Christoph Zielinski, Manfred Kaufmann, Wolfgang Bauer, Klaus H. Baumann, Michael R. Clemens, Ralph Duerr, Christoph Uleer, Michael Andersson, Robert C. Stein, Valentina Nekljudova, and Sibylle Loibl From the GBG Forschungs GmbH, Neu-Isenburg; Dr.-Horst-Schmidt- Kliniken, Breast Unit, Wiesbaden; University Women’s Hospital, Mainz; University Women’s Hospital, Kiel; Uni- versity Women’s Hospital, Frankfurt/ Main; Schwarzwald-Baar Klinikum, Villingen-Schwenningen; University Women’s Hospital, Marburg; Klinikum Mutterhaus der Borromaeerinnen, Trier; Klinikum Deggendorf; and Gemein- schaftspraxis Papcke/Uleer, Hildesheim, Germany; Institute of Oncology, Ljubljana, Slovenia; Ikazia Ziekenhuis, Rotterdam; and Reinier de Graaf Gast- huis, Delft, the Netherlands; Clinical Divi- sion of Oncology, Department of Medicine I, Medical University Vienna and Central European Cooperative Oncol- ogy Group, Vienna, Austria; Rigshospita- let University Hospital, Copenhagen, Denmark; and University College London Hospitals, London, United Kingdom.
+score --> 1
+Authors’ disclosures of potential con- flicts of interest and author contribu- tions are found at the end of this article.
+score --> 1
+Results We randomly assigned 78 patients to capecitabine and 78 patients to capecitabine plus trastuzumab.
+score --> 1
+Sixty-five events and 38 deaths in the capecitabine group and 62 events and 33 deaths in the capecitabine-plus-trastuzumab group occurred during 15.6 months of follow-up.
+score --> 1
+Overall response rates were 27.0% with capecitabine and 48.1% with capecitabine plus trastuzumab (odds ratio, 2.50; P  .0115).
+score --> 1
+Continuation of trastuzumab beyond progression was not associated with increased toxicity.
+score --> 1
+It is not known whether this holds true for novel biologic agents like trastuzumab (Herceptin; Roche, Grenzach- Wyhlen, Germany), a humanized monoclonal antibody against the extracellular domain of hu- man epidermal growth factor receptor type 2 (HER-2, also referred to as HER-2/neu or ErbB- 2).
+score --> 1
+Because no central assessment of response was performed, potential risk of a bias caused by the unblinded investigator might have existed.
+score --> 1
+Duration of response was defined as the time period between first notification of a response and the date of documented progression, disease-related death, or withdrawal.
+score --> 1
+Overall survival was defined as the time period between random assignment and death as a result of any cause.
+score --> 1
+Toxicity was assessed according to the National Cancer Institute Common Toxicity Criteria ver- sion 2.0.
+score --> 1
+A one-sided significance test and a 5% type-I error, a statistical power of 80%, and a drop-out rate of 10% were chosen, as the addition of trastu- zumab was not expected to diminish the effect of capecitabine.
+score --> 1
+A Cox proportional hazards model was fit to adjust for prognostic factors that influenced time to progression.
+score --> 1
+Because the second interim analysis was not performed, the significance level for the final analysis was taken at   .0467, which corresponded to a second analysis in a two-stage O’Brian-Fleming sequence.
+score --> 1
+The protocol was reviewed by all responsible local ethics committees.
+score --> 1
+It included a total of 156 pa- tients during the following 45 months (Fig 1).
+score --> 1
+Efficacy During a median follow-up of 15.6 months, 65 events occurred in the capecitabine group, and 62 events occurred in the capecitabine- plus-trastuzumab group.
+score --> 1
+Response to treatment was assessed in 68 patients (91.9%) of the capecitabine group and in 75 patients (97.4%) in the capecitabine-plus-trastuzumab group.
+score --> 1
+One hundred fifty-six patients were ran- domly assigned in equal parts to the two treatment groups.
+score --> 1
+Difference between the two arms was observed for anemia of grades 1 to 4, which was more frequent in the XH arm (P .021; Table 3).
+score --> 1
+Severe cardiac events were observed in four patients in the capecitabine-plus-trastuzumab group (and included one congestive heart failure, one tachyarrhythmia, one hypertension).
+score --> 1
+Baseline Characteristics of Patients Included in the Analysis Characteristic Treatment Capecitabine Alone (n  78) Capecitabine Plus Trastuzumab (n  78) No.
+score --> 1
+Continued response to therapy in the face of treatment failure is something of a paradox.
+score --> 1
+Most anticancer drugs work predominantly through an antiproliferative effect.
+score --> 1
+Trastuzumab clearly demon- strates such an antiproliferative effect that is mediated through inhibition of HER-2 signaling in preclinical models.2 This leads to alterations in cell cycle regulators,15 reduced activity of DNA repair pathways,2,16 and HER-2–mediated antiangiogenic activity.17 How- ever, the chemotherapy-sensitizing mechanism of trastuzumab1,2 likely depends on specific capabilities of monoclonal antibodies.
+score --> 1
+The results con- sistently show superior efficacy of continuation of trastuzumab in the adjusted and sensitivity analyses.
+score --> 1
+Patients in the A 0 No.
+score --> 1
+at risk X XH 74 77 15 29 5 4 2 1 1 1 40 55  8 12 3 3 1 1 Pr og re ss io n- Fr ee  S ur vi va l ( pr ob ab ili ty ) Time (months) 1.0 0.8 0.6 0.4 0.2 10 20 30 40 B 0 No.
+score --> 1
+at risk X XH 74 77 50 59 21 27 8 6 2 1 66 68  33 47 10 15 3 1 Ov er al l S ur vi va l ( pr ob ab ili ty ) Time (months) 1.0 0.8 0.6 0.4 0.2 10 20 30 40 X XH Censored Log-rank P = .2570 X XH Censored Log-rank P = .0338 Fig 2.
+score --> 1
+Kaplan-Meier estimates of disease progression or (A) disease-related death and (B) death.
+score --> 1
+The unadjusted hazard ratios from the intent-to-treat population were 0.685 (95% CI, 0.482 to 0.974; two-sided log-rank P  .0338; one-sided log-rank P  .0169) for time to progression and 0.763 (95% CI, 0.477 to 1.220; two-sided log-rank P .2570) for overall survival.
+score --> 1
+a statistically significant impact on survival could not be demon- strated.
+score --> 1
+Certain relationships marked with a “U” are those for which no compensation was received; those relationships marked with a “C” were compensated.
+score --> 1
+For a detailed description of the disclosure categories, or for more information about ASCO’s conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors.
+score --> 1
+‡One hypertension and one general cardiac complaint.
+score --> 1
+Glaxo Smith Kline Research: Tykerb prescrib- ing information 2008. http://us.gsk.com/products/ assets/us_tykerb.pdf 23.
+score --> 1
+Leyland-Jones B, Gelmon K, Ayoub JP, et al: Pharmacokinetics, safety, and efficacy of trastu- zumab administered every three weeks in combina- tion with paclitaxel.
+score --> 1
+Submitted August 15, 2008; accepted December 9, 2008; published online ahead of print at www.jco.org on March 16, 2009.
+score --> 0
+Supported by Roche AG, Germany, and by the University College London Hospitals/University College London (UCLH/UCL) Comprehensive Biomedical Research Centre (R.C.S.).
+score --> 0
+Clinical Trials repository link available on JCO.org.
+score --> 0
+Corresponding author: Gunter von Minckwitz, MD, PhD, GBG Forschungs GmbH, University of Frankfurt, Schle- ussnerstr 42, Neu-Isenburg, Germany 63263; e-mail: Gunter.vonMinckwitz@ germanbreastgroup.de.
+score --> 0
+The Appendix is included in the full-text version of this article, available online at www.jco.org.
+score --> 0
+It is not included in the PDF version (via Adobe® Reader®).
+score --> 0
+J Clin Oncol 27:1999-2006.
+score --> 0
+Attempts in the United States (ie, at The M. D. Anderson Cancer Center and South West Oncology Group) with vinorelbine and JOURNAL OF CLINICAL ONCOLOGY O R I G I N A L R E P O R T VOLUME 27  NUMBER 12  APRIL 20 2009 © 2009 by American Society of Clinical Oncology 1999 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+METHODS Study Design The German Breast Group (GBG) 26/Breast International Group (BIG) 03-05 trial is an international, intergroup, open-label, phase III, randomized trial.
+score --> 0
+A random assignment list was prepared beforehand for each stratum; a block permutation method with a block size of 4 was used.
+score --> 0
+Response of tumor lesions was based on investigator assessments made according to Response Evaluation Criteria in Solid Tumors (RECIST).
+score --> 0
+Missing data on response evaluation were set to no re- sponse.
+score --> 0
+The cape- citabine dose was rounded, because it was provided as 500-mg and 150-mg tablets.
+score --> 0
+For binary outcomes, the exact Fisher’s test was used.
+score --> 0
+The recommendation of the IDMC was to continue patient accrual until lapatinib became available in Europe.
+score --> 0
+All patients included in the intent-to-treat analysis were in- cluded in the safety analysis.
+score --> 0
+All P values re- ported are from two-sided tests.
+score --> 0
+The conduct of the trial was supervised by an IDMC.
+score --> 0
+von Minckwitz et al 2000 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+RESULTS Baseline The GBG 26 trial started in September 2003, and it was opened subsequently in 64 centers in Germany, Austria, the Netherlands, Slovenia, Denmark, and Great Britain.
+score --> 0
+Baseline characteristics of the 156 patients are listed in Table 1.
+score --> 0
+A dose reduction of capecitabine became necessary in 43 patients (58.9%) in the capecitabine group and in 43 patients (57.3%) in the capecitabine-plus-trastuzumab group.
+score --> 0
+The adjusted HR of the multivariate Cox proportional hazards model was 0.66 (P  .049).
+score --> 0
+A complete or partial re- sponse was reported in 20 patients (27.0%; 95% exact CI, 17.4 to 38.6) in the capecitabine group and in 37 patients (48.1%; 95% exact CI, 36.5 to 59.7) in the capecitabine-plus-trastuzumab group (odds ratio, 2.50; P  .0115).
+score --> 0
+Disposition of patients (CONSORT diagram) in the German Breast Group 26/ Breast International Group 03-05 study.
+score --> 0
+Treatment was discon- tinued for reasons other than tumor pro- gression or for disease-related deaths in 16 patients (23.2%) in the capecitabine group and in 11 patients (16.7%) in the capecitabine-plus-trastuzumab group.
+score --> 0
+Tras- tuzumab was continued after discontinua- tion of capecitabine in 16 patients (20.8%).
+score --> 0
+Trastuzumab-Beyond-Progression Trial www.jco.org © 2009 by American Society of Clinical Oncology 2001 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+to 5.6) in the capecitabine-plus-trastuzumab group (HR, 1.08; P  .8159).
+score --> 0
+Five patients (8.3%) in the capecitabine group and 8 patients (13.8%) in the capecitabine-plus-trastuzumab group de- veloped metastases to the central nervous system.
+score --> 0
+A total of 38 deaths occurred in the capecitabine group, and 33 deaths occurred in the capecitabine-plus-trastuzumab group.
+score --> 0
+A decrease of Table 1.
+score --> 0
+% No.
+score --> 0
+All percent values are valid percents.
+score --> 0
+von Minckwitz et al 2002 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+No therapy-related death occurred.
+score --> 0
+Our trial has several strengths and limitations.
+score --> 0
+Trastuzumab-Beyond-Progression Trial www.jco.org © 2009 by American Society of Clinical Oncology 2003 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+Because of premature closure of the trial, the number of patients included in the trial is small; however, it is the only trial worldwide, to our knowledge, that reached a sufficient sample size for statistical analysis.
+score --> 0
+So far, Table 2.
+score --> 0
+Univariate Cox regression, Wald 2, for parameters with more than two categories, global test for parameter and Wald 2 for each category.
+score --> 0
+†Multivariate Cox regression, Wald 2, full model; for variables with more than two categories, type-3 test for parameter and Wald 2 for each category.
+score --> 0
+‡Reference group.
+score --> 0
+§Bone, lymph nodes, skin, lung only.
+score --> 0
+Liver, central nervous system, lung plus another.
+score --> 0
+von Minckwitz et al 2004 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+However, at the moment, we do not know how these results compare with the switch to capecitabine plus lapatinib.
+score --> 0
+AUTHORS’ DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Although all authors completed the disclosure declaration, the following author(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article.
+score --> 0
+Employment or Leadership Position: None Consultant or Advisory Role: None Stock Ownership: None Honoraria: Gunter von Minckwitz, Roche AG; Andreas du Bois, Roche AG; Christoph Zielinski, Roche AG; Manfred Kaufmann, Roche AG; Sibylle Loibl, Roche AG Research Funding: Gunter von Minckwitz, Roche AG; Sibylle Loibl, Roche AG Expert Testimony: None Other Remuneration: None AUTHOR CONTRIBUTIONS Conception and design: Gunter von Minckwitz, Andreas du Bois, Manfred Kaufmann, Robert C. Stein, Sibylle Loibl Financial support: Gunter von Minckwitz Administrative support: Gunter von Minckwitz, Sibylle Loibl Provision of study materials or patients: Gunter von Minckwitz, Andreas du Bois, Marcus Schmidt, Nicolai Maass, Tanja Cufer, Felix E. de Jongh, Eduard Maartense, Christoph Zielinski, Manfred Kaufmann, Wolfgang Bauer, Klaus H. Baumann, Michael R. Clemens, Ralph Duerr, Christoph Uleer, Michael Andersson, Robert C. Stein, Sibylle Loibl Collection and assembly of data: Gunter von Minckwitz, Andreas du Bois, Marcus Schmidt, Nicolai Maass, Tanja Cufer, Felix E. de Jongh, Table 3.
+score --> 0
+Adverse Events According to NCI CTC by Randomized Treatment of Capecitabine Alone or Capecitabine Plus Trastuzumab Adverse Event Maximal Grade Capecitabine Alone Capecitabine Plus Trastuzumab P of Fisher’s Exact Test No.
+score --> 0
+% No.
+score --> 0
+% Grades 1-4 Grades 3-4 Neutropenia 1-2 18 26.09 16 21.33 .7123 1.000 3-4 3 4.35 4 5.33 Febrile neutropenia 3-4 0 0 2 2.60 NA .4969 Thrombocytopenia 1-2 20 27.78 25 33.33 .5989 .4898 3-4 1 1.39 0 0 Anemia 1-2 30 41.67 48 64.00 .0208 .2382 3-4 2 2.78 0 0 Vomiting 1-2 9 12.16 10 12.99 .8225 .3602 3-4 3 4.05 1 1.30 Diarrhea 1-2 16 21.62 24 31.17 .5123 .6685 3-4 14 18.92 12 15.58 Mucositis 1-2 16 21.62 20 25.97 .7132 .6151 3-4 2 2.70 1 1.30 Allergic reaction 1-2 2 2.70 2 2.60 1.0000 NA 3-4 0 0 0 0 Edema 1-2 13 17.57 21 27.27 .2513 .4901 3-4 1 1.35 0 0 Fatigue 1-2 35 47.30 33 42.86 .5165 .7156 3-4 4 5.41 3 3.90 Skin changes 1-2 39 52.70 37 48.05 .6915 .2849 3-4 18 24.32 25 32.47 Nail changes 1-2 14 18.92 15 19.48 .5539 .2453 3 0 0 3 3.90 Sensory neuropathy 1-2 16 21.62 25 32.47 .2980 .4360 3-4 4 5.41 2 2.60 Infection 1-2 17 22.97 23 29.87 .8633 .1612 3-4 6 8.11 2 2.60 Fever 1-2 3 4.05 4 5.19 .7195 1.0000 3-4 0 0 1 1.30 Dyspnea 1-2 6 8.11 12 15.58 .6640 .2696 3-4 5 6.76 2 2.60 Cardiovascular disorder† 1-2 1 1.35 6 7.79 .0792 .6815 3-4 2‡ 2.70 4§ 5.19 Abbreviations: NCI CTC, National Cancer Institute Common Toxicity Criteria, version 2.0; NA, not applicable.
+score --> 0
+Includes hand-foot syndrome.
+score --> 0
+†According to New York Heart Association classification.
+score --> 0
+§One hypertension, one suspected myocardial infarction, one decrease of left ventricular ejection fraction, and one pericardium effusion.
+score --> 0
+Trastuzumab-Beyond-Progression Trial www.jco.org © 2009 by American Society of Clinical Oncology 2005 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved.
+score --> 0
+Eduard Maartense, Christoph Zielinski, Manfred Kaufmann, Wolfgang Bauer, Klaus H. Baumann, Michael R. Clemens, Ralph Duerr, Christoph Uleer, Michael Andersson, Robert C. Stein, Valentina Nekljudova, Sibylle Loibl Data analysis and interpretation: Gunter von Minckwitz, Valentina Nekljudova, Sibylle Loibl Manuscript writing: Gunter von Minckwitz, Andreas du Bois, Marcus Schmidt, Nicolai Maass, Tanja Cufer, Felix E. de Jongh, Eduard Maartense, Christoph Zielinski, Manfred Kaufmann, Wolfgang Bauer, Klaus H. Baumann, Michael R. Clemens, Ralph Duerr, Christoph Uleer, Michael Andersson, Robert C. Stein, Valentina Nekljudova, Sibylle Loibl Final approval of manuscript: Gunter von Minckwitz, Andreas du Bois, Marcus Schmidt, Nicolai Maass, Tanja Cufer, Felix E. de Jongh, Eduard Maartense, Christoph Zielinski, Manfred Kaufmann, Wolfgang Bauer, Klaus H. Baumann, Michael R. Clemens, Ralph Duerr, Christoph Uleer, Michael Andersson, Robert C. Stein, Valentina Nekljudova, Sibylle Loibl REFERENCES 1.
+score --> 0
+J Natl Cancer Inst 96:739-749, 2004 2.
+score --> 0
+Oncogene 17: 2235-2249, 1998 3.
+score --> 0
+Oncologist 13: 515-525, 2008 4.
+score --> 0
+J Clin Oncol 25:3853-3858, 2007 5.
+score --> 0
+Clin Breast Cancer 5:52-58, 2004 6.
+score --> 0
+San Antonio Breast Cancer Symposium, San Antonio, TX, December 13-16, 2007 (abstr 4059) 7.
+score --> 0
+J Clin Oncol 22:1063-1070, 2004 8.
+score --> 0
+Spanish Breast Cancer Research Group.
+score --> 0
+http://www.clinicaltrials.gov/ct/show/ NCT00130507 9.
+score --> 0
+Breast Cancer Res Treat 112(3):533-543, 2008 10.
+score --> 0
+N Engl J Med 355:2733-2743, 2006 11.
+score --> 0
+Cancer 92:1759-1768, 2001 12.
+score --> 0
+Ann Oncol 14:1227-1233, 2003 13.
+score --> 0
+J Clin Oncol 25:3246-3250, 2007 14.
+score --> 0
+J Clin Oncol 26:45s, 2008 (suppl; abstr 1018) 15.
+score --> 0
+Marches R, Uhr JW: Enhancement of the p27Kip1-mediated antiproliferative effect of trastu- zumab on HER-2–overexpressing tumor cells.
+score --> 0
+Int J Cancer 112:492-501, 2004 16.
+score --> 0
+Oncogene 23:1010-1013, 2004 17.
+score --> 0
+Izumi Y, Xu L, di Tomaso E, et al: Tumour biology: Herceptin acts as an anti-angiogenic cock- tail.
+score --> 0
+Nature 416:279-280, 2002 18.
+score --> 0
+Mol Cancer Ther 6:2065- 2072, 2007 19.
+score --> 0
+Clin Cancer Res 10:5650-5655, 2004 20.
+score --> 0
+J Clin Oncol 26:1789-1796, 2008 21.
+score --> 0
+J Clin Oncol 26:44s, 2008 (suppl; abstr 1015) 22.
+score --> 0
+J Clin Oncol 21:3965-3971, 2003 24.
+score --> 0
+Oncogene 18:2241-2251, 1999 25.
+score --> 0
+Cancer Chemother Pharmacol 49:211-216, 2002.
+score --> 0
+26.
+score --> 0
+J Clin Oncol 16:2659-2671, 1998.
+score --> 0
+■ ■ ■ Acknowledgment We thank the Mathias Uhlig, PhD, and Sabine Kleinefeld for their excellent work in project and data management.
+score --> 0
+von Minckwitz et al 2006 © 2009 by American Society of Clinical Oncology JOURNAL OF CLINICAL ONCOLOGY 29, 2015 from 165.124.165.129 Information downloaded from jco.ascopubs.org and provided by at Northwestern Galter Health Sciences Library on October Copyright © 2009 American Society of Clinical Oncology.
+score --> 0
+All rights reserved. 
+score --> 0

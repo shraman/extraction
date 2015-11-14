@@ -1,0 +1,440 @@
+...................................................................................................................................................................................
+The Acute Effects of a Rollator in
+Individuals With COPD
+Renu Gupta, MSc; Roger Goldstein, FRCP (C); Dina Brooks, PhD
+.................................................................................................................................................................................................................
+h PURPOSE: To investigate whether the acute benefits of rollator use are
+consistent over time in individuals with moderate to severe chronic
+obstructive pulmonary disease.
+h METHODS: Thirty-one stable subjects with chronic obstructive pulmonary
+disease (13 men, 18 women), aged 68 T 8 years, with a forced expiratory
+volume in 1 second of 0.7 T 0.2 L (33% T 12% predicted) and a baseline
+6-minute walk (6MW) of 261 T 68 m, were recruited from a respiratory
+clinic after completion of a pulmonary rehabilitation program. Two
+6MWs were performed at baseline, 4 weeks, and 8 weeks, one walking
+unaided and the other walking with the assistance of a rollator. The test
+order was randomly chosen at baseline, and the same test order was
+used at each time point. The primary outcome measures were distance
+walked in 6 minutes (meters), perceived dyspnea using a modified
+Borg scale, and number of rests taken.
+h RESULTS: Subjects achieved higher 6MW distances during assisted
+compared with unassisted walking at baseline (292 T 67 vs 263 T 67 m),
+4 weeks (296 T 62 vs 275 T 63m), and 8 weeks (283 T 65 vs 259 T 68 m)
+(P = .013), with no time effect (P = .5). In addition, use of a rollator
+resulted in a significant improvement in dyspnea (P = .004) at baseline,
+4 weeks, and 8 weeks, with no time effect (P = .7). The use of a rollator
+also reduced the number of rests taken during the 6MW (P G .001), with
+no time effect (P = .9).
+h CONCLUSIONS: Rollator use resulted in improvements in performance in
+the 6MW, which were consistent over time among individuals with
+moderate to severe chronic obstructive pulmonary disease who walk
+less than 375 m during an unaided 6MW.
+INTRODUCTION
+.............................................................................................................
+Among individuals with chronic obstructive pulmonary
+disease (COPD), walking is an important, useful, and
+preferred form of exercise.1 Therefore, most pulmonary
+rehabilitation programs include walking both as part of
+their exercise training program and as a way of
+evaluating functional exercise capacity.2,3 In COPD,
+dyspnea is the cardinal symptom that limits exercise.4
+Consequently, many approaches to the management of
+patients with COPD, such as the prescription of
+bronchodilators, are aimed at relieving dyspnea. In
+addition, dyspnea may be reduced through nonphar-
+macologic approaches such as using a rollator to pro-
+vide mechanical assistance during walking. A rollator
+is a walker with 4 wheels, equipped with swivel castors
+in the front 2 wheels, hand brakes, a basket for carrying
+objects, and a seat that allows the user to rest.5
+Several prior reports have noted that rollator use is
+associated with a reduction in dyspnea and an increase
+in functional exercise capacity.6Y12 There are a variety of
+mechanisms by which the rollator assists walking,
+K E Y W O R D S
+COPD
+functional exercise capacity
+pulmonary rehabilitation
+rollator
+walk test
+From the Graduate Department of
+Rehabilitation Science (Ms Gupta and
+Dr Brooks), Departments of Physical
+Therapy (Dr Goldstein and Dr Brooks),
+and Medicine (Dr Goldstein), University
+of Toronto; West Park HealthCare
+Centre (Dr Goldstein and Dr Brooks),
+Toronto, Ontario, Canada.
+This work was supported by West
+Park Healthcare Centre Foundation,
+Physicians’ Services Incorporated,
+Ontario Respiratory Care Society, Shopper’s
+Home Health Care. Dr Brooks was
+supported by a CIHR New Investigator
+Award.
+Address correspondence to: Dina
+Brooks, PhD, Department of Physical
+Therapy, University of Toronto,
+500 University Avenue, Room 160,
+Toronto, Ontario, Canada M5G 1V7
+(e-mail: dina.brooks@utoronto.ca).
+...........................................................................................................................................................
+The Acute Effects of a Rollator in Individuals With COPD / 107
+Copyr ight ' Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+including repositioning the body forward to an
+improved biomechanical position, stabilizing the arms
+and upper ribcage to enable the respiratory muscles to
+make greater contributions to respiration, transferring
+some of the patient’s weight to the rollator, and
+improving pacing and walking efficiency.7Y12 How-
+ever, not all patients benefit from a rollator. Patients
+whose walking is the most compromised seem more
+likely to benefit compared with those with modest
+impairment.8,10,11 Until recently, formal evaluation of the
+effectiveness of a rollator was uncommon. For example,
+in Ontario, Canada (population, 10 million), in the years
+2003 to 2004, approximately 5,000 walking aids were
+funded for adults with respiratory diagnoses at a cost
+of CDN$1.5 million (Ontario Ministry of Health and
+Long-Term Care, Assistive Devices Program, Wheelchair
+Positioning and Ambulation Aids Category, personal
+communication, 2005). These aids were funded based
+on an assessment by a healthcare professional, usually
+an occupational therapist or a physiotherapist, with no
+requirement for submission of any standardized evi-
+dence of effectiveness. More recently, it has become
+customary in some pulmonary rehabilitation programs
+to request that the patient undergo two 6-minute walks
+(6MWs), supervised by a member of the healthcare
+team, one with a rollator and the other without a
+rollator. Distance walked, dyspnea scores, and the
+number of rests in 6 minutes are recorded to ascertain
+whether walking with the rollator resulted in improved
+function.
+In a recent study, the results of paired 6MW among
+patients with severe COPD showed that for impaired
+patients with reduced walking ability, the rollator in-
+creased their 6MW from 220 T 12 to 242 T 14 m (P = .02),
+with shorter rest time and less dyspnea compared with
+walking unaided.11 An outstanding issue with regard
+to testing for the effectiveness of a rollator is whether
+the results of a single pair of 6MW tests are sufficient.
+Concern regarding this issue has resulted in patients
+being required to undergo repeated testing of effective-
+ness, often at the time of their first follow-up. To date,
+no studies have provided information as to whether the
+acute effects of walking with a rollator remain consis-
+tent over time. In this report, we evaluated whether the
+acute effects of walking with a rollator remained con-
+sistent after 1 and 2 months, among individuals with
+moderate to severe COPD.
+SUBJECTS AND METHODS
+.............................................................................................................
+Participants
+Subjects were recruited after completion of a pulmonary
+rehabilitation program. Subjects were approached if
+they met the following inclusion criteria: clinical stability,
+a diagnosis of moderate to severe COPD4 (a forced
+expiratory volume in 1 second to forced vital capacity
+ratio of G0.7 and a forced expiratory volume in 1 second
+of G59%), no previously prescribed walking aid,
+unaided 6MW of G375 m, and completed a pulmonary
+rehabilitation program. This last criterion meant that all
+subjects were experienced in the 6MW, having per-
+formed this test on several occasions as part of their
+rehabilitation program. Exclusion criteria were as fol-
+lows: comorbidities that influenced either exercise
+tolerance or sensation of dyspnea, inability to complete
+a 6MW, and inability to communicate sufficiently well to
+follow the study protocol.
+Protocol
+The study was approved by the affiliated university and
+healthcare research ethics committees. Written informed
+consent was provided by all subjects. A repeated mea-
+sures study design was used, with each subject being
+studied at baseline, 4 weeks, and 8 weeks. Subjects
+were requested to abstain from vigorous exercise and
+caffeine for 4 hours prior to the session and to follow
+their usual bronchodilator regimen on the day of their
+scheduled appointment. Subjects were requested to
+wear the same comfortable footwear at every measure-
+ment session. Two 6MW tests were performed with a
+minimum of 1 hour rest between the tests. One 6MW
+test was performed unaided, and the other was
+performed using a rollator (Opal Legacy; Dolomite,
+Markham, Ontario, Canada), the test order being
+randomly decided at baseline and then followed for
+each pair of tests.
+The 6MW was performed in a quiet corridor of 30 m,
+with pylons at the beginning and end of the course and
+a chair placed halfway.13
+All subjects were familiar with the 6MW test and
+had performed at least 2 practice walks before data
+collection to control for learning effects.14 Standard-
+ized instructions and encouragement were provided as
+per guidelines of the American Thoracic Society.13
+Encouragement was provided by the tester at every
+minute. Subjects were requested to cover as much
+ground as possible during the test period, stopping
+only when they felt too tired or breathless to continue,
+and to resume walking as soon as they were able to do
+so. The tester accompanied the subjects for both walks
+but walked behind the subject to avoid pacing. The
+height of the rollator was standardized by ensuring that
+the height of the rollator handles was at the level of the
+subject’s ulnar styloid process.15 This position was
+maintained consistently during all tests. Subjects who
+used supplemental oxygen for walking completed their
+unaided test with the oxygen unit being pulled in an
+oxygen stroller or trolley and their aided test, with their
+portable oxygen unit in the rollator basket.
+108 / Journal of Cardiopulmonary Rehabilitation 2006;26:107/111
+Copyr ight ' Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+Measures
+For each 6MW test, the distance walked (meters) and
+the number of rests taken during the test were recorded.
+Perceived dyspnea (difficulty of breathing) was rated
+before and after the test using a modified Borg scale
+consisting of numbers 0 to 10 anchored by descriptive
+phrases. This scale is widely used to evaluate dyspnea
+during exercise.16,17 After completing both tests, sub-
+jects were asked to complete a standardized preference
+questionnaire to indicate whether they preferred walk-
+ing with the rollator and to provide the reasons for their
+preference.11
+Statistical Analysis
+Descriptive statistics and frequencies were tabulated for
+subject characteristics and preferences. Differences for
+outcomes with and without the rollator over time were
+analyzed using a 2-way repeated-measures analysis of
+variance with 2 factors: use of rollator versus nonrollator
+and time (baseline, 4 weeks, and 8 weeks). To deter-
+mine whether the difference between aided and unaided
+walking was consistent at each time point, a 1-factor
+repeated-measures analysis of variance was conducted.
+To determine if the difference between aided and un-
+aided walking was dependent on the baseline 6MW
+distance, a linear regression analysis was conducted.
+Statistical analyses were performed using SPSS 11.0 for
+Windows (SPSS Inc, Chicago, Ill) statistical software, with
+significance being defined as P G .05.
+RESULTS
+.............................................................................................................
+Thirty-five individuals with a medical diagnosis of
+COPD were recruited for this study, with 31 individ-
+uals completing the study. One patient died of non-
+respiratory cause, and 3 were lost to follow-up despite
+repeated effort. The baseline characteristics of these
+subjects are summarized in Table 1. The mean distance
+walked in 6 minutes using the rollator (assisted walk-
+ing) and unassisted walking at baseline, 4 weeks, and
+8 weeks for all subjects is shown in Figure 1. There was
+an improvement in the distance walked with respect
+to rollator use (F = 6.3; P = .013). Subjects achieved a
+higher 6MW distance during assisted walking compared
+with unassisted walking at baseline (292 T 67 vs 263 T
+67 m), 4 weeks (296 T 62 vs 275 T 63m), and 8 weeks
+(283 T 65 vs 259 T 68 m). There was no difference in
+the changes observed over time (P = .45).
+The use of the rollator resulted in a significant
+reduction in the perception of dyspnea (F = 8.401;
+P = .004). This pattern was observed at baseline (3.7 T
+1.5 vs 4.6 T 1.5 m), 4 weeks (4.0 T 1.9 vs 4.5 T 1.6), and
+8 weeks (3.7 T 1.6 vs 4.4 T 1.5) (Figure 2). There was
+no difference in the changes observed over time (P = .7).
+The use of a rollator resulted in significantly fewer rests
+(F = 22.33; P G .001) compared with unassisted walking
+(Figure 3). There was no difference in the changes
+observed, over time (P = .9). The difference between
+assisted and unassisted walking versus the baseline
+unassisted 6MW was not significant (r = 0.3, P = .9).
+Eighty-eight percent of the subjects preferred walk-
+ing with the rollator during the 6MW at baseline, 93% at
+4 weeks, and 89% at 8 weeks (Table 2).
+DISCUSSION
+.............................................................................................................
+In this study, we note that the improvement in walking
+performance with a rollator was consistent over time
+among individuals with moderate to severe COPD who
+had limited baseline functional exercise capacity. These
+improvements applied to total distance walked, dyspnea
+ratings, and the number of rests taken during the walk
+.............................................................................................................
+Table 1 & CHARACTERISTICS OF THE
+SUBJECTS
+Characteristic Mean T SD [min, max]
+Sex (% male) 13 (42%)
+Subject (%) on supplemental oxygen 12 (39%)
+Age, y 68 T 8 [49, 84]
+FEV1, L 0.7 T 0.2 [0.4, 1.3]
+FEV1 (% predicted) 33 T 12 [15, 65]
+FEV1/FVC 36 T 11 [20, 64]
+Baseline 6MW distance, m 261 T 68 [131, 357]
+FEV1 indicates forced expiratory volume in 1 second; FVC, forced vital
+capacity; 6MW, 6-minute walk.
+Figure 1. Effect of rollator use on 6MW distance at baseline, 4 weeks,
+and 8 weeks. Solid shapes (&) represent assisted walking and open
+shapes (:) represent unassisted walking. Means T SE are presented.
+There was a significant difference between assisted and unassisted
+walking for the 6MW (P = .013), with no time effect (P = .45).
+The Acute Effects of a Rollator in Individuals With COPD / 109
+Copyr ight ' Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+test. The improvements did not correlate with the
+subjects’ baseline functional exercise capacity.
+These observations extend the findings of previous
+studies that have evaluated the acute effects of rollator
+use among individuals with COPD,9Y12 always at a
+single time point. Probst et al12 noted improvements of
+27 m among subjects who walked 416 m unaided, and
+Solway et al11 noted improvements of 22 m among
+subjects who walked less than 300 m unaided. Other
+reports8,10 in which unaided walking was impaired
+showed improvements similar to those reported by
+Solway et al. In this study, the improvement of 28, 20,
+and 24 m at baseline, 4 weeks, and 8 weeks, respec-
+tively, were consistent with previous reports in an
+impaired population with moderate to severe COPD
+(a forced expiratory volume in 1 second of 33% T 12%).
+Most subjects (88% at baseline, 93% at 4 weeks, 89%
+at 8 weeks) preferred walking with the rollator and
+reported that it enabled them to breathe easier and to
+feel safer during ambulation. The reduction in dyspnea
+was also consistent with studies in a similarly impaired
+COPD population.
+Study limitations included the absence of blinding of
+patients or tester. Lack of blinding can influence the
+findings, especially if they are marginal.14,17 However,
+walking distance was automated, and a standardized
+protocol was used for the variables collected manually.
+Another study limitation was that walking tests were
+conducted in an artificial environment and therefore
+may not accurately have reflected day-to-day life.
+However, performance on the 6MW has been shown
+to closely parallel the level of activity that individuals
+are likely to perform in their daily lives.18
+In Ontario, Canada, the number of ambulation aids
+funded between 1999 and 2004 has remained quite
+consistent, between 19,400 and 22,900, of which 73% to
+87% were for those aged over 65 years, and of these
+25% had respiratory diagnoses (Ontario Ministry of
+Health and Long Term Care, Assistive Devices Program,
+.............................................................................................................
+Table 2 & PREFERENCE STATEMENTS
+REGARDING ROLLATOR USE
+DURING THE 6MW
+Time Statement
+Strongly
+Agree or
+Agree, %
+Neither
+Agree nor
+Disagree, %
+Strongly
+Disagree or
+Disagree, %
+0 Breathe
+easier
+77 19 4
+Feel safer 66 27 7
+Difficult to
+push
+12 0 88
+Impaired
+walking
+8 4 88
+4 Breathe
+easier
+92 4 4
+Feel safer 70 19 11
+Difficult to
+push
+0 4 96
+Impaired
+walking
+11 4 85
+8 Breathe
+easier
+89 7 4
+Feel safer 71 25 4
+Difficult to
+push
+0 4 96
+Impaired
+walking
+4 11 85
+6MW indicate 6-minute walk.
+Figure 3. Effect of rollator use on the number of rests during the
+6MW at baseline, 4 weeks, and 8 weeks. Solid shapes (&) represent
+assisted walking and open shapes (:) represent unassisted walking.
+Means T SE are presented. There was a significant during assisted
+versus unassisted walking (P G .001), with no time effect (P = .9).
+Figure 2. Effect of rollator use on rating of dyspnea during the 6MW
+at baseline, 4 weeks, and 8 weeks. Solid shapes (&) represent
+assisted walking and open shapes (:) represent unassisted walking.
+Means T SE are presented. There was a significant difference
+between assisted and unassisted walking (P = .004), with no time
+effect (P = .7).
+110 / Journal of Cardiopulmonary Rehabilitation 2006;26:107/111
+Copyr ight ' Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.
+Wheelchair Positioning and Ambulation Aids Category,
+personal communication, 2005). Thus, rollators are a
+large cost for the healthcare system. This study demon-
+strated that among patients with moderate to severe
+COPD who have impaired walking ability, rollators
+improved walking distance, reduced rest time, and
+decreased dyspnea, observations that remained con-
+sistent over time. Future studies will need to address
+ways to facilitate and streamline rollator prescription
+among individuals with COPD.
+References
+1. American Thoracic Society. Pulmonary rehabilitationV1999. Am J
+Respir Crit Care Med. 1999;159:1666Y1682.
+2. Brooks D, Lacasse Y, Goldstein RS. Pulmonary rehabilitation
+programs in Canada: a national survey. Can Respir J. 1999;6:55Y63.
+3. Siafakas NM, Vermiere P, Pride NB, et al. Optimal assessment and
+management of chronic obstructive pulmonary disease (COPD).
+Eur Respir J. 1995;8:1398Y1420.
+4. O’Donnell DE, Aaron S, Bourbeau J, et al. State-of-the-art
+compendium: Canadian Thoracic Society recommendations for
+the management of chronic obstructive pulmonary disease. Can
+Respir J. 2004;11(suppl B):7BY59B.
+5. Cornely HZ. Functional outcome difference using a rollator
+walker versus a two-wheeled rolling walker. Phys Ther Case
+Rep. 1998;1:104Y106.
+6. Campbell EJM. Portable oxygen equipment and walking-aid in
+pulmonary emphysema. Br Med J. 1957;11:1518Y1521.
+7. Grant JB, Capel LH. Walking aid for pulmonary emphysema.
+Lancet. 1972;25:1125Y1127.
+8. Wesmiller SW, Hoffman LA. Evaluation of an assistive device for
+ambulation in oxygen dependent patients with COPD. J Cardio-
+pulm Rehabil. 1994;14:122Y126.
+9. Dalton G, Ashley J, Rudkin RT, White RJ. The effect of walking
+aids on walking distance, breathlessness and oxygenation in
+patients with severe chronic obstructive pulmonary disease.
+Thorax. 1995;50(suppl 2):A57.
+10. Honeyman P, Barr P, Stubbing DG. Effect of a walking aid on
+disability, oxygenation, and breathlessness in patients with
+chronic airflow limitation. J Cardiopulm Rehabil. 1996;16:63Y67.
+11. Solway S, Brooks D, Lau L, Goldstein RS. The short-term effect of
+a rollator on functional exercise capacity among individuals with
+severe COPD. Chest. 2002;122:56Y65.
+12. Probst VS, Troosters T, Coosemans I, et al. Mechanisms of im-
+provement in exercise capacity using a rollator in patients with
+COPD. Chest. 2004;126:1102Y1107.
+13. American Thoracic Society. ATS statement: guidelines for the six-
+minute walk test. Am J Respir Crit Care Med. 2002;166:111Y117.
+14. Guyatt GH, Pugsley SO, Sullivan MJ, et al. Effect of encourage-
+ment on walking test performance. Thorax. 1984;39:818Y822.
+15. Pierson FM. Principles and Techniques of Patient Care.
+Philadelphia, Pa: WB Saunders; 1994.
+16. Hamilton AL, Killian KJ, Summers E, Jones NL. Symptom intensity
+and subject limitation to exercise in patients with cardiorespira-
+tory disorders. Chest. 1996;110:1255Y1263.
+17. Guyatt GH, Sackett DL, Cook DJ. Users’ guide to the medical
+literature, II: How to use an article about therapy or prevention. Are
+the results of the study valid. J Am Med Assoc. 1993;270:2598Y2601.
+18. Steele BG, Holt L, Belza B, Ferris S, Lakshminaryan S, Buchner
+DM. Quantitating physical activity in COPD using a triaxial
+accelerometer. Chest. 2000;117:1359Y1367.
+The Acute Effects of a Rollator in Individuals With COPD / 111
+Copyr ight ' Lippincott Williams & Wilkins. Unauthorized reproduction of this article is prohibited.

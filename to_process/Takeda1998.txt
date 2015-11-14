@@ -1,0 +1,599 @@
+Japanese Circulation Journal   Vol.62, August 1998
+ardiogenic pulmonary edema, which is a common
+complication of acute myocardial infarction,
+remains a serious clinical problem.1 If pulmonary
+edema results in hypoxemia, mechanical ventilation with
+positive end-expiratory pressure (PEEP) is required.
+Mechanical ventilation, however, has associated morbidity.
+The potential benefits of continuous positive airway pres-
+sure (CPAP) ventilation include an improvement in
+oxygenation, a decrease in respiratory work, and a decrease
+in left ventricular afterload.2–5 If CPAP using a mask is
+utilized in patients with cardiogenic pulmonary edema, the
+number of patients that later require mechanical ventilation
+by means of endotracheal intubation can be reduced, while
+oxygenation and respiratory rate are improved.6 Further, we
+have reported that nasal CPAP led to an early decrease in
+plasma endothelin-1 (ET-1) concentrations in patients with
+severe cardiogenic pulmonary edema.7
+In practice, however, there are no generally accepted
+criteria for the initiation of mechanical ventilation in
+patients with pulmonary edema in the setting of acute
+myocardial infarction. Accordingly, the primary goal of the
+present study was to determine the effects of different
+methods of respiratory management on the hemodynamics,
+oxygenation, and outcome in patients who developed respi-
+ratory failure due to severe cardiogenic pulmonary edema
+after acute myocardial infarction.
+Patients and Methods
+This study was approved by the Committee on Human
+Patients. Because of the severity of cardiogenic pulmonary
+edema, no patient was able to give valid informed consent
+at entry into the study. Therefore, information was
+provided to the patient’s next of kin and their consent was
+obtained prior to study entry. During the 1-year study
+period, we prospectively studied 31 of 147 patients with
+acute myocardial infarction admitted to the coronary care
+unit (CCU) of our hospital. Of these, one patient with left
+ventricular free wall rupture and another with ventricular
+septal perforation were excluded. The remaining patients
+consisted of 29 adults with respiratory failure due to severe
+cardiogenic pulmonary edema. All patients with cardio-
+genic pulmonary edema who had clinical evidence of respi-
+ratory distress and a PaO2 below 80 mmHg while receiving
+50% oxygen by tight-fitting mask were enrolled.
+Cardiogenic pulmonary edema was diagnosed if a
+patient had dyspnea of sudden onset, typical findings on
+Effect of Nasal Continuous Positive Airway
+Pressure on Pulmonary Edema Complicating Acute
+Myocardial Infarction
+Jpn Circ J 1998; 62: 553 –558
+Shinhiro Takeda, MD; Jun Nejima, MD; Teruo Takano, MD; Kazuhiro Nakanishi, MD;
+Morimasa Takayama, MD; Atsuhiro Sakamoto, MD*; Ryo Ogawa, MD*
+Cardiogenic pulmonary edema is a frequent cause of reparatory failure. We investigated the effects of nasal
+continuous positive airway pressure (CPAP) in patients with severe pulmonary edema associated with acute
+myocardial infarction. Twenty-nine consecutive patients were divided into 3 groups: firstly, 7 intubated patients
+who received mechanical ventilation at study entry comprised the intubation group. The rest of the patients were
+randomly assigned to either of the following 2 groups: 11 patients who received oxygen plus CPAP delivered by
+a nasal mask (CPAP group), and 11 patients who received oxygen only via face mask (oxygen group). All
+patients in the intubation group had cardiogenic shock. Two patients (18%) in the CPAP group and 8 patients
+(73%) in the oxygen group required mechanical ventilation with endotracheal intubation (p=0.03). The hospital
+mortality rate in the CPAP group (9%) was significantly lower than the oxygen group (64%, p=0.02). The
+pulmonary artery wedge pressure and heart rate were significantly lower in the CPAP group than in the oxygen
+group 24 h after study entry (p<0.05 and p<0.01). The mean pulmonary artery pressure 48h after study entry was
+18±5mmHg in the CPAP group and 25±8mmHg in the oxygen group (p<0.05). The PaO2/FiO2 ratio increased
+in the intubation group (168±69 to 240±57, p<0.05) and the CPAP group (137±17 to 253±67, p<0.01) 24h after
+study entry. Arterial plasma endothelin-1 concentrations decreased significantly earlier in the CPAP group than
+in the oxygen group (p<0.05). In patients without cardiogenic shock, nasal CPAP lead to an early improvement
+in oxygenation and hemodynamics, and decreased the mortality rate. Early and active respiratory management is
+recommended in patients with pulmonary edema associated with acute myocardial infarction. (Jpn Circ J
+1998; 62: 553 –558)
+Key Words: Acute myocardial infarction; Continuous positive airway pressure; Hypoxemia; Pulmonary
+edema; Respiratory care
+(Received November 27, 1997; revised manuscript received March
+13, 1998; accepted March 17, 1998)
+Department of Intensive Care Medicine and *Department of
+Anesthesiology, Nippon Medical School, Tokyo, Japan
+Mailing address: Jun Nejima, MD, Department of Intensive Care
+Medicine, Nippon Medical School, 1-1-5 Sendagi, Bunkyo-ku,
+Tokyo 113-8603, Japan
+C
+CLINICAL STUDIES
+554 TAKEDA S et al.
+Japanese Circulation Journal   Vol.62, August 1998
+chest radiograph, and widespread rales without a history
+suggesting pulmonary aspiration or infection. The diagno-
+sis of acute myocardial infarction was based on the pres-
+ence of the following 3 criteria:
+a) typical chest pain lasting at least 30min,
+b) serum creatine kinase levels that were at least twice
+the normal value,
+c) electrocardiographic changes consistent with acute
+myocardial infarction. Cardiogenic shock was defined
+according to standard criteria.8
+Patients were divided into 3 groups depending on the
+method of initial respiratory management. Patients who
+received mechanical ventilation with intubation on admis-
+sion comprised the intubation group (n=7). Patients who
+did not receive mechanical ventilation with intubation were
+assigned at random to either of the following 2groups by
+envelope method: the CPAP group (patients who received
+oxygen plus CPAP delivered by a nasal mask), and the
+oxygen group (patients who received oxygen only via face
+mask). Eleven patients were assigned to each of the CPAP
+and oxygen groups. All patients were registered in the
+study within 6h of admission to the CCU.
+Nasal CPAP was administered using a BiPAP system
+(Respironics, Pennsylvania, USA). At the commencement
+of nasal CPAP therapy, the nasal mask was fitted to
+minimise leakage. Decisions on oxygen concentrations and
+PEEP levels were made with continuous monitoring of
+oxygen saturation using pulse oximetry. Oxygen was
+supplied through the side ditch of the circuit. Patients
+received from 4 to 10 cm H2O of CPAP. The inspired
+oxygen concentration was continuously monitored (Mini
+OX III oxygen monitor, Catalyst Research Corporation,
+USA). Using this system, the inspired oxygen concentra-
+tion could be increased to 70%. In the oxygen group,
+oxygen was supplied via a tight-fitting mask connected to a
+high-flow open circuit and a reservoir bag. The inspiratory
+oxygen concentration was adjusted by an oxygen/air
+blender (Central Une, Fukuoka, Japan). The predetermined
+criteria for tracheal intubation and mechanical ventilation
+(Servo ventilator 900C, Siemens Elema, Sweden) included
+clinical deterioration and either a fall in PaO2/FiO2 to less
+than 100 with an FiO2 of 70% or a rise in PaCO2 to more
+than 55mmHg.
+At study entry, an arterial catheter was placed in the
+radial artery of all patients to monitor arterial blood pres-
+sure and to obtain samples for blood gases and plasma ET-
+1 concentrations. A flow-directed pulmonary artery
+catheter was inserted to measure hemodynamics including
+thermodilution cardiac outputs, and to obtain samples for
+mixed venous blood gases. Correct positioning of the
+pulmonary artery catheter in a branch of the pulmonary
+artery was confirmed by chest radiography. Blood gas
+analysis was performed using standard blood gas elec-
+trodes (ABL 300, Radiometer, Copenhagen, Denmark).
+Additional monitoring in all patients included electrocar-
+diography (DS-1060, Fukuda Denshi, Tokyo, Japan) and
+pulse oximetry (N 180 pulse oximeter, Nellcor, Tokyo,
+Japan). An attempt was made to obtain 2-dimensional
+echocardiograms in all patients, with a Sonolayer SSH-
+160A echocardiograph system (Toshiba, Kanagawa,
+Japan). Echocardiography was performed within 12 h of
+entry to the study. Left ventricular systolic function was
+evaluated in 11segments.9 Scoring of each segment was as
+follows: 0=normal; 1=mild hypokinesis; 2=severe hypoki-
+nesis; 3=akinesis; 4=dyskinesis.
+Changes in hemodynamics, oxygenation and respiratory
+rate were followed for 48 h. The in-hospital mortality rate
+was also compared among these groups. Respiratory rate
+was measured only during spontaneous ventilation in
+nonintubated patients. Hemodynamics measurement using
+a pulmonary artery catheter was discontinued if percuta-
+neous cardiopulmonary bypass support (PCPS) was re-
+quired. Peripheral arterial plasma ET-1 concentrations
+were followed for 24h. Radioimmunoassay was performed
+on samples using rabbit anti-human ET-1 (Peninsula
+Laboratories, USA ). At study entry, an illness severity
+score was determined for each patient according to the
+APACHE (acute physiology and chronic health evaluation)
+II system.10
+Statistical Analysis
+Because all patients in the intubation group had cardio-
+genic shock and therefore their clinical condition was more
+severe than the other 2 groups, we have not done statistical
+analysis among the 3groups without baseline and patient
+characteristics. The two-way ANOVA and Dunnett tests
+were performed to distinguish within-group differences
+over time. The one-way ANOVA and Newman-Keuls tests
+were performed to evaluate differences at the baseline, and
+patient characteristics between the groups. The Mann-
+Whitney test was performed to evaluate differences at the
+same time periods without the baseline between the CPAP
+group and oxygen group. A Fisher’s exact test was used to
+compare the rate of intubation, the final in-hospital mortal-
+ity rate and differences in patient characteristics between
+the CPAP group and oxygen group. All values are reported
+as the mean ± SD, and all p values less than 0.05 were
+considered to be statistically significant. 
+Results
+Patient Characteristics (Table 1)
+Patients in the intubation group had the highest
+maximum creatine kinase values and the lowest left
+ventricular ejection fraction of the 3 groups. All patients
+had anterior or inferior wall myocardial infarctions. Four
+patients (57%) in the intubation group and 2patients (18%)
+in both the CPAP and oxygen group had prior myocardial
+infarctions. Reperfusion therapy ( intravenous or intracoro-
+nary tissue plasminogen activator administration, and/or
+percutaneous transluminal coronary angioplasty) was
+performed in 22 of the 29 patients (intubation group, 5;
+CPAP group, 8; and oxygen group, 9 attempted). The
+success rate for reperfusion therapy was 77% (intubation
+group, 60%; CPAP group, 88%; and oxygen group, 78%).
+Reperfusion therapy was not attempted in the remaining 8
+patients either because of advanced age (>80 years) or a
+history of cerebral infarction during the previous 3-month
+period.
+Complete atrio-ventricular block occurred in 2, 1, and 1
+patients in the intubation, CPAP, and oxygenation groups,
+respectively. One patient in the intubation group required
+placement of a permanent pacemaker for persistent atrio-
+ventricular block. All patients in the intubation group had
+cardiogenic shock. In the intubation group, 5 patients
+underwent intra-aortic balloon pumping (IABP) as a means
+of assisting circulation. In addition to IABP, PCPS was
+required in 2 of these patients. In the oxygen group, 4
+patients received IABP, of whom 1 also received PCPS.
+Progression of heart failure necessitated the use of IABP
+555Respiratory Care in Myocardial Infarction
+Japanese Circulation Journal   Vol.62, August 1998
+and PCPS in this group. Two of the 4patients had recurrent
+infarction before IABP or PCPS was instituted. In the
+oxygen group, IABP and PCPS were not used at the time of
+entry to the study but were used later due to exacerbation of
+the patients’ condition.
+Drug Therapy (Table 2)
+A majority of patients in each group required treatment
+with inotropic agents. Patients in the intubation group
+required potent inotropic agents such as epinephrine or
+norepinephrine. In addition, patients in the intubation
+group required minimal vasodilator therapy.
+Patient Outcome (Table 3)
+The percentage of patients who required mechanical
+ventilation with intubation was significantly lower in the
+CPAP group than in the oxygen group. The time from
+study entry to mechanical ventilation with endotracheal
+intubation averaged 37±23 h (8 patients) in the oxygen
+group and 23±18h (2 patients) in the CPAP group. The in-
+hospital mortality rate for the oxygen group was similar to
+that for the intubation group. One patient died within 24h
+and another within 48h after study entry in the intubation
+group. All patients who died of acute myocardial infarction
+during the 1-year period surveyed died in the CCU. 
+Hemodynamic Parameters (Table 4)
+Patients in the intubation group had poor cardiac func-
+tion as evidenced by a low mean arterial pressure and a low
+cardiac index. In the CPAP group, the heart rate decreased
+Table 1 Patient Characteristics (mean ± SD)
+Variable Intubation group CPAP group Oxygen group
+Number of patients 7 11 11
+Age (years) 71±8  74±11 75±10
+Sex (male/female) 5/2 8/3 9/2
+Risk factor - no.
+    DM 3 2 4
+    HT 4 7 8
+    HL 1 2 2
+Maximum CK (IU/L) 7326±5797† 3629±2694 2410±1480
+(range) (628 – 17768) (447 – 7856) (601 – 4859)
+LVEF(%)   26.9±10.1* 37.5±10.5 41.2±10.6
+LV wall motion score 16.0±6.4  13.6±5.4  13.3±4.8  
+APACHE II score 12.0±3.1  10.8±3.7  10.5±2.8  
+CPAP, continuous positive airway pressure; DM, diabetes mellitus; HT, hypertension; HL, hyperlipidemia; CK, creatine kinase; 
+LVEF, left ventricular ejection fraction; LV, left ventricular; APACHE, acute physiology and chronic health evaluation. †p<0.05 
+vs CPAP group; *p<0.05 vs oxygen group.
+Table 2 Drug Therapy at Study Entry (mean ± SD)
+Drug Intubation group CPAP group Oxygen group
+Dopamine (μg/kg per min)    11.9±4.2†† 4.4±1.7 4.9±1.8
+(n=7) (n=10) (n=7)
+Dobutamine (μg/kg per min) 10.0±5.5 3.67±1.2  5.5±2.1
+(n=6) (n=3) (n=4)
+Epinephrine (μg/kg per min) 0.2 0 0
+(n=1) (n=0) (n=0)
+Norepinephrine (μg/kg per min)   0.26±0.09 0.2 0.2
+(n=5)* (n=1) (n=1)
+Nitroglycelin (μg/kg per min)   0.30±0.14   0.45±0.30  0.44±0.27
+(n=2)§ (n=11) (n=11)
+Furosemide (mg/day)    93.3±11.5† 44.0±20.7 52.0±27.0
+(n=3) (n=10) (n=10)
+Morphine (mg/day) 10.0   6.3±2.5    6.7±2.9  
+(n=1) (n=4) (n=3)
+CPAP, continuous positive airway pressure. †p<0.05. ††p<0.01, *p=0.013, and §p=0.003 vs CPAP and oxygen group.
+Variable Intubation group CPAP group Oxygen group
+(n=7) (n=11) (n=11)
+Intubation and mechanical ventilation no. (%) – 2 (18%)* 8 (73%)
+In-hospital (CCU) death no. (%) 4 (57%) 1 (9%)† 7 (64%)
+Cause of death MOF, 2 patients MOF, 1 patient MOF, 3 patients
+Pump failure, 2 patients Pump failure, 4 patients
+Respiratory failure, 1 patient
+Table 3 Patient Outcome
+CPAP, continuous positive airway pressure; CCU, coronary care unit; MOF, multiple organ failure. *p=0.03 and †p=0.02 vs oxy-
+gen group.
+556 TAKEDA S et al.
+Japanese Circulation Journal   Vol.62, August 1998
+significantly after 24 h and reached a rate that was signifi-
+cantly lower than that in the oxygen group. In all groups,
+the pulmonary artery wedge pressure decreased signifi-
+cantly 24h after study entry. At this point, the pulmonary
+arterial wedge pressure in the CPAP group was signifi-
+cantly lower than in the oxygen group. The mean pulmo-
+nary artery pressure decreased significantly in both the
+intubation and CPAP groups.
+Oxygenation and Respiratory Rate (Table 5)
+The PaO2/FiO2 ratio, an indicator of oxygenation, in-
+creased significantly in both the intubation group and the
+CPAP group, but did not change significantly in the oxygen
+group. After 24 h of treatment, the PaO2/FiO2 ratio was
+significantly higher in the CPAP group than in the oxygen
+group. The respiratory rate decreased significantly in the
+CPAP group and the oxygen group. However, the decrease
+in the respiratory rate was greater in the CPAP group than
+in the oxygen group. Oxygen delivery increased signifi-
+cantly 48h after study entry in the CPAP group, while it
+remained constant in the two other groups. Oxygen
+consumption, on the other hand, increased significantly in
+both the intubation group and the oxygen group after 48 h.
+Plasma ET-1 Concentration
+Arterial plasma ET-1 concentrations in the CPAP group
+decreased from 6.54±1.93pg/ml to 5.41±1.89pg/ml (p<0.05),
+4.47±0.81pg/ml (p<0.05), 4.01±0.74pg/ml (p<0.05) at 6 h,
+12 h, and 24 h, and in the oxygen group from 6.20±1.89
+pg/ml to 5.33±1.30 pg/ml, 5.05±0.95 pg/ml, 4.88±0.97
+pg/ml at 6h, 12h, and 24h. Arterial plasma ET-1 concen-
+trations in the CPAP group were significantly lower than
+those in the oxygen group at 24 h after study entry
+(p<0.05).
+Discussion
+In the present study, hemodynamics and oxygenation,
+Table 4 Hemodynamic Changes With Time (mean ± SD)
+Variable Group Baseline 24 h 48 h
+MAP (mmHg)
+    Intubation           59±25 (n=7)           66±19 (n=6)           65±8 (n=5)  
+    CPAP  (n=11)  93±29† 85±21 85±25
+    Oxygen  (n=11) 82±14 83±11 81±15
+HR (beats/min)
+    Intubation        126±9 (n=7)         117±10 (n=6)         120±11 (n=5)
+    CPAP (n=11) 106±12††     89±8*§§          85±12*§§
+    Oxygen (n=11) 110±12†  107±11  110±12  
+MPAP (mmHg)   
+    Intubation (n=5)  26±5    19±4*     16±4*   
+    CPAP (n=11) 29±3     22±6*§      18±5*§   
+    Oxygen (n=11) 30±7  28±9     25±8     
+PAWP (mmHg)  
+    Intubation (n=5)  22±3    16±2*     14±3*   
+    CPAP (n=11) 25±3     15±4*§      12±4*§   
+    Oxygen (n=11) 25±5    21±7*     19±8*   
+CI (L/min/m2)  
+Intubation (n=5)  2.2±0.5 2.4±0.8 2.8±0.2
+CPAP (n=11) 3.0±0.6 3.1±0.6 3.2±0.5
+Oxygen (n=11)  3.3±0.9† 3.2±0.8 3.5±1.8
+SVI (ml/m2)  
+Intubation (n=5)  18±5    20±5      23±3    
+CPAP (n=11)   29±7††      35±6**      38±6**  
+Oxygen (n=11)   30±7††    30±8    32±17
+CPAP, continuous positive airway pressure; MAP, mean arterial pressure; HR, heart rate; MPAP, mean pulmonary artery pres-
+sure; PAWP, pulmonary artery wedge pressure; CI, cardiac index; SVI, stroke volume index. *p<0.05 and **p<0.01 vs baseline; 
+†p<0.05 and ††p<0.01 vs intubation group; §p<0.05 and §§p<0.01 vs oxygen group.
+Table 5 Changes in PaO2/FiO2, Oxygen Delivery, Oxygen Consumption and Respiratory Rate (mean ± SD)
+Variable Group Baseline 24 h 48 h
+PaO2/FiO2 Intubation            168±69 (n=7)               240±57 (n=6)*              271±90 (n=5)**
+CPAP (n=11) 137±17         253±67**§§          316±45**§§    
+Oxygen (n=11) 174±60  162±51  189±89  
+Oxygen delivery Intubation (n=5) 473±222 539±297 602±125
+(ml/min) CPAP (n=11) 680±205 771±303   838±346*
+Oxygen (n=11) 673±169 757±250 681±173
+Oxygen consumption Intubation (n=5) 213±45      152±69**  261±56*
+(ml/min) CPAP (n=11)     302±41††§   255±80  284±72  
+Oxygen (n=11) 248±74  243±51      292±59**  
+Respiratory rate CPAP                32±5 (n=11)                       16±5 (n=10)**                 13±2 (n=9)** 
+(breaths/min) Oxygen               32±5 (n=11)                    21±3 (n=8)**                 19±3 (n=6)** 
+CPAP, continuous positive airway pressure. *p<0.05 and **p<0.01 vs baseline; ††p<0.01 vs intubation group; §p<0.05 and 
+§§p<0.01 vs oxygen group.
+557Respiratory Care in Myocardial Infarction
+Japanese Circulation Journal   Vol.62, August 1998
+and plasma ET-1 concentrations improved earlier in
+patients who received nasal CPAP than in patients who
+only received supplemental oxygen with a mask. Further,
+patients who received nasal CPAP required mechanical
+ventilation with intubation less frequently and their in-
+hospital mortality rate was lower. In contrast, patients who
+received mechanical ventilation with intubation in early
+stages of myocardial infarction had a high hospital mortal-
+ity rate.
+In the acute phase of myocardial infarction, left ventricu-
+lar dysfunction can result from a combination of recent
+infarction, old scar, and viable but noncontracting
+("stunned" or "hibernating") myocardium.11 Even in cases
+in which acute myocardial infarction reduces cardiac func-
+tion to a level that results in pulmonary edema, cardiac
+function may be improved chronically. Specifically, func-
+tional recovery in areas of stunned  myocardium can occur
+under conditions in which ventilatory and circulatory status
+is improved.12 Conversely, nonsevere left ventricular
+dysfunction can further deteriorate in the setting of infarct
+extension.12 Thus improvement of oxygenation is essential
+for the recovery of contractile function.
+Patients with acute heart failure have an increase in the
+amount of fluid in the alveoli, a reduction in lung volume
+and lung compliance, and an increase in airway resis-
+tance.13,14 Because of these changes, PEEP may improve
+oxygenation recruiting alveoli and redistributing fluid,
+thereby increasing end-expiratory lung volume.2,15
+Myocardial function may also improve because of reduced
+left ventricular afterload resulting from increased intratho-
+racic pressure.3 It may be assumed that extravascular
+pulmonary fluid volume decreases more slowly and the
+alveolar ventilation-perfusion ratio remains lower in
+patients who receive only oxygen when compared to those
+who receive CPAP. In patients receiving only supplemental
+oxygen, such a situation can result in increased respiratory
+work, placing greater demands on the heart. This is
+supported by the fact that oxygen consumption rose
+without an accompanying increase in oxygen delivery in
+patients in the present study who received only supplemen-
+tal oxygen. Our results also suggest that the effects of drugs
+that improve circulation appear more slowly, or less
+completely, in patients receiving only supplemental oxygen
+than in patients in whom the oxygenation has been
+improved by CPAP.
+Several investigators have suggested that one of the
+advantages of CPAP therapy is a reduction in respiratory
+work.16,17 Because we did not measure transpulmonary
+pressure changes or tidal volumes, we cannot demonstrate
+directly that respiratory work decreased during either treat-
+ment. However, a decreased respiratory rate combined with
+subjectively less labored breathing in the CPAP group is
+indirect evidence of a decrease in the work of breathing. In
+the same way, the high heart rate observed in the oxygen
+group is attributable, in part, to an increase in respiratory
+work due to tachypnea.
+Bersten et al previously reported that the proportion of
+patients with cardiogenic pulmonary edema who required
+mechanical ventilation with intubation was higher if they
+were initially treated with supplemental oxygen therapy
+than if they were treated with mask CPAP.6 However, the
+in-hospital mortality rate did not differ between these 2
+groups. In contrast, in the present study, both the percent-
+age of patients requiring mechanical ventilation with intu-
+bation and the mortality rate were higher if cardiogenic
+pulmonary edema was treated with supplemental oxygen
+therapy alone. This discrepancy may be due to differences
+in the patient populations of the 2 studies. Of the patients
+with pulmonary edema studied by Bersten et al, only 20%
+had an acute myocardial infarction. It is likely that the
+effects of CPAP on hemodynamics and oxygen delivery
+are greater in patients with acute myocardial infarction-
+associated pulmonary edema.
+The present study focused on patients with respiratory
+failure caused by pulmonary edema, excluding patients
+who required mechanical ventilation due to ischemic brain
+injury caused by ventricular fibrillation or other underlying
+diseases. A majority of the patients in the present study had
+the following characteristics: a) they were elderly, b) they
+had developed large infarctions, c) the infarction occurred
+in the anterior or inferior wall, and d) severe left heart
+failure was present. As one might expect from these char-
+acteristics, the hospital mortality in our population of
+patients was high (36%). During the 1-year study period,
+the mortality rate in patients with acute myocardial infarc-
+tion was 11% (16 of 147 patients). All of the patients in the
+intubation group had cardiogenic shock. The clinical condi-
+tion of patients assigned to the intubation group was, there-
+fore, more severe than that of the other 2groups. A previ-
+ous study demonstrated that 51% of patients requiring
+mechanical ventilation following acute myocardial infarc-
+tion died.18 This is similar to the mortality rate (57%) for the
+intubation group in the present study. Although no patient
+in the oxygen group developed cardiogenic shock or had a
+Killip class 4 infarction, the in-hospital mortality rate
+(64%) for this group was comparable to that for the intuba-
+tion group. Responses to pharmacologic agents may be
+blunted in poorly oxygenated patients, and mechanical
+ventilation is often necessary to reduce the work of breath-
+ing.19 In patients receiving only supplemental oxygen,
+oxygenation may be improved and respiratory muscle
+fatigue relieved by intubation and mechanical ventilation.20
+Therefore, the mortality rate in the oxygen group may have
+been reduced if mechanical ventilation with intubation or
+mask CPAP had been initiated earlier after the onset of
+pulmonary edema.
+Respiratory distress and associated tachycardia are
+major threats to the ischemic myocardium in the setting of
+cardiogenic pulmonary edema. Increased sympathetic
+activity leads to an excessive increase in both heart rate and
+systemic vascular resistance whereas cardiac contractility
+does not increase appropriately. Tachycardia increases
+myocardial oxygen consumption, worsening local myocar-
+dial ischemia. In addition, these responses to increased
+sympathetic tone are more marked in the acute stage of
+myocardial infarction. The hemodynamic responses to
+CPAP indicate relief from the circulatory stress mediated
+by sympathetic drive in the setting of cardiogenic pul-
+monary edema.21 Previous electrophysiologic studies have
+shown that short term application of nasal CPAP increases
+heart rate variability as well as the time and frequency
+domain indices of parasympathetic activity without influ-
+encing cardiac sympathetic tone.22 This increase may occur
+reflexively through stimulation of afferent pulmonary
+mechanoreceptors.
+High pulmonary artery pressures suggest that pulmonary
+congestion has not improved in the setting of cardiogenic
+pulmonary edema. In addition, alveolar hypoventilation
+due to pulmonary edema can cause hypoxic pulmonary
+vasoconstriction, which would elevate pulmonary artery
+558 TAKEDA S et al.
+Japanese Circulation Journal   Vol.62, August 1998
+pressure. A correlation has been previously reported
+between pulmonary artery pressure and plasma ET-1
+concentration.23,24 In the present study, only the CPAP
+group showed a significant decrease in plasma ET-1
+concentrations.
+We presume that nasal CPAP is likely to have a benefi-
+cial effect, as we found significant differences in-hospital
+mortality rate between the 2 study groups, but this study
+was too small to assess mortality adequately. A large study
+is needed to define more precisely which patients are likely
+to benefit from this treatment. 
+In conclusion, in patients with cardiogenic shock, the
+mortality rate is high and does not improve if mechanical
+ventilation is initiated. However, in patients with acute
+myocardial infarction-associated pulmonary edema that is
+not complicated by shock, nasal CPAP allows positive
+pressure ventilation without endotracheal intubation,
+improved oxygenation, and mortality rate. In addition,
+hemodynamics improve earlier with CPAP. These im-
+provements are essential for the recovery of contractile
+function and lead to decreased stimulation of endothelin
+production by pulmonary artery endothelial cells. Nasal
+CPAP therefore provides a safe and effective means of
+treating this condition. Early and aggressive respiratory
+management is therefore recommended in patients with
+pulmonary edema associated with acute myocardial infarc-
+tion.
+References
+1. Killip T, Kimball JT: Treatment of myocardial infarction in a coro-
+nary care unit. A two year experience with 250 patients. Am J
+Cardiol 1967; 20: 457–464
+2. Katz JA, Marks JD: Inspiratory work with and without continuous
+positive airway pressure in patients with acute respiratory failure.
+Anesthesiology 1985; 63: 598–607
+3. Buda AJ, Pinsky MR, Ingels NB Jr, Daughters TG, Stinson BE,
+Alderman LE: Effect of intrathoracic pressure on left ventricular
+performance. N Engl J Med 1979; 301: 453–459
+4. Rasanen J, Heikkila J, Downs J, Nikki P, Vaisanen I, Viitanen A:
+Continuous positive airway pressure by face mask in acute cardio-
+genic pulmonary edema. Am J Cardiol 1985; 55: 296–300
+5. Baratz DM, Westbrook PR, Shah PK, Mohsenifar Z: Effect of nasal
+continuous positive airway pressure on cardiac output and oxygen
+delivery in patients with congestive heart failure. Chest 1992; 102:
+1397–1401
+6. Bersten AD, Holt AW, Vedig AE, Skowronski AG, Baggoley JC:
+Treatment of severe cardiogenic pulmonary edema with continuous
+positive airway pressure delivered by face mask. N Engl J Med 1991;
+325: 1825–1830
+7. Takeda S, Takano T, Ogawa R: The effect of nasal continuous posi-
+tive airway pressure on plasma endothelin-1 concentrations in
+patients with severe cardiogenic pulmonary edema. Anesth Analg
+1997; 84: 1091–1096
+8. Weil MH, von Planta M, Rackow EC: Acute circulatory failure
+(shock). In:Braunwald E, editor. Heart Disease. 3rd editor. Philadel-
+phia: WB Saunders, 1988: 561– 563
+9. Gibson RS, Bishop HL, Stamm RB, Crampton RS, Beller GA,
+Martin RP; Value of early two dimensional echocardiography in
+patients with acute myocardial infarction. Am J Cardiol 1982; 49:
+1110–1119
+10. Knaus WA, Draper EA, Wagner DP, Zimmerman JE: APACHE II: a
+severity of disease classification system. Crit Care Med 1985; 13:
+818–829
+11. Braunwald E, Kloner RA: The stunned myocardium prolonged,
+postischemic ventricular dysfunction. Circulation 1982; 66: 1146–
+1149
+12. Brezins M, Benari B, Papo V, Cohen A, Bursztein S, Markiewicz W:
+Left ventricular function in patients with acute myocardial infarction,
+acute pulmonary edema, and mechanical ventilation: Relationship to
+prognosis. Crit Care Med 1993; 21: 380–385.
+13. Light RW, George RB: Serial pulmonary function in patients with
+acute heart failure. Arch Intern Med 1983; 143: 429–433.
+14. Sharp JT, Griffith GT, Bunnell IL, Greene DG: Ventilatory mechan-
+ics in pulmonary edema in man. J Clin Invest 1958; 37: 111–117.
+15. Rizk NW, Murray JF: PEEP and pulmonary edema. Am J Med 1982;
+72: 381–383.
+16. Gherini S, Peters RM, Virgilio RW: Mechanical work on the lungs
+and work of breathing with positive end-expiratory pressure and
+continuous positive airway pressure. Chest 1979; 76: 251–256.
+17. Perel A, Williamson DC, Modello JH: Effectiveness of CPAP by
+mask for pulmonary edema associated with hypercarbia. Intensive
+Care Med 1983; 9: 17–19
+18. Rasanen J, Nikki P: Respiratory failure arising from acute myocar-
+dial infarction. Ann Chir Gynaecol 1982; 71(Suppl): 43–47
+19. Aubier M, Trippenbach T, Roussos C: Respiratory muscle fatigue
+during cardiogenic shock. J Appl Physiol 1981; 51: 499–508
+20. Roussos C, Macklem PT: The respiratory muscles. N Engl J Med
+1982; 307: 786–797
+21. Mason DT, Spann JF Jr, Zelis R, Amsterdam EA: Alterations of
+hemodynamics and myocardial mechanics in patients with conges-
+tive heart failure: pathophysiologic mechanisms and assessment of
+cardiac function and ventricular contractility. Prog Cardiovasc Dis
+1970; 12: 507–557
+22. Butler GC, Naughton MT, Rahman MA, Bradley TD, Floras
+JS:Continuous positive airway pressure increases heart rate variabil-
+ity in congestive heart failure. J Am Coll Cardiol 1995; 25: 672–679
+23. Margulies KB, Hildebrand FL Jr, Lerman A, Perrella MA, Burnett
+JC: Increased endothelin in experimental heart failure. Circulation
+1990; 82: 2226–2230
+24. Cody RJ, Haas GJ, Binkley PF, Capers Q, Kelley R: Plasma
+endothelin correlates with the extent of pulmonary hypertension in
+patients with chronic congestive heart failure. Circulation 1992; 85:
+504–509

@@ -1,0 +1,513 @@
+unstable cardiac disease; musculoskeletal disability preventing arm exercise; cognitive impairment limiting completion of questionnaires; untreated deafness precluding use of walk- man-type devices
+Exclusion criteria included (1) unstable cardiac disease, that is, recent myocardial infarction, uncontrolled hypertension, or severe con- gestive heart failure; (2) musculoskeletal disability pre- venting arm exercise; (3) cognitive impairment that lim- ited completion of questionnaires; and (4) untreated deafness that precluded use of walkman-type devices.
+score --> 16
+Adherence to an appropriate regimen has repeat- edly been shown to improve exercise tolerance, increase strength and endurance, and reduce dyspnea in patients with COPD.1-10 However, benefits are known to be muscle-group–specific indicating the need for dif- ferential upper extremity training (UET) to promote the performance of activities of daily living (ADLs).11-14 Unsupported arm work has been shown to result in significant increases in metabolic and ventilatory demand.15-18 One approach to enhance exercise adher- ence involves the use of behavioral interventions such as distraction, in combination with exercise training.
+score --> 5
+Distractive auditory stimuli (DAS) occupy the attention channels that normally carry dyspneagenic informa- tion.19 Music can be effective as a distractive stimulus when used with exercise, leading to better tolerance of increasing levels of exercise and a reduced perception of dyspnea on exertion.19 While music used with exer- cise has been reported to be upbeat in tempo, the effect of differential music tempos has not been described.
+score --> 4
+A prompting script identical to the 6-minute walk prompting script from the National Emphysema Treatment Trial was used to indicate minute points and offer encouragement.22 Subjects prescribed oxygen during exercise were instructed to use their prescribed flow rate during the independent exercise program and testing.
+score --> 4
+The varied positive benefits of DAS have included a sig- nificant increase in total exercise time and reduction in perceived exertion during exercise in patients with COPD.20 In prior work, we have demonstrated efficacy of music as a distractive auditory stimuli in the home setting with lower extremity training21; however, the use of music within any setting with UET has not been described.
+score --> 3
+The UBE provides sup- ported arm exercise in the form of an arm cycle motion.
+score --> 3
+All sub- jects maintained logs of the upper extremity exercise, the number of minutes performed, the type of music selected (if randomized to 1 of the DAS groups), and notation of any symptoms of breathlessness or fatigue during the arm exercise.
+score --> 3
+Functional Performance related to arm exercise performance was described as the ability to perform unsupported arm activity.
+score --> 3
+54 / Journal of Cardiopulmonary Rehabilitation 2005;25:50-55 study (P  .547), with the moderate tempo DAS group exercising 194 minutes, the slow DAS group exercising 146 minutes, and the control group exercising 176 minutes.
+score --> 3
+Exercise training has been shown to be muscle-group–specific, with improvement seen in the muscle group exercised.27 Patients with COPD report disabling dyspnea when performing activ- ities involving the upper arms that have a lower meta- bolic equivalent for the task level than lower extremity exercises.
+score --> 3
+To address this potential design limitation, a script identical to that used in the National Emphysema Treatment Trial for 6-minute walks was used during the 6MPRB test to avoid any inadvertent coaching to any group.
+score --> 3
+K E Y  W O R D S activities of daily living dyspnea exercise lung diseases music obstructive therapy From the Ohio State University College of Nursing (Dr Bauldoff), the Ohio State University Medical Center (Ms Rittinger, Mr Nelson, and Ms Doehrel), and the Ohio State University College of Medicine and Public Health (Dr Diaz), Columbus, OH.
+score --> 2
+Chronic obstructive pulmonary disease (COPD) is an irreversible disease resulting in the progressive obstruc- tion of airflow.
+score --> 2
+Entry criteria included (1) diagnosis of COPD as defined by the ATS Criteria and FEV1/FVC of less than 70%; (2) prior enrollment in the OSUMC Pulmonary Rehabilitation Program; (3) ability to read, write, and speak English; and (4) willingness/ability to perform arm exercise.
+score --> 2
+UPPER EXTREMITY TRAINING The UET regimen focused on arm exercise to promote strength and endurance.
+score --> 2
+As all subjects used the pul- monary rehabilitation site for maintenance rehabilita- tion, upper body ergometry (UBE) was used for up to 15 minutes 2 to 3 times a week.
+score --> 2
+When significant differences were noted, a post hoc analysis using a Bonferroni test was used to further define the difference.
+score --> 2
+This large difference between the DAS groups versus the control group supports the conceptual framework that use of DAS during UET reduces per- ceptions of dyspnea during UET exercise.
+score --> 2
+Pfister and colleagues examined the effects of 5 types of music on exercise tolerance and perceived symptoms during 6-minute walk testing in 19 COPD patients.26 A crossover design covering 3 separate days was used with treadmill walking at a patient-specific maximal treadmill speed.
+score --> 2
+Because the intervention was a nonsupervised, UET program, it was not possible to determine with certainty that the exercises were performed, that DAS was used as advised, or that the logs were reliably recorded.
+score --> 2
+In addition, the sub- jects completed the questionnaires independently from the investigator, in the order of their choosing.
+score --> 2
+Dyssynchronous breathing during arm but not leg exercise in patients with chronic airflow obstruc- tion.
+score --> 2
+Effect of unsupported arm exercise on venti- latory muscle recruitment in patients with severe chronic airflow obstruction.
+score --> 2
+Comparison of arm and leg ergometry in patients with moderate chronic obstructive lung disease.
+score --> 2
+Dyspnea-limited response in chronic obstructive pul- monary disease: reduced unsupported arm activities.
+score --> 2
+The venti- latory response to arm elevation of patients with chronic obstruc- tive pulmonary disease.
+score --> 2
+Pfister T, Berrol C, Caplan C. Effects of music on exercise and perceived symptoms in patients with chronic obstructive pul- monary disease.
+score --> 2
+50 / Journal of Cardiopulmonary Rehabilitation 2005;25:50-55 Feasibility of Distractive Auditory Stimuli on Upper Extremity Training in Persons With Chronic Obstructive Pulmonary Disease Gerene S. Bauldoff, PhD, RN; Mahasti Rittinger, RRT; Timothy Nelson, MS;  Joan Doehrel, RRT; Philip T. Diaz, MD   OBJECTIVE: To determine the feasibility of distractive auditory stimuli (DAS) used during an upper extremity training (UET) program on perceived dyspnea, functional performance, and health-related quality of life.
+score --> 1
+In addition, to determine the appropriate music tempo used during the UET.
+score --> 1
+  PATIENTS: Thirty patients (13 male and 17 female) with moderate to severe chronic obstructive pulmonary disease (FEV1 41.27%  18% predicted).
+score --> 1
+  INTERVENTION: Moderate DAS group (n  10) and slow DAS group (n  10) subjects were instructed to perform UET for up to 15 minutes 3 to 5 times a week using DAS (walkman, audiocassettes).
+score --> 1
+  MEASURES AND RESULTS: Primary outcome measures were perceived dyspnea, functional performance using the 6-minute peg and ring board (6MRPB) count and health-related quality of life.
+score --> 1
+In addition, all subjects recorded the time of UET performance using self-report (daily logs).
+score --> 1
+  CONCLUSION: Subjects who used DAS (music) while performing UET improved functional performance whereas controls failed to continue improvement.
+score --> 1
+The incidence of COPD has increased dramatically throughout the 20th century, with a 41.5% increase since 1982 alone.1 The COPD is the fourth leading cause of death in the United States today.2 More than 40% of patients with COPD report a reduction in their activity tolerance.3 Dyspnea is the primary limiting factor in activity performance for many patients with COPD.
+score --> 1
+Pulmonary rehabilitation programs increase patient independence by instruction in symptom management Distractive Stimuli on UET / 51 and improve activity tolerance through exercise train- ing.
+score --> 1
+STATEMENT OF PURPOSE The purpose of this study was to determine the feasi- bility of an UET program that uses DAS on perceived dyspnea, functional performance related to upper extremity endurance, and health-related quality of life (HRQOL) in patients with moderate to severe COPD.
+score --> 1
+In addition, this study tested 2 music tempos used as DAS during UET.
+score --> 1
+Subjects were randomized to tempo into 1 of 3 arms: moderate DAS, slow DAS, or attention control.
+score --> 1
+Power analysis from our prior study21 that tested DAS with walking was performed using PASS 6.0.
+score --> 1
+The sample was a convenience sample of 30 patients (57% female) aged 63  11 years, defined as the first 30 subjects who met the inclusion criteria, con- sented to participate and completed 4 weeks of data collection.
+score --> 1
+The DAS was used to occupy the attention channels that normally carry dyspneagenic information.
+score --> 1
+The DAS used in this study was music delivered to the subject by walkman-type audiocassette.
+score --> 1
+All subjects in this study used the lightest resistance set- ting (120), with training determined by the number of minutes UBE was performed.
+score --> 1
+All subjects were instructed to warm up with flexibility exercises.
+score --> 1
+Functional performance was measured using the 6-Minute Peg and Ring Board (6MPRB) as described by Criner and Celli.13 The peg and ring board test consists of a peg and ring board with the pegs set at the subject’s shoul- der height and 10 cm below shoulder height.
+score --> 1
+All subjects performed two 6MPRB tests at each data collection visit with a 30-minute rest period used between tests.
+score --> 1
+No DAS was used during the peg and ring board testing.
+score --> 1
+Perceived dyspnea was measured using the University of California at San Diego Shortness of Breath Questionnaire (UCSD SOB), a 24-item instrument that assesses the occurrence of shortness of breath on a 6-point scale (0–5) during 21 ADLs associated with varying levels of exertion.
+score --> 1
+Lower scores indicate less perception of dyspnea during ADLs.23 The HRQOL was measured using the St. George’s Respiratory Questionnaire (SGRQ).
+score --> 1
+The SGRQ is a 76-item disease-specific instrument meas- uring health in chronic obstructive lung disease.
+score --> 1
+Higher scores indicate greater limitation.24,25 Reliability and validity has been previously established for all instruments.12,22-24 Table 1 • DEMOGRAPHIC AND CLINICAL INFORMATION Variable Moderate DAS (n  10) Slow DAS (n  10) Control (n  10) P Age, y[M (SD)] 57.8 (12) 67.8 (9) 63.3 (10) .121 Gender (count) .885 Male 4 4 5 Female 6 6 5 Education (count) .962 ≤HS Grad 6 7 6 >HS Grad 4 3 4 Employment (count) .149 Retired 5 8 4 Disabled 5 2 6 Marital status (count) .716 Married 4 3 3 Not married 6 7 7 Ethnicity (count) .534 White 8 6 8 African American 2 4 2 Social support (count) .866 Lives with SO 5 3 2 Lives alone 4 3 3 Lives with others 4 4 2 Pulmonary Function tests [M (SD)] FVC % predicted 60.3 (25.0) 58.9 (24.8) 71.4 (26.2) .551 FEV1 % predicted 33.8 (16.3) 41.3 (17.8) 46.1 (19.9) .508 FEV1/FVC 43.0 (12.9) 45.9 (18.0) 50.3 (11.5) .704 Oxygen use [No.
+score --> 1
+of subjects prescribed oxygen during exercise] 3 3 3 1.00 HS Grad, high school graduate; SO, significant other; FVC %, percent predicted of forced vital capacity; FEV1 %, percent predicted of forced expiratory volume in the first second; and FEV1/FVC, ratio of patient’s FEV1 to FVC.
+score --> 1
+Distractive Stimuli on UET / 53 Statistical Procedures The data were entered into an SPSS 12.0 data file for subsequent analysis and analyzed using a 3  2 analy- sis of variance (ANOVA) for comparisons of each vari- able including baseline comparisons of demographics, patient clinical information, and baseline and 4-week data for dyspnea, functional performance, and HRQOL.
+score --> 1
+All measured variables were analyzed using ANOVA (Table 2).
+score --> 1
+To evaluate the difference between groups, a post hoc analysis using a Bonferroni test was performed.
+score --> 1
+No significant differences were seen between groups for the total number of minutes of upper extremity exercise performed over 4 weeks of the Figure 1.
+score --> 1
+However, the control group did report more symptoms of dyspnea and fatigue during the exercise per the logs.
+score --> 1
+DISCUSSION This study determined that subjects who used DAS (either moderate or slow tempo) during UET signifi- cantly improved functional performance as reflected in an increase in the numbers of rings moved during the 6MPRB test.
+score --> 1
+This study builds on the conceptual framework of Haas and col- leagues,19 who advocate the combination of exercise and distraction to reduce perception of dyspnea.
+score --> 1
+Total exercise time was 22% longer with music as the DAS compared with either the gray noise or silence (P  .001).
+score --> 1
+While this study provided strong support for the immediate efficacy of DAS in improving exercise capacity, longer term benefits were not examined.
+score --> 1
+While no significant differ- ences in 6-minute walk distance (P  .25), perceived dyspnea or ratings of perceived exertion (modified Borg scale) were noted, 60% of the subjects enjoyed lis- tening to music while exercising.
+score --> 1
+Longer term effects of DAS on lower extremity exer- cise continuation were tested by Bauldoff and col- leagues.21 In this study, 24 persons with moderate to severe COPD were randomized to either DAS (n  12) or control (n  12) used during an 8-week, home- based, independent walking program following com- pletion of formal pulmonary rehabilitation program.
+score --> 1
+By 4 weeks the DAS group had increased 177.5 ft, whereas the control group decreased 52.1 ft; by 8 weeks the DAS group had increased by 445.4 ft, whereas the control group had decreased by 169.1 ft. Because our current study involved only 4 weeks of training, we hypothesize that differences between control and DAS groups would have been greater even if a longer training program had been used.
+score --> 1
+There are several limitations to this study.
+score --> 1
+However, all groups noted in the logs when they did not exercise and the DAS groups verbally reported compliance.
+score --> 1
+A final limitation was the short (4-week) follow-up interval as this was a feasibility study.
+score --> 1
+Distractive Stimuli on UET / 55 CONCLUSIONS The major findings of this study were that subjects who used either moderate DAS or slow DAS, both in the form of music, while performing UET, improved their upper extremity functional performance as measured by the 6MPRB test while the controls remained the same.
+score --> 1
+Findings of this study support the use of DAS in the form of music as a simple strategy that has the potential to augment the effectiveness of UET.
+score --> 1
+American Thoracic Society Standards for the diagnosis and care of patients with chronic obstructive pulmonary disease.
+score --> 1
+Exercise in chronic obstructive pulmonary disease.
+score --> 1
+Meta-analysis of respiratory rehabilitation in chronic obstructive pulmonary disease.
+score --> 1
+The breathing pattern in chronic obstructive lung disease during performance of some common daily activi- ties.
+score --> 1
+Respiratory response to arm ele- vation in patients with chronic airflow obstruction.
+score --> 1
+Haas F, Salazar-Schichi J, Axen K. Desensitization to dyspnea in chronic obstructive pulmonary disease.
+score --> 1
+Thornby MA, Haas F, Axen K. Effect of distractive auditory stim- uli in exercise tolerance in patients with COPD.
+score --> 1
+  DESIGN: Experimental, randomized, 3-group design with testing at baseline and 4 weeks.
+score --> 0
+  SETTING: Outpatient.
+score --> 0
+The control group (n  10) received the same instructions, but no DAS.
+score --> 0
+A significant increase was seen in 6MRPB count (P  .002) between groups.
+score --> 0
+Moderate DAS subjects increased 6MPRB count 46  21 rings and slow DAS subjects increased 46  20 rings from baseline to 4 weeks whereas control subjects increased only 5  4 rings.
+score --> 0
+No significant differences were noted for the remaining variables.
+score --> 0
+The DAS is a feasible adjunct to UET that may have the potential to augment the effectiveness of pulmonary rehabilitation training.
+score --> 0
+This study was supported by the Ohio State University College of Nursing Seed grant.
+score --> 0
+Address correspondence to: Gerene S. Bauldoff, PhD, RN,  The Ohio State University College of Nursing, 1585 Neil Ave, Columbus, OH 43210 (e-mail:Bauldoff.1@osu.edu).
+score --> 0
+SUBJECTS AND METHODS After approval of the study protocol by the Ohio State University Biomedical Institutional Review Board, COPD patients who had previously participated in the medical center’s pulmonary rehabilitation program were recruited.
+score --> 0
+A 3-group design required 7 subjects per group to attain a power of 0.80 with an alpha set at .05 and a beta set at .20.
+score --> 0
+Ten subjects were included in each group to ensure ade- quate power and to assist with potential attrition.
+score --> 0
+Study variables were measured at baseline and 4 weeks.
+score --> 0
+Of these, 8 (27%) were African American and 22 (73%) White.
+score --> 0
+Twelve additional patients (6 men and 6 women) who were similar in age and COPD severity were approached but refused to participate.
+score --> 0
+The demo- graphic and clinical characteristics of the 3 groups are outlined in Table 1.
+score --> 0
+DISTRACTIVE AUDITORY STIMULI  The independent variable in this study was DAS.
+score --> 0
+Four cassettes of PI- selected music (country/western; classical; pop/ motown; big band) were supplied from which the sub- ject self-selected at each UET session.
+score --> 0
+The tempo of the PI-selected music was determined by testing between 2 levels: slow tempo (60–89 beats per minutes [bmp]) or moderate tempo (90–120 bmp).
+score --> 0
+52 / Journal of Cardiopulmonary Rehabilitation 2005;25:50-55 DEPENDENT VARIABLES AND INSTRUMENTS Dependent variables were measured at baseline and 4 weeks.
+score --> 0
+Baseline and 4-week data characteristics are described in Table 2.
+score --> 0
+The rings consist of 10 lightweight rings that the subject moves simultaneously from the upper rings to the lower rings repeatedly.
+score --> 0
+The test is timed for 6 minutes with the total number of rings moved serving as the score.
+score --> 0
+Oxygen saturation (SpO2) was continuously monitored.
+score --> 0
+The protocol required that testing be stopped if the SpO2 decreased to less than 88%.
+score --> 0
+However, SpO2 remained greater than 88% during test- ing for all subjects.
+score --> 0
+One investigator (G.S.B.)
+score --> 0
+per- formed all testing.
+score --> 0
+The higher of the 2 values was recorded as the number of rings moved.
+score --> 0
+Perceived dyspnea was defined as the unpleasant awareness of labored breathing.
+score --> 0
+RESULTS There were no significant differences at baseline in any demographic (Table 1) or measured variables (Table 2).
+score --> 0
+No between-group differences were found for age, gen- der, education, employment, marital status, ethnicity, social support, pulmonary function [FVC], FEV1, FEV1/FVC ratio, or oxygen requirement.
+score --> 0
+Significant differences between groups were noted for functional performance in the number of rings moved (F  9.870, df  2, 27; P  .001) (Figure 1).
+score --> 0
+The moderate DAS group moved 144.3  29.5 rings at base- line, increasing to 190.1  24.7 rings at 4 weeks.
+score --> 0
+The slow DAS group moved 128.7  22.3 rings at baseline, increas- ing to 174.4  23 rings at 4 weeks.
+score --> 0
+In contrast, the con- trol group moved 140.3  20.9 rings at baseline, remain- ing stable with 144.9  21.5 rings at 4 weeks.
+score --> 0
+Significant differences were seen between moderate DAS and control and slow DAS and control (P  .001).
+score --> 0
+No difference was noted between moderate DAS and slow DAS (P  .67).
+score --> 0
+As seen in Table 2, no significant differences in perceived dysp- nea or HRQOL were noted between the DAS and control groups.
+score --> 0
+Both the moderate and slow DAS groups (13 of 20 subjects) showed an improvement in SGRQ activity subscores greater than the minimally clinically significant difference of 4 points as compared to the control group (4 of 10).
+score --> 0
+However, no significant difference in proportion was noted (2  1.69, df  1, P  .193).
+score --> 0
+Six-minute Peg and Ring Board count.
+score --> 0
+Table 2 • BASELINE AND 4-WEEK INFORMATION ACCORDING TO GROUP Mean (SD) Variable Moderate DAS (n  10) Slow DAS (n  10) Control (n  10) P 6-Minute Peg and Ring Board count Baseline 144.3 (29.5) 128.7 (22.3) 140.3 (20.9) .350 4 Weeks 190.1 (24.7) 174.4 (23.0) 144.9 (21.5) .002* Perceived dyspnea (UCSD SOBQ) Baseline 65.8 (21.8) 58.4 ((22.9) 55.2 (22.8) .565 4 Weeks 62.3 (18.5) 53.9 (22.3) 54.0 (16.7) .295 HRQOL (SGRQ) Total Baseline 55.0 (7.5) 52.6 (14.7) 57.2 (15.4) .737 4 Weeks 52.8 (12.3) 48.0 (16.4) 54.5 (11.8) .706 Symptoms Baseline 60.3 (15.5) 55.2 (22.1) 65.7 (21.7) .511 4 Weeks 61.8 (20.4) 54.8 (18.2) 59.3 (22.6) .842 Activity Baseline 78.8 (10.5) 77.7 (15.9) 79.4 (15.6) .962 4 Weeks 72.3 (16.7) 68.3 (15.1) 76.8 (15.7) .590 Impacts Baseline 39.8 (9.2) 37.5 (17.4) 41.8 (16.2) .805 4 Weeks 38.9 (13.4) 34.2 (21.6) 40.3 (11.9) .851 UCSD SOBQ, University of California at San Diego Shortness of Breath Questionnaire; HRQOL, health-related quality of life; and SGRQ, St. George’s Respiratory Questionnaire.
+score --> 0
+*P  0.05.
+score --> 0
+This result represents a major finding and is the first report of such improvement.
+score --> 0
+No significant differences were noted between groups, for perceived dyspnea or HRQOL (total or subscores).
+score --> 0
+The mean increase in the number of rings moved for the moder- ate DAS group was 45.8 rings; the slow DAS group was 45.7 rings as contrasted to the control group at 4.6 rings (Figure 1), a 10-fold improvement from the control group.
+score --> 0
+Although there were no significant differences between the DAS and control groups in perceived dys- pnea or HRQOL, we hypothesize that our study lacked sufficient power to detect such differences.
+score --> 0
+Nevertheless, the inclusion of the HRQOL and per- ceived dyspnea variables provide important information and preliminary power data for determination of sam- ple size in future studies.
+score --> 0
+Three previous studies have tested DAS in the COPD population, however, all with DAS in lower extremity training.
+score --> 0
+Thornby and colleagues randomly assigned 36 COPD patients to music, gray noise, or silence during exercise.20 The music served as the DAS and gray noise as a neutral auditory stimulus.
+score --> 0
+Also noted was a reduction in perceived exertion when subjects were exposed to music versus gray noise or silence (P  .01).
+score --> 0
+There was a significant decrease in perceived dyspnea during ADL (P  .004) and a significant increase in 6MW distance (P  .004) over time in the DAS group compared to the control.
+score --> 0
+The application of DAS to UET is of particular inter- est in the setting of COPD.
+score --> 0
+As such, interventions effective in improving long-term adherence to an UET program may have important implications for HRQOL in this patient popu- lation.
+score --> 0
+In addition, the principal investigator (G.S.B.)
+score --> 0
+was unblinded to the intervention and served as the only data collector.
+score --> 0
+Testing over a longer period with adequately powered sample sizes to systematically evaluate the effect of DAS is recommended in future randomized clinical trials.
+score --> 0
+References 1.
+score --> 0
+American Thoracic Society.
+score --> 0
+Am J Respir Crit Care Med.
+score --> 0
+1995;152(5):S78- S121.
+score --> 0
+2.
+score --> 0
+Ries AL.
+score --> 0
+Position paper of the American Association of Cardiovascular and Pulmonary Rehabilitation.
+score --> 0
+Scientific basis of pulmonary rehabilitation.
+score --> 0
+J Cardiopulm Rehabil.
+score --> 0
+1990;10:418-441.
+score --> 0
+3.
+score --> 0
+American Lung Association.
+score --> 0
+Emphysema.
+score --> 0
+Accessed  April 2, 2004.
+score --> 0
+Available at: http://www.lungusa.org/noframes/learn/lung/ lunemphysem.html.
+score --> 0
+4.
+score --> 0
+O’Donnell DE, Webb KA.
+score --> 0
+Exertional breathlessness in patients with chronic airflow obstruction.
+score --> 0
+Am Rev Resp Dis.
+score --> 0
+1993;148:1351-1357.
+score --> 0
+5.
+score --> 0
+Hodgkin JE.
+score --> 0
+Pulmonary rehabilitation.
+score --> 0
+Clin Chest Med.
+score --> 0
+1990;2(7): 447-460.
+score --> 0
+6.
+score --> 0
+Belman MJ.
+score --> 0
+Clin Chest Med.
+score --> 0
+1986;7(4):585-597.
+score --> 0
+7.
+score --> 0
+Celli BR.
+score --> 0
+Pulmonary rehabilitation in patients with COPD.
+score --> 0
+Am J Resp Crit Care Med.
+score --> 0
+1995;152:861-864.
+score --> 0
+8.
+score --> 0
+Lacasse Y, Wong E, Guyatt GH, King D, Cook DJ, Goldstein RS.
+score --> 0
+Lancet.
+score --> 0
+1996;348:1115-1119.
+score --> 0
+9.
+score --> 0
+Make B.
+score --> 0
+Pulmonary rehabilitation: myth or reality?
+score --> 0
+Clin Chest Med.
+score --> 0
+1986;7(4):519-540.
+score --> 0
+10.
+score --> 0
+ACCP/AACVPR Pulmonary Rehabilitation Guidelines Panel.
+score --> 0
+Pulmonary rehabilitation: joint ACCP/AACVPR evidence-based guidelines.
+score --> 0
+Chest.
+score --> 0
+1997;112(5):1363-1396.
+score --> 0
+11.
+score --> 0
+Tangri S, Woolf CR.
+score --> 0
+Chest.
+score --> 0
+1973;63:126-127.
+score --> 0
+12.
+score --> 0
+Celli BR, Rassulo J, Make BJ.
+score --> 0
+New Engl J Med.
+score --> 0
+1986;314:1485-1490.
+score --> 0
+13.
+score --> 0
+Criner G, Celli BR.
+score --> 0
+Am Rev Respir Dis.
+score --> 0
+1988;138:856-861.
+score --> 0
+14.
+score --> 0
+Owens GR, Thompson FE, Sciurba FC.
+score --> 0
+Thorax.
+score --> 0
+1988;43(11):911-915.
+score --> 0
+15.
+score --> 0
+Breslin EH.
+score --> 0
+Rehabil Nurs.
+score --> 0
+1992;17(1):12-20.
+score --> 0
+16.
+score --> 0
+Martinez FJ, Couser JI, Celli BR.
+score --> 0
+Factors influencing ventilatory muscle recruitment in patients with chronic airflow obstruction.
+score --> 0
+Am Rev Respir Dis.
+score --> 0
+1990;142:276-282.
+score --> 0
+17.
+score --> 0
+Martinez FJ, Couser JI, Celli BR.
+score --> 0
+Am Rev Resp Dis.
+score --> 0
+1991;143:476-480.
+score --> 0
+18.
+score --> 0
+Dolmage TE, Maestro L, Avendano MA, Goldstein RS.
+score --> 0
+Chest.
+score --> 0
+1993;104:1097-1100.
+score --> 0
+19.
+score --> 0
+In: Casaburi R,  Petty TL, eds.
+score --> 0
+Principles and Practice of Pulmonary Rehabilitation.
+score --> 0
+Philadelphia: WB Saunders Inc; 1993:241-251.
+score --> 0
+20.
+score --> 0
+Chest.
+score --> 0
+1995;107(5):1213-1217.
+score --> 0
+21.
+score --> 0
+Bauldoff GS, Hoffman LA, Zullo TG, Sciurba, FC.
+score --> 0
+Exercise main- tenance following pulmonary rehabilitation: effect of distractive stimuli.
+score --> 0
+Chest.
+score --> 0
+2002;122(3):948-954.
+score --> 0
+22.
+score --> 0
+The National Emphysema Treatment Trial Research Group.
+score --> 0
+Rationale and design of the national emphysema treatment trial: a prospective randomized trial of lung volume reduction surgery.
+score --> 0
+Chest.
+score --> 0
+1999;116(6):1750-1761.
+score --> 0
+23.
+score --> 0
+Eakin EG, Resnikoff PM, Prewitt LM, Ries AL, Kaplan RM.
+score --> 0
+Validation of a new dyspnea measure* The UCSD Shortness of Breath Questionnaire.
+score --> 0
+Chest.
+score --> 0
+1998;113(3):619-624.
+score --> 0
+24.
+score --> 0
+Jones PW, Quirk FH, Baveystock CM, Littlejohns P. A self-com- plete measure of health status for chronic airflow obstruction.
+score --> 0
+The St. George’s Respiratory Questionnaire.
+score --> 0
+Am Rev Respir Dis.
+score --> 0
+1992;146(6):1321-1324.
+score --> 0
+25.
+score --> 0
+Meek PM, Lareau SC.
+score --> 0
+Critical outcomes in pulmonary rehabilita- tion: assessment and evaluation of dyspnea and fatigue.
+score --> 0
+J Rehabil Res Dev.
+score --> 0
+2003;40(5, suppl 2):13-24.
+score --> 0
+26.
+score --> 0
+J Cardiopulm Rehabil.
+score --> 0
+1998;18:228-232.
+score --> 0
+27.
+score --> 0
+American Thoracic Society Pulmonary Rehabilitation Panel.
+score --> 0
+Pulmonary Rehabilitation-1999.
+score --> 0
+Am J Respir Crit Care Med.
+score --> 0
+1999; 159:1666-1682. 
+score --> 0

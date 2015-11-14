@@ -1,0 +1,581 @@
+postmenopausal women with newly diagnosed hormone receptor- positive MBC or LABC defined as ER and/or PgR  10 fmol/mg cytosol protein, or 10% of the tumour cells positive as assessed by immunohistochemical evaluation of the primary tumour. For the trastuzumab and control arms, the primary tumour had to reveal HER2 over-expression defined as 3+ staining by IHC or HER2 amplification (ratio > 2) by FISH or an equivalent method. No prior treatment for metastatic or locally advanced breast cancer; LVEF  50% at baseline; adequate hepatic, renal and bone marrow function; an ECOG performance status of 0 or 1. Furthermore, patients were required to have at least 1 measurable tumour lesion (patients with bone only disease were eligible) 
+Eligibility criteria Postmenopausal women with newly diagnosed HR positive MBC or LABC defined as ER and/or PgR 10 fmol/mg cytosol protein, or  10% of the tumor cells positive as assessed by immunohistochemical evaluation of the primary tumor were eligible for this trial.
+score --> 20
+Baumgärtner h,o, Nimmrich l,o, N. Harbeckm,o,p zerland , Germany t Czech Republic of Tübingen, Tübingen, Germany Halle-Wittenberg, Halle (Saale), Germany of Rostock, Rostock, Germany nchen, Munich, Germany ine, Cairo University, Cairo, Egypt amburg, Germanyhormone-receptor-po e metastatic breast cancer e Results of the eLEcTRA trial letrozole monotherapy as first-line treatment in patients with HER2-positive,Original article Higher efficacy of letrozole in combinatAll rights reserved.n with trastuzumab compared to le at ScienceDirect east w.elsevier .com/brst with a positive HR and HER2 expression may derive less benefit from endocrine treatment than those patients with HER2-negative, HR positive disease.11,12 In contrast, the effect of trastuzumab in the “HERA” trial and in other adjuvant trastuzumab studies was inde- pendent of hormone receptor expression.7,13 Preclinical investiga- tions suggest that a cross talk between the HER2 and ER signaling pathways may be the reason for decreased sensitivity to endocrine treatment in the HER2 and HR positive group.
+score --> 19
+Other requirements for all arms were no prior treatment for metastatic or locally advanced breast cancer; LVEF  50% at base- line; adequate hepatic, renal, and bone marrow function; an ECOG performance status of 0 or 1.
+score --> 19
+/ The Breast 21 (2012) 27e33 29not reported 0 Receptor status n ER and/or PgR positive 30 ER and PgR unknown 1 Receptor negative 0 Disease-free survival prior to the trial Median time from primary diagnosis to randomization/study inclusion (months) 28 Range (months) 0e75 M-Status at primary diagnosis of breast cancer n M0 23 M1 2 unknown 6 Site of metastases at time of randomization n Locoregional 9 Bone 19 Bone only 7 Soft tissue 11 Lung 4 Liver 12 Other 1 Adjuvant therapy n Any adjuvant therapy 22 Adjuvant antiestrogen therapy (tamoxifen) 20 Second line treatment (after assigned trial treatment) n Trastuzumab 16Let ¼ letrozole; Tra ¼ trastuzumab.6 23 2 6 n % n % 12 46 15 43 15 58 20 57 6 23 6 17 8 31 8 23 4 15 9 26 5 19 8 23 2 8 0 0 n % n % 11 42 11 31 8 31 9 26 n % n % 8 31 NA NA0 0 1 3 n % n % 26 100 35 100 0 0 0 0 0 0 0 0 10 3 0e486 0e292 n % n % 13 50 18 51 three trial arms A, B, and C were observed for lung (13%, 15%, 26%) One confirmed complete remission (CR) was observed in arm A, Arm A: HER2+, LET alone (Median TTP: 3.3 months) Arm B: HER2+, LET+TRA (Median TTP: 14.1 months) Hazard ratio = 0.67; p=0.23 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 Pr op or tio n  of  p ro gr es si on -fr ee  p at ie nt s 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 Pr op or tio n  of  p ro gr es sio n- fr ee  p at ie nt s Arm A: HER2+, LET alone (Median TTP: 3.3 months) Arm C: HER2–, LET alone (Median TTP: 15.2 months) Hazard ratio = 0.71; p=0.03 J. Huober et al.
+score --> 18
+HER2þ (Let alone) HER2þ (Let þ Tra) n % n % Clinical Benefit (A vs. B) 12 39 17 65 Clinical Benefit (A vs. C) 12 39 e e Median duration of CB 13.6 months 9.2 months Objective Response (A vs. B) 4 13 7 27 Objective Response (A vs. C) 4 13 e e Median duration of OR 12.2 months 11.4 months Let ¼ letrozole; Tra ¼ trastuzumab; CB ¼ Clinical Benefit; OR ¼ Objective Response.two CRs in arm B, and none in arm C. Safety LVEF monitoring Table 3 shows the mean LVEF values at screening and end of treatment as well as the mean LVEF change from baseline to the lowest value measured during treatment for patients in arms A, B, and C. There was a decrease of 3% for patients in arm A, 7% in arm B, and 1% in arm C.Objective response/clinical benefit ORR and CBR are shown in Table 2.
+score --> 16
+For arms A and B, the primary tumor had to reveal HER2 overexpression defined as 3 þ staining by immuno- histochemistry (IHC) or HER2 amplification (ratio>2) by FISH or an equivalent method.
+score --> 14
+In case of HER2-overexpressing tumors, the humanized monoclonal antibody trastuzumab significantly improves disease-free survival and overall survival in patients with early and metastatic breast cancer.5e9 Approximately half of the HER2 positive breast cancers are also positive for ER and/or PgR (HR positive), i.e.
+score --> 13
+Moreover, preclinical data suggest that blocking both ER and HER2-signaling may delay the development of resistance to aromatase inhibitors.12,14 Recently two randomized trials reported that the combination of an aro- matase inhibitor with an anti-HER2 treatment (trastuzumab or lapatinib) significantly prolonged progression-free survival in patients with HER2 and HR positive metastatic breast cancer (MBC).15,16 plus trastuzumab (arm B, n ¼ 26) as first-line treatment.
+score --> 13
+of OB&GYN, University of Cologne, Cologne, Germany nUniversity of California at Los Angeles, David Geffen School of Medicine, Department of Medicine, Division of Hematology and Oncology, Los Angeles, USA a r t i c l e i n f o Article history: Received 11 April 2011 Received in revised form 7 July 2011 Accepted 22 July 2011 Keywords: Metastatic breast cancer Endocrine treatment Letrozole Trastuzumab a b s t r a c t The eLEcTRA trial compared efficacy and safety of letrozole combined with trastuzumab to letrozole alone in patients with HER2 and hormone receptor (HR) positive metastatic breast cancer (MBC).
+score --> 12
+Furthermore, patients were required to have at least one measurable tumor lesion (patients with bone only disease were eligible).
+score --> 10
+For postmenopausal women with ER and/or PgR positive tumors, aromatase inhibitors are effective and well established agents both in the adjuvant and in the metastatic situation.1e4 Overexpression or amplification of the human epidermal growthT.
+score --> 9
+Furthermore, efficacy of letrozole alone in HER2 and HR positive disease was compared to its efficacy in HER2 negative, HR positive tumors in order to prospectively assess a potential predictive value of HER2 expression on treatment with aromatase inhibitors.
+score --> 9
+Almost all patients had ER and/or PgR positive tumors; only for one patient (arm A), hormone receptor status was unknown.
+score --> 9
+KaplaneMeier Estimates of Time to progression (TTP): HER2 positive patients treated with letrozole alone (Arm A) versus HER2 negative patients treated with letrozole alone (Arm C) LET: letrozole TRA: trastuzumab.Adverse events Number and percentages of patients with Adverse Events (AEs) as well as AEs reported for  10% of patients in any treatment arm are shown in Table 4.
+score --> 9
+It was concluded that the growth promoting effects of the HER2 pathway can be inhibited by potent estrogen deprivation.24,25 In the eLEcTRA trial - as a second predefined comparison - the treatment effect of letrozole alonewas assessed in the HER2 positive and HR positive cohort compared to the HER2 negative and HR positive patients.
+score --> 9
+The number of patients to be recruited into arm C (HER2 negative patients treated by letrozole alone) was planned to be 70 in order to provide sufficient power to allow for comparisons with those patients with HER2 positive tumors receiving letrozole alone (arm A).
+score --> 8
+CBRwas higher both in arm B and C compared to arm A (odds ratio arm B compared to arm A: 2.99, 95% CI 1.01e8.84, p ¼ 0.0636; odds ratio arm C compared to arm A: 5.34, 95% CI 1.83e15.58, p ¼ 0.0024).
+score --> 8
+/ The Breast 21 (2012) 27e33 31associated with decreased sensitivity to endocrine treatment in HR positive breast cancer.19 In preclinical models, the strategy to target both the ER signaling as well as the HER2 pathway resulted in enhanced efficacy compared to endocrine treatment alone.14,20 So far, two clinical trials have shown that the approach to target both pathways could be done safely and was associated with a better progression-free survival and a better clinical benefit rate for the combination of endocrine treatment and anti-HER2 therapy compared to endocrine treatment alone.
+score --> 8
+Since neither of the three now available phase III MBC trials investigated the combined versus the sequential approach of anti- HER2 and endocrine therapy, the optimal treatment strategy for the population of HER2 and HR positive breast cancer patients warrants further investigation.
+score --> 8
+The combination of letrozole and trastuzumab as first or second-line biological therapy produces durable responses in a subset of HER2 positive and ER positive advanced breast cancers.
+score --> 8
+A l,o, I. len, Swit rlangen iro, Egyp Prague, niversity iversität niversity rsität Mü f Medic ltona, H treatment is based on the expression of these hormone receptors factor receptor 2 (HER2) is diagnosed in approximately 15e20% of breast cancer patients.
+score --> 7
+The eLEcTRA trial showed that the combination of letrozole and trastuzumab is a safe and effective treatment option for patients with HER2 positive and HR positive MBC.
+score --> 7
+Results Patient characteristics In total, 93 patients from 32 centers were enrolled, 92 of whom received study treatment (n ¼ 31 in arm A, letrozole only; n ¼ 26 in arm B, letrozole plus trastuzumab; n ¼ 35 in arm C, HER2 negative, letrozole only).
+score --> 7
+KaplaneMeier Estimates of Time to progression (TTP): HER2 positive patients treated with letrozole alone (Arm A) versus HER2 positive patients treated with letrozole plus trastuzumab (Arm B) LET: letrozole TRA: trastuzumab.A.
+score --> 7
+Odds Ratio 95% CI p-value HER2 (Let alone) n % e e 2.99 1.01e8.84 0.0636 27 77 5.34 1.83e15.58 0.0024 10.8 months e e 2.49 0.64e9.70 0.3124 4 11 0.87 0.20e3.82 1.00 16.5 months with exception of 5 cases of severe (grade 3) bone pain (two in arm A, one in arm B, and two patients in arm C) and two patients in arm A with dyspnea of grade 3.
+score --> 7
+In the TAnDEM trial, patients with HER2 and HR positive MBC after tamoxifen failure were randomized to anastrozole or to anastrozole plus trastuzu- mab.15 In the second randomized phase 3 trial (EGF30008), HER2 and HR positive patients were randomized to letrozole or letrozole plus lapatinib.16 The eLEcTRA trial confirms and extends the results of these two trials (Table 5).
+score --> 7
+These patients seem to derive only little benefit from endocrine therapy alone and the clinical data available so far do not substantiate a predictive effect of HER2 positivity for type of endocrine agent.Taken together, our data support the notion that HER2 expression in HR positive disease characterizes a different subset of disease and confers relative endocrine resistance.
+score --> 7
+Thus, the combination of letrozole and trastuzumab is a safe and effective treatment option for patients with HER2 and HR positive MBC and LABC and may delay the use of chemotherapy.
+score --> 7
+Slamon D, Eiermann W, Robert N. Phase III randomized trial comparing doxorubicin and cyclophosphamide followed by docetaxel (ACT) with doxo- rubicin and cyclophophamide followed by docetaxel and trastuzumab (ACTH) with docetaxel, carboplatin and trastuzumab (TCH) in women with Her2neu positive early breast cancer patients: BCIRG 006 study.
+score --> 7
+Kaufman B. Trastuzumab plus anastrozole prolongs progression-free survival in postmenopausal women with HER2 positive, hormone-dependent meta- static breast cancer (MBC).
+score --> 7
+Main exclusion criteria were clinical or radiological signs of CNS metastasis; inflammatory breast cancer; other concurrent or previous malignant disease; uncontrolled cardiac diseases; prior anti-HER2 therapy apart from trastuzumab in the adjuvant setting.
+score --> 6
+Study treatment Patients eligible for arm A or B were randomly allocated to treatment with either  letrozole 2.5mg once daily until progression of disease (arm A).
+score --> 6
+At least one AEwas reportedmore frequently for patients in arm B (letrozole plus trastuzumab, 96%) than for patients in arms A and C (letrozole alone, 71% and 80%).
+score --> 6
+Thus, the rate of patients with prior adjuvant treatment was obviously smaller in the letrozole þ trastuzumab arm compared to that in patients with letrozole alone.
+score --> 6
+Moreover, observations fromtwo largeadjuvant trials comparing letrozole or an astrozole to tamoxifen in HR positive disease (BIG1- 98 andATAC trial) are in linewith our data.26,27 In both trials, patient outcome was worse in the HER2 positive compared to the HER2 negative subgroup.
+score --> 6
+Due to the very short TTP/PFS in all three MBC trials for endocrine treatment alone, this approach may not be sufficient for the majority of patients with HER2 and HR positive disease.
+score --> 6
+Tras- tuzumab plus anastrozole versus anastrozole alone for the treatment of post- menopausal women with human epidermal growth factor receptor 2epositive, hormone receptorepositive metastatic breast cancer: results from the randomized phase III TAnDEM study.
+score --> 6
+Adjuvant letrozole versus tamoxifen according to centrally- assessed ERBB2 status for postmenopausal women with endocrine-responsive early breast cancer: supplementary results from the BIG 1-98 randomised trial.
+score --> 6
+Median time to progression in arm A was 3.3 months compared to 14.1 months in arm B (hazard ratio 0.67; p ¼ 0.23) and 15.2 months in arm C (hazard ratio 0.71; p ¼ 0.03).
+score --> 5
+Clinical benefit rate was 39% for arm A compared to 65% in arm B (odds ratio 2.99, 95% CI 1.01e8.84) and 77% in arm C (odds ratio 5.34, 95% CI 1.83e15.58).
+score --> 5
+Introduction The majority of breast cancer tumors express the estrogen (ER) and/or progesterone receptor (PgR) and the selection for endocrine (HR).
+score --> 5
+Each investigator ensured that the protocol was reviewed and approved by the respective R andom isation Amendment [Germany] n = 35 HER2- and ER+/PgR+ Main Study [International] n = 57 HER2+ and ER+/PgR+ Arm C: Letrozole alone n = 35 HER2- and ER+/PgR+ Arm A: Arm B: Letrozole + Trastuzumab n = 26 HER2+ and ER+/PgR+ T u m o u r progression Letrozole alone n = 31 HER2+ and ER+/PgR+However, besides data of a phase 2 trial,17 up to now there are no randomized data for the combination of the aromatase inhibitor letrozole and trastuzumab in HER2 and HR positive MBC patients in the first-line setting.
+score --> 5
+Patients with HER2 and HR positive MBC or LABC were randomized to either letrozole alone (arm A, n ¼ 31) or letrozoleFig.
+score --> 5
+This was defined as the interval between the date of randomiza- tion/start of treatment and the earliest date of progression, or of death due to the underlying breast cancer, or of death from a cause thought to be connected to the underlying disease.
+score --> 5
+More patients in arm A (71%) than in arm B (42%) and arm C (31%) had received adjuvant systemic treatment.
+score --> 5
+This was significantly longer compared to the median of 3.3 months TTP for the HER2 positive patients in arm A (hazard ratio 0.71, 95% CI 0.52e0.96, p ¼ 0.03; Fig.
+score --> 5
+Discussion Several clinical studies have shown that HER2 overexpression is in HER2 positive MBC and LABC.
+score --> 5
+This underlines the aggressive nature of HER2 positive HR positive disease and its low sensitivity to endocrine treatment alone.
+score --> 5
+There was only a low incidence of LVEF decline as well as a low numerical LVEF decline associated with the combi- nation of trastuzumab and letrozole not exceeding the rates reported for trastuzumab treatment alone.22,23 More importantly, no symptomatic congestive heart failure was observed in our trial.
+score --> 5
+Since this issue cannot be easily investigated in a randomized comparison, we choose to recruit those patients with HR positive but HER2-negative disease eligible for first-line endocrine treatment within the eLEcTRA trial in a non randomized fashion.
+score --> 5
+2-year follow-up of trastuzumab after adjuvant chemotherapy in HER2- positive breast cancer: a randomised controlled trial.
+score --> 5
+Lapa- tinib combined with letrozole versus letrozole and placebo as first-line therapy for postmenopausal hormone receptor-positive metastatic breast cancer.
+score --> 5
+Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic breast cancer that overexpresses HER2.
+score --> 5
+Efficacy and safety of trastuzumab as a single agent in first-line treatment of HER2-overexpressing metastatic breast cancer.
+score --> 5
+Patients were randomized to either letrozole alone (arm A, n ¼ 31) or letrozole plus trastuzumab (arm B, n ¼ 26) as first-line treatment.
+score --> 4
+Additional 35 patients with HER2 negative and HR positive tumors received letrozole alone (arm C).
+score --> 4
+/ The Brea28tion, in an amendment for German sites, a third arm (C, n¼ 35) was implemented where patients with HER2 negative and HR positive tumors were assigned to receive letrozole alone as first-line treat- ment (Arm C; Fig.
+score --> 4
+In the “eLEcTRA” trial, efficacy and safety of letrozole combined with trastuzumab was compared to letrozole alone in a purely first-line HR and HER2 positive patient pop- ulation.
+score --> 4
+Clinical Benefit was defined as a confirmed assessment of CR, PR, st 21 (2012) 27e33or stable disease (SD) lasting at least 24 weeks.
+score --> 4
+Safety assessments Safety assessments consisted of monitoring and recording all adverse events and serious adverse events, monitoring of cardiac left ventricular ejection fraction (LVEF), hematology and blood chemistry, and performance of physical examinations.
+score --> 4
+Statistical methods The total number of patients to be recruited in arms A and B was planned to be 300 (150 per arm), in order to provide 81% power using a two-sided test at the 5% level of significance to detect a 50% improvement (prolongation) in median TTP.
+score --> 4
+Efficacy TTP and OS Patients in arm B had a numerically longer median TTP with 14.1 months compared to only 3.3 months for patients in arm A (hazard ratio 0.67, 95% CI 0.35e1.29, p ¼ 0.23; Fig.
+score --> 4
+Even though these differences did not reach statistical significance, the results of the eLEcTRA trial compare rather well to the other two randomized trials with similar differences between the two treatment arms and similar reductions in the hazard ratio for PFS (hazard ratios for eLEcTRA, TAnDEM and EGF30008 0.67, 0.63, and 0.71 respectively).
+score --> 4
+It is certainly noteworthy that the median TTP (eLEcTRA) or PFS (TAnDEM, EGF30008) for the HER2 positive patients treated by endocrine treatment alonewas comparably low in all three trials with 3.3, 2.4, and 3.0 months, respectively.
+score --> 4
+HER2þ/Let alone HER2þ/Let þ Tra HER2/Let alone Mean LVEF Mean LVEF Mean LVEF Screening 63% 62% 60% Study Termination 63% 59% 64% Mean Changea 3% 7% 1% Let ¼ letrozole; Tra ¼ trastuzumab.
+score --> 4
+Those factors slightly different between the groups (more patients with primary metastatic disease and lung metastases in the HER2-negative and more Table 5 Comparison of results from eLEcTRA trial with other trials.
+score --> 4
+To ensure that there is no inadvertent bias regarding German and non German patients of arm A (since in cohort C only German patients were included), we looked at the response rates of these two cohorts of arm A which were quite similar though (CBR 36% vs. 40%).
+score --> 4
+Thus, clinical results from the metastatic and the adjuvant setting do not confirm estrogen deprivation by aromatase inhibitors as a particularly active strategy in HR andHER2 positive breast cancer.
+score --> 4
+Our results further suggest that endocrine treatment alone with letrozole is significantly more effective in the HER2 negative compared to the HER2 positive pop- ulation.
+score --> 4
+Euro- pean organization for research and treatment of cancer, National cancer Institute of the United States, National cancer Institute of Canada.
+score --> 4
+/ The Breast 21 (2012) 27e33 33select the target: better choice of adjuvant treatments for breast cancer patients.
+score --> 4
+Five years of letrozole compared with tamoxifen as initial adjuvant therapy for postmenopausal women with endocrine-responsive early breast cancer: update of study BIG 1-98.
+score --> 4
+The role of hormonal therapy in the management of hormonal-receptor-positive breast cancer with co-expression of HER2.
+score --> 4
+The cardiac safety of trastuzumab in the treatment of breast cancer.
+score --> 4
+Letrozole is more effective neoadjuvant endocrine therapy than tamoxifen for ErbB-1- and/or ErbB-2-positive, estrogen receptor-positive primary breast cancer: evidence from a phase III randomized trial.
+score --> 4
+Neo- adjuvant treatment of postmenopausal breast cancer with anastrozole, tamoxifen, or both in combination: the Immediate Preoperative anastrozole, tamoxifen, or combined with tamoxifen (IMPACT) multicenter double-blind randomized trial.
+score --> 4
+this population comprises about 10% of all breast cancer patients.6,10 Several investigations suggest that patients * Corresponding author.
+score --> 3
+Patients in arm C did not have a HER2 over- expressing tumor (IHC 0, 1þ; or 2þ/FISH negative).
+score --> 3
+ letrozole 2.5 mg once daily þ weekly trastuzumab 2 mg/kg (after a loading dose of 4 mg/kg) iv until progression of disease (arm B).
+score --> 3
+Patients with HER2 negative tumors were included in arm C without further randomization and received letrozole 2.5 mg once daily until progression of disease.
+score --> 3
+If a patient withdrew from the study or was lost to follow-up without recorded tumor progression, their observation was censored at the date of the last adequate tumor assessment.
+score --> 3
+Tumor response was assessed using the RECIST criteria18 at baseline and every three months thereafter, until disease progression.
+score --> 3
+The LVEF was assessed by MUGA scan or echocardiography at baseline, every 3 months thereafter, and at the final visit.
+score --> 3
+The safety analysis included all patients who had received at least one dose of study treatment(s).
+score --> 3
+Median patient age was almost identical in arm A and B (61 years and 61.5 years, respectively) and higher for the patients in Table 1 Patient and Tumor Characteristics.
+score --> 3
+HER2þ (Let alone) HER2þ (Let þ Tra) HER2- (Let alone) Age, years Median 61 61.5 70 Range 47e88 39e87 45e81 ECOG performance status n % n % n % 0 17 55 8 31 19 54 1 14 45 18 69 15 43 2e4 0 0 0 0 0 0 0 % 97 3 0 % 74 7 7 27 15 43 19 % 29 61 23 36 13 39 3 % 71 65 % 52 J. Huober et al.
+score --> 3
+Median TTP of patients with HER2 negative tumors treated with letrozole alone (arm C) was 15.2 months.
+score --> 3
+ORR was also numerically higher in arm B compared to arm A (27% vs. 13%; odds ratio: 2.49, 95% CI 0.64e9.7, p ¼ 0.3124).
+score --> 3
+There were fewer patients in Arm B (letrozole þ trastuzumab) with liver metastases (19% vs. 39%) compared to Arm A (HER2þ letrozole alone) as well as compared to Table 3 Changes of left ventricular ejection fraction (LVEF).
+score --> 3
+a Mean LVEF change from baseline visit to minimum during the treatment.
+score --> 3
+It demonstrates that the addition of the anti-HER2 treatment trastuzumab to the aromatase inhibitor letrozole in a pure first-line setting improved the TTP from 3.3 to 14.1 months, the ORR from 13% to 27%, and clinical benefit rate from 39% to 65% Table 4 Occurrence of Adverse Events (AEs) and the most frequently observed AEs of all grade of maximum frequency in any treatment group.
+score --> 3
+This difference may explain the numerically better median TTP for letrozole and trastuzumab seen in the eLEcTRA trial (TTP 14.1 months) compared to the combina- tion treatment arms of the other two trials (PFS 4.8 and 8.2 months, respectively) as well as the somewhat larger difference in median TTP/PFS between combination vs. monotherapy in eLEcTRA (10.8 months vs. 2.4 or 5.4 months, respectively; see Table 5).
+score --> 3
+No patient was treated with trastuzumab in the adjuvant setting.
+score --> 3
+b HER2 positive and HR positive population.
+score --> 3
+However, a survival benefit has been shown only for the early use of the combination of chemotherapy with trastuzumab.5 Patient comor- bidities as well as disease aggressiveness need to be considered to decide for the individual patient whether such an endocrine-based treatment step seems clinically appropriate.
+score --> 3
+Ethical approval Overall Response Rate (ORR) Clinical Benefit Rate (CBR) y Hazard ratio (95% CI) Endocrine therapy alone Endocrine therapyþ anti-HER2 therapy Endocrine therapy alone Endocrine therapyþ anti-HER2 therapy 0.63 (0.47e0.84) 7% 20% 28% 43% 0.71 (0.53e0.96) 15% 28% 29% 48% 0.67 (0.35e1.29) 13% 27% 39% 65% st 21 (2012) 27e33All patients signed an informed consent form prior to enroll- ment in the study.
+score --> 3
+Results of the ATAC (Arimidex, Tamoxifen, Alone or in Combination) trial after completion of 5 years’ adjuvant treatment for breast cancer.
+score --> 3
+Results of chemotherapy alone, with sequential or concurrent addition of 52 weeks of trastuzumab in the NCCTG N9831 HER2-positive adjuvant breast cancer trial.
+score --> 3
+Quanti- tative associationbetweenHER-2/neu and steroidhormone receptors inhormone receptor-positive primary breast cancer.
+score --> 3
+Efficacy assessments The primary efficacy endpoint was time to progression (TTP).
+score --> 2
+Objective response was defined as the proportion of patients with a confirmed overall response of Complete Response (CR) or Partial Response (PR).
+score --> 2
+Duration of overall objective response and duration of clinical benefit were both calculated variables, derived as the interval between randomization and earliest date of progression in the subset of patients with a confirmed assessment of objective response or clinical benefit, respectively.
+score --> 2
+The primary efficacy endpoint TTP was estimated by the KaplaneMeier product-limit method.
+score --> 2
+Tamoxifen was exclusively used for adjuvant endocrine treatment (given in 65%, 31%, and 26% of patients, respectively).
+score --> 2
+None of the patients received adjuvant aromatase inhibitors or trastuzumab.
+score --> 2
+There was no difference in ORR between arm C and arm A (11% vs. 13%).
+score --> 2
+In eLEcTRA, more patients with primarymetastatic diseasewere found in arm B.
+score --> 2
+It cannot be ruled out that this difference has influenced the results of our trial, however, since prior adjuvant endocrine treatment was tamoxifen we consider this rather unlikely.
+score --> 2
+Preferred terms are listed by descending order (letrozole and trastuzumab) (n ¼ 26) Arm C HER2 (letrozole alone) (n ¼ 35) n (%) 28 (80) 8 (23) 1 (3) 4 (11) 7 (20) 4 (11) 1 (3) 2 (6) 1 (3) 1 (3) 0 (0) 1 (3) 1 (3) 0 (0) 1 (3) 1 (3) 0 (0) 1 (3) 0 (0) erap Brealetrozole may enhance these AEs that are mostly associated with endocrine treatment.
+score --> 2
+Alternatively, this increased AE rate may also be attributable to the substantially longer duration of treatment in the combination arm as well as to the fact that this was an open label trial.
+score --> 2
+Other AEs more frequently seen in the combination arm are events typically associated with trastuzumab like pyrexia, chills or nail disorders.
+score --> 2
+Two endocrine neoadjuvant trials have shown that HER2 posi- tive HR positive tumors respond well to aromatase inhibitors but responses to tamoxifen were infrequent.
+score --> 2
+Median PFS/TTP (months) Endocrine therapy alone Endocrine therapyþ anti-HER2 th Kaufmann et al.15 (TAnDEM) a Anastrozole þ/ trastuzumab 207 2.4 4.8 Johnston et al.16 (EGF30008) b Letrozole þ/ lapatinib 219 3.0 8.2 eLEcTRA Letrozole þ/ trastuzumab 92 3.3 14.1 PFS: progression-free survival.
+score --> 2
+In addition, HER2 expression was associated with a high risk of recurrence in patients treated with aromatase inhibitor as well as in those treated with tamoxifen.
+score --> 2
+New guidelines to evaluate the response to treatment in solid tumors.
+score --> 2
+The potency and clinical efficacy of aromatase inhibitors across the breast cancer continuum.
+score --> 2
+Trastuzumab after adjuvant chemotherapy in HER2-positive breast cancer.
+score --> 2
+Tras- tuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer.
+score --> 2
+Initially, enrollment of a total of 370 patients was planned, however, due to slow recruitment the trial was closed prematurely in 2007.
+score --> 1
+Patients and methods Study design The “eLEcTRA” trial was an open label, randomized, interna- tional multicenter phase III study (32 centers in Europe, Africa, and Australia).
+score --> 1
+Written informed consent was obtained from each patient before enrollment in the study.
+score --> 1
+Individual patient data were collected by the investigators and analyzed by contract research staff under supervision of the trial sponsor.
+score --> 1
+As of May 2005 trastuzumab was allowed to be given as 3-weekly application with the typical dose of 6 mg/kg (after a loading dose of 8 mg/kg).
+score --> 1
+Secondary efficacy endpoints included time to treatment failure (TTF), objective response rate (ORR)/clinical benefit rate (CBR), duration of response/clinical benefit, and overall survival.
+score --> 1
+The NCI Common Toxicity Criteria (CTC) were used for grading severity of adverse events, except for assessment of cardiac toxicity for which the New York Heart Association (NYHA) criteria were applied.
+score --> 1
+Treatments were compared applying Cox proportional hazards regression unadjusted for any baseline covariate.
+score --> 1
+After 24 months, the rate of progression-free patients as estimated from the Kaplan Meier TTP survival curvewas approx.
+score --> 1
+40% for arm B and 25% for armarm C (70 years).
+score --> 1
+Differences in the location of lesions at time of randomization between the 0.0 0 6 12 18 24 30 36 42 48 Time to progression from start of therapy (months) Fig.
+score --> 1
+The incidence of cardiac adverse events was comparable in all arms (9.7%, 7.7%, and 8.6%, respectively).
+score --> 1
+No life threatening (grade 4) cardiac event occurred.
+score --> 1
+We therefore believe that the lack of statistical significance in eLEcTRA may be most likely attributable to the smaller number of patients enrolled.
+score --> 1
+The eLEcTRA trial was stopped prematurely since accrual was slow in this niche pop- ulation and after first presentation of the TAnDEM trial, accrual in eLEcTRA was not expected to improve.21 Unfortunately, in smaller trial populations, patient characteristics between the groups may differ slightly.
+score --> 1
+We did observe some imbalances regarding patient characteristics.
+score --> 1
+Arm A HER2þ (letrozole alone) (n ¼ 31) Arm B HE n (%) n (%) Patients with  1 AE(s) 22 (71) 25 (96) AE preferred term Bone pain 5 (16) 7 (27) Fatigue 0 (0) 7 (27) Arthralgia 5 (16) 6 (23) Hot flush 1 (3) 2 (8) Cough 1 (3) 5 (19) Diarrhea 1 (3) 5 (19) Headache 3 (10) 5 (19) Oedema peripheral 1 (3) 5 (19) Vomiting 2 (7) 5 (19) Myalgia 1 (3) 4 (15) Nausea 1 (3) 4 (15) Pyrexia 1 (3) 4 (15) Nail disorder 0 (0) 3 (12) Anorexia 0 (0) 3 (12) Gastritis 0 (0) 3 (12) Abdominal pain 1 (3) 3 (12) Paraesthesia 1 (3) 3 (12) Stomatitis 0 (0) 3 (12)the two recently reported trials (anastrozole þ trastuzumab 32%,15 letrozole þ lapatinib 30%16).
+score --> 1
+Trastuzumab in addition to ut-off  10% of patients in any group).
+score --> 1
+TTP and CBR for letrozole was significantly higher in the HER2-negative compared to the HER2- positive cohort.
+score --> 1
+Trial Regimen No.
+score --> 1
+In addi- tion, the results from eLEcTRA as well as two other randomized trials15,16 show that the strategy to combine two targeted approaches in this population is not only feasible and safe but is also effective resulting in increased tumor control and delayed tumor progression.
+score --> 1
+The authors are very grateful to all the patients who participated in the eLEcTRA trial.
+score --> 1
+Enhancing the efficacy of hormonal agents with selected targeted agents.
+score --> 1
+Relationship between quantitative estrogen and progesterone receptor expression and human epidermal growth factor receptor 2 (HER-2) status with recurrence in the Arimidex, Tamoxifen, Alone or in Combination trial.
+score --> 1
+io sitiv J. Huober a,e,*,o, P.A.
+score --> 0
+Fasching b,n,o .A.
+score --> 0
+Breast Center Kantonsspital St. Gallen, CH-9007 St. Gallen, Switzerland.
+score --> 0
+Tel.
+score --> 0
+: þ41 71 494 1880; fax: þ41 71 494 6368.
+score --> 0
+E-mail address: jens.huober@kssg.ch (J. Huober).
+score --> 0
+o On behalf of the eLEcTRA investigators.
+score --> 0
+p Former address: Frauenklinik rechts der Isar, Technische Universität München, Contents lists availab The Br journal homepage: ww The Breast 21 (2012) 27e33Munich, Germany.Department of Gynaecology, Medical University of Vienna, Vienna, Austria lNovartis Pharma GmbH BU Oncology, Nürnberg, Germany mBreast Center, Dept.
+score --> 0
+ 2011 Elsevier Ltd. All rights reserved.
+score --> 0
+Reimer g,o, S. Paepke h,o, H M.W.
+score --> 0
+Beckmann b,o, C. May aBreast Center, Kantonsspital St. Gallen, St. Gal bDept of Gynaecology, University of Erlangen, E cNational Cancer Institute, Cairo University, Ca dDept of Oncology, University Hospital Prague, eDepartment of Obstetrics and Gynaecology, U fDepartment of Gynaecology, Martin-Luther-Un gDepartment of Obstetrics and Gynaecology, U h Frauenklinik rechts der Isar, Technische Unive i The Department of Clinical Oncology, Faculty o jDepartment of Gynaecology, Asklepios Klinik A k0960-9776/$ e see front matter  2011 Elsevier Ltd. doi:10.1016/j.breast.2011.07.006, M. Barsoum c,o, L. Petruzelka d,o, D. Wallwiener e,o, C. Thomssen f,o, zim i,o, V. Ragosch j,o, E. Kubista k,o, A.K.
+score --> 0
+In addi- J. Huober et al.
+score --> 0
+1).
+score --> 0
+Patients were enrolled between 2003 and 2007.
+score --> 0
+The study was conducted in accordance with good clinical practice and all applicable regulations, including the Declaration of Helsinki (modified in 2000).
+score --> 0
+1.
+score --> 0
+Trial design of the eLEcTRA trial.independent ethics committee.
+score --> 0
+All comparisons were made using the safety set.
+score --> 0
+TTP was presented graphi- cally as KaplaneMeier curves.
+score --> 0
+Treatments were compared regarding rates of overall objective response and overall clinical benefit by logistic regression models.
+score --> 0
+Patient demographics and tumor characteristics are shown in Table 1.
+score --> 0
+Arm A (31 Pat.)
+score --> 0
+Arm B (26 Pat.)
+score --> 0
+Arm C (35 Pat.)
+score --> 0
+/ The Breast 21 (2012) 27e3330and liver (39%, 19%, 23%; Table 1).
+score --> 0
+2).
+score --> 0
+2.
+score --> 0
+3).
+score --> 0
+There was no significant difference regarding overall survival between the three groups (data not shown).
+score --> 0
+Table 2 Response Rates and Duration of Response.
+score --> 0
+Arm A (31 Pat.)
+score --> 0
+Arm B (26 Pat.)
+score --> 0
+0.0 0 6 12 18 24 30 36 42 48 54 Time to progression from start of therapy (months) Fig.
+score --> 0
+3.
+score --> 0
+The severity of most AEs was CTC grade 1 or 2.
+score --> 0
+Grade 3 and 4 AEs occurred only in single incidences Arm C (35 Pat.)
+score --> 0
+Arm A (31 Pat.)
+score --> 0
+Arm B (26 Pat.)
+score --> 0
+Arm C (35 Pat.)
+score --> 0
+s (c R2þ J. Huober et al.
+score --> 0
+The number of AE’s were higher with the combination treat- ment than with letrozole alone and frequently comprised muscu- loskeletal disorders and fatigue.
+score --> 0
+Patient and tumor characteristics were mostly balanced between the two groups.
+score --> 0
+of pat.
+score --> 0
+TTP: time to progression.
+score --> 0
+a ITT population.
+score --> 0
+J. Huober et al.
+score --> 0
+/ The32patients with liver metastases in the HER2-positive cohort) were not very likely to significantly influence the results.
+score --> 0
+Local ethics approval was received and the study was conducted in accordance with the Declaration of Helsinki.
+score --> 0
+Funding This workwas supported by Novartis Pharma AG (sponsor of the trial) and F. Hoffmann-La Roche AG.
+score --> 0
+Conflict of interest statement The following authors declared conflict of interest: Jens Huober: Advisory board relationship: Novartis, Roche, GSK.
+score --> 0
+Research funding: GSK.
+score --> 0
+Honoraria: Novartis, AstraZeneca.
+score --> 0
+Peter Fasching: Honoraria for lectures from Roche, Novartis, Pfizer, AstraZeneca.
+score --> 0
+Consulting fees Novartis, Roche, AstraZeneca.
+score --> 0
+Research sponsored by Novartis.
+score --> 0
+Christoph Thomssen: Research Support, Advisory Boards, Speakers Honoraria by Roche and Novartis.
+score --> 0
+Hamdy Azim: Speaking bureau (Roche, Novartis) Christoph May: Employment at Novartis.
+score --> 0
+Inko Nimmrich: Honoraria from Novartis.
+score --> 0
+Nadia Harbeck: Lecture honoraria and consulting fees from Novartis and Roche.
+score --> 0
+Acknowledgments This article was written by a writing committee consisting of JH (trial principal investigator), NH and IN.
+score --> 0
+The committee members vouch for validity of the data and accuracy of the data analysis.
+score --> 0
+Final approval of the manuscript rested with the academic authors.
+score --> 0
+References 1.
+score --> 0
+Goldhirsch A, Coates AS, Gelber RD, Glick JH, Thürlimann B, Senn HJ, et al.
+score --> 0
+First- 12.
+score --> 0
+Arpino G, Weichmann L, Osborne CK, Schiff R. Crosstalk between the estrogen receptorand theHER tyrosinekinase receptor family.EndocrRev2008;29:217e33.
+score --> 0
+13.
+score --> 0
+Smith I, Procter M, Gelber RD, Guillaume S, Feyereislova A, Dowsett M, et al.
+score --> 0
+Lancet 2007;369:29e36.
+score --> 0
+14.
+score --> 0
+Sabnis G, Brodie A.
+score --> 0
+Understanding resistance to endocrine agents: molecular mechanisms and potential for intervention.
+score --> 0
+Clin Breast Cancer 2010;10:E6e15.
+score --> 0
+15.
+score --> 0
+Kaufman B, Mackey JR, Clemens MR, Bapsy PP, Vaid A, Wardley A, et al.
+score --> 0
+J Clin Oncol 2009;27:5529e37.
+score --> 0
+16.
+score --> 0
+Johnston S, Pippen Jr J, Pivot X, Lichinitser M, Sadeghi S, Dieras V, et al.
+score --> 0
+J Clin Oncol 2009;27:5538e46.
+score --> 0
+17.
+score --> 0
+Marcom PK, Isaacs C, Harris L, Wong ZW, Kommarreddy A, Novielli N, et al.
+score --> 0
+Breast Cancer Res Treat 2007;102:43e9.
+score --> 0
+18.
+score --> 0
+Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubinstein L, et al.
+score --> 0
+J Natl Cancer J. Huober et al.
+score --> 0
+Ann Oncol 2006;17:1772e6.
+score --> 0
+2.
+score --> 0
+Coates AS, Keshaviah A, Thürlimann B, Mouridsen H, Mauriac L, Forbes JF, et al.
+score --> 0
+J Clin Oncol 2007;25:486e92.
+score --> 0
+3.
+score --> 0
+Howell A, Cuzick J, Baum M, Buzdar A, Dowsett M, Forbes JF, et al.
+score --> 0
+Lancet 2005;365:60e2.
+score --> 0
+4.
+score --> 0
+Lonning PE.
+score --> 0
+Ann Oncol 2011;22:503e14.
+score --> 0
+5.
+score --> 0
+Slamon DJ, Leyland-Jones B, Shak S, Fuchs H, Paton V, Bajamonde A, et al.
+score --> 0
+N Engl J Med 2001;344:783e92.
+score --> 0
+6.
+score --> 0
+Piccart-Gebhart MJ, Procter M, Leyland-Jones B, Goldhirsch A, Untch M, Smith I, et al.
+score --> 0
+N Engl J Med 2005;353:1659e72.
+score --> 0
+7.
+score --> 0
+Romond EH, Perez EA, Bryant J, Suman VJ, Geyer CE, Davidson NE, et al.
+score --> 0
+N Engl J Med 2005;353:1673e84.
+score --> 0
+8.
+score --> 0
+Cancer Res; 2009.
+score --> 0
+69 Suppl.
+score --> 0
+(Abst 62) 500S.
+score --> 0
+9.
+score --> 0
+Perez EA, Suman VJ, Davidson NE, Gralow J, Kaufman PA, Ingle JN, et al.
+score --> 0
+Cancer Res; 2009.
+score --> 0
+69 Suppl.
+score --> 0
+(Abst 80.
+score --> 0
+10.
+score --> 0
+Konecny G, Pauletti G, Pegram M, Untch M, Dandekar S, Aguilar Z, et al.
+score --> 0
+J Natl Cancer Inst 2003;95:142e53.
+score --> 0
+11.
+score --> 0
+Lipton A, Ali SM, Leitzel K, Demers L, Harvey HA, Chaudri-Ross HA, et al.
+score --> 0
+Serum HER-2/neu and response to the aromatase inhibitor letrozole versus tamoxifen.
+score --> 0
+J Clin Oncol 2003;21:1967e72.Inst 2000;92:205e16.
+score --> 0
+19.
+score --> 0
+Prat A, Baselga J.
+score --> 0
+Nat Clin Pract Oncol 2008;5:531e42.
+score --> 0
+20.
+score --> 0
+Johnston SR.
+score --> 0
+Clin Breast Cancer 2009;1(9 Suppl):S28e36.
+score --> 0
+21.
+score --> 0
+Eur Soc for Med Oncol (ESMO) Congress; 2006.
+score --> 0
+Abstract no.
+score --> 0
+LBA2.
+score --> 0
+22.
+score --> 0
+Vogel CL, Cobleigh MA, Tripathy D, Gutheil JC, Harris LN, Fehrenbacher L, et al.
+score --> 0
+J Clin Oncol 2002;20:719e26.
+score --> 0
+23.
+score --> 0
+Chien AJ, Rugo HS.
+score --> 0
+Expert Opin Drug Saf 2010;9:335e46.
+score --> 0
+24.
+score --> 0
+Ellis MJ, Coop A, Singh B, Mauriac L, Llombert-Cussac A, Jänicke F, et al.
+score --> 0
+J Clin Oncol 2001;19:3808e16.
+score --> 0
+25.
+score --> 0
+Smith IE, Dowsett M, Ebbs SR, Dixon JM, Skene A, Blohmer JU, et al.
+score --> 0
+J Clin Oncol 2005;23:5108e16.
+score --> 0
+26.
+score --> 0
+Rasmussen BB, Regan MM, Lykkesfeldt AE, Dell'Orto P, Del Curto B, Henriksen KL, et al.
+score --> 0
+Lancet Oncol 2008;9:23e8.
+score --> 0
+27.
+score --> 0
+Dowsett M, Allred C, Knox J, Quinn E, Salter J, Wale C, et al.
+score --> 0
+J Clin Oncol 2008;26:1059e65. 
+score --> 0

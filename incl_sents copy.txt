@@ -1,0 +1,42 @@
+Allen1999Comparisonoftransm.txt
+Refractory angina CCS class IV, not amenable to CABG or PTCA, reversible ischaemia determined by myocardial perfusion scanning, and ejection fraction > 25%
+Bauldoff2005Feasibilityofdistr.txt
+diagnosis of COPD and FEV1/FVC < 70%; prior enrollment in pulmonary rehabilitation programme, ability to read, write, speak English; willingness/ability to perform arm exercise
+Beniaminovits2000.txt
+adult, consecutive non-sensitized recipients of first cardiac transplants 
+Burkhoff1999.txt
+CCS angina class III-IV, ejection fraction > 30%, reversible perfusion defects on dypiridamolle-thallium stress test, with at least one region of protected my- ocardium, angiographically defined Exclusions: myocardial infarction in the previous 3 months, admitted to hospital for unstable angina in the last 21 days, severe symptomatic heart failure, ventricular arrhyth- mias, cardiac transplant or judged to be poor surgical candidate
+Doughty2002Randomized,controll.txt
+Patients admitted to general medical wards with a primary diagnosis of heart failure Study
+Egan2002Arandomizedcontrol.txt
+aged 18 years or older; history of chronic bronchitis (with infection), emphy- sema, chronic airway obstruction, chronic asthma, or a combination of these; forced Expiratory Volume (FEV1) on admission prior to initializing intravenous medications to determine severity of disease; cog- nitive function at time of entry to the study was adequate to understand and complete a questionnaire; admission to a respiratory unit bed within 72 hours of admission to hospital, informed consent was ob- tained in writing
+Fernandez1980.txt
+essential hypertension; supine or standing diastolic blood pressure 90- 120 mm Hg
+Foss2009Theeffectsofliber.txt
+1. primary hip fracture occurring in the community 2. people > 65 years old 3. independent pre-fracture walking function 4. community dwelling 5. intact cognitive status
+Gregersen2015Postoperativeblood.txt
+clinical diagnosis of hip fracture . surgery treatment . postoperative anaemia: 6-7 mmol/L up to the 6th day post operation . aged ≥ 65 years . admitted from nursing home or sheltered housing facilities for unilateral hip fracture surgery . written assent
+Gupta2006Effectofrollatoru.txt
+clinically stable, diagnosis of moderate-to-severe COPD according to Amer- ican Thoracic Society criteria, completed pulmonary rehabilitation in the last year, not had previous rol- lator use, unassisted 6MW distance <375 m
+Gupta2006Theacuteeffectsof.txt
+clinical stability; moderate to severe COPD; no previously prescribed walking aid; unaided 6MW < 375 m; completed pulmonary rehabilitation programme
+Huober2012Higherefficacyofl.txt
+clinically stable, diagnosis of moderate-to-severe COPD according to Amer- ican Thoracic Society criteria, completed pulmonary rehabilitation in the last year, not had previous rol- lator use, unassisted 6MW distance <375 m
+Kaufman2009Trastuzumabplusana.txt
+postmenopausal women over-expressing HER2/neu by the Hercep Test assay (score 2+ or 3+), and/or fluorescence in situ hybridisation positive with two-fold amplification, hormone receptor-positive (ER-positive and/or PgR-positive). Previous treatment with tamoxifen as adjuvant or hormonal therapy or anastrozole was permitted. Other requirements included a LVEF greater than 50%; adequate baseline hepatic, renal and bone marrow function; an ECOG performance status of 0 to 1; and measurable or evaluable disease 
+Keteyian1996.txt
+---
+Mattei2007Lowerriskofinfect.txt
+participants between 18-65 years of age undergoing a primary heart transplant with a cold ischaemia time < 6 h
+Mullen2005.txt
+all adult participants listed for heart transplantation between June 2001 and April 2005
+Solway2002.txt
+COPD; clinically stable; between 55 and 85 y; unaccustomed of a walking aid
+Stur1996.txt
+Exudative AMD in one eye (defined as angiographic evidence of classic or occult choroidal neovascularisation or RPE detachment) and early ARM with visual acuity 20/40 or better in other eye (early ARM: macular drusen with no angiographic evidence of exudative lesion).
+Takeda1998.txt
+--
+vonMinckwitz2009Trastuzumabbeyondp.txt
+women with pathologically confirmed, HER2-positive, locally ad- vanced or metastatic breast cancer. HER2 status was considered positive if over-expres- sion was detected in either the primary or metastatic tumour tissue by local immunohis- tochemistry (grade 3+ staining intensity) or by fluorescence in situ hybridisation. Du- ration of previous trastuzumab treatment had to be 12 weeks or greater, and the time since the end of the last trastuzumab cycle had to be less than 6 weeks. Patients could have received up to 1 chemotherapy drug for metastatic disease. Karnofsky performance status of 60% or greater; a life expectancy of greater than 3 months; and adequate hae- matologic, renal, hepatic and cardiac function sonographically confirmed by a LVEF of 50% or greater. Written informed consent
+Zimmer1985.txt
+--
